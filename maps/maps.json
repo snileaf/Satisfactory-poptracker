@@ -1,0 +1,3716 @@
+[
+    {
+        "name": "AWESOME Shop purchase 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/AWESOME Shop purchase 1.png"
+    },
+    {
+        "name": "AWESOME Shop purchase 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/AWESOME Shop purchase 10.png"
+    },
+    {
+        "name": "AWESOME Shop purchase 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/AWESOME Shop purchase 2.png"
+    },
+    {
+        "name": "AWESOME Shop purchase 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/AWESOME Shop purchase 3.png"
+    },
+    {
+        "name": "AWESOME Shop purchase 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/AWESOME Shop purchase 4.png"
+    },
+    {
+        "name": "AWESOME Shop purchase 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/AWESOME Shop purchase 5.png"
+    },
+    {
+        "name": "AWESOME Shop purchase 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/AWESOME Shop purchase 6.png"
+    },
+    {
+        "name": "AWESOME Shop purchase 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/AWESOME Shop purchase 7.png"
+    },
+    {
+        "name": "AWESOME Shop purchase 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/AWESOME Shop purchase 8.png"
+    },
+    {
+        "name": "AWESOME Shop purchase 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/AWESOME Shop purchase 9.png"
+    },
+    {
+        "name": "Alien Organisms",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Alien Organisms.png"
+    },
+    {
+        "name": "Alien Technology",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Alien Technology.png"
+    },
+    {
+        "name": "Caterium",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Caterium.png"
+    },
+    {
+        "name": "Hard drive random check 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 1.png"
+    },
+    {
+        "name": "Hard drive random check 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 10.png"
+    },
+    {
+        "name": "Hard drive random check 100",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 100.png"
+    },
+    {
+        "name": "Hard drive random check 11",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 11.png"
+    },
+    {
+        "name": "Hard drive random check 12",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 12.png"
+    },
+    {
+        "name": "Hard drive random check 13",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 13.png"
+    },
+    {
+        "name": "Hard drive random check 14",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 14.png"
+    },
+    {
+        "name": "Hard drive random check 15",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 15.png"
+    },
+    {
+        "name": "Hard drive random check 16",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 16.png"
+    },
+    {
+        "name": "Hard drive random check 17",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 17.png"
+    },
+    {
+        "name": "Hard drive random check 18",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 18.png"
+    },
+    {
+        "name": "Hard drive random check 19",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 19.png"
+    },
+    {
+        "name": "Hard drive random check 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 2.png"
+    },
+    {
+        "name": "Hard drive random check 20",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 20.png"
+    },
+    {
+        "name": "Hard drive random check 21",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 21.png"
+    },
+    {
+        "name": "Hard drive random check 22",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 22.png"
+    },
+    {
+        "name": "Hard drive random check 23",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 23.png"
+    },
+    {
+        "name": "Hard drive random check 24",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 24.png"
+    },
+    {
+        "name": "Hard drive random check 25",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 25.png"
+    },
+    {
+        "name": "Hard drive random check 26",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 26.png"
+    },
+    {
+        "name": "Hard drive random check 27",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 27.png"
+    },
+    {
+        "name": "Hard drive random check 28",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 28.png"
+    },
+    {
+        "name": "Hard drive random check 29",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 29.png"
+    },
+    {
+        "name": "Hard drive random check 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 3.png"
+    },
+    {
+        "name": "Hard drive random check 30",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 30.png"
+    },
+    {
+        "name": "Hard drive random check 31",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 31.png"
+    },
+    {
+        "name": "Hard drive random check 32",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 32.png"
+    },
+    {
+        "name": "Hard drive random check 33",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 33.png"
+    },
+    {
+        "name": "Hard drive random check 34",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 34.png"
+    },
+    {
+        "name": "Hard drive random check 35",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 35.png"
+    },
+    {
+        "name": "Hard drive random check 36",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 36.png"
+    },
+    {
+        "name": "Hard drive random check 37",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 37.png"
+    },
+    {
+        "name": "Hard drive random check 38",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 38.png"
+    },
+    {
+        "name": "Hard drive random check 39",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 39.png"
+    },
+    {
+        "name": "Hard drive random check 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 4.png"
+    },
+    {
+        "name": "Hard drive random check 40",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 40.png"
+    },
+    {
+        "name": "Hard drive random check 41",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 41.png"
+    },
+    {
+        "name": "Hard drive random check 42",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 42.png"
+    },
+    {
+        "name": "Hard drive random check 43",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 43.png"
+    },
+    {
+        "name": "Hard drive random check 44",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 44.png"
+    },
+    {
+        "name": "Hard drive random check 45",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 45.png"
+    },
+    {
+        "name": "Hard drive random check 46",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 46.png"
+    },
+    {
+        "name": "Hard drive random check 47",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 47.png"
+    },
+    {
+        "name": "Hard drive random check 48",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 48.png"
+    },
+    {
+        "name": "Hard drive random check 49",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 49.png"
+    },
+    {
+        "name": "Hard drive random check 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 5.png"
+    },
+    {
+        "name": "Hard drive random check 50",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 50.png"
+    },
+    {
+        "name": "Hard drive random check 51",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 51.png"
+    },
+    {
+        "name": "Hard drive random check 52",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 52.png"
+    },
+    {
+        "name": "Hard drive random check 53",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 53.png"
+    },
+    {
+        "name": "Hard drive random check 54",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 54.png"
+    },
+    {
+        "name": "Hard drive random check 55",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 55.png"
+    },
+    {
+        "name": "Hard drive random check 56",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 56.png"
+    },
+    {
+        "name": "Hard drive random check 57",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 57.png"
+    },
+    {
+        "name": "Hard drive random check 58",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 58.png"
+    },
+    {
+        "name": "Hard drive random check 59",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 59.png"
+    },
+    {
+        "name": "Hard drive random check 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 6.png"
+    },
+    {
+        "name": "Hard drive random check 60",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 60.png"
+    },
+    {
+        "name": "Hard drive random check 61",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 61.png"
+    },
+    {
+        "name": "Hard drive random check 62",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 62.png"
+    },
+    {
+        "name": "Hard drive random check 63",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 63.png"
+    },
+    {
+        "name": "Hard drive random check 64",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 64.png"
+    },
+    {
+        "name": "Hard drive random check 65",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 65.png"
+    },
+    {
+        "name": "Hard drive random check 66",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 66.png"
+    },
+    {
+        "name": "Hard drive random check 67",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 67.png"
+    },
+    {
+        "name": "Hard drive random check 68",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 68.png"
+    },
+    {
+        "name": "Hard drive random check 69",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 69.png"
+    },
+    {
+        "name": "Hard drive random check 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 7.png"
+    },
+    {
+        "name": "Hard drive random check 70",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 70.png"
+    },
+    {
+        "name": "Hard drive random check 71",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 71.png"
+    },
+    {
+        "name": "Hard drive random check 72",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 72.png"
+    },
+    {
+        "name": "Hard drive random check 73",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 73.png"
+    },
+    {
+        "name": "Hard drive random check 74",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 74.png"
+    },
+    {
+        "name": "Hard drive random check 75",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 75.png"
+    },
+    {
+        "name": "Hard drive random check 76",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 76.png"
+    },
+    {
+        "name": "Hard drive random check 77",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 77.png"
+    },
+    {
+        "name": "Hard drive random check 78",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 78.png"
+    },
+    {
+        "name": "Hard drive random check 79",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 79.png"
+    },
+    {
+        "name": "Hard drive random check 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 8.png"
+    },
+    {
+        "name": "Hard drive random check 80",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 80.png"
+    },
+    {
+        "name": "Hard drive random check 81",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 81.png"
+    },
+    {
+        "name": "Hard drive random check 82",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 82.png"
+    },
+    {
+        "name": "Hard drive random check 83",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 83.png"
+    },
+    {
+        "name": "Hard drive random check 84",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 84.png"
+    },
+    {
+        "name": "Hard drive random check 85",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 85.png"
+    },
+    {
+        "name": "Hard drive random check 86",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 86.png"
+    },
+    {
+        "name": "Hard drive random check 87",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 87.png"
+    },
+    {
+        "name": "Hard drive random check 88",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 88.png"
+    },
+    {
+        "name": "Hard drive random check 89",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 89.png"
+    },
+    {
+        "name": "Hard drive random check 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 9.png"
+    },
+    {
+        "name": "Hard drive random check 90",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 90.png"
+    },
+    {
+        "name": "Hard drive random check 91",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 91.png"
+    },
+    {
+        "name": "Hard drive random check 92",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 92.png"
+    },
+    {
+        "name": "Hard drive random check 93",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 93.png"
+    },
+    {
+        "name": "Hard drive random check 94",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 94.png"
+    },
+    {
+        "name": "Hard drive random check 95",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 95.png"
+    },
+    {
+        "name": "Hard drive random check 96",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 96.png"
+    },
+    {
+        "name": "Hard drive random check 97",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 97.png"
+    },
+    {
+        "name": "Hard drive random check 98",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 98.png"
+    },
+    {
+        "name": "Hard drive random check 99",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hard drive random check 99.png"
+    },
+    {
+        "name": "Hub 1-1, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-1, item 1.png"
+    },
+    {
+        "name": "Hub 1-1, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-1, item 10.png"
+    },
+    {
+        "name": "Hub 1-1, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-1, item 2.png"
+    },
+    {
+        "name": "Hub 1-1, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-1, item 3.png"
+    },
+    {
+        "name": "Hub 1-1, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-1, item 4.png"
+    },
+    {
+        "name": "Hub 1-1, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-1, item 5.png"
+    },
+    {
+        "name": "Hub 1-1, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-1, item 6.png"
+    },
+    {
+        "name": "Hub 1-1, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-1, item 7.png"
+    },
+    {
+        "name": "Hub 1-1, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-1, item 8.png"
+    },
+    {
+        "name": "Hub 1-1, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-1, item 9.png"
+    },
+    {
+        "name": "Hub 1-2, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-2, item 1.png"
+    },
+    {
+        "name": "Hub 1-2, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-2, item 10.png"
+    },
+    {
+        "name": "Hub 1-2, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-2, item 2.png"
+    },
+    {
+        "name": "Hub 1-2, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-2, item 3.png"
+    },
+    {
+        "name": "Hub 1-2, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-2, item 4.png"
+    },
+    {
+        "name": "Hub 1-2, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-2, item 5.png"
+    },
+    {
+        "name": "Hub 1-2, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-2, item 6.png"
+    },
+    {
+        "name": "Hub 1-2, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-2, item 7.png"
+    },
+    {
+        "name": "Hub 1-2, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-2, item 8.png"
+    },
+    {
+        "name": "Hub 1-2, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-2, item 9.png"
+    },
+    {
+        "name": "Hub 1-3, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-3, item 1.png"
+    },
+    {
+        "name": "Hub 1-3, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-3, item 10.png"
+    },
+    {
+        "name": "Hub 1-3, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-3, item 2.png"
+    },
+    {
+        "name": "Hub 1-3, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-3, item 3.png"
+    },
+    {
+        "name": "Hub 1-3, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-3, item 4.png"
+    },
+    {
+        "name": "Hub 1-3, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-3, item 5.png"
+    },
+    {
+        "name": "Hub 1-3, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-3, item 6.png"
+    },
+    {
+        "name": "Hub 1-3, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-3, item 7.png"
+    },
+    {
+        "name": "Hub 1-3, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-3, item 8.png"
+    },
+    {
+        "name": "Hub 1-3, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-3, item 9.png"
+    },
+    {
+        "name": "Hub 1-4, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-4, item 1.png"
+    },
+    {
+        "name": "Hub 1-4, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-4, item 10.png"
+    },
+    {
+        "name": "Hub 1-4, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-4, item 2.png"
+    },
+    {
+        "name": "Hub 1-4, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-4, item 3.png"
+    },
+    {
+        "name": "Hub 1-4, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-4, item 4.png"
+    },
+    {
+        "name": "Hub 1-4, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-4, item 5.png"
+    },
+    {
+        "name": "Hub 1-4, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-4, item 6.png"
+    },
+    {
+        "name": "Hub 1-4, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-4, item 7.png"
+    },
+    {
+        "name": "Hub 1-4, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-4, item 8.png"
+    },
+    {
+        "name": "Hub 1-4, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-4, item 9.png"
+    },
+    {
+        "name": "Hub 1-5, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-5, item 1.png"
+    },
+    {
+        "name": "Hub 1-5, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-5, item 10.png"
+    },
+    {
+        "name": "Hub 1-5, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-5, item 2.png"
+    },
+    {
+        "name": "Hub 1-5, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-5, item 3.png"
+    },
+    {
+        "name": "Hub 1-5, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-5, item 4.png"
+    },
+    {
+        "name": "Hub 1-5, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-5, item 5.png"
+    },
+    {
+        "name": "Hub 1-5, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-5, item 6.png"
+    },
+    {
+        "name": "Hub 1-5, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-5, item 7.png"
+    },
+    {
+        "name": "Hub 1-5, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-5, item 8.png"
+    },
+    {
+        "name": "Hub 1-5, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 1-5, item 9.png"
+    },
+    {
+        "name": "Hub 10-1, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-1, item 1.png"
+    },
+    {
+        "name": "Hub 10-1, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-1, item 10.png"
+    },
+    {
+        "name": "Hub 10-1, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-1, item 2.png"
+    },
+    {
+        "name": "Hub 10-1, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-1, item 3.png"
+    },
+    {
+        "name": "Hub 10-1, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-1, item 4.png"
+    },
+    {
+        "name": "Hub 10-1, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-1, item 5.png"
+    },
+    {
+        "name": "Hub 10-1, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-1, item 6.png"
+    },
+    {
+        "name": "Hub 10-1, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-1, item 7.png"
+    },
+    {
+        "name": "Hub 10-1, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-1, item 8.png"
+    },
+    {
+        "name": "Hub 10-1, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-1, item 9.png"
+    },
+    {
+        "name": "Hub 10-2, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-2, item 1.png"
+    },
+    {
+        "name": "Hub 10-2, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-2, item 10.png"
+    },
+    {
+        "name": "Hub 10-2, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-2, item 2.png"
+    },
+    {
+        "name": "Hub 10-2, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-2, item 3.png"
+    },
+    {
+        "name": "Hub 10-2, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-2, item 4.png"
+    },
+    {
+        "name": "Hub 10-2, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-2, item 5.png"
+    },
+    {
+        "name": "Hub 10-2, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-2, item 6.png"
+    },
+    {
+        "name": "Hub 10-2, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-2, item 7.png"
+    },
+    {
+        "name": "Hub 10-2, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-2, item 8.png"
+    },
+    {
+        "name": "Hub 10-2, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-2, item 9.png"
+    },
+    {
+        "name": "Hub 10-3, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-3, item 1.png"
+    },
+    {
+        "name": "Hub 10-3, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-3, item 10.png"
+    },
+    {
+        "name": "Hub 10-3, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-3, item 2.png"
+    },
+    {
+        "name": "Hub 10-3, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-3, item 3.png"
+    },
+    {
+        "name": "Hub 10-3, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-3, item 4.png"
+    },
+    {
+        "name": "Hub 10-3, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-3, item 5.png"
+    },
+    {
+        "name": "Hub 10-3, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-3, item 6.png"
+    },
+    {
+        "name": "Hub 10-3, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-3, item 7.png"
+    },
+    {
+        "name": "Hub 10-3, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-3, item 8.png"
+    },
+    {
+        "name": "Hub 10-3, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-3, item 9.png"
+    },
+    {
+        "name": "Hub 10-4, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-4, item 1.png"
+    },
+    {
+        "name": "Hub 10-4, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-4, item 10.png"
+    },
+    {
+        "name": "Hub 10-4, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-4, item 2.png"
+    },
+    {
+        "name": "Hub 10-4, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-4, item 3.png"
+    },
+    {
+        "name": "Hub 10-4, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-4, item 4.png"
+    },
+    {
+        "name": "Hub 10-4, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-4, item 5.png"
+    },
+    {
+        "name": "Hub 10-4, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-4, item 6.png"
+    },
+    {
+        "name": "Hub 10-4, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-4, item 7.png"
+    },
+    {
+        "name": "Hub 10-4, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-4, item 8.png"
+    },
+    {
+        "name": "Hub 10-4, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-4, item 9.png"
+    },
+    {
+        "name": "Hub 10-5, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-5, item 1.png"
+    },
+    {
+        "name": "Hub 10-5, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-5, item 10.png"
+    },
+    {
+        "name": "Hub 10-5, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-5, item 2.png"
+    },
+    {
+        "name": "Hub 10-5, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-5, item 3.png"
+    },
+    {
+        "name": "Hub 10-5, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-5, item 4.png"
+    },
+    {
+        "name": "Hub 10-5, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-5, item 5.png"
+    },
+    {
+        "name": "Hub 10-5, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-5, item 6.png"
+    },
+    {
+        "name": "Hub 10-5, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-5, item 7.png"
+    },
+    {
+        "name": "Hub 10-5, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-5, item 8.png"
+    },
+    {
+        "name": "Hub 10-5, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 10-5, item 9.png"
+    },
+    {
+        "name": "Hub 2-1, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-1, item 1.png"
+    },
+    {
+        "name": "Hub 2-1, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-1, item 10.png"
+    },
+    {
+        "name": "Hub 2-1, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-1, item 2.png"
+    },
+    {
+        "name": "Hub 2-1, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-1, item 3.png"
+    },
+    {
+        "name": "Hub 2-1, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-1, item 4.png"
+    },
+    {
+        "name": "Hub 2-1, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-1, item 5.png"
+    },
+    {
+        "name": "Hub 2-1, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-1, item 6.png"
+    },
+    {
+        "name": "Hub 2-1, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-1, item 7.png"
+    },
+    {
+        "name": "Hub 2-1, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-1, item 8.png"
+    },
+    {
+        "name": "Hub 2-1, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-1, item 9.png"
+    },
+    {
+        "name": "Hub 2-2, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-2, item 1.png"
+    },
+    {
+        "name": "Hub 2-2, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-2, item 10.png"
+    },
+    {
+        "name": "Hub 2-2, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-2, item 2.png"
+    },
+    {
+        "name": "Hub 2-2, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-2, item 3.png"
+    },
+    {
+        "name": "Hub 2-2, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-2, item 4.png"
+    },
+    {
+        "name": "Hub 2-2, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-2, item 5.png"
+    },
+    {
+        "name": "Hub 2-2, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-2, item 6.png"
+    },
+    {
+        "name": "Hub 2-2, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-2, item 7.png"
+    },
+    {
+        "name": "Hub 2-2, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-2, item 8.png"
+    },
+    {
+        "name": "Hub 2-2, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-2, item 9.png"
+    },
+    {
+        "name": "Hub 2-3, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-3, item 1.png"
+    },
+    {
+        "name": "Hub 2-3, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-3, item 10.png"
+    },
+    {
+        "name": "Hub 2-3, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-3, item 2.png"
+    },
+    {
+        "name": "Hub 2-3, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-3, item 3.png"
+    },
+    {
+        "name": "Hub 2-3, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-3, item 4.png"
+    },
+    {
+        "name": "Hub 2-3, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-3, item 5.png"
+    },
+    {
+        "name": "Hub 2-3, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-3, item 6.png"
+    },
+    {
+        "name": "Hub 2-3, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-3, item 7.png"
+    },
+    {
+        "name": "Hub 2-3, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-3, item 8.png"
+    },
+    {
+        "name": "Hub 2-3, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-3, item 9.png"
+    },
+    {
+        "name": "Hub 2-4, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-4, item 1.png"
+    },
+    {
+        "name": "Hub 2-4, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-4, item 10.png"
+    },
+    {
+        "name": "Hub 2-4, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-4, item 2.png"
+    },
+    {
+        "name": "Hub 2-4, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-4, item 3.png"
+    },
+    {
+        "name": "Hub 2-4, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-4, item 4.png"
+    },
+    {
+        "name": "Hub 2-4, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-4, item 5.png"
+    },
+    {
+        "name": "Hub 2-4, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-4, item 6.png"
+    },
+    {
+        "name": "Hub 2-4, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-4, item 7.png"
+    },
+    {
+        "name": "Hub 2-4, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-4, item 8.png"
+    },
+    {
+        "name": "Hub 2-4, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-4, item 9.png"
+    },
+    {
+        "name": "Hub 2-5, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-5, item 1.png"
+    },
+    {
+        "name": "Hub 2-5, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-5, item 10.png"
+    },
+    {
+        "name": "Hub 2-5, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-5, item 2.png"
+    },
+    {
+        "name": "Hub 2-5, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-5, item 3.png"
+    },
+    {
+        "name": "Hub 2-5, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-5, item 4.png"
+    },
+    {
+        "name": "Hub 2-5, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-5, item 5.png"
+    },
+    {
+        "name": "Hub 2-5, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-5, item 6.png"
+    },
+    {
+        "name": "Hub 2-5, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-5, item 7.png"
+    },
+    {
+        "name": "Hub 2-5, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-5, item 8.png"
+    },
+    {
+        "name": "Hub 2-5, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 2-5, item 9.png"
+    },
+    {
+        "name": "Hub 3-1, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-1, item 1.png"
+    },
+    {
+        "name": "Hub 3-1, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-1, item 10.png"
+    },
+    {
+        "name": "Hub 3-1, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-1, item 2.png"
+    },
+    {
+        "name": "Hub 3-1, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-1, item 3.png"
+    },
+    {
+        "name": "Hub 3-1, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-1, item 4.png"
+    },
+    {
+        "name": "Hub 3-1, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-1, item 5.png"
+    },
+    {
+        "name": "Hub 3-1, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-1, item 6.png"
+    },
+    {
+        "name": "Hub 3-1, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-1, item 7.png"
+    },
+    {
+        "name": "Hub 3-1, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-1, item 8.png"
+    },
+    {
+        "name": "Hub 3-1, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-1, item 9.png"
+    },
+    {
+        "name": "Hub 3-2, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-2, item 1.png"
+    },
+    {
+        "name": "Hub 3-2, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-2, item 10.png"
+    },
+    {
+        "name": "Hub 3-2, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-2, item 2.png"
+    },
+    {
+        "name": "Hub 3-2, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-2, item 3.png"
+    },
+    {
+        "name": "Hub 3-2, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-2, item 4.png"
+    },
+    {
+        "name": "Hub 3-2, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-2, item 5.png"
+    },
+    {
+        "name": "Hub 3-2, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-2, item 6.png"
+    },
+    {
+        "name": "Hub 3-2, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-2, item 7.png"
+    },
+    {
+        "name": "Hub 3-2, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-2, item 8.png"
+    },
+    {
+        "name": "Hub 3-2, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-2, item 9.png"
+    },
+    {
+        "name": "Hub 3-3, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-3, item 1.png"
+    },
+    {
+        "name": "Hub 3-3, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-3, item 10.png"
+    },
+    {
+        "name": "Hub 3-3, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-3, item 2.png"
+    },
+    {
+        "name": "Hub 3-3, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-3, item 3.png"
+    },
+    {
+        "name": "Hub 3-3, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-3, item 4.png"
+    },
+    {
+        "name": "Hub 3-3, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-3, item 5.png"
+    },
+    {
+        "name": "Hub 3-3, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-3, item 6.png"
+    },
+    {
+        "name": "Hub 3-3, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-3, item 7.png"
+    },
+    {
+        "name": "Hub 3-3, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-3, item 8.png"
+    },
+    {
+        "name": "Hub 3-3, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-3, item 9.png"
+    },
+    {
+        "name": "Hub 3-4, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-4, item 1.png"
+    },
+    {
+        "name": "Hub 3-4, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-4, item 10.png"
+    },
+    {
+        "name": "Hub 3-4, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-4, item 2.png"
+    },
+    {
+        "name": "Hub 3-4, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-4, item 3.png"
+    },
+    {
+        "name": "Hub 3-4, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-4, item 4.png"
+    },
+    {
+        "name": "Hub 3-4, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-4, item 5.png"
+    },
+    {
+        "name": "Hub 3-4, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-4, item 6.png"
+    },
+    {
+        "name": "Hub 3-4, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-4, item 7.png"
+    },
+    {
+        "name": "Hub 3-4, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-4, item 8.png"
+    },
+    {
+        "name": "Hub 3-4, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-4, item 9.png"
+    },
+    {
+        "name": "Hub 3-5, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-5, item 1.png"
+    },
+    {
+        "name": "Hub 3-5, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-5, item 10.png"
+    },
+    {
+        "name": "Hub 3-5, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-5, item 2.png"
+    },
+    {
+        "name": "Hub 3-5, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-5, item 3.png"
+    },
+    {
+        "name": "Hub 3-5, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-5, item 4.png"
+    },
+    {
+        "name": "Hub 3-5, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-5, item 5.png"
+    },
+    {
+        "name": "Hub 3-5, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-5, item 6.png"
+    },
+    {
+        "name": "Hub 3-5, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-5, item 7.png"
+    },
+    {
+        "name": "Hub 3-5, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-5, item 8.png"
+    },
+    {
+        "name": "Hub 3-5, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 3-5, item 9.png"
+    },
+    {
+        "name": "Hub 4-1, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-1, item 1.png"
+    },
+    {
+        "name": "Hub 4-1, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-1, item 10.png"
+    },
+    {
+        "name": "Hub 4-1, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-1, item 2.png"
+    },
+    {
+        "name": "Hub 4-1, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-1, item 3.png"
+    },
+    {
+        "name": "Hub 4-1, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-1, item 4.png"
+    },
+    {
+        "name": "Hub 4-1, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-1, item 5.png"
+    },
+    {
+        "name": "Hub 4-1, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-1, item 6.png"
+    },
+    {
+        "name": "Hub 4-1, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-1, item 7.png"
+    },
+    {
+        "name": "Hub 4-1, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-1, item 8.png"
+    },
+    {
+        "name": "Hub 4-1, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-1, item 9.png"
+    },
+    {
+        "name": "Hub 4-2, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-2, item 1.png"
+    },
+    {
+        "name": "Hub 4-2, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-2, item 10.png"
+    },
+    {
+        "name": "Hub 4-2, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-2, item 2.png"
+    },
+    {
+        "name": "Hub 4-2, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-2, item 3.png"
+    },
+    {
+        "name": "Hub 4-2, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-2, item 4.png"
+    },
+    {
+        "name": "Hub 4-2, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-2, item 5.png"
+    },
+    {
+        "name": "Hub 4-2, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-2, item 6.png"
+    },
+    {
+        "name": "Hub 4-2, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-2, item 7.png"
+    },
+    {
+        "name": "Hub 4-2, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-2, item 8.png"
+    },
+    {
+        "name": "Hub 4-2, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-2, item 9.png"
+    },
+    {
+        "name": "Hub 4-3, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-3, item 1.png"
+    },
+    {
+        "name": "Hub 4-3, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-3, item 10.png"
+    },
+    {
+        "name": "Hub 4-3, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-3, item 2.png"
+    },
+    {
+        "name": "Hub 4-3, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-3, item 3.png"
+    },
+    {
+        "name": "Hub 4-3, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-3, item 4.png"
+    },
+    {
+        "name": "Hub 4-3, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-3, item 5.png"
+    },
+    {
+        "name": "Hub 4-3, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-3, item 6.png"
+    },
+    {
+        "name": "Hub 4-3, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-3, item 7.png"
+    },
+    {
+        "name": "Hub 4-3, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-3, item 8.png"
+    },
+    {
+        "name": "Hub 4-3, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-3, item 9.png"
+    },
+    {
+        "name": "Hub 4-4, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-4, item 1.png"
+    },
+    {
+        "name": "Hub 4-4, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-4, item 10.png"
+    },
+    {
+        "name": "Hub 4-4, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-4, item 2.png"
+    },
+    {
+        "name": "Hub 4-4, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-4, item 3.png"
+    },
+    {
+        "name": "Hub 4-4, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-4, item 4.png"
+    },
+    {
+        "name": "Hub 4-4, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-4, item 5.png"
+    },
+    {
+        "name": "Hub 4-4, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-4, item 6.png"
+    },
+    {
+        "name": "Hub 4-4, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-4, item 7.png"
+    },
+    {
+        "name": "Hub 4-4, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-4, item 8.png"
+    },
+    {
+        "name": "Hub 4-4, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-4, item 9.png"
+    },
+    {
+        "name": "Hub 4-5, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-5, item 1.png"
+    },
+    {
+        "name": "Hub 4-5, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-5, item 10.png"
+    },
+    {
+        "name": "Hub 4-5, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-5, item 2.png"
+    },
+    {
+        "name": "Hub 4-5, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-5, item 3.png"
+    },
+    {
+        "name": "Hub 4-5, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-5, item 4.png"
+    },
+    {
+        "name": "Hub 4-5, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-5, item 5.png"
+    },
+    {
+        "name": "Hub 4-5, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-5, item 6.png"
+    },
+    {
+        "name": "Hub 4-5, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-5, item 7.png"
+    },
+    {
+        "name": "Hub 4-5, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-5, item 8.png"
+    },
+    {
+        "name": "Hub 4-5, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 4-5, item 9.png"
+    },
+    {
+        "name": "Hub 5-1, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-1, item 1.png"
+    },
+    {
+        "name": "Hub 5-1, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-1, item 10.png"
+    },
+    {
+        "name": "Hub 5-1, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-1, item 2.png"
+    },
+    {
+        "name": "Hub 5-1, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-1, item 3.png"
+    },
+    {
+        "name": "Hub 5-1, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-1, item 4.png"
+    },
+    {
+        "name": "Hub 5-1, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-1, item 5.png"
+    },
+    {
+        "name": "Hub 5-1, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-1, item 6.png"
+    },
+    {
+        "name": "Hub 5-1, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-1, item 7.png"
+    },
+    {
+        "name": "Hub 5-1, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-1, item 8.png"
+    },
+    {
+        "name": "Hub 5-1, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-1, item 9.png"
+    },
+    {
+        "name": "Hub 5-2, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-2, item 1.png"
+    },
+    {
+        "name": "Hub 5-2, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-2, item 10.png"
+    },
+    {
+        "name": "Hub 5-2, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-2, item 2.png"
+    },
+    {
+        "name": "Hub 5-2, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-2, item 3.png"
+    },
+    {
+        "name": "Hub 5-2, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-2, item 4.png"
+    },
+    {
+        "name": "Hub 5-2, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-2, item 5.png"
+    },
+    {
+        "name": "Hub 5-2, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-2, item 6.png"
+    },
+    {
+        "name": "Hub 5-2, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-2, item 7.png"
+    },
+    {
+        "name": "Hub 5-2, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-2, item 8.png"
+    },
+    {
+        "name": "Hub 5-2, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-2, item 9.png"
+    },
+    {
+        "name": "Hub 5-3, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-3, item 1.png"
+    },
+    {
+        "name": "Hub 5-3, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-3, item 10.png"
+    },
+    {
+        "name": "Hub 5-3, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-3, item 2.png"
+    },
+    {
+        "name": "Hub 5-3, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-3, item 3.png"
+    },
+    {
+        "name": "Hub 5-3, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-3, item 4.png"
+    },
+    {
+        "name": "Hub 5-3, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-3, item 5.png"
+    },
+    {
+        "name": "Hub 5-3, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-3, item 6.png"
+    },
+    {
+        "name": "Hub 5-3, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-3, item 7.png"
+    },
+    {
+        "name": "Hub 5-3, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-3, item 8.png"
+    },
+    {
+        "name": "Hub 5-3, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-3, item 9.png"
+    },
+    {
+        "name": "Hub 5-4, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-4, item 1.png"
+    },
+    {
+        "name": "Hub 5-4, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-4, item 10.png"
+    },
+    {
+        "name": "Hub 5-4, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-4, item 2.png"
+    },
+    {
+        "name": "Hub 5-4, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-4, item 3.png"
+    },
+    {
+        "name": "Hub 5-4, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-4, item 4.png"
+    },
+    {
+        "name": "Hub 5-4, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-4, item 5.png"
+    },
+    {
+        "name": "Hub 5-4, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-4, item 6.png"
+    },
+    {
+        "name": "Hub 5-4, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-4, item 7.png"
+    },
+    {
+        "name": "Hub 5-4, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-4, item 8.png"
+    },
+    {
+        "name": "Hub 5-4, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-4, item 9.png"
+    },
+    {
+        "name": "Hub 5-5, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-5, item 1.png"
+    },
+    {
+        "name": "Hub 5-5, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-5, item 10.png"
+    },
+    {
+        "name": "Hub 5-5, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-5, item 2.png"
+    },
+    {
+        "name": "Hub 5-5, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-5, item 3.png"
+    },
+    {
+        "name": "Hub 5-5, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-5, item 4.png"
+    },
+    {
+        "name": "Hub 5-5, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-5, item 5.png"
+    },
+    {
+        "name": "Hub 5-5, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-5, item 6.png"
+    },
+    {
+        "name": "Hub 5-5, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-5, item 7.png"
+    },
+    {
+        "name": "Hub 5-5, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-5, item 8.png"
+    },
+    {
+        "name": "Hub 5-5, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 5-5, item 9.png"
+    },
+    {
+        "name": "Hub 6-1, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-1, item 1.png"
+    },
+    {
+        "name": "Hub 6-1, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-1, item 10.png"
+    },
+    {
+        "name": "Hub 6-1, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-1, item 2.png"
+    },
+    {
+        "name": "Hub 6-1, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-1, item 3.png"
+    },
+    {
+        "name": "Hub 6-1, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-1, item 4.png"
+    },
+    {
+        "name": "Hub 6-1, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-1, item 5.png"
+    },
+    {
+        "name": "Hub 6-1, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-1, item 6.png"
+    },
+    {
+        "name": "Hub 6-1, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-1, item 7.png"
+    },
+    {
+        "name": "Hub 6-1, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-1, item 8.png"
+    },
+    {
+        "name": "Hub 6-1, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-1, item 9.png"
+    },
+    {
+        "name": "Hub 6-2, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-2, item 1.png"
+    },
+    {
+        "name": "Hub 6-2, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-2, item 10.png"
+    },
+    {
+        "name": "Hub 6-2, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-2, item 2.png"
+    },
+    {
+        "name": "Hub 6-2, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-2, item 3.png"
+    },
+    {
+        "name": "Hub 6-2, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-2, item 4.png"
+    },
+    {
+        "name": "Hub 6-2, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-2, item 5.png"
+    },
+    {
+        "name": "Hub 6-2, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-2, item 6.png"
+    },
+    {
+        "name": "Hub 6-2, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-2, item 7.png"
+    },
+    {
+        "name": "Hub 6-2, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-2, item 8.png"
+    },
+    {
+        "name": "Hub 6-2, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-2, item 9.png"
+    },
+    {
+        "name": "Hub 6-3, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-3, item 1.png"
+    },
+    {
+        "name": "Hub 6-3, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-3, item 10.png"
+    },
+    {
+        "name": "Hub 6-3, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-3, item 2.png"
+    },
+    {
+        "name": "Hub 6-3, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-3, item 3.png"
+    },
+    {
+        "name": "Hub 6-3, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-3, item 4.png"
+    },
+    {
+        "name": "Hub 6-3, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-3, item 5.png"
+    },
+    {
+        "name": "Hub 6-3, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-3, item 6.png"
+    },
+    {
+        "name": "Hub 6-3, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-3, item 7.png"
+    },
+    {
+        "name": "Hub 6-3, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-3, item 8.png"
+    },
+    {
+        "name": "Hub 6-3, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-3, item 9.png"
+    },
+    {
+        "name": "Hub 6-4, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-4, item 1.png"
+    },
+    {
+        "name": "Hub 6-4, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-4, item 10.png"
+    },
+    {
+        "name": "Hub 6-4, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-4, item 2.png"
+    },
+    {
+        "name": "Hub 6-4, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-4, item 3.png"
+    },
+    {
+        "name": "Hub 6-4, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-4, item 4.png"
+    },
+    {
+        "name": "Hub 6-4, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-4, item 5.png"
+    },
+    {
+        "name": "Hub 6-4, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-4, item 6.png"
+    },
+    {
+        "name": "Hub 6-4, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-4, item 7.png"
+    },
+    {
+        "name": "Hub 6-4, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-4, item 8.png"
+    },
+    {
+        "name": "Hub 6-4, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-4, item 9.png"
+    },
+    {
+        "name": "Hub 6-5, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-5, item 1.png"
+    },
+    {
+        "name": "Hub 6-5, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-5, item 10.png"
+    },
+    {
+        "name": "Hub 6-5, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-5, item 2.png"
+    },
+    {
+        "name": "Hub 6-5, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-5, item 3.png"
+    },
+    {
+        "name": "Hub 6-5, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-5, item 4.png"
+    },
+    {
+        "name": "Hub 6-5, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-5, item 5.png"
+    },
+    {
+        "name": "Hub 6-5, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-5, item 6.png"
+    },
+    {
+        "name": "Hub 6-5, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-5, item 7.png"
+    },
+    {
+        "name": "Hub 6-5, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-5, item 8.png"
+    },
+    {
+        "name": "Hub 6-5, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 6-5, item 9.png"
+    },
+    {
+        "name": "Hub 7-1, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-1, item 1.png"
+    },
+    {
+        "name": "Hub 7-1, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-1, item 10.png"
+    },
+    {
+        "name": "Hub 7-1, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-1, item 2.png"
+    },
+    {
+        "name": "Hub 7-1, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-1, item 3.png"
+    },
+    {
+        "name": "Hub 7-1, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-1, item 4.png"
+    },
+    {
+        "name": "Hub 7-1, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-1, item 5.png"
+    },
+    {
+        "name": "Hub 7-1, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-1, item 6.png"
+    },
+    {
+        "name": "Hub 7-1, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-1, item 7.png"
+    },
+    {
+        "name": "Hub 7-1, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-1, item 8.png"
+    },
+    {
+        "name": "Hub 7-1, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-1, item 9.png"
+    },
+    {
+        "name": "Hub 7-2, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-2, item 1.png"
+    },
+    {
+        "name": "Hub 7-2, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-2, item 10.png"
+    },
+    {
+        "name": "Hub 7-2, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-2, item 2.png"
+    },
+    {
+        "name": "Hub 7-2, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-2, item 3.png"
+    },
+    {
+        "name": "Hub 7-2, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-2, item 4.png"
+    },
+    {
+        "name": "Hub 7-2, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-2, item 5.png"
+    },
+    {
+        "name": "Hub 7-2, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-2, item 6.png"
+    },
+    {
+        "name": "Hub 7-2, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-2, item 7.png"
+    },
+    {
+        "name": "Hub 7-2, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-2, item 8.png"
+    },
+    {
+        "name": "Hub 7-2, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-2, item 9.png"
+    },
+    {
+        "name": "Hub 7-3, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-3, item 1.png"
+    },
+    {
+        "name": "Hub 7-3, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-3, item 10.png"
+    },
+    {
+        "name": "Hub 7-3, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-3, item 2.png"
+    },
+    {
+        "name": "Hub 7-3, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-3, item 3.png"
+    },
+    {
+        "name": "Hub 7-3, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-3, item 4.png"
+    },
+    {
+        "name": "Hub 7-3, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-3, item 5.png"
+    },
+    {
+        "name": "Hub 7-3, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-3, item 6.png"
+    },
+    {
+        "name": "Hub 7-3, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-3, item 7.png"
+    },
+    {
+        "name": "Hub 7-3, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-3, item 8.png"
+    },
+    {
+        "name": "Hub 7-3, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-3, item 9.png"
+    },
+    {
+        "name": "Hub 7-4, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-4, item 1.png"
+    },
+    {
+        "name": "Hub 7-4, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-4, item 10.png"
+    },
+    {
+        "name": "Hub 7-4, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-4, item 2.png"
+    },
+    {
+        "name": "Hub 7-4, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-4, item 3.png"
+    },
+    {
+        "name": "Hub 7-4, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-4, item 4.png"
+    },
+    {
+        "name": "Hub 7-4, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-4, item 5.png"
+    },
+    {
+        "name": "Hub 7-4, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-4, item 6.png"
+    },
+    {
+        "name": "Hub 7-4, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-4, item 7.png"
+    },
+    {
+        "name": "Hub 7-4, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-4, item 8.png"
+    },
+    {
+        "name": "Hub 7-4, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-4, item 9.png"
+    },
+    {
+        "name": "Hub 7-5, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-5, item 1.png"
+    },
+    {
+        "name": "Hub 7-5, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-5, item 10.png"
+    },
+    {
+        "name": "Hub 7-5, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-5, item 2.png"
+    },
+    {
+        "name": "Hub 7-5, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-5, item 3.png"
+    },
+    {
+        "name": "Hub 7-5, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-5, item 4.png"
+    },
+    {
+        "name": "Hub 7-5, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-5, item 5.png"
+    },
+    {
+        "name": "Hub 7-5, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-5, item 6.png"
+    },
+    {
+        "name": "Hub 7-5, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-5, item 7.png"
+    },
+    {
+        "name": "Hub 7-5, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-5, item 8.png"
+    },
+    {
+        "name": "Hub 7-5, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 7-5, item 9.png"
+    },
+    {
+        "name": "Hub 8-1, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-1, item 1.png"
+    },
+    {
+        "name": "Hub 8-1, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-1, item 10.png"
+    },
+    {
+        "name": "Hub 8-1, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-1, item 2.png"
+    },
+    {
+        "name": "Hub 8-1, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-1, item 3.png"
+    },
+    {
+        "name": "Hub 8-1, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-1, item 4.png"
+    },
+    {
+        "name": "Hub 8-1, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-1, item 5.png"
+    },
+    {
+        "name": "Hub 8-1, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-1, item 6.png"
+    },
+    {
+        "name": "Hub 8-1, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-1, item 7.png"
+    },
+    {
+        "name": "Hub 8-1, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-1, item 8.png"
+    },
+    {
+        "name": "Hub 8-1, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-1, item 9.png"
+    },
+    {
+        "name": "Hub 8-2, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-2, item 1.png"
+    },
+    {
+        "name": "Hub 8-2, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-2, item 10.png"
+    },
+    {
+        "name": "Hub 8-2, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-2, item 2.png"
+    },
+    {
+        "name": "Hub 8-2, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-2, item 3.png"
+    },
+    {
+        "name": "Hub 8-2, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-2, item 4.png"
+    },
+    {
+        "name": "Hub 8-2, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-2, item 5.png"
+    },
+    {
+        "name": "Hub 8-2, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-2, item 6.png"
+    },
+    {
+        "name": "Hub 8-2, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-2, item 7.png"
+    },
+    {
+        "name": "Hub 8-2, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-2, item 8.png"
+    },
+    {
+        "name": "Hub 8-2, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-2, item 9.png"
+    },
+    {
+        "name": "Hub 8-3, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-3, item 1.png"
+    },
+    {
+        "name": "Hub 8-3, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-3, item 10.png"
+    },
+    {
+        "name": "Hub 8-3, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-3, item 2.png"
+    },
+    {
+        "name": "Hub 8-3, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-3, item 3.png"
+    },
+    {
+        "name": "Hub 8-3, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-3, item 4.png"
+    },
+    {
+        "name": "Hub 8-3, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-3, item 5.png"
+    },
+    {
+        "name": "Hub 8-3, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-3, item 6.png"
+    },
+    {
+        "name": "Hub 8-3, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-3, item 7.png"
+    },
+    {
+        "name": "Hub 8-3, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-3, item 8.png"
+    },
+    {
+        "name": "Hub 8-3, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-3, item 9.png"
+    },
+    {
+        "name": "Hub 8-4, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-4, item 1.png"
+    },
+    {
+        "name": "Hub 8-4, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-4, item 10.png"
+    },
+    {
+        "name": "Hub 8-4, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-4, item 2.png"
+    },
+    {
+        "name": "Hub 8-4, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-4, item 3.png"
+    },
+    {
+        "name": "Hub 8-4, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-4, item 4.png"
+    },
+    {
+        "name": "Hub 8-4, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-4, item 5.png"
+    },
+    {
+        "name": "Hub 8-4, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-4, item 6.png"
+    },
+    {
+        "name": "Hub 8-4, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-4, item 7.png"
+    },
+    {
+        "name": "Hub 8-4, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-4, item 8.png"
+    },
+    {
+        "name": "Hub 8-4, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-4, item 9.png"
+    },
+    {
+        "name": "Hub 8-5, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-5, item 1.png"
+    },
+    {
+        "name": "Hub 8-5, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-5, item 10.png"
+    },
+    {
+        "name": "Hub 8-5, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-5, item 2.png"
+    },
+    {
+        "name": "Hub 8-5, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-5, item 3.png"
+    },
+    {
+        "name": "Hub 8-5, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-5, item 4.png"
+    },
+    {
+        "name": "Hub 8-5, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-5, item 5.png"
+    },
+    {
+        "name": "Hub 8-5, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-5, item 6.png"
+    },
+    {
+        "name": "Hub 8-5, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-5, item 7.png"
+    },
+    {
+        "name": "Hub 8-5, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-5, item 8.png"
+    },
+    {
+        "name": "Hub 8-5, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 8-5, item 9.png"
+    },
+    {
+        "name": "Hub 9-1, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-1, item 1.png"
+    },
+    {
+        "name": "Hub 9-1, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-1, item 10.png"
+    },
+    {
+        "name": "Hub 9-1, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-1, item 2.png"
+    },
+    {
+        "name": "Hub 9-1, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-1, item 3.png"
+    },
+    {
+        "name": "Hub 9-1, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-1, item 4.png"
+    },
+    {
+        "name": "Hub 9-1, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-1, item 5.png"
+    },
+    {
+        "name": "Hub 9-1, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-1, item 6.png"
+    },
+    {
+        "name": "Hub 9-1, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-1, item 7.png"
+    },
+    {
+        "name": "Hub 9-1, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-1, item 8.png"
+    },
+    {
+        "name": "Hub 9-1, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-1, item 9.png"
+    },
+    {
+        "name": "Hub 9-2, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-2, item 1.png"
+    },
+    {
+        "name": "Hub 9-2, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-2, item 10.png"
+    },
+    {
+        "name": "Hub 9-2, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-2, item 2.png"
+    },
+    {
+        "name": "Hub 9-2, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-2, item 3.png"
+    },
+    {
+        "name": "Hub 9-2, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-2, item 4.png"
+    },
+    {
+        "name": "Hub 9-2, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-2, item 5.png"
+    },
+    {
+        "name": "Hub 9-2, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-2, item 6.png"
+    },
+    {
+        "name": "Hub 9-2, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-2, item 7.png"
+    },
+    {
+        "name": "Hub 9-2, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-2, item 8.png"
+    },
+    {
+        "name": "Hub 9-2, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-2, item 9.png"
+    },
+    {
+        "name": "Hub 9-3, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-3, item 1.png"
+    },
+    {
+        "name": "Hub 9-3, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-3, item 10.png"
+    },
+    {
+        "name": "Hub 9-3, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-3, item 2.png"
+    },
+    {
+        "name": "Hub 9-3, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-3, item 3.png"
+    },
+    {
+        "name": "Hub 9-3, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-3, item 4.png"
+    },
+    {
+        "name": "Hub 9-3, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-3, item 5.png"
+    },
+    {
+        "name": "Hub 9-3, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-3, item 6.png"
+    },
+    {
+        "name": "Hub 9-3, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-3, item 7.png"
+    },
+    {
+        "name": "Hub 9-3, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-3, item 8.png"
+    },
+    {
+        "name": "Hub 9-3, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-3, item 9.png"
+    },
+    {
+        "name": "Hub 9-4, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-4, item 1.png"
+    },
+    {
+        "name": "Hub 9-4, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-4, item 10.png"
+    },
+    {
+        "name": "Hub 9-4, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-4, item 2.png"
+    },
+    {
+        "name": "Hub 9-4, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-4, item 3.png"
+    },
+    {
+        "name": "Hub 9-4, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-4, item 4.png"
+    },
+    {
+        "name": "Hub 9-4, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-4, item 5.png"
+    },
+    {
+        "name": "Hub 9-4, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-4, item 6.png"
+    },
+    {
+        "name": "Hub 9-4, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-4, item 7.png"
+    },
+    {
+        "name": "Hub 9-4, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-4, item 8.png"
+    },
+    {
+        "name": "Hub 9-4, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-4, item 9.png"
+    },
+    {
+        "name": "Hub 9-5, item 1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-5, item 1.png"
+    },
+    {
+        "name": "Hub 9-5, item 10",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-5, item 10.png"
+    },
+    {
+        "name": "Hub 9-5, item 2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-5, item 2.png"
+    },
+    {
+        "name": "Hub 9-5, item 3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-5, item 3.png"
+    },
+    {
+        "name": "Hub 9-5, item 4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-5, item 4.png"
+    },
+    {
+        "name": "Hub 9-5, item 5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-5, item 5.png"
+    },
+    {
+        "name": "Hub 9-5, item 6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-5, item 6.png"
+    },
+    {
+        "name": "Hub 9-5, item 7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-5, item 7.png"
+    },
+    {
+        "name": "Hub 9-5, item 8",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-5, item 8.png"
+    },
+    {
+        "name": "Hub 9-5, item 9",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Hub 9-5, item 9.png"
+    },
+    {
+        "name": "Mycelia",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Mycelia.png"
+    },
+    {
+        "name": "Nutrients",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Nutrients.png"
+    },
+    {
+        "name": "Power Slugs",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Power Slugs.png"
+    },
+    {
+        "name": "Quartz",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Quartz.png"
+    },
+    {
+        "name": "Sulfur",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Sulfur.png"
+    },
+    {
+        "name": "UpperBound",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/UpperBound.png"
+    }
+]
