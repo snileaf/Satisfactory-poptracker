@@ -2,7 +2,7 @@
     {
         "name": "recipe:moldedsteelpipe",
         "type": "toggle",
-        "img": "images/items/recipe:moldedsteelpipe.png",
+        "img": "images/items/recipemoldedsteelpipe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:moldedsteelpipe"
@@ -10,7 +10,7 @@
     {
         "name": "recipe:insulatedcrystaloscillator",
         "type": "toggle",
-        "img": "images/items/recipe:insulatedcrystaloscillator.png",
+        "img": "images/items/recipeinsulatedcrystaloscillator.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:insulatedcrystaloscillator"
@@ -18,7 +18,7 @@
     {
         "name": "recipe:purealuminumingot",
         "type": "toggle",
-        "img": "images/items/recipe:purealuminumingot.png",
+        "img": "images/items/recipepurealuminumingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:purealuminumingot"
@@ -26,7 +26,7 @@
     {
         "name": "recipe:packagedturbofuel",
         "type": "toggle",
-        "img": "images/items/recipe:packagedturbofuel.png",
+        "img": "images/items/recipepackagedturbofuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:packagedturbofuel"
@@ -34,7 +34,7 @@
     {
         "name": "building:pipelinewallhole",
         "type": "toggle",
-        "img": "images/items/building:pipelinewallhole.png",
+        "img": "images/items/buildingpipelinewallhole.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:pipelinewallhole"
@@ -42,7 +42,7 @@
     {
         "name": "building:dimensionaldepotuploader",
         "type": "toggle",
-        "img": "images/items/building:dimensionaldepotuploader.png",
+        "img": "images/items/buildingdimensionaldepotuploader.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:dimensionaldepotuploader"
@@ -50,7 +50,7 @@
     {
         "name": "recipe:leachedcateriumingot",
         "type": "toggle",
-        "img": "images/items/recipe:leachedcateriumingot.png",
+        "img": "images/items/recipeleachedcateriumingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:leachedcateriumingot"
@@ -58,7 +58,7 @@
     {
         "name": "building:blender",
         "type": "toggle",
-        "img": "images/items/building:blender.png",
+        "img": "images/items/buildingblender.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:blender"
@@ -70,31 +70,43 @@
         "allow_disabled": true,
         "initial_stage_idx": 0,
         "overlay_align": "right",
-        "stages": [
-            {
-                "name": "expandedtoolbelt stage1",
-                "inherit_codes": true,
-                "img": "/images/items/expandedtoolbelt.png",
-                "codes": "expandedtoolbelt, expandedtoolbelt_stage1"
-            },
-            {
-                "name": "expandedtoolbelt stage2",
-                "inherit_codes": true,
-                "img": "/images/items/expandedtoolbelt.png",
-                "codes": "expandedtoolbelt_stage2"
-            },
-            {
-                "name": "expandedtoolbelt stage3",
-                "inherit_codes": true,
-                "img": "/images/items/expandedtoolbelt.png",
-                "codes": "expandedtoolbelt_stage3"
-            }
-        ]
+      "stages": [
+        {
+          "name": "expandedtoolbelt stage1",
+          "inherit_codes": true,
+          "img": "/images/items/expandedtoolbelt1.png",
+          "codes": "expandedtoolbelt, expandedtoolbelt_stage1"
+        },
+        {
+          "name": "expandedtoolbelt stage2",
+          "inherit_codes": true,
+          "img": "/images/items/expandedtoolbelt2.png",
+          "codes": "expandedtoolbelt_stage2"
+        },
+        {
+          "name": "expandedtoolbelt stage3",
+          "inherit_codes": true,
+          "img": "/images/items/expandedtoolbelt3.png",
+          "codes": "expandedtoolbelt_stage3"
+        },
+        {
+          "name": "expandedtoolbelt stage4",
+          "inherit_codes": true,
+          "img": "/images/items/expandedtoolbelt4.png",
+          "codes": "expandedtoolbelt_stage4"
+        },
+        {
+          "name": "expandedtoolbelt stage5",
+          "inherit_codes": true,
+          "img": "/images/items/expandedtoolbelt5.png",
+          "codes": "expandedtoolbelt_stage5"
+        }
+      ]
     },
     {
         "name": "recipe:pureironingot",
         "type": "toggle",
-        "img": "images/items/recipe:pureironingot.png",
+        "img": "images/items/recipepureironingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:pureironingot"
@@ -102,7 +114,7 @@
     {
         "name": "recipe:packagedsulfuricacid",
         "type": "toggle",
-        "img": "images/items/recipe:packagedsulfuricacid.png",
+        "img": "images/items/recipepackagedsulfuricacid.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:packagedsulfuricacid"
@@ -110,7 +122,7 @@
     {
         "name": "recipe:fuel",
         "type": "toggle",
-        "img": "images/items/recipe:fuel.png",
+        "img": "images/items/recipefuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:fuel"
@@ -118,7 +130,7 @@
     {
         "name": "recipe:liquidbiofuel",
         "type": "toggle",
-        "img": "images/items/recipe:liquidbiofuel.png",
+        "img": "images/items/recipeliquidbiofuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:liquidbiofuel"
@@ -126,7 +138,7 @@
     {
         "name": "recipe:emptycanister",
         "type": "toggle",
-        "img": "images/items/recipe:emptycanister.png",
+        "img": "images/items/recipeemptycanister.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:emptycanister"
@@ -134,7 +146,7 @@
     {
         "name": "transport:tractor",
         "type": "toggle",
-        "img": "images/items/transport:tractor.png",
+        "img": "images/items/transporttractor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "transport:tractor"
@@ -142,7 +154,7 @@
     {
         "name": "recipe:modularframe",
         "type": "toggle",
-        "img": "images/items/recipe:modularframe.png",
+        "img": "images/items/recipemodularframe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:modularframe"
@@ -150,7 +162,7 @@
     {
         "name": "recipe:packagedoil",
         "type": "toggle",
-        "img": "images/items/recipe:packagedoil.png",
+        "img": "images/items/recipepackagedoil.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:packagedoil"
@@ -158,7 +170,7 @@
     {
         "name": "recipe:fineconcrete",
         "type": "toggle",
-        "img": "images/items/recipe:fineconcrete.png",
+        "img": "images/items/recipefineconcrete.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:fineconcrete"
@@ -166,7 +178,7 @@
     {
         "name": "recipe:spitterprotein",
         "type": "toggle",
-        "img": "images/items/recipe:spitterprotein.png",
+        "img": "images/items/recipespitterprotein.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:spitterprotein"
@@ -174,7 +186,7 @@
     {
         "name": "customizer:arrowpatterns",
         "type": "toggle",
-        "img": "images/items/customizer:arrowpatterns.png",
+        "img": "images/items/customizerarrowpatterns.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:arrowpatterns"
@@ -182,7 +194,7 @@
     {
         "name": "recipe:packagedliquidbiofuel",
         "type": "toggle",
-        "img": "images/items/recipe:packagedliquidbiofuel.png",
+        "img": "images/items/recipepackagedliquidbiofuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:packagedliquidbiofuel"
@@ -190,7 +202,7 @@
     {
         "name": "building:powerpolemk.3",
         "type": "toggle",
-        "img": "images/items/building:powerpolemk.3.png",
+        "img": "images/items/buildingpowerpolemk.3.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:powerpolemk.3"
@@ -198,7 +210,7 @@
     {
         "name": "recipe:compactedsteelingot",
         "type": "toggle",
-        "img": "images/items/recipe:compactedsteelingot.png",
+        "img": "images/items/recipecompactedsteelingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:compactedsteelingot"
@@ -206,7 +218,7 @@
     {
         "name": "recipe:automatedspeedwiring",
         "type": "toggle",
-        "img": "images/items/recipe:automatedspeedwiring.png",
+        "img": "images/items/recipeautomatedspeedwiring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:automatedspeedwiring"
@@ -214,7 +226,7 @@
     {
         "name": "transport:trains",
         "type": "toggle",
-        "img": "images/items/transport:trains.png",
+        "img": "images/items/transporttrains.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "transport:trains"
@@ -222,7 +234,7 @@
     {
         "name": "recipe:encasedindustrialpipe",
         "type": "toggle",
-        "img": "images/items/recipe:encasedindustrialpipe.png",
+        "img": "images/items/recipeencasedindustrialpipe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:encasedindustrialpipe"
@@ -230,7 +242,7 @@
     {
         "name": "recipe:stator",
         "type": "toggle",
-        "img": "images/items/recipe:stator.png",
+        "img": "images/items/recipestator.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:stator"
@@ -238,7 +250,7 @@
     {
         "name": "customizer:glassroofmaterial",
         "type": "toggle",
-        "img": "images/items/customizer:glassroofmaterial.png",
+        "img": "images/items/customizerglassroofmaterial.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:glassroofmaterial"
@@ -246,7 +258,7 @@
     {
         "name": "building:conveyorliftmk.3",
         "type": "toggle",
-        "img": "images/items/building:conveyorliftmk.3.png",
+        "img": "images/items/buildingconveyorliftmk.3.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyorliftmk.3"
@@ -254,7 +266,7 @@
     {
         "name": "recipe:nobelisk",
         "type": "toggle",
-        "img": "images/items/recipe:nobelisk.png",
+        "img": "images/items/recipenobelisk.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:nobelisk"
@@ -262,7 +274,7 @@
     {
         "name": "building:tiltedwalls",
         "type": "toggle",
-        "img": "images/items/building:tiltedwalls.png",
+        "img": "images/items/buildingtiltedwalls.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:tiltedwalls"
@@ -270,7 +282,7 @@
     {
         "name": "building:programmablesplitter",
         "type": "toggle",
-        "img": "images/items/building:programmablesplitter.png",
+        "img": "images/items/buildingprogrammablesplitter.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:programmablesplitter"
@@ -278,7 +290,7 @@
     {
         "name": "building:smelter",
         "type": "toggle",
-        "img": "images/items/building:smelter.png",
+        "img": "images/items/buildingsmelter.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:smelter"
@@ -286,7 +298,7 @@
     {
         "name": "recipe:uraniumfuelunit",
         "type": "toggle",
-        "img": "images/items/recipe:uraniumfuelunit.png",
+        "img": "images/items/recipeuraniumfuelunit.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:uraniumfuelunit"
@@ -294,7 +306,7 @@
     {
         "name": "recipe:packagednitrogengas",
         "type": "toggle",
-        "img": "images/items/recipe:packagednitrogengas.png",
+        "img": "images/items/recipepackagednitrogengas.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:packagednitrogengas"
@@ -302,7 +314,7 @@
     {
         "name": "building:cablebeampack",
         "type": "toggle",
-        "img": "images/items/building:cablebeampack.png",
+        "img": "images/items/buildingcablebeampack.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:cablebeampack"
@@ -310,7 +322,7 @@
     {
         "name": "recipe:powershard(1)",
         "type": "toggle",
-        "img": "images/items/recipe:powershard(1).png",
+        "img": "images/items/recipepowershard(1).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:powershard(1)"
@@ -318,7 +330,7 @@
     {
         "name": "building:spaceelevator",
         "type": "toggle",
-        "img": "images/items/building:spaceelevator.png",
+        "img": "images/items/buildingspaceelevator.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:spaceelevator"
@@ -326,7 +338,7 @@
     {
         "name": "recipe:petroleumcoke",
         "type": "toggle",
-        "img": "images/items/recipe:petroleumcoke.png",
+        "img": "images/items/recipepetroleumcoke.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:petroleumcoke"
@@ -334,7 +346,7 @@
     {
         "name": "recipe:siliconcircuitboard",
         "type": "toggle",
-        "img": "images/items/recipe:siliconcircuitboard.png",
+        "img": "images/items/recipesiliconcircuitboard.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:siliconcircuitboard"
@@ -342,7 +354,7 @@
     {
         "name": "recipe:coatedironcanister",
         "type": "toggle",
-        "img": "images/items/recipe:coatedironcanister.png",
+        "img": "images/items/recipecoatedironcanister.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:coatedironcanister"
@@ -350,7 +362,7 @@
     {
         "name": "recipe:aliendnacapsule",
         "type": "toggle",
-        "img": "images/items/recipe:aliendnacapsule.png",
+        "img": "images/items/recipealiendnacapsule.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:aliendnacapsule"
@@ -358,7 +370,7 @@
     {
         "name": "building:u-jellylandingpad",
         "type": "toggle",
-        "img": "images/items/building:u-jellylandingpad.png",
+        "img": "images/items/buildingu-jellylandingpad.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:u-jellylandingpad"
@@ -366,7 +378,7 @@
     {
         "name": "recipe:gasmask",
         "type": "toggle",
-        "img": "images/items/recipe:gasmask.png",
+        "img": "images/items/recipegasmask.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:gasmask"
@@ -374,7 +386,7 @@
     {
         "name": "building:framefoundation",
         "type": "toggle",
-        "img": "images/items/building:framefoundation.png",
+        "img": "images/items/buildingframefoundation.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:framefoundation"
@@ -382,7 +394,7 @@
     {
         "name": "recipe:residualfuel",
         "type": "toggle",
-        "img": "images/items/recipe:residualfuel.png",
+        "img": "images/items/reciperesidualfuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:residualfuel"
@@ -390,7 +402,7 @@
     {
         "name": "recipe:ironingot",
         "type": "toggle",
-        "img": "images/items/recipe:ironingot.png",
+        "img": "images/items/recipeironingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ironingot"
@@ -398,7 +410,7 @@
     {
         "name": "transport:fluidtrains",
         "type": "toggle",
-        "img": "images/items/transport:fluidtrains.png",
+        "img": "images/items/transportfluidtrains.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "transport:fluidtrains"
@@ -406,7 +418,7 @@
     {
         "name": "recipe:steelrod",
         "type": "toggle",
-        "img": "images/items/recipe:steelrod.png",
+        "img": "images/items/recipesteelrod.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:steelrod"
@@ -414,7 +426,7 @@
     {
         "name": "recipe:homingrifleammo",
         "type": "toggle",
-        "img": "images/items/recipe:homingrifleammo.png",
+        "img": "images/items/recipehomingrifleammo.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:homingrifleammo"
@@ -422,7 +434,7 @@
     {
         "name": "recipe:superpositionoscillator",
         "type": "toggle",
-        "img": "images/items/recipe:superpositionoscillator.png",
+        "img": "images/items/recipesuperpositionoscillator.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:superpositionoscillator"
@@ -430,7 +442,7 @@
     {
         "name": "recipe:turboelectricmotor",
         "type": "toggle",
-        "img": "images/items/recipe:turboelectricmotor.png",
+        "img": "images/items/recipeturboelectricmotor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:turboelectricmotor"
@@ -438,7 +450,7 @@
     {
         "name": "recipe:boltedframe",
         "type": "toggle",
-        "img": "images/items/recipe:boltedframe.png",
+        "img": "images/items/recipeboltedframe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:boltedframe"
@@ -446,7 +458,7 @@
     {
         "name": "recipe:ficsiteingot(iron)",
         "type": "toggle",
-        "img": "images/items/recipe:ficsiteingot(iron).png",
+        "img": "images/items/recipeficsiteingot(iron).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ficsiteingot(iron)"
@@ -454,7 +466,7 @@
     {
         "name": "recipe:super-statecomputer",
         "type": "toggle",
-        "img": "images/items/recipe:super-statecomputer.png",
+        "img": "images/items/recipesuper-statecomputer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:super-statecomputer"
@@ -462,7 +474,7 @@
     {
         "name": "recipe:quartzpurification",
         "type": "toggle",
-        "img": "images/items/recipe:quartzpurification.png",
+        "img": "images/items/recipequartzpurification.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:quartzpurification"
@@ -470,7 +482,7 @@
     {
         "name": "building:conveyormk.3",
         "type": "toggle",
-        "img": "images/items/building:conveyormk.3.png",
+        "img": "images/items/buildingconveyormk.3.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyormk.3"
@@ -478,7 +490,7 @@
     {
         "name": "recipe:heatexchanger",
         "type": "toggle",
-        "img": "images/items/recipe:heatexchanger.png",
+        "img": "images/items/recipeheatexchanger.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:heatexchanger"
@@ -486,7 +498,7 @@
     {
         "name": "recipe:fusedmodularframe",
         "type": "toggle",
-        "img": "images/items/recipe:fusedmodularframe.png",
+        "img": "images/items/recipefusedmodularframe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:fusedmodularframe"
@@ -494,7 +506,7 @@
     {
         "name": "building:walloutletmk.3",
         "type": "toggle",
-        "img": "images/items/building:walloutletmk.3.png",
+        "img": "images/items/buildingwalloutletmk.3.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:walloutletmk.3"
@@ -502,7 +514,7 @@
     {
         "name": "building:alienpoweraugmenter",
         "type": "toggle",
-        "img": "images/items/building:alienpoweraugmenter.png",
+        "img": "images/items/buildingalienpoweraugmenter.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:alienpoweraugmenter"
@@ -510,7 +522,7 @@
     {
         "name": "building:industrialwalkways",
         "type": "toggle",
-        "img": "images/items/building:industrialwalkways.png",
+        "img": "images/items/buildingindustrialwalkways.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:industrialwalkways"
@@ -518,7 +530,7 @@
     {
         "name": "customizer:unpaintedfinish",
         "type": "toggle",
-        "img": "images/items/customizer:unpaintedfinish.png",
+        "img": "images/items/customizerunpaintedfinish.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:unpaintedfinish"
@@ -526,7 +538,7 @@
     {
         "name": "building:invertedrampwallbundle",
         "type": "toggle",
-        "img": "images/items/building:invertedrampwallbundle.png",
+        "img": "images/items/buildinginvertedrampwallbundle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:invertedrampwallbundle"
@@ -534,7 +546,7 @@
     {
         "name": "recipe:pinkdiamonds",
         "type": "toggle",
-        "img": "images/items/recipe:pinkdiamonds.png",
+        "img": "images/items/recipepinkdiamonds.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:pinkdiamonds"
@@ -542,7 +554,7 @@
     {
         "name": "recipe:assemblydirectorsystem",
         "type": "toggle",
-        "img": "images/items/recipe:assemblydirectorsystem.png",
+        "img": "images/items/recipeassemblydirectorsystem.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:assemblydirectorsystem"
@@ -550,7 +562,7 @@
     {
         "name": "building:conveyormk.4",
         "type": "toggle",
-        "img": "images/items/building:conveyormk.4.png",
+        "img": "images/items/buildingconveyormk.4.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyormk.4"
@@ -558,7 +570,7 @@
     {
         "name": "building:streetlight",
         "type": "toggle",
-        "img": "images/items/building:streetlight.png",
+        "img": "images/items/buildingstreetlight.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:streetlight"
@@ -566,7 +578,7 @@
     {
         "name": "recipe:shatterrebar",
         "type": "toggle",
-        "img": "images/items/recipe:shatterrebar.png",
+        "img": "images/items/recipeshatterrebar.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:shatterrebar"
@@ -574,7 +586,7 @@
     {
         "name": "transport:drones",
         "type": "toggle",
-        "img": "images/items/transport:drones.png",
+        "img": "images/items/transportdrones.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "transport:drones"
@@ -582,7 +594,7 @@
     {
         "name": "recipe:emptyfluidtank",
         "type": "toggle",
-        "img": "images/items/recipe:emptyfluidtank.png",
+        "img": "images/items/recipeemptyfluidtank.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:emptyfluidtank"
@@ -590,7 +602,7 @@
     {
         "name": "building:industrialfluidbuffer",
         "type": "toggle",
-        "img": "images/items/building:industrialfluidbuffer.png",
+        "img": "images/items/buildingindustrialfluidbuffer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:industrialfluidbuffer"
@@ -598,7 +610,7 @@
     {
         "name": "recipe:heavyoilresidue",
         "type": "toggle",
-        "img": "images/items/recipe:heavyoilresidue.png",
+        "img": "images/items/recipeheavyoilresidue.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:heavyoilresidue"
@@ -606,7 +618,7 @@
     {
         "name": "building:conveyorliftmk.6",
         "type": "toggle",
-        "img": "images/items/building:conveyorliftmk.6.png",
+        "img": "images/items/buildingconveyorliftmk.6.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyorliftmk.6"
@@ -614,7 +626,7 @@
     {
         "name": "recipe:ficsiteingot(aluminum)",
         "type": "toggle",
-        "img": "images/items/recipe:ficsiteingot(aluminum).png",
+        "img": "images/items/recipeficsiteingot(aluminum).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ficsiteingot(aluminum)"
@@ -622,7 +634,7 @@
     {
         "name": "recipe:powershard(5)",
         "type": "toggle",
-        "img": "images/items/recipe:powershard(5).png",
+        "img": "images/items/recipepowershard(5).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:powershard(5)"
@@ -630,7 +642,7 @@
     {
         "name": "recipe:cateriumwire",
         "type": "toggle",
-        "img": "images/items/recipe:cateriumwire.png",
+        "img": "images/items/recipecateriumwire.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:cateriumwire"
@@ -638,7 +650,7 @@
     {
         "name": "recipe:plutoniumfuelrod",
         "type": "toggle",
-        "img": "images/items/recipe:plutoniumfuelrod.png",
+        "img": "images/items/recipeplutoniumfuelrod.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:plutoniumfuelrod"
@@ -646,7 +658,7 @@
     {
         "name": "recipe:rocketfuel",
         "type": "toggle",
-        "img": "images/items/recipe:rocketfuel.png",
+        "img": "images/items/reciperocketfuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:rocketfuel"
@@ -654,7 +666,7 @@
     {
         "name": "building:conveyorwallmount",
         "type": "toggle",
-        "img": "images/items/building:conveyorwallmount.png",
+        "img": "images/items/buildingconveyorwallmount.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyorwallmount"
@@ -662,7 +674,7 @@
     {
         "name": "building:stackablepipelinesupport",
         "type": "toggle",
-        "img": "images/items/building:stackablepipelinesupport.png",
+        "img": "images/items/buildingstackablepipelinesupport.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:stackablepipelinesupport"
@@ -674,31 +686,43 @@
         "allow_disabled": true,
         "initial_stage_idx": 0,
         "overlay_align": "right",
-        "stages": [
-            {
-                "name": "inflatedpocketdimension stage1",
-                "inherit_codes": true,
-                "img": "/images/items/inflatedpocketdimension.png",
-                "codes": "inflatedpocketdimension, inflatedpocketdimension_stage1"
-            },
-            {
-                "name": "inflatedpocketdimension stage2",
-                "inherit_codes": true,
-                "img": "/images/items/inflatedpocketdimension.png",
-                "codes": "inflatedpocketdimension_stage2"
-            },
-            {
-                "name": "inflatedpocketdimension stage3",
-                "inherit_codes": true,
-                "img": "/images/items/inflatedpocketdimension.png",
-                "codes": "inflatedpocketdimension_stage3"
-            }
-        ]
+      "stages": [
+        {
+          "name": "inflatedpocketdimension stage1",
+          "inherit_codes": true,
+          "img": "/images/items/inflatedpocketdimension1.png",
+          "codes": "inflatedpocketdimension, inflatedpocketdimension_stage1"
+        },
+        {
+          "name": "inflatedpocketdimension stage2",
+          "inherit_codes": true,
+          "img": "/images/items/inflatedpocketdimension2.png",
+          "codes": "inflatedpocketdimension_stage2"
+        },
+        {
+          "name": "inflatedpocketdimension stage3",
+          "inherit_codes": true,
+          "img": "/images/items/inflatedpocketdimension3.png",
+          "codes": "inflatedpocketdimension_stage3"
+        },
+        {
+          "name": "inflatedpocketdimension stage4",
+          "inherit_codes": true,
+          "img": "/images/items/inflatedpocketdimension4.png",
+          "codes": "inflatedpocketdimension_stage4"
+        },
+        {
+          "name": "inflatedpocketdimension stage5",
+          "inherit_codes": true,
+          "img": "/images/items/inflatedpocketdimension5.png",
+          "codes": "inflatedpocketdimension_stage5"
+        }
+      ]
     },
     {
         "name": "recipe:steelingot",
         "type": "toggle",
-        "img": "images/items/recipe:steelingot.png",
+        "img": "images/items/recipesteelingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:steelingot"
@@ -706,7 +730,7 @@
     {
         "name": "recipe:alienpowermatrix",
         "type": "toggle",
-        "img": "images/items/recipe:alienpowermatrix.png",
+        "img": "images/items/recipealienpowermatrix.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:alienpowermatrix"
@@ -714,7 +738,7 @@
     {
         "name": "recipe:fertileuranium",
         "type": "toggle",
-        "img": "images/items/recipe:fertileuranium.png",
+        "img": "images/items/recipefertileuranium.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:fertileuranium"
@@ -722,7 +746,7 @@
     {
         "name": "transport:hypertubewallhole",
         "type": "toggle",
-        "img": "images/items/transport:hypertubewallhole.png",
+        "img": "images/items/transporthypertubewallhole.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "transport:hypertubewallhole"
@@ -730,7 +754,7 @@
     {
         "name": "recipe:dilutedfuel",
         "type": "toggle",
-        "img": "images/items/recipe:dilutedfuel.png",
+        "img": "images/items/recipedilutedfuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:dilutedfuel"
@@ -738,7 +762,7 @@
     {
         "name": "recipe:turbodiamonds",
         "type": "toggle",
-        "img": "images/items/recipe:turbodiamonds.png",
+        "img": "images/items/recipeturbodiamonds.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:turbodiamonds"
@@ -746,7 +770,7 @@
     {
         "name": "building:invertedramppack",
         "type": "toggle",
-        "img": "images/items/building:invertedramppack.png",
+        "img": "images/items/buildinginvertedramppack.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:invertedramppack"
@@ -754,7 +778,7 @@
     {
         "name": "recipe:smartplating",
         "type": "toggle",
-        "img": "images/items/recipe:smartplating.png",
+        "img": "images/items/recipesmartplating.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:smartplating"
@@ -762,7 +786,7 @@
     {
         "name": "recipe:samfluctuator",
         "type": "toggle",
-        "img": "images/items/recipe:samfluctuator.png",
+        "img": "images/items/recipesamfluctuator.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:samfluctuator"
@@ -770,7 +794,7 @@
     {
         "name": "recipe:radiocontrolsystem",
         "type": "toggle",
-        "img": "images/items/recipe:radiocontrolsystem.png",
+        "img": "images/items/reciperadiocontrolsystem.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:radiocontrolsystem"
@@ -778,7 +802,7 @@
     {
         "name": "recipe:cateriumcircuitboard",
         "type": "toggle",
-        "img": "images/items/recipe:cateriumcircuitboard.png",
+        "img": "images/items/recipecateriumcircuitboard.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:cateriumcircuitboard"
@@ -786,7 +810,7 @@
     {
         "name": "recipe:electrodealuminumscrap",
         "type": "toggle",
-        "img": "images/items/recipe:electrodealuminumscrap.png",
+        "img": "images/items/recipeelectrodealuminumscrap.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:electrodealuminumscrap"
@@ -794,7 +818,7 @@
     {
         "name": "building:coalgenerator",
         "type": "toggle",
-        "img": "images/items/building:coalgenerator.png",
+        "img": "images/items/buildingcoalgenerator.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:coalgenerator"
@@ -802,7 +826,7 @@
     {
         "name": "building:conveyorliftmk.5",
         "type": "toggle",
-        "img": "images/items/building:conveyorliftmk.5.png",
+        "img": "images/items/buildingconveyorliftmk.5.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyorliftmk.5"
@@ -810,7 +834,7 @@
     {
         "name": "recipe:biocoal",
         "type": "toggle",
-        "img": "images/items/recipe:biocoal.png",
+        "img": "images/items/recipebiocoal.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:biocoal"
@@ -818,7 +842,7 @@
     {
         "name": "building:resourcewellpressurizer",
         "type": "toggle",
-        "img": "images/items/building:resourcewellpressurizer.png",
+        "img": "images/items/buildingresourcewellpressurizer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:resourcewellpressurizer"
@@ -826,7 +850,7 @@
     {
         "name": "recipe:radiocontrolunit",
         "type": "toggle",
-        "img": "images/items/recipe:radiocontrolunit.png",
+        "img": "images/items/reciperadiocontrolunit.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:radiocontrolunit"
@@ -834,7 +858,7 @@
     {
         "name": "building:pipesmk.2",
         "type": "toggle",
-        "img": "images/items/building:pipesmk.2.png",
+        "img": "images/items/buildingpipesmk.2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:pipesmk.2"
@@ -842,7 +866,7 @@
     {
         "name": "recipe:plastic",
         "type": "toggle",
-        "img": "images/items/recipe:plastic.png",
+        "img": "images/items/recipeplastic.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:plastic"
@@ -850,7 +874,7 @@
     {
         "name": "building:conveyorwallhole",
         "type": "toggle",
-        "img": "images/items/building:conveyorwallhole.png",
+        "img": "images/items/buildingconveyorwallhole.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyorwallhole"
@@ -858,7 +882,7 @@
     {
         "name": "building:floodlighttower",
         "type": "toggle",
-        "img": "images/items/building:floodlighttower.png",
+        "img": "images/items/buildingfloodlighttower.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:floodlighttower"
@@ -866,7 +890,7 @@
     {
         "name": "recipe:hogprotein",
         "type": "toggle",
-        "img": "images/items/recipe:hogprotein.png",
+        "img": "images/items/recipehogprotein.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:hogprotein"
@@ -874,7 +898,7 @@
     {
         "name": "recipe:rubber",
         "type": "toggle",
-        "img": "images/items/recipe:rubber.png",
+        "img": "images/items/reciperubber.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:rubber"
@@ -882,7 +906,7 @@
     {
         "name": "recipe:quickwirestator",
         "type": "toggle",
-        "img": "images/items/recipe:quickwirestator.png",
+        "img": "images/items/recipequickwirestator.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:quickwirestator"
@@ -890,7 +914,7 @@
     {
         "name": "recipe:heatsink",
         "type": "toggle",
-        "img": "images/items/recipe:heatsink.png",
+        "img": "images/items/recipeheatsink.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:heatsink"
@@ -898,7 +922,7 @@
     {
         "name": "recipe:leachedcopperingot",
         "type": "toggle",
-        "img": "images/items/recipe:leachedcopperingot.png",
+        "img": "images/items/recipeleachedcopperingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:leachedcopperingot"
@@ -906,7 +930,7 @@
     {
         "name": "building:roadbarrier",
         "type": "toggle",
-        "img": "images/items/building:roadbarrier.png",
+        "img": "images/items/buildingroadbarrier.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:roadbarrier"
@@ -914,7 +938,7 @@
     {
         "name": "recipe:boltedironplate",
         "type": "toggle",
-        "img": "images/items/recipe:boltedironplate.png",
+        "img": "images/items/recipeboltedironplate.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:boltedironplate"
@@ -922,7 +946,7 @@
     {
         "name": "recipe:plutoniumfuelunit",
         "type": "toggle",
-        "img": "images/items/recipe:plutoniumfuelunit.png",
+        "img": "images/items/recipeplutoniumfuelunit.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:plutoniumfuelunit"
@@ -930,7 +954,7 @@
     {
         "name": "building:billboardset",
         "type": "toggle",
-        "img": "images/items/building:billboardset.png",
+        "img": "images/items/buildingbillboardset.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:billboardset"
@@ -938,7 +962,7 @@
     {
         "name": "recipe:blackpowder",
         "type": "toggle",
-        "img": "images/items/recipe:blackpowder.png",
+        "img": "images/items/recipeblackpowder.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:blackpowder"
@@ -946,7 +970,7 @@
     {
         "name": "recipe:ocsupercomputer",
         "type": "toggle",
-        "img": "images/items/recipe:ocsupercomputer.png",
+        "img": "images/items/recipeocsupercomputer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ocsupercomputer"
@@ -954,7 +978,7 @@
     {
         "name": "customizer:transportationiconpatterns",
         "type": "toggle",
-        "img": "images/items/customizer:transportationiconpatterns.png",
+        "img": "images/items/customizertransportationiconpatterns.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:transportationiconpatterns"
@@ -962,7 +986,7 @@
     {
         "name": "recipe:rubberconcrete",
         "type": "toggle",
-        "img": "images/items/recipe:rubberconcrete.png",
+        "img": "images/items/reciperubberconcrete.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:rubberconcrete"
@@ -970,7 +994,7 @@
     {
         "name": "recipe:crystaloscillator",
         "type": "toggle",
-        "img": "images/items/recipe:crystaloscillator.png",
+        "img": "images/items/recipecrystaloscillator.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:crystaloscillator"
@@ -978,7 +1002,7 @@
     {
         "name": "recipe:nitricacid",
         "type": "toggle",
-        "img": "images/items/recipe:nitricacid.png",
+        "img": "images/items/recipenitricacid.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:nitricacid"
@@ -986,7 +1010,7 @@
     {
         "name": "recipe:encaseduraniumcell",
         "type": "toggle",
-        "img": "images/items/recipe:encaseduraniumcell.png",
+        "img": "images/items/recipeencaseduraniumcell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:encaseduraniumcell"
@@ -994,7 +1018,7 @@
     {
         "name": "building:assembler",
         "type": "toggle",
-        "img": "images/items/building:assembler.png",
+        "img": "images/items/buildingassembler.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:assembler"
@@ -1002,7 +1026,7 @@
     {
         "name": "building:powerpolemk.2",
         "type": "toggle",
-        "img": "images/items/building:powerpolemk.2.png",
+        "img": "images/items/buildingpowerpolemk.2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:powerpolemk.2"
@@ -1010,7 +1034,7 @@
     {
         "name": "recipe:turbopressuremotor",
         "type": "toggle",
-        "img": "images/items/recipe:turbopressuremotor.png",
+        "img": "images/items/recipeturbopressuremotor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:turbopressuremotor"
@@ -1018,7 +1042,7 @@
     {
         "name": "recipe:bladerunners",
         "type": "toggle",
-        "img": "images/items/recipe:bladerunners.png",
+        "img": "images/items/recipebladerunners.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:bladerunners"
@@ -1026,7 +1050,7 @@
     {
         "name": "recipe:biomass(wood)",
         "type": "toggle",
-        "img": "images/items/recipe:biomass(wood).png",
+        "img": "images/items/recipebiomass(wood).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:biomass(wood)"
@@ -1034,7 +1058,7 @@
     {
         "name": "recipe:recycledplastic",
         "type": "toggle",
-        "img": "images/items/recipe:recycledplastic.png",
+        "img": "images/items/reciperecycledplastic.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:recycledplastic"
@@ -1042,7 +1066,7 @@
     {
         "name": "recipe:darkmatterresidue",
         "type": "toggle",
-        "img": "images/items/recipe:darkmatterresidue.png",
+        "img": "images/items/recipedarkmatterresidue.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:darkmatterresidue"
@@ -1050,7 +1074,7 @@
     {
         "name": "customizer:coatedconcretefoundationmaterial",
         "type": "toggle",
-        "img": "images/items/customizer:coatedconcretefoundationmaterial.png",
+        "img": "images/items/customizercoatedconcretefoundationmaterial.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:coatedconcretefoundationmaterial"
@@ -1058,7 +1082,7 @@
     {
         "name": "recipe:iodine-infusedfilter",
         "type": "toggle",
-        "img": "images/items/recipe:iodine-infusedfilter.png",
+        "img": "images/items/recipeiodine-infusedfilter.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:iodine-infusedfilter"
@@ -1066,7 +1090,7 @@
     {
         "name": "building:jumppad",
         "type": "toggle",
-        "img": "images/items/building:jumppad.png",
+        "img": "images/items/buildingjumppad.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:jumppad"
@@ -1074,7 +1098,7 @@
     {
         "name": "recipe:nutritionalinhaler",
         "type": "toggle",
-        "img": "images/items/recipe:nutritionalinhaler.png",
+        "img": "images/items/recipenutritionalinhaler.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:nutritionalinhaler"
@@ -1082,7 +1106,7 @@
     {
         "name": "recipe:goldenfactorycart",
         "type": "toggle",
-        "img": "images/items/recipe:goldenfactorycart.png",
+        "img": "images/items/recipegoldenfactorycart.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:goldenfactorycart"
@@ -1090,7 +1114,7 @@
     {
         "name": "building:steel-framedwindows",
         "type": "toggle",
-        "img": "images/items/building:steel-framedwindows.png",
+        "img": "images/items/buildingsteel-framedwindows.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:steel-framedwindows"
@@ -1098,7 +1122,7 @@
     {
         "name": "recipe:encasedplutoniumcell",
         "type": "toggle",
-        "img": "images/items/recipe:encasedplutoniumcell.png",
+        "img": "images/items/recipeencasedplutoniumcell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:encasedplutoniumcell"
@@ -1106,7 +1130,7 @@
     {
         "name": "recipe:aluminumcasing",
         "type": "toggle",
-        "img": "images/items/recipe:aluminumcasing.png",
+        "img": "images/items/recipealuminumcasing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:aluminumcasing"
@@ -1114,7 +1138,7 @@
     {
         "name": "building:nuclearpowerplant",
         "type": "toggle",
-        "img": "images/items/building:nuclearpowerplant.png",
+        "img": "images/items/buildingnuclearpowerplant.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:nuclearpowerplant"
@@ -1122,7 +1146,7 @@
     {
         "name": "building:quarterpipespack",
         "type": "toggle",
-        "img": "images/items/building:quarterpipespack.png",
+        "img": "images/items/buildingquarterpipespack.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:quarterpipespack"
@@ -1130,7 +1154,7 @@
     {
         "name": "transport:cyberwagon",
         "type": "toggle",
-        "img": "images/items/transport:cyberwagon.png",
+        "img": "images/items/transportcyberwagon.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "transport:cyberwagon"
@@ -1138,7 +1162,7 @@
     {
         "name": "building:lookouttower",
         "type": "toggle",
-        "img": "images/items/building:lookouttower.png",
+        "img": "images/items/buildinglookouttower.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:lookouttower"
@@ -1146,7 +1170,7 @@
     {
         "name": "recipe:quartzcrystal",
         "type": "toggle",
-        "img": "images/items/recipe:quartzcrystal.png",
+        "img": "images/items/recipequartzcrystal.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:quartzcrystal"
@@ -1154,7 +1178,7 @@
     {
         "name": "customizer:steel-framedwindows",
         "type": "toggle",
-        "img": "images/items/customizer:steel-framedwindows.png",
+        "img": "images/items/customizersteel-framedwindows.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:steel-framedwindows"
@@ -1162,7 +1186,7 @@
     {
         "name": "building:wallmountedfloodlight",
         "type": "toggle",
-        "img": "images/items/building:wallmountedfloodlight.png",
+        "img": "images/items/buildingwallmountedfloodlight.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:wallmountedfloodlight"
@@ -1170,7 +1194,7 @@
     {
         "name": "recipe:heavyencasedframe",
         "type": "toggle",
-        "img": "images/items/recipe:heavyencasedframe.png",
+        "img": "images/items/recipeheavyencasedframe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:heavyencasedframe"
@@ -1178,7 +1202,7 @@
     {
         "name": "building:waterextractor",
         "type": "toggle",
-        "img": "images/items/building:waterextractor.png",
+        "img": "images/items/buildingwaterextractor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:waterextractor"
@@ -1186,7 +1210,7 @@
     {
         "name": "recipe:steelcastplate",
         "type": "toggle",
-        "img": "images/items/recipe:steelcastplate.png",
+        "img": "images/items/recipesteelcastplate.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:steelcastplate"
@@ -1194,7 +1218,7 @@
     {
         "name": "recipe:diamonds",
         "type": "toggle",
-        "img": "images/items/recipe:diamonds.png",
+        "img": "images/items/recipediamonds.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:diamonds"
@@ -1202,7 +1226,7 @@
     {
         "name": "recipe:rifleammo",
         "type": "toggle",
-        "img": "images/items/recipe:rifleammo.png",
+        "img": "images/items/reciperifleammo.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:rifleammo"
@@ -1210,7 +1234,7 @@
     {
         "name": "recipe:cable",
         "type": "toggle",
-        "img": "images/items/recipe:cable.png",
+        "img": "images/items/recipecable.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:cable"
@@ -1218,7 +1242,7 @@
     {
         "name": "recipe:nuclearpasta",
         "type": "toggle",
-        "img": "images/items/recipe:nuclearpasta.png",
+        "img": "images/items/recipenuclearpasta.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:nuclearpasta"
@@ -1226,7 +1250,7 @@
     {
         "name": "recipe:supercomputer",
         "type": "toggle",
-        "img": "images/items/recipe:supercomputer.png",
+        "img": "images/items/recipesupercomputer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:supercomputer"
@@ -1234,7 +1258,7 @@
     {
         "name": "recipe:timecrystal",
         "type": "toggle",
-        "img": "images/items/recipe:timecrystal.png",
+        "img": "images/items/recipetimecrystal.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:timecrystal"
@@ -1242,7 +1266,7 @@
     {
         "name": "building:conveyorliftmk.1",
         "type": "toggle",
-        "img": "images/items/building:conveyorliftmk.1.png",
+        "img": "images/items/buildingconveyorliftmk.1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyorliftmk.1"
@@ -1250,7 +1274,7 @@
     {
         "name": "building:lightscontrolpanel",
         "type": "toggle",
-        "img": "images/items/building:lightscontrolpanel.png",
+        "img": "images/items/buildinglightscontrolpanel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:lightscontrolpanel"
@@ -1258,7 +1282,7 @@
     {
         "name": "building:minermk.3",
         "type": "toggle",
-        "img": "images/items/building:minermk.3.png",
+        "img": "images/items/buildingminermk.3.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:minermk.3"
@@ -1266,7 +1290,7 @@
     {
         "name": "recipe:turbomotor",
         "type": "toggle",
-        "img": "images/items/recipe:turbomotor.png",
+        "img": "images/items/recipeturbomotor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:turbomotor"
@@ -1274,7 +1298,7 @@
     {
         "name": "recipe:copperalloyingot",
         "type": "toggle",
-        "img": "images/items/recipe:copperalloyingot.png",
+        "img": "images/items/recipecopperalloyingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:copperalloyingot"
@@ -1282,7 +1306,7 @@
     {
         "name": "recipe:instantplutoniumcell",
         "type": "toggle",
-        "img": "images/items/recipe:instantplutoniumcell.png",
+        "img": "images/items/recipeinstantplutoniumcell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:instantplutoniumcell"
@@ -1290,7 +1314,7 @@
     {
         "name": "building:wallsorange",
         "type": "toggle",
-        "img": "images/items/building:wallsorange.png",
+        "img": "images/items/buildingwallsorange.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:wallsorange"
@@ -1298,7 +1322,7 @@
     {
         "name": "recipe:flexibleframework",
         "type": "toggle",
-        "img": "images/items/recipe:flexibleframework.png",
+        "img": "images/items/recipeflexibleframework.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:flexibleframework"
@@ -1306,7 +1330,7 @@
     {
         "name": "recipe:stitchedironplate",
         "type": "toggle",
-        "img": "images/items/recipe:stitchedironplate.png",
+        "img": "images/items/recipestitchedironplate.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:stitchedironplate"
@@ -1314,7 +1338,7 @@
     {
         "name": "customizer:constructionfences",
         "type": "toggle",
-        "img": "images/items/customizer:constructionfences.png",
+        "img": "images/items/customizerconstructionfences.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:constructionfences"
@@ -1322,7 +1346,7 @@
     {
         "name": "building:blueprintdesigner",
         "type": "toggle",
-        "img": "images/items/building:blueprintdesigner.png",
+        "img": "images/items/buildingblueprintdesigner.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:blueprintdesigner"
@@ -1330,7 +1354,7 @@
     {
         "name": "building:pipelinefloorhole",
         "type": "toggle",
-        "img": "images/items/building:pipelinefloorhole.png",
+        "img": "images/items/buildingpipelinefloorhole.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:pipelinefloorhole"
@@ -1338,7 +1362,7 @@
     {
         "name": "building:oilextractor",
         "type": "toggle",
-        "img": "images/items/building:oilextractor.png",
+        "img": "images/items/buildingoilextractor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:oilextractor"
@@ -1346,7 +1370,7 @@
     {
         "name": "recipe:polyesterfabric",
         "type": "toggle",
-        "img": "images/items/recipe:polyesterfabric.png",
+        "img": "images/items/recipepolyesterfabric.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:polyesterfabric"
@@ -1354,7 +1378,7 @@
     {
         "name": "recipe:ironpipe",
         "type": "toggle",
-        "img": "images/items/recipe:ironpipe.png",
+        "img": "images/items/recipeironpipe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ironpipe"
@@ -1362,7 +1386,7 @@
     {
         "name": "recipe:packagedheavyoilresidue",
         "type": "toggle",
-        "img": "images/items/recipe:packagedheavyoilresidue.png",
+        "img": "images/items/recipepackagedheavyoilresidue.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:packagedheavyoilresidue"
@@ -1370,7 +1394,7 @@
     {
         "name": "recipe:smokelesspowder",
         "type": "toggle",
-        "img": "images/items/recipe:smokelesspowder.png",
+        "img": "images/items/recipesmokelesspowder.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:smokelesspowder"
@@ -1378,7 +1402,7 @@
     {
         "name": "building:framepillar",
         "type": "toggle",
-        "img": "images/items/building:framepillar.png",
+        "img": "images/items/buildingframepillar.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:framepillar"
@@ -1386,7 +1410,7 @@
     {
         "name": "recipe:xeno-basher",
         "type": "toggle",
-        "img": "images/items/recipe:xeno-basher.png",
+        "img": "images/items/recipexeno-basher.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:xeno-basher"
@@ -1394,7 +1418,7 @@
     {
         "name": "recipe:charcoal",
         "type": "toggle",
-        "img": "images/items/recipe:charcoal.png",
+        "img": "images/items/recipecharcoal.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:charcoal"
@@ -1402,7 +1426,7 @@
     {
         "name": "recipe:powershard(2)",
         "type": "toggle",
-        "img": "images/items/recipe:powershard(2).png",
+        "img": "images/items/recipepowershard(2).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:powershard(2)"
@@ -1410,7 +1434,7 @@
     {
         "name": "building:windowedwalls",
         "type": "toggle",
-        "img": "images/items/building:windowedwalls.png",
+        "img": "images/items/buildingwindowedwalls.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:windowedwalls"
@@ -1418,7 +1442,7 @@
     {
         "name": "recipe:steelcanister",
         "type": "toggle",
-        "img": "images/items/recipe:steelcanister.png",
+        "img": "images/items/recipesteelcanister.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:steelcanister"
@@ -1426,7 +1450,7 @@
     {
         "name": "recipe:screw",
         "type": "toggle",
-        "img": "images/items/recipe:screw.png",
+        "img": "images/items/recipescrew.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:screw"
@@ -1434,7 +1458,7 @@
     {
         "name": "recipe:cokesteelingot",
         "type": "toggle",
-        "img": "images/items/recipe:cokesteelingot.png",
+        "img": "images/items/recipecokesteelingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:cokesteelingot"
@@ -1442,7 +1466,7 @@
     {
         "name": "recipe:temperedcateriumingot",
         "type": "toggle",
-        "img": "images/items/recipe:temperedcateriumingot.png",
+        "img": "images/items/recipetemperedcateriumingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:temperedcateriumingot"
@@ -1450,7 +1474,7 @@
     {
         "name": "recipe:uraniumfuelrod",
         "type": "toggle",
-        "img": "images/items/recipe:uraniumfuelrod.png",
+        "img": "images/items/recipeuraniumfuelrod.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:uraniumfuelrod"
@@ -1458,7 +1482,7 @@
     {
         "name": "recipe:temperedcopperingot",
         "type": "toggle",
-        "img": "images/items/recipe:temperedcopperingot.png",
+        "img": "images/items/recipetemperedcopperingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:temperedcopperingot"
@@ -1466,7 +1490,7 @@
     {
         "name": "recipe:rifle",
         "type": "toggle",
-        "img": "images/items/recipe:rifle.png",
+        "img": "images/items/reciperifle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:rifle"
@@ -1474,7 +1498,7 @@
     {
         "name": "building:quantumencoder",
         "type": "toggle",
-        "img": "images/items/building:quantumencoder.png",
+        "img": "images/items/buildingquantumencoder.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:quantumencoder"
@@ -1482,7 +1506,7 @@
     {
         "name": "recipe:darkmattertrap",
         "type": "toggle",
-        "img": "images/items/recipe:darkmattertrap.png",
+        "img": "images/items/recipedarkmattertrap.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:darkmattertrap"
@@ -1490,7 +1514,7 @@
     {
         "name": "recipe:castscrew",
         "type": "toggle",
-        "img": "images/items/recipe:castscrew.png",
+        "img": "images/items/recipecastscrew.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:castscrew"
@@ -1506,7 +1530,7 @@
     {
         "name": "recipe:sulfuricacid",
         "type": "toggle",
-        "img": "images/items/recipe:sulfuricacid.png",
+        "img": "images/items/recipesulfuricacid.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:sulfuricacid"
@@ -1514,7 +1538,7 @@
     {
         "name": "transport:hypertubefloorhole",
         "type": "toggle",
-        "img": "images/items/transport:hypertubefloorhole.png",
+        "img": "images/items/transporthypertubefloorhole.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "transport:hypertubefloorhole"
@@ -1522,7 +1546,7 @@
     {
         "name": "recipe:alcladaluminumsheet",
         "type": "toggle",
-        "img": "images/items/recipe:alcladaluminumsheet.png",
+        "img": "images/items/recipealcladaluminumsheet.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:alcladaluminumsheet"
@@ -1530,7 +1554,7 @@
     {
         "name": "recipe:cloudydiamonds",
         "type": "toggle",
-        "img": "images/items/recipe:cloudydiamonds.png",
+        "img": "images/items/recipecloudydiamonds.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:cloudydiamonds"
@@ -1538,7 +1562,7 @@
     {
         "name": "recipe:wire",
         "type": "toggle",
-        "img": "images/items/recipe:wire.png",
+        "img": "images/items/recipewire.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:wire"
@@ -1546,7 +1570,7 @@
     {
         "name": "recipe:quickwirecable",
         "type": "toggle",
-        "img": "images/items/recipe:quickwirecable.png",
+        "img": "images/items/recipequickwirecable.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:quickwirecable"
@@ -1554,7 +1578,7 @@
     {
         "name": "recipe:coolingdevice",
         "type": "toggle",
-        "img": "images/items/recipe:coolingdevice.png",
+        "img": "images/items/recipecoolingdevice.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:coolingdevice"
@@ -1562,7 +1586,7 @@
     {
         "name": "building:structuralbeampack",
         "type": "toggle",
-        "img": "images/items/building:structuralbeampack.png",
+        "img": "images/items/buildingstructuralbeampack.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:structuralbeampack"
@@ -1570,7 +1594,7 @@
     {
         "name": "building:gates",
         "type": "toggle",
-        "img": "images/items/building:gates.png",
+        "img": "images/items/buildinggates.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:gates"
@@ -1578,7 +1602,7 @@
     {
         "name": "transport:hypertubewallsupport",
         "type": "toggle",
-        "img": "images/items/transport:hypertubewallsupport.png",
+        "img": "images/items/transporthypertubewallsupport.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "transport:hypertubewallsupport"
@@ -1586,7 +1610,7 @@
     {
         "name": "building:storagecontainer",
         "type": "toggle",
-        "img": "images/items/building:storagecontainer.png",
+        "img": "images/items/buildingstoragecontainer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:storagecontainer"
@@ -1594,7 +1618,7 @@
     {
         "name": "transport:factorycart",
         "type": "toggle",
-        "img": "images/items/transport:factorycart.png",
+        "img": "images/items/transportfactorycart.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "transport:factorycart"
@@ -1602,7 +1626,7 @@
     {
         "name": "recipe:pressureconversioncube",
         "type": "toggle",
-        "img": "images/items/recipe:pressureconversioncube.png",
+        "img": "images/items/recipepressureconversioncube.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:pressureconversioncube"
@@ -1610,7 +1634,7 @@
     {
         "name": "recipe:fusedquartzcrystal",
         "type": "toggle",
-        "img": "images/items/recipe:fusedquartzcrystal.png",
+        "img": "images/items/recipefusedquartzcrystal.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:fusedquartzcrystal"
@@ -1618,7 +1642,7 @@
     {
         "name": "recipe:computer",
         "type": "toggle",
-        "img": "images/items/recipe:computer.png",
+        "img": "images/items/recipecomputer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:computer"
@@ -1626,7 +1650,7 @@
     {
         "name": "recipe:clusternobelisk",
         "type": "toggle",
-        "img": "images/items/recipe:clusternobelisk.png",
+        "img": "images/items/recipeclusternobelisk.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:clusternobelisk"
@@ -1634,7 +1658,7 @@
     {
         "name": "recipe:ironwire",
         "type": "toggle",
-        "img": "images/items/recipe:ironwire.png",
+        "img": "images/items/recipeironwire.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ironwire"
@@ -1642,7 +1666,7 @@
     {
         "name": "recipe:explosiverebar",
         "type": "toggle",
-        "img": "images/items/recipe:explosiverebar.png",
+        "img": "images/items/recipeexplosiverebar.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:explosiverebar"
@@ -1650,7 +1674,7 @@
     {
         "name": "recipe:zipline",
         "type": "toggle",
-        "img": "images/items/recipe:zipline.png",
+        "img": "images/items/recipezipline.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:zipline"
@@ -1658,7 +1682,7 @@
     {
         "name": "recipe:moldedbeam",
         "type": "toggle",
-        "img": "images/items/recipe:moldedbeam.png",
+        "img": "images/items/recipemoldedbeam.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:moldedbeam"
@@ -1666,7 +1690,7 @@
     {
         "name": "recipe:turboheavyfuel",
         "type": "toggle",
-        "img": "images/items/recipe:turboheavyfuel.png",
+        "img": "images/items/recipeturboheavyfuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:turboheavyfuel"
@@ -1674,7 +1698,7 @@
     {
         "name": "recipe:cheapsilica",
         "type": "toggle",
-        "img": "images/items/recipe:cheapsilica.png",
+        "img": "images/items/recipecheapsilica.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:cheapsilica"
@@ -1682,7 +1706,7 @@
     {
         "name": "recipe:biomass(leaves)",
         "type": "toggle",
-        "img": "images/items/recipe:biomass(leaves).png",
+        "img": "images/items/recipebiomass(leaves).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:biomass(leaves)"
@@ -1690,7 +1714,7 @@
     {
         "name": "recipe:biomass(alienprotein)",
         "type": "toggle",
-        "img": "images/items/recipe:biomass(alienprotein).png",
+        "img": "images/items/recipebiomass(alienprotein).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:biomass(alienprotein)"
@@ -1698,7 +1722,7 @@
     {
         "name": "building:prioritypowerswitch",
         "type": "toggle",
-        "img": "images/items/building:prioritypowerswitch.png",
+        "img": "images/items/buildingprioritypowerswitch.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:prioritypowerswitch"
@@ -1706,7 +1730,7 @@
     {
         "name": "recipe:turbofuel",
         "type": "toggle",
-        "img": "images/items/recipe:turbofuel.png",
+        "img": "images/items/recipeturbofuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:turbofuel"
@@ -1714,7 +1738,7 @@
     {
         "name": "recipe:silica",
         "type": "toggle",
-        "img": "images/items/recipe:silica.png",
+        "img": "images/items/recipesilica.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:silica"
@@ -1722,7 +1746,7 @@
     {
         "name": "building:foundation",
         "type": "toggle",
-        "img": "images/items/building:foundation.png",
+        "img": "images/items/buildingfoundation.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:foundation"
@@ -1730,7 +1754,7 @@
     {
         "name": "building:displaysignbundle",
         "type": "toggle",
-        "img": "images/items/building:displaysignbundle.png",
+        "img": "images/items/buildingdisplaysignbundle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:displaysignbundle"
@@ -1738,7 +1762,7 @@
     {
         "name": "building:ceilinglight",
         "type": "toggle",
-        "img": "images/items/building:ceilinglight.png",
+        "img": "images/items/buildingceilinglight.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:ceilinglight"
@@ -1746,7 +1770,7 @@
     {
         "name": "customizer:asphaltfoundationmaterial",
         "type": "toggle",
-        "img": "images/items/customizer:asphaltfoundationmaterial.png",
+        "img": "images/items/customizerasphaltfoundationmaterial.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:asphaltfoundationmaterial"
@@ -1754,7 +1778,7 @@
     {
         "name": "building:conveyormk.2",
         "type": "toggle",
-        "img": "images/items/building:conveyormk.2.png",
+        "img": "images/items/buildingconveyormk.2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyormk.2"
@@ -1762,7 +1786,7 @@
     {
         "name": "recipe:objectscanner",
         "type": "toggle",
-        "img": "images/items/recipe:objectscanner.png",
+        "img": "images/items/recipeobjectscanner.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:objectscanner"
@@ -1770,7 +1794,7 @@
     {
         "name": "recipe:coatedcable",
         "type": "toggle",
-        "img": "images/items/recipe:coatedcable.png",
+        "img": "images/items/recipecoatedcable.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:coatedcable"
@@ -1778,7 +1802,7 @@
     {
         "name": "recipe:concrete",
         "type": "toggle",
-        "img": "images/items/recipe:concrete.png",
+        "img": "images/items/recipeconcrete.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:concrete"
@@ -1786,7 +1810,7 @@
     {
         "name": "transport:truck",
         "type": "toggle",
-        "img": "images/items/transport:truck.png",
+        "img": "images/items/transporttruck.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "transport:truck"
@@ -1794,7 +1818,7 @@
     {
         "name": "building:powertower",
         "type": "toggle",
-        "img": "images/items/building:powertower.png",
+        "img": "images/items/buildingpowertower.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:powertower"
@@ -1802,7 +1826,7 @@
     {
         "name": "building:awesomeshop",
         "type": "toggle",
-        "img": "images/items/building:awesomeshop.png",
+        "img": "images/items/buildingawesomeshop.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:awesomeshop"
@@ -1810,7 +1834,7 @@
     {
         "name": "recipe:ficsoniumfuelrod",
         "type": "toggle",
-        "img": "images/items/recipe:ficsoniumfuelrod.png",
+        "img": "images/items/recipeficsoniumfuelrod.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ficsoniumfuelrod"
@@ -1818,7 +1842,7 @@
     {
         "name": "recipe:steelrotor",
         "type": "toggle",
-        "img": "images/items/recipe:steelrotor.png",
+        "img": "images/items/recipesteelrotor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:steelrotor"
@@ -1826,7 +1850,7 @@
     {
         "name": "recipe:hazmatsuit",
         "type": "toggle",
-        "img": "images/items/recipe:hazmatsuit.png",
+        "img": "images/items/recipehazmatsuit.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:hazmatsuit"
@@ -1834,7 +1858,7 @@
     {
         "name": "recipe:thermalpropulsionrocket",
         "type": "toggle",
-        "img": "images/items/recipe:thermalpropulsionrocket.png",
+        "img": "images/items/recipethermalpropulsionrocket.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:thermalpropulsionrocket"
@@ -1842,7 +1866,7 @@
     {
         "name": "building:doorwalls",
         "type": "toggle",
-        "img": "images/items/building:doorwalls.png",
+        "img": "images/items/buildingdoorwalls.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:doorwalls"
@@ -1850,7 +1874,7 @@
     {
         "name": "recipe:purecateriumingot",
         "type": "toggle",
-        "img": "images/items/recipe:purecateriumingot.png",
+        "img": "images/items/recipepurecateriumingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:purecateriumingot"
@@ -1858,7 +1882,7 @@
     {
         "name": "building:geothermalgenerator",
         "type": "toggle",
-        "img": "images/items/building:geothermalgenerator.png",
+        "img": "images/items/buildinggeothermalgenerator.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:geothermalgenerator"
@@ -1866,7 +1890,7 @@
     {
         "name": "recipe:electricmotor",
         "type": "toggle",
-        "img": "images/items/recipe:electricmotor.png",
+        "img": "images/items/recipeelectricmotor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:electricmotor"
@@ -1874,7 +1898,7 @@
     {
         "name": "building:wallpipelinesupport",
         "type": "toggle",
-        "img": "images/items/building:wallpipelinesupport.png",
+        "img": "images/items/buildingwallpipelinesupport.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:wallpipelinesupport"
@@ -1882,7 +1906,7 @@
     {
         "name": "customizer:copperpaintfinish",
         "type": "toggle",
-        "img": "images/items/customizer:copperpaintfinish.png",
+        "img": "images/items/customizercopperpaintfinish.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:copperpaintfinish"
@@ -1890,7 +1914,7 @@
     {
         "name": "recipe:therapeuticinhaler",
         "type": "toggle",
-        "img": "images/items/recipe:therapeuticinhaler.png",
+        "img": "images/items/recipetherapeuticinhaler.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:therapeuticinhaler"
@@ -1898,7 +1922,7 @@
     {
         "name": "recipe:nitrorocketfuel",
         "type": "toggle",
-        "img": "images/items/recipe:nitrorocketfuel.png",
+        "img": "images/items/recipenitrorocketfuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:nitrorocketfuel"
@@ -1906,7 +1930,7 @@
     {
         "name": "building:conveyormk.1",
         "type": "toggle",
-        "img": "images/items/building:conveyormk.1.png",
+        "img": "images/items/buildingconveyormk.1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyormk.1"
@@ -1914,7 +1938,7 @@
     {
         "name": "recipe:rotor",
         "type": "toggle",
-        "img": "images/items/recipe:rotor.png",
+        "img": "images/items/reciperotor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:rotor"
@@ -1922,7 +1946,7 @@
     {
         "name": "building:biomassburner",
         "type": "toggle",
-        "img": "images/items/building:biomassburner.png",
+        "img": "images/items/buildingbiomassburner.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:biomassburner"
@@ -1930,7 +1954,7 @@
     {
         "name": "transport:hypertube",
         "type": "toggle",
-        "img": "images/items/transport:hypertube.png",
+        "img": "images/items/transporthypertube.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "transport:hypertube"
@@ -1938,7 +1962,7 @@
     {
         "name": "building:moderncatwalks",
         "type": "toggle",
-        "img": "images/items/building:moderncatwalks.png",
+        "img": "images/items/buildingmoderncatwalks.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:moderncatwalks"
@@ -1950,31 +1974,79 @@
         "allow_disabled": true,
         "initial_stage_idx": 0,
         "overlay_align": "right",
-        "stages": [
-            {
-                "name": "smallinflatedpocketdimension stage1",
-                "inherit_codes": true,
-                "img": "/images/items/smallinflatedpocketdimension.png",
-                "codes": "smallinflatedpocketdimension, smallinflatedpocketdimension_stage1"
-            },
-            {
-                "name": "smallinflatedpocketdimension stage2",
-                "inherit_codes": true,
-                "img": "/images/items/smallinflatedpocketdimension.png",
-                "codes": "smallinflatedpocketdimension_stage2"
-            },
-            {
-                "name": "smallinflatedpocketdimension stage3",
-                "inherit_codes": true,
-                "img": "/images/items/smallinflatedpocketdimension.png",
-                "codes": "smallinflatedpocketdimension_stage3"
-            }
-        ]
+      "stages": [
+        {
+          "name": "smallinflatedpocketdimension stage1",
+          "inherit_codes": true,
+          "img": "/images/items/smallinflatedpocketdimension1.png",
+          "codes": "smallinflatedpocketdimension, smallinflatedpocketdimension_stage1"
+        },
+        {
+          "name": "smallinflatedpocketdimension stage2",
+          "inherit_codes": true,
+          "img": "/images/items/smallinflatedpocketdimension2.png",
+          "codes": "smallinflatedpocketdimension_stage2"
+        },
+        {
+          "name": "smallinflatedpocketdimension stage3",
+          "inherit_codes": true,
+          "img": "/images/items/smallinflatedpocketdimension3.png",
+          "codes": "smallinflatedpocketdimension_stage3"
+        },
+        {
+          "name": "smallinflatedpocketdimension stage4",
+          "inherit_codes": true,
+          "img": "/images/items/smallinflatedpocketdimension4.png",
+          "codes": "smallinflatedpocketdimension_stage4"
+        },
+        {
+          "name": "smallinflatedpocketdimension stage5",
+          "inherit_codes": true,
+          "img": "/images/items/smallinflatedpocketdimension5.png",
+          "codes": "smallinflatedpocketdimension_stage5"
+        },
+        {
+          "name": "smallinflatedpocketdimension stage6",
+          "inherit_codes": true,
+          "img": "/images/items/smallinflatedpocketdimension6.png",
+          "codes": "smallinflatedpocketdimension_stage6"
+        },
+        {
+          "name": "smallinflatedpocketdimension stage7",
+          "inherit_codes": true,
+          "img": "/images/items/smallinflatedpocketdimension7.png",
+          "codes": "smallinflatedpocketdimension_stage7"
+        },
+        {
+          "name": "smallinflatedpocketdimension stage8",
+          "inherit_codes": true,
+          "img": "/images/items/smallinflatedpocketdimension8.png",
+          "codes": "smallinflatedpocketdimension_stage8"
+        },
+        {
+          "name": "smallinflatedpocketdimension stage9",
+          "inherit_codes": true,
+          "img": "/images/items/smallinflatedpocketdimension9.png",
+          "codes": "smallinflatedpocketdimension_stage9"
+        },
+        {
+          "name": "smallinflatedpocketdimension stage10",
+          "inherit_codes": true,
+          "img": "/images/items/smallinflatedpocketdimension10.png",
+          "codes": "smallinflatedpocketdimension_stage10"
+        },
+        {
+          "name": "smallinflatedpocketdimension stage11",
+          "inherit_codes": true,
+          "img": "/images/items/smallinflatedpocketdimension11.png",
+          "codes": "smallinflatedpocketdimension_stage11"
+        }
+      ]
     },
     {
         "name": "recipe:wetconcrete",
         "type": "toggle",
-        "img": "images/items/recipe:wetconcrete.png",
+        "img": "images/items/recipewetconcrete.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:wetconcrete"
@@ -1982,7 +2054,7 @@
     {
         "name": "recipe:packagedionizedfuel",
         "type": "toggle",
-        "img": "images/items/recipe:packagedionizedfuel.png",
+        "img": "images/items/recipepackagedionizedfuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:packagedionizedfuel"
@@ -1990,7 +2062,7 @@
     {
         "name": "recipe:heavyflexibleframe",
         "type": "toggle",
-        "img": "images/items/recipe:heavyflexibleframe.png",
+        "img": "images/items/recipeheavyflexibleframe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:heavyflexibleframe"
@@ -1998,7 +2070,7 @@
     {
         "name": "recipe:plasticsmartplating",
         "type": "toggle",
-        "img": "images/items/recipe:plasticsmartplating.png",
+        "img": "images/items/recipeplasticsmartplating.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:plasticsmartplating"
@@ -2006,7 +2078,7 @@
     {
         "name": "building:ventilationbundle",
         "type": "toggle",
-        "img": "images/items/building:ventilationbundle.png",
+        "img": "images/items/buildingventilationbundle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:ventilationbundle"
@@ -2014,7 +2086,7 @@
     {
         "name": "recipe:ionizedfuel",
         "type": "toggle",
-        "img": "images/items/recipe:ionizedfuel.png",
+        "img": "images/items/recipeionizedfuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ionizedfuel"
@@ -2022,7 +2094,7 @@
     {
         "name": "building:labelsignbundle",
         "type": "toggle",
-        "img": "images/items/building:labelsignbundle.png",
+        "img": "images/items/buildinglabelsignbundle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:labelsignbundle"
@@ -2030,7 +2102,7 @@
     {
         "name": "recipe:ballisticwarpdrive",
         "type": "toggle",
-        "img": "images/items/recipe:ballisticwarpdrive.png",
+        "img": "images/items/recipeballisticwarpdrive.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ballisticwarpdrive"
@@ -2038,7 +2110,7 @@
     {
         "name": "building:prioritymerger",
         "type": "toggle",
-        "img": "images/items/building:prioritymerger.png",
+        "img": "images/items/buildingprioritymerger.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:prioritymerger"
@@ -2046,7 +2118,7 @@
     {
         "name": "building:fluidbuffer",
         "type": "toggle",
-        "img": "images/items/building:fluidbuffer.png",
+        "img": "images/items/buildingfluidbuffer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:fluidbuffer"
@@ -2054,7 +2126,7 @@
     {
         "name": "recipe:darkmattercrystallization",
         "type": "toggle",
-        "img": "images/items/recipe:darkmattercrystallization.png",
+        "img": "images/items/recipedarkmattercrystallization.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:darkmattercrystallization"
@@ -2062,7 +2134,7 @@
     {
         "name": "recipe:cateriumcomputer",
         "type": "toggle",
-        "img": "images/items/recipe:cateriumcomputer.png",
+        "img": "images/items/recipecateriumcomputer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:cateriumcomputer"
@@ -2070,7 +2142,7 @@
     {
         "name": "recipe:aluminumscrap",
         "type": "toggle",
-        "img": "images/items/recipe:aluminumscrap.png",
+        "img": "images/items/recipealuminumscrap.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:aluminumscrap"
@@ -2078,7 +2150,7 @@
     {
         "name": "building:conveyorceilingmount",
         "type": "toggle",
-        "img": "images/items/building:conveyorceilingmount.png",
+        "img": "images/items/buildingconveyorceilingmount.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyorceilingmount"
@@ -2086,7 +2158,7 @@
     {
         "name": "building:rampwallbundle",
         "type": "toggle",
-        "img": "images/items/building:rampwallbundle.png",
+        "img": "images/items/buildingrampwallbundle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:rampwallbundle"
@@ -2094,7 +2166,7 @@
     {
         "name": "recipe:steamedcoppersheet",
         "type": "toggle",
-        "img": "images/items/recipe:steamedcoppersheet.png",
+        "img": "images/items/recipesteamedcoppersheet.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:steamedcoppersheet"
@@ -2102,7 +2174,7 @@
     {
         "name": "recipe:basicironingot",
         "type": "toggle",
-        "img": "images/items/recipe:basicironingot.png",
+        "img": "images/items/recipebasicironingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:basicironingot"
@@ -2110,7 +2182,7 @@
     {
         "name": "recipe:magneticfieldgenerator",
         "type": "toggle",
-        "img": "images/items/recipe:magneticfieldgenerator.png",
+        "img": "images/items/recipemagneticfieldgenerator.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:magneticfieldgenerator"
@@ -2118,7 +2190,7 @@
     {
         "name": "recipe:packagedfuel",
         "type": "toggle",
-        "img": "images/items/recipe:packagedfuel.png",
+        "img": "images/items/recipepackagedfuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:packagedfuel"
@@ -2126,7 +2198,7 @@
     {
         "name": "recipe:turboblendfuel",
         "type": "toggle",
-        "img": "images/items/recipe:turboblendfuel.png",
+        "img": "images/items/recipeturboblendfuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:turboblendfuel"
@@ -2134,7 +2206,7 @@
     {
         "name": "recipe:singularitycell",
         "type": "toggle",
-        "img": "images/items/recipe:singularitycell.png",
+        "img": "images/items/recipesingularitycell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:singularitycell"
@@ -2142,7 +2214,7 @@
     {
         "name": "building:fuelgenerator",
         "type": "toggle",
-        "img": "images/items/building:fuelgenerator.png",
+        "img": "images/items/buildingfuelgenerator.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:fuelgenerator"
@@ -2150,7 +2222,7 @@
     {
         "name": "recipe:versatileframework",
         "type": "toggle",
-        "img": "images/items/recipe:versatileframework.png",
+        "img": "images/items/recipeversatileframework.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:versatileframework"
@@ -2158,7 +2230,7 @@
     {
         "name": "recipe:leachedironingot",
         "type": "toggle",
-        "img": "images/items/recipe:leachedironingot.png",
+        "img": "images/items/recipeleachedironingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:leachedironingot"
@@ -2166,7 +2238,7 @@
     {
         "name": "building:powerswitch",
         "type": "toggle",
-        "img": "images/items/building:powerswitch.png",
+        "img": "images/items/buildingpowerswitch.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:powerswitch"
@@ -2174,7 +2246,7 @@
     {
         "name": "recipe:fusedquickwire",
         "type": "toggle",
-        "img": "images/items/recipe:fusedquickwire.png",
+        "img": "images/items/recipefusedquickwire.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:fusedquickwire"
@@ -2182,7 +2254,7 @@
     {
         "name": "recipe:plasticailimiter",
         "type": "toggle",
-        "img": "images/items/recipe:plasticailimiter.png",
+        "img": "images/items/recipeplasticailimiter.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:plasticailimiter"
@@ -2190,7 +2262,7 @@
     {
         "name": "recipe:automatedminer",
         "type": "toggle",
-        "img": "images/items/recipe:automatedminer.png",
+        "img": "images/items/recipeautomatedminer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:automatedminer"
@@ -2198,7 +2270,7 @@
     {
         "name": "building:halffoundation",
         "type": "toggle",
-        "img": "images/items/building:halffoundation.png",
+        "img": "images/items/buildinghalffoundation.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:halffoundation"
@@ -2206,7 +2278,7 @@
     {
         "name": "building:invertedcornerramppack",
         "type": "toggle",
-        "img": "images/items/building:invertedcornerramppack.png",
+        "img": "images/items/buildinginvertedcornerramppack.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:invertedcornerramppack"
@@ -2214,7 +2286,7 @@
     {
         "name": "building:basicshelfunit",
         "type": "toggle",
-        "img": "images/items/building:basicshelfunit.png",
+        "img": "images/items/buildingbasicshelfunit.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:basicshelfunit"
@@ -2222,7 +2294,7 @@
     {
         "name": "recipe:ficsitetrigon",
         "type": "toggle",
-        "img": "images/items/recipe:ficsitetrigon.png",
+        "img": "images/items/recipeficsitetrigon.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ficsitetrigon"
@@ -2230,7 +2302,7 @@
     {
         "name": "building:conveyorsplitter",
         "type": "toggle",
-        "img": "images/items/building:conveyorsplitter.png",
+        "img": "images/items/buildingconveyorsplitter.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyorsplitter"
@@ -2238,7 +2310,7 @@
     {
         "name": "recipe:packagedwater",
         "type": "toggle",
-        "img": "images/items/recipe:packagedwater.png",
+        "img": "images/items/recipepackagedwater.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:packagedwater"
@@ -2246,7 +2318,7 @@
     {
         "name": "recipe:jetpack",
         "type": "toggle",
-        "img": "images/items/recipe:jetpack.png",
+        "img": "images/items/recipejetpack.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:jetpack"
@@ -2254,7 +2326,7 @@
     {
         "name": "recipe:xeno-zapper",
         "type": "toggle",
-        "img": "images/items/recipe:xeno-zapper.png",
+        "img": "images/items/recipexeno-zapper.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:xeno-zapper"
@@ -2262,7 +2334,7 @@
     {
         "name": "building:cleanpipelinemk.2",
         "type": "toggle",
-        "img": "images/items/building:cleanpipelinemk.2.png",
+        "img": "images/items/buildingcleanpipelinemk.2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:cleanpipelinemk.2"
@@ -2270,7 +2342,7 @@
     {
         "name": "recipe:stunrebar",
         "type": "toggle",
-        "img": "images/items/recipe:stunrebar.png",
+        "img": "images/items/recipestunrebar.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:stunrebar"
@@ -2278,7 +2350,7 @@
     {
         "name": "recipe:aiexpansionserver",
         "type": "toggle",
-        "img": "images/items/recipe:aiexpansionserver.png",
+        "img": "images/items/recipeaiexpansionserver.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:aiexpansionserver"
@@ -2286,7 +2358,7 @@
     {
         "name": "building:mam",
         "type": "toggle",
-        "img": "images/items/building:mam.png",
+        "img": "images/items/buildingmam.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:mam"
@@ -2294,7 +2366,7 @@
     {
         "name": "recipe:hatcherprotein",
         "type": "toggle",
-        "img": "images/items/recipe:hatcherprotein.png",
+        "img": "images/items/recipehatcherprotein.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:hatcherprotein"
@@ -2302,7 +2374,7 @@
     {
         "name": "recipe:packagedaluminasolution",
         "type": "toggle",
-        "img": "images/items/recipe:packagedaluminasolution.png",
+        "img": "images/items/recipepackagedaluminasolution.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:packagedaluminasolution"
@@ -2310,7 +2382,7 @@
     {
         "name": "recipe:fusedwire",
         "type": "toggle",
-        "img": "images/items/recipe:fusedwire.png",
+        "img": "images/items/recipefusedwire.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:fusedwire"
@@ -2318,7 +2390,7 @@
     {
         "name": "recipe:adheredironplate",
         "type": "toggle",
-        "img": "images/items/recipe:adheredironplate.png",
+        "img": "images/items/recipeadheredironplate.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:adheredironplate"
@@ -2326,7 +2398,7 @@
     {
         "name": "customizer:factoryzonepatterns",
         "type": "toggle",
-        "img": "images/items/customizer:factoryzonepatterns.png",
+        "img": "images/items/customizerfactoryzonepatterns.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:factoryzonepatterns"
@@ -2334,7 +2406,7 @@
     {
         "name": "recipe:fabric",
         "type": "toggle",
-        "img": "images/items/recipe:fabric.png",
+        "img": "images/items/recipefabric.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:fabric"
@@ -2342,7 +2414,7 @@
     {
         "name": "recipe:automatedwiring",
         "type": "toggle",
-        "img": "images/items/recipe:automatedwiring.png",
+        "img": "images/items/recipeautomatedwiring.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:automatedwiring"
@@ -2350,7 +2422,7 @@
     {
         "name": "recipe:radioconnectionunit",
         "type": "toggle",
-        "img": "images/items/recipe:radioconnectionunit.png",
+        "img": "images/items/reciperadioconnectionunit.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:radioconnectionunit"
@@ -2358,7 +2430,7 @@
     {
         "name": "recipe:sloppyalumina",
         "type": "toggle",
-        "img": "images/items/recipe:sloppyalumina.png",
+        "img": "images/items/recipesloppyalumina.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:sloppyalumina"
@@ -2366,7 +2438,7 @@
     {
         "name": "building:refinery",
         "type": "toggle",
-        "img": "images/items/building:refinery.png",
+        "img": "images/items/buildingrefinery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:refinery"
@@ -2374,7 +2446,7 @@
     {
         "name": "recipe:copperpowder",
         "type": "toggle",
-        "img": "images/items/recipe:copperpowder.png",
+        "img": "images/items/recipecopperpowder.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:copperpowder"
@@ -2382,7 +2454,7 @@
     {
         "name": "recipe:heavymodularframe",
         "type": "toggle",
-        "img": "images/items/recipe:heavymodularframe.png",
+        "img": "images/items/recipeheavymodularframe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:heavymodularframe"
@@ -2390,7 +2462,7 @@
     {
         "name": "building:metalpillar",
         "type": "toggle",
-        "img": "images/items/building:metalpillar.png",
+        "img": "images/items/buildingmetalpillar.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:metalpillar"
@@ -2398,7 +2470,7 @@
     {
         "name": "recipe:aluminumingot",
         "type": "toggle",
-        "img": "images/items/recipe:aluminumingot.png",
+        "img": "images/items/recipealuminumingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:aluminumingot"
@@ -2406,7 +2478,7 @@
     {
         "name": "building:conveyorliftmk.4",
         "type": "toggle",
-        "img": "images/items/building:conveyorliftmk.4.png",
+        "img": "images/items/buildingconveyorliftmk.4.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyorliftmk.4"
@@ -2414,7 +2486,7 @@
     {
         "name": "recipe:stingerprotein",
         "type": "toggle",
-        "img": "images/items/recipe:stingerprotein.png",
+        "img": "images/items/recipestingerprotein.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:stingerprotein"
@@ -2422,7 +2494,7 @@
     {
         "name": "recipe:ailimiter",
         "type": "toggle",
-        "img": "images/items/recipe:ailimiter.png",
+        "img": "images/items/recipeailimiter.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ailimiter"
@@ -2430,7 +2502,7 @@
     {
         "name": "building:minermk.1",
         "type": "toggle",
-        "img": "images/items/building:minermk.1.png",
+        "img": "images/items/buildingminermk.1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:minermk.1"
@@ -2438,7 +2510,7 @@
     {
         "name": "building:industrialstoragecontainer",
         "type": "toggle",
-        "img": "images/items/building:industrialstoragecontainer.png",
+        "img": "images/items/buildingindustrialstoragecontainer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:industrialstoragecontainer"
@@ -2446,7 +2518,7 @@
     {
         "name": "recipe:ficsonium",
         "type": "toggle",
-        "img": "images/items/recipe:ficsonium.png",
+        "img": "images/items/recipeficsonium.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ficsonium"
@@ -2454,7 +2526,7 @@
     {
         "name": "recipe:solidbiofuel",
         "type": "toggle",
-        "img": "images/items/recipe:solidbiofuel.png",
+        "img": "images/items/recipesolidbiofuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:solidbiofuel"
@@ -2462,7 +2534,7 @@
     {
         "name": "customizer:tarroofmaterial",
         "type": "toggle",
-        "img": "images/items/customizer:tarroofmaterial.png",
+        "img": "images/items/customizertarroofmaterial.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:tarroofmaterial"
@@ -2470,7 +2542,7 @@
     {
         "name": "customizer:numberpatterns",
         "type": "toggle",
-        "img": "images/items/customizer:numberpatterns.png",
+        "img": "images/items/customizernumberpatterns.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:numberpatterns"
@@ -2478,7 +2550,7 @@
     {
         "name": "recipe:steelpipe",
         "type": "toggle",
-        "img": "images/items/recipe:steelpipe.png",
+        "img": "images/items/recipesteelpipe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:steelpipe"
@@ -2486,7 +2558,7 @@
     {
         "name": "building:constructor",
         "type": "toggle",
-        "img": "images/items/building:constructor.png",
+        "img": "images/items/buildingconstructor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:constructor"
@@ -2494,7 +2566,7 @@
     {
         "name": "building:stairs",
         "type": "toggle",
-        "img": "images/items/building:stairs.png",
+        "img": "images/items/buildingstairs.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:stairs"
@@ -2502,7 +2574,7 @@
     {
         "name": "recipe:polymerresin",
         "type": "toggle",
-        "img": "images/items/recipe:polymerresin.png",
+        "img": "images/items/recipepolymerresin.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:polymerresin"
@@ -2510,7 +2582,7 @@
     {
         "name": "recipe:reinforcedironplate",
         "type": "toggle",
-        "img": "images/items/recipe:reinforcedironplate.png",
+        "img": "images/items/recipereinforcedironplate.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:reinforcedironplate"
@@ -2518,7 +2590,7 @@
     {
         "name": "recipe:plutoniumpellet",
         "type": "toggle",
-        "img": "images/items/recipe:plutoniumpellet.png",
+        "img": "images/items/recipeplutoniumpellet.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:plutoniumpellet"
@@ -2526,7 +2598,7 @@
     {
         "name": "building:conveyorthroughputmonitor",
         "type": "toggle",
-        "img": "images/items/building:conveyorthroughputmonitor.png",
+        "img": "images/items/buildingconveyorthroughputmonitor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyorthroughputmonitor"
@@ -2534,7 +2606,7 @@
     {
         "name": "recipe:aluminumbeam",
         "type": "toggle",
-        "img": "images/items/recipe:aluminumbeam.png",
+        "img": "images/items/recipealuminumbeam.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:aluminumbeam"
@@ -2542,7 +2614,7 @@
     {
         "name": "recipe:ficsiteingot(caterium)",
         "type": "toggle",
-        "img": "images/items/recipe:ficsiteingot(caterium).png",
+        "img": "images/items/recipeficsiteingot(caterium).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ficsiteingot(caterium)"
@@ -2550,7 +2622,7 @@
     {
         "name": "building:stackableconveyorpole",
         "type": "toggle",
-        "img": "images/items/building:stackableconveyorpole.png",
+        "img": "images/items/buildingstackableconveyorpole.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:stackableconveyorpole"
@@ -2558,7 +2630,7 @@
     {
         "name": "building:minermk.2",
         "type": "toggle",
-        "img": "images/items/building:minermk.2.png",
+        "img": "images/items/buildingminermk.2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:minermk.2"
@@ -2566,7 +2638,7 @@
     {
         "name": "recipe:coatedironplate",
         "type": "toggle",
-        "img": "images/items/recipe:coatedironplate.png",
+        "img": "images/items/recipecoatedironplate.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:coatedironplate"
@@ -2574,7 +2646,7 @@
     {
         "name": "recipe:compactedcoal",
         "type": "toggle",
-        "img": "images/items/recipe:compactedcoal.png",
+        "img": "images/items/recipecompactedcoal.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:compactedcoal"
@@ -2582,7 +2654,7 @@
     {
         "name": "building:beamexpansionpack",
         "type": "toggle",
-        "img": "images/items/building:beamexpansionpack.png",
+        "img": "images/items/buildingbeamexpansionpack.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:beamexpansionpack"
@@ -2590,7 +2662,7 @@
     {
         "name": "building:conveyormerger",
         "type": "toggle",
-        "img": "images/items/building:conveyormerger.png",
+        "img": "images/items/buildingconveyormerger.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyormerger"
@@ -2598,7 +2670,7 @@
     {
         "name": "customizer:solidlinepatterns",
         "type": "toggle",
-        "img": "images/items/customizer:solidlinepatterns.png",
+        "img": "images/items/customizersolidlinepatterns.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:solidlinepatterns"
@@ -2606,7 +2678,7 @@
     {
         "name": "building:conveyorliftmk.2",
         "type": "toggle",
-        "img": "images/items/building:conveyorliftmk.2.png",
+        "img": "images/items/buildingconveyorliftmk.2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyorliftmk.2"
@@ -2614,7 +2686,7 @@
     {
         "name": "building:conveyormk.5",
         "type": "toggle",
-        "img": "images/items/building:conveyormk.5.png",
+        "img": "images/items/buildingconveyormk.5.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyormk.5"
@@ -2622,7 +2694,7 @@
     {
         "name": "customizer:chromepaintfinish",
         "type": "toggle",
-        "img": "images/items/customizer:chromepaintfinish.png",
+        "img": "images/items/customizerchromepaintfinish.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:chromepaintfinish"
@@ -2630,7 +2702,7 @@
     {
         "name": "recipe:steelbeam",
         "type": "toggle",
-        "img": "images/items/recipe:steelbeam.png",
+        "img": "images/items/recipesteelbeam.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:steelbeam"
@@ -2638,7 +2710,7 @@
     {
         "name": "building:portal",
         "type": "toggle",
-        "img": "images/items/building:portal.png",
+        "img": "images/items/buildingportal.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:portal"
@@ -2646,7 +2718,7 @@
     {
         "name": "recipe:electromagneticcontrolrod",
         "type": "toggle",
-        "img": "images/items/recipe:electromagneticcontrolrod.png",
+        "img": "images/items/recipeelectromagneticcontrolrod.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:electromagneticcontrolrod"
@@ -2654,7 +2726,7 @@
     {
         "name": "recipe:portableminer",
         "type": "toggle",
-        "img": "images/items/recipe:portableminer.png",
+        "img": "images/items/recipeportableminer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:portableminer"
@@ -2662,7 +2734,7 @@
     {
         "name": "recipe:proteininhaler",
         "type": "toggle",
-        "img": "images/items/recipe:proteininhaler.png",
+        "img": "images/items/recipeproteininhaler.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:proteininhaler"
@@ -2670,7 +2742,7 @@
     {
         "name": "building:doubleramppack",
         "type": "toggle",
-        "img": "images/items/building:doubleramppack.png",
+        "img": "images/items/buildingdoubleramppack.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:doubleramppack"
@@ -2678,7 +2750,7 @@
     {
         "name": "customizer:gripmetalfoundationmaterial",
         "type": "toggle",
-        "img": "images/items/customizer:gripmetalfoundationmaterial.png",
+        "img": "images/items/customizergripmetalfoundationmaterial.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:gripmetalfoundationmaterial"
@@ -2686,7 +2758,7 @@
     {
         "name": "building:ladder",
         "type": "toggle",
-        "img": "images/items/building:ladder.png",
+        "img": "images/items/buildingladder.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:ladder"
@@ -2694,7 +2766,7 @@
     {
         "name": "recipe:purequartzcrystal",
         "type": "toggle",
-        "img": "images/items/recipe:purequartzcrystal.png",
+        "img": "images/items/recipepurequartzcrystal.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:purequartzcrystal"
@@ -2702,7 +2774,7 @@
     {
         "name": "recipe:steelscrew",
         "type": "toggle",
-        "img": "images/items/recipe:steelscrew.png",
+        "img": "images/items/recipesteelscrew.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:steelscrew"
@@ -2710,7 +2782,7 @@
     {
         "name": "building:pipelinepumpmk.2",
         "type": "toggle",
-        "img": "images/items/building:pipelinepumpmk.2.png",
+        "img": "images/items/buildingpipelinepumpmk.2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:pipelinepumpmk.2"
@@ -2718,7 +2790,7 @@
     {
         "name": "recipe:recycledrubber",
         "type": "toggle",
-        "img": "images/items/recipe:recycledrubber.png",
+        "img": "images/items/reciperecycledrubber.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:recycledrubber"
@@ -2726,7 +2798,7 @@
     {
         "name": "recipe:aluminumrod",
         "type": "toggle",
-        "img": "images/items/recipe:aluminumrod.png",
+        "img": "images/items/recipealuminumrod.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:aluminumrod"
@@ -2734,7 +2806,7 @@
     {
         "name": "recipe:parachute",
         "type": "toggle",
-        "img": "images/items/recipe:parachute.png",
+        "img": "images/items/recipeparachute.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:parachute"
@@ -2742,7 +2814,7 @@
     {
         "name": "building:modernrailing",
         "type": "toggle",
-        "img": "images/items/building:modernrailing.png",
+        "img": "images/items/buildingmodernrailing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:modernrailing"
@@ -2750,7 +2822,7 @@
     {
         "name": "recipe:chainsaw",
         "type": "toggle",
-        "img": "images/items/recipe:chainsaw.png",
+        "img": "images/items/recipechainsaw.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:chainsaw"
@@ -2758,7 +2830,7 @@
     {
         "name": "recipe:classicbattery",
         "type": "toggle",
-        "img": "images/items/recipe:classicbattery.png",
+        "img": "images/items/recipeclassicbattery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:classicbattery"
@@ -2766,7 +2838,7 @@
     {
         "name": "building:walloutletmk.2",
         "type": "toggle",
-        "img": "images/items/building:walloutletmk.2.png",
+        "img": "images/items/buildingwalloutletmk.2.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:walloutletmk.2"
@@ -2774,7 +2846,7 @@
     {
         "name": "recipe:neural-quantumprocessor",
         "type": "toggle",
-        "img": "images/items/recipe:neural-quantumprocessor.png",
+        "img": "images/items/recipeneural-quantumprocessor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:neural-quantumprocessor"
@@ -2782,7 +2854,7 @@
     {
         "name": "recipe:crystalcomputer",
         "type": "toggle",
-        "img": "images/items/recipe:crystalcomputer.png",
+        "img": "images/items/recipecrystalcomputer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:crystalcomputer"
@@ -2790,7 +2862,7 @@
     {
         "name": "customizer:factoryiconpatterns",
         "type": "toggle",
-        "img": "images/items/customizer:factoryiconpatterns.png",
+        "img": "images/items/customizerfactoryiconpatterns.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:factoryiconpatterns"
@@ -2798,7 +2870,7 @@
     {
         "name": "building:personalstoragebox",
         "type": "toggle",
-        "img": "images/items/building:personalstoragebox.png",
+        "img": "images/items/buildingpersonalstoragebox.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:personalstoragebox"
@@ -2806,7 +2878,7 @@
     {
         "name": "recipe:rebargun",
         "type": "toggle",
-        "img": "images/items/recipe:rebargun.png",
+        "img": "images/items/reciperebargun.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:rebargun"
@@ -2814,7 +2886,7 @@
     {
         "name": "building:radartower",
         "type": "toggle",
-        "img": "images/items/building:radartower.png",
+        "img": "images/items/buildingradartower.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:radartower"
@@ -2822,7 +2894,7 @@
     {
         "name": "transport:factorycart(golden)",
         "type": "toggle",
-        "img": "images/items/transport:factorycart(golden).png",
+        "img": "images/items/transportfactorycart(golden).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "transport:factorycart(golden)"
@@ -2830,7 +2902,7 @@
     {
         "name": "building:smartsplitter",
         "type": "toggle",
-        "img": "images/items/building:smartsplitter.png",
+        "img": "images/items/buildingsmartsplitter.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:smartsplitter"
@@ -2838,7 +2910,7 @@
     {
         "name": "recipe:factorycart",
         "type": "toggle",
-        "img": "images/items/recipe:factorycart.png",
+        "img": "images/items/recipefactorycart.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:factorycart"
@@ -2846,7 +2918,7 @@
     {
         "name": "building:converter",
         "type": "toggle",
-        "img": "images/items/building:converter.png",
+        "img": "images/items/buildingconverter.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:converter"
@@ -2854,7 +2926,7 @@
     {
         "name": "customizer:dottedlinepatterns",
         "type": "toggle",
-        "img": "images/items/customizer:dottedlinepatterns.png",
+        "img": "images/items/customizerdottedlinepatterns.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:dottedlinepatterns"
@@ -2862,7 +2934,7 @@
     {
         "name": "building:cornerramppack",
         "type": "toggle",
-        "img": "images/items/building:cornerramppack.png",
+        "img": "images/items/buildingcornerramppack.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:cornerramppack"
@@ -2870,7 +2942,7 @@
     {
         "name": "recipe:biomass(mycelia)",
         "type": "toggle",
-        "img": "images/items/recipe:biomass(mycelia).png",
+        "img": "images/items/recipebiomass(mycelia).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:biomass(mycelia)"
@@ -2878,7 +2950,7 @@
     {
         "name": "building:conveyormk.6",
         "type": "toggle",
-        "img": "images/items/building:conveyormk.6.png",
+        "img": "images/items/buildingconveyormk.6.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyormk.6"
@@ -2886,7 +2958,7 @@
     {
         "name": "recipe:aluminasolution",
         "type": "toggle",
-        "img": "images/items/recipe:aluminasolution.png",
+        "img": "images/items/recipealuminasolution.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:aluminasolution"
@@ -2894,7 +2966,7 @@
     {
         "name": "recipe:motor",
         "type": "toggle",
-        "img": "images/items/recipe:motor.png",
+        "img": "images/items/recipemotor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:motor"
@@ -2902,7 +2974,7 @@
     {
         "name": "building:awesomesink",
         "type": "toggle",
-        "img": "images/items/building:awesomesink.png",
+        "img": "images/items/buildingawesomesink.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:awesomesink"
@@ -2910,7 +2982,7 @@
     {
         "name": "customizer:concretewallmaterial",
         "type": "toggle",
-        "img": "images/items/customizer:concretewallmaterial.png",
+        "img": "images/items/customizerconcretewallmaterial.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:concretewallmaterial"
@@ -2918,7 +2990,7 @@
     {
         "name": "recipe:pulsenobelisk",
         "type": "toggle",
-        "img": "images/items/recipe:pulsenobelisk.png",
+        "img": "images/items/recipepulsenobelisk.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:pulsenobelisk"
@@ -2926,7 +2998,7 @@
     {
         "name": "recipe:encasedindustrialbeam",
         "type": "toggle",
-        "img": "images/items/recipe:encasedindustrialbeam.png",
+        "img": "images/items/recipeencasedindustrialbeam.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:encasedindustrialbeam"
@@ -2934,7 +3006,7 @@
     {
         "name": "recipe:darkmattercrystal",
         "type": "toggle",
-        "img": "images/items/recipe:darkmattercrystal.png",
+        "img": "images/items/recipedarkmattercrystal.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:darkmattercrystal"
@@ -2942,7 +3014,7 @@
     {
         "name": "transport:explorer",
         "type": "toggle",
-        "img": "images/items/transport:explorer.png",
+        "img": "images/items/transportexplorer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "transport:explorer"
@@ -2950,7 +3022,7 @@
     {
         "name": "building:concretepillar",
         "type": "toggle",
-        "img": "images/items/building:concretepillar.png",
+        "img": "images/items/buildingconcretepillar.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:concretepillar"
@@ -2958,7 +3030,7 @@
     {
         "name": "recipe:quickwire",
         "type": "toggle",
-        "img": "images/items/recipe:quickwire.png",
+        "img": "images/items/recipequickwire.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:quickwire"
@@ -2966,7 +3038,7 @@
     {
         "name": "recipe:ironrebar",
         "type": "toggle",
-        "img": "images/items/recipe:ironrebar.png",
+        "img": "images/items/recipeironrebar.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ironrebar"
@@ -2974,7 +3046,7 @@
     {
         "name": "building:packager",
         "type": "toggle",
-        "img": "images/items/building:packager.png",
+        "img": "images/items/buildingpackager.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:packager"
@@ -2982,7 +3054,7 @@
     {
         "name": "recipe:heat-fusedframe",
         "type": "toggle",
-        "img": "images/items/recipe:heat-fusedframe.png",
+        "img": "images/items/recipeheat-fusedframe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:heat-fusedframe"
@@ -2990,7 +3062,7 @@
     {
         "name": "recipe:packagednitricacid",
         "type": "toggle",
-        "img": "images/items/recipe:packagednitricacid.png",
+        "img": "images/items/recipepackagednitricacid.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:packagednitricacid"
@@ -2998,7 +3070,7 @@
     {
         "name": "recipe:vitamininhaler",
         "type": "toggle",
-        "img": "images/items/recipe:vitamininhaler.png",
+        "img": "images/items/recipevitamininhaler.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:vitamininhaler"
@@ -3006,7 +3078,7 @@
     {
         "name": "building:pipesmk.1",
         "type": "toggle",
-        "img": "images/items/building:pipesmk.1.png",
+        "img": "images/items/buildingpipesmk.1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:pipesmk.1"
@@ -3014,7 +3086,7 @@
     {
         "name": "recipe:turborifleammo(packaged)",
         "type": "toggle",
-        "img": "images/items/recipe:turborifleammo(packaged).png",
+        "img": "images/items/recipeturborifleammo(packaged).png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:turborifleammo(packaged)"
@@ -3022,7 +3094,7 @@
     {
         "name": "building:cleanpipelinemk.1",
         "type": "toggle",
-        "img": "images/items/building:cleanpipelinemk.1.png",
+        "img": "images/items/buildingcleanpipelinemk.1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:cleanpipelinemk.1"
@@ -3030,7 +3102,7 @@
     {
         "name": "building:manufacturer",
         "type": "toggle",
-        "img": "images/items/building:manufacturer.png",
+        "img": "images/items/buildingmanufacturer.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:manufacturer"
@@ -3038,7 +3110,7 @@
     {
         "name": "customizer:steelwallmaterial",
         "type": "toggle",
-        "img": "images/items/customizer:steelwallmaterial.png",
+        "img": "images/items/customizersteelwallmaterial.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:steelwallmaterial"
@@ -3046,7 +3118,7 @@
     {
         "name": "recipe:cateriumingot",
         "type": "toggle",
-        "img": "images/items/recipe:cateriumingot.png",
+        "img": "images/items/recipecateriumingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:cateriumingot"
@@ -3054,7 +3126,7 @@
     {
         "name": "building:roofs",
         "type": "toggle",
-        "img": "images/items/building:roofs.png",
+        "img": "images/items/buildingroofs.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:roofs"
@@ -3062,7 +3134,7 @@
     {
         "name": "building:conveyorwalls",
         "type": "toggle",
-        "img": "images/items/building:conveyorwalls.png",
+        "img": "images/items/buildingconveyorwalls.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyorwalls"
@@ -3070,7 +3142,7 @@
     {
         "name": "building:equipmentworkshop",
         "type": "toggle",
-        "img": "images/items/building:equipmentworkshop.png",
+        "img": "images/items/buildingequipmentworkshop.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:equipmentworkshop"
@@ -3078,7 +3150,7 @@
     {
         "name": "recipe:non-fissileuranium",
         "type": "toggle",
-        "img": "images/items/recipe:non-fissileuranium.png",
+        "img": "images/items/recipenon-fissileuranium.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:non-fissileuranium"
@@ -3086,7 +3158,7 @@
     {
         "name": "customizer:cateriumpaintfinish",
         "type": "toggle",
-        "img": "images/items/customizer:cateriumpaintfinish.png",
+        "img": "images/items/customizercateriumpaintfinish.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:cateriumpaintfinish"
@@ -3094,7 +3166,7 @@
     {
         "name": "recipe:reanimatedsam",
         "type": "toggle",
-        "img": "images/items/recipe:reanimatedsam.png",
+        "img": "images/items/recipereanimatedsam.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:reanimatedsam"
@@ -3102,7 +3174,7 @@
     {
         "name": "building:industrialrailing",
         "type": "toggle",
-        "img": "images/items/building:industrialrailing.png",
+        "img": "images/items/buildingindustrialrailing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:industrialrailing"
@@ -3110,7 +3182,7 @@
     {
         "name": "building:pipelinepumpmk.1",
         "type": "toggle",
-        "img": "images/items/building:pipelinepumpmk.1.png",
+        "img": "images/items/buildingpipelinepumpmk.1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:pipelinepumpmk.1"
@@ -3118,7 +3190,7 @@
     {
         "name": "recipe:packagedrocketfuel",
         "type": "toggle",
-        "img": "images/items/recipe:packagedrocketfuel.png",
+        "img": "images/items/recipepackagedrocketfuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:packagedrocketfuel"
@@ -3126,7 +3198,7 @@
     {
         "name": "recipe:copperrotor",
         "type": "toggle",
-        "img": "images/items/recipe:copperrotor.png",
+        "img": "images/items/recipecopperrotor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:copperrotor"
@@ -3134,7 +3206,7 @@
     {
         "name": "customizer:concretefoundationmaterial",
         "type": "toggle",
-        "img": "images/items/customizer:concretefoundationmaterial.png",
+        "img": "images/items/customizerconcretefoundationmaterial.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:concretefoundationmaterial"
@@ -3142,7 +3214,7 @@
     {
         "name": "recipe:nobeliskdetonator",
         "type": "toggle",
-        "img": "images/items/recipe:nobeliskdetonator.png",
+        "img": "images/items/recipenobeliskdetonator.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:nobeliskdetonator"
@@ -3150,7 +3222,7 @@
     {
         "name": "recipe:adaptivecontrolunit",
         "type": "toggle",
-        "img": "images/items/recipe:adaptivecontrolunit.png",
+        "img": "images/items/recipeadaptivecontrolunit.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:adaptivecontrolunit"
@@ -3166,7 +3238,7 @@
     {
         "name": "recipe:ironplate",
         "type": "toggle",
-        "img": "images/items/recipe:ironplate.png",
+        "img": "images/items/recipeironplate.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ironplate"
@@ -3174,7 +3246,7 @@
     {
         "name": "building:powerstorage",
         "type": "toggle",
-        "img": "images/items/building:powerstorage.png",
+        "img": "images/items/buildingpowerstorage.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:powerstorage"
@@ -3182,7 +3254,7 @@
     {
         "name": "recipe:hoverpack",
         "type": "toggle",
-        "img": "images/items/recipe:hoverpack.png",
+        "img": "images/items/recipehoverpack.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:hoverpack"
@@ -3190,7 +3262,7 @@
     {
         "name": "recipe:dark-ionfuel",
         "type": "toggle",
-        "img": "images/items/recipe:dark-ionfuel.png",
+        "img": "images/items/recipedark-ionfuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:dark-ionfuel"
@@ -3198,7 +3270,7 @@
     {
         "name": "recipe:solidsteelingot",
         "type": "toggle",
-        "img": "images/items/recipe:solidsteelingot.png",
+        "img": "images/items/recipesolidsteelingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:solidsteelingot"
@@ -3206,7 +3278,7 @@
     {
         "name": "recipe:residualplastic",
         "type": "toggle",
-        "img": "images/items/recipe:residualplastic.png",
+        "img": "images/items/reciperesidualplastic.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:residualplastic"
@@ -3214,7 +3286,7 @@
     {
         "name": "recipe:rigormotor",
         "type": "toggle",
-        "img": "images/items/recipe:rigormotor.png",
+        "img": "images/items/reciperigormotor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:rigormotor"
@@ -3222,7 +3294,7 @@
     {
         "name": "recipe:residualrubber",
         "type": "toggle",
-        "img": "images/items/recipe:residualrubber.png",
+        "img": "images/items/reciperesidualrubber.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:residualrubber"
@@ -3230,7 +3302,7 @@
     {
         "name": "building:walloutletmk.1",
         "type": "toggle",
-        "img": "images/items/building:walloutletmk.1.png",
+        "img": "images/items/buildingwalloutletmk.1.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:walloutletmk.1"
@@ -3238,7 +3310,7 @@
     {
         "name": "recipe:copperingot",
         "type": "toggle",
-        "img": "images/items/recipe:copperingot.png",
+        "img": "images/items/recipecopperingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:copperingot"
@@ -3246,7 +3318,7 @@
     {
         "name": "recipe:gasnobelisk",
         "type": "toggle",
-        "img": "images/items/recipe:gasnobelisk.png",
+        "img": "images/items/recipegasnobelisk.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:gasnobelisk"
@@ -3254,7 +3326,7 @@
     {
         "name": "building:particleaccelerator",
         "type": "toggle",
-        "img": "images/items/building:particleaccelerator.png",
+        "img": "images/items/buildingparticleaccelerator.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:particleaccelerator"
@@ -3262,7 +3334,7 @@
     {
         "name": "recipe:biochemicalsculptor",
         "type": "toggle",
-        "img": "images/items/recipe:biochemicalsculptor.png",
+        "img": "images/items/recipebiochemicalsculptor.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:biochemicalsculptor"
@@ -3270,7 +3342,7 @@
     {
         "name": "building:valve",
         "type": "toggle",
-        "img": "images/items/building:valve.png",
+        "img": "images/items/buildingvalve.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:valve"
@@ -3278,7 +3350,7 @@
     {
         "name": "recipe:electrodecircuitboard",
         "type": "toggle",
-        "img": "images/items/recipe:electrodecircuitboard.png",
+        "img": "images/items/recipeelectrodecircuitboard.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:electrodecircuitboard"
@@ -3286,7 +3358,7 @@
     {
         "name": "building:quarterpipeextensionspack",
         "type": "toggle",
-        "img": "images/items/building:quarterpipeextensionspack.png",
+        "img": "images/items/buildingquarterpipeextensionspack.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:quarterpipeextensionspack"
@@ -3294,7 +3366,7 @@
     {
         "name": "recipe:electromagneticconnectionrod",
         "type": "toggle",
-        "img": "images/items/recipe:electromagneticconnectionrod.png",
+        "img": "images/items/recipeelectromagneticconnectionrod.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:electromagneticconnectionrod"
@@ -3302,7 +3374,7 @@
     {
         "name": "recipe:circuitboard",
         "type": "toggle",
-        "img": "images/items/recipe:circuitboard.png",
+        "img": "images/items/recipecircuitboard.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:circuitboard"
@@ -3310,7 +3382,7 @@
     {
         "name": "recipe:syntheticpowershard",
         "type": "toggle",
-        "img": "images/items/recipe:syntheticpowershard.png",
+        "img": "images/items/recipesyntheticpowershard.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:syntheticpowershard"
@@ -3318,7 +3390,7 @@
     {
         "name": "recipe:modularengine",
         "type": "toggle",
-        "img": "images/items/recipe:modularengine.png",
+        "img": "images/items/recipemodularengine.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:modularengine"
@@ -3326,7 +3398,7 @@
     {
         "name": "recipe:dilutedpackagedfuel",
         "type": "toggle",
-        "img": "images/items/recipe:dilutedpackagedfuel.png",
+        "img": "images/items/recipedilutedpackagedfuel.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:dilutedpackagedfuel"
@@ -3334,7 +3406,7 @@
     {
         "name": "recipe:fineblackpowder",
         "type": "toggle",
-        "img": "images/items/recipe:fineblackpowder.png",
+        "img": "images/items/recipefineblackpowder.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:fineblackpowder"
@@ -3342,7 +3414,7 @@
     {
         "name": "customizer:carbonsteelfinish",
         "type": "toggle",
-        "img": "images/items/customizer:carbonsteelfinish.png",
+        "img": "images/items/customizercarbonsteelfinish.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:carbonsteelfinish"
@@ -3350,7 +3422,7 @@
     {
         "name": "transport:personalelevator",
         "type": "toggle",
-        "img": "images/items/transport:personalelevator.png",
+        "img": "images/items/transportpersonalelevator.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "transport:personalelevator"
@@ -3358,7 +3430,7 @@
     {
         "name": "building:pipelinejunctioncross",
         "type": "toggle",
-        "img": "images/items/building:pipelinejunctioncross.png",
+        "img": "images/items/buildingpipelinejunctioncross.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:pipelinejunctioncross"
@@ -3366,7 +3438,7 @@
     {
         "name": "recipe:coolingsystem",
         "type": "toggle",
-        "img": "images/items/recipe:coolingsystem.png",
+        "img": "images/items/recipecoolingsystem.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:coolingsystem"
@@ -3374,7 +3446,7 @@
     {
         "name": "recipe:ironalloyingot",
         "type": "toggle",
-        "img": "images/items/recipe:ironalloyingot.png",
+        "img": "images/items/recipeironalloyingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ironalloyingot"
@@ -3382,7 +3454,7 @@
     {
         "name": "customizer:pathwaypatterns",
         "type": "toggle",
-        "img": "images/items/customizer:pathwaypatterns.png",
+        "img": "images/items/customizerpathwaypatterns.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:pathwaypatterns"
@@ -3390,7 +3462,7 @@
     {
         "name": "building:roofcorners",
         "type": "toggle",
-        "img": "images/items/building:roofcorners.png",
+        "img": "images/items/buildingroofcorners.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:roofcorners"
@@ -3398,7 +3470,7 @@
     {
         "name": "recipe:turborifleammo",
         "type": "toggle",
-        "img": "images/items/recipe:turborifleammo.png",
+        "img": "images/items/recipeturborifleammo.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:turborifleammo"
@@ -3406,7 +3478,7 @@
     {
         "name": "recipe:ironrod",
         "type": "toggle",
-        "img": "images/items/recipe:ironrod.png",
+        "img": "images/items/recipeironrod.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:ironrod"
@@ -3414,7 +3486,7 @@
     {
         "name": "recipe:high-speedconnector",
         "type": "toggle",
-        "img": "images/items/recipe:high-speedconnector.png",
+        "img": "images/items/recipehigh-speedconnector.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:high-speedconnector"
@@ -3422,7 +3494,7 @@
     {
         "name": "building:conveyorliftfloorhole",
         "type": "toggle",
-        "img": "images/items/building:conveyorliftfloorhole.png",
+        "img": "images/items/buildingconveyorliftfloorhole.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:conveyorliftfloorhole"
@@ -3430,7 +3502,7 @@
     {
         "name": "recipe:coppersheet",
         "type": "toggle",
-        "img": "images/items/recipe:coppersheet.png",
+        "img": "images/items/recipecoppersheet.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:coppersheet"
@@ -3438,7 +3510,7 @@
     {
         "name": "recipe:steeledframe",
         "type": "toggle",
-        "img": "images/items/recipe:steeledframe.png",
+        "img": "images/items/recipesteeledframe.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:steeledframe"
@@ -3446,7 +3518,7 @@
     {
         "name": "recipe:battery",
         "type": "toggle",
-        "img": "images/items/recipe:battery.png",
+        "img": "images/items/recipebattery.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:battery"
@@ -3454,7 +3526,7 @@
     {
         "name": "recipe:alcladcasing",
         "type": "toggle",
-        "img": "images/items/recipe:alcladcasing.png",
+        "img": "images/items/recipealcladcasing.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:alcladcasing"
@@ -3462,7 +3534,7 @@
     {
         "name": "customizer:metalroofmaterial",
         "type": "toggle",
-        "img": "images/items/customizer:metalroofmaterial.png",
+        "img": "images/items/customizermetalroofmaterial.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "customizer:metalroofmaterial"
@@ -3470,7 +3542,7 @@
     {
         "name": "recipe:instantscrap",
         "type": "toggle",
-        "img": "images/items/recipe:instantscrap.png",
+        "img": "images/items/recipeinstantscrap.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:instantscrap"
@@ -3478,7 +3550,7 @@
     {
         "name": "recipe:nukenobelisk",
         "type": "toggle",
-        "img": "images/items/recipe:nukenobelisk.png",
+        "img": "images/items/recipenukenobelisk.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:nukenobelisk"
@@ -3486,7 +3558,7 @@
     {
         "name": "recipe:petroleumdiamonds",
         "type": "toggle",
-        "img": "images/items/recipe:petroleumdiamonds.png",
+        "img": "images/items/recipepetroleumdiamonds.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:petroleumdiamonds"
@@ -3494,7 +3566,7 @@
     {
         "name": "recipe:gasfilter",
         "type": "toggle",
-        "img": "images/items/recipe:gasfilter.png",
+        "img": "images/items/recipegasfilter.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:gasfilter"
@@ -3502,7 +3574,7 @@
     {
         "name": "building:foundry",
         "type": "toggle",
-        "img": "images/items/building:foundry.png",
+        "img": "images/items/buildingfoundry.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "building:foundry"
@@ -3510,7 +3582,7 @@
     {
         "name": "recipe:oil-baseddiamonds",
         "type": "toggle",
-        "img": "images/items/recipe:oil-baseddiamonds.png",
+        "img": "images/items/recipeoil-baseddiamonds.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:oil-baseddiamonds"
@@ -3518,7 +3590,7 @@
     {
         "name": "recipe:purecopperingot",
         "type": "toggle",
-        "img": "images/items/recipe:purecopperingot.png",
+        "img": "images/items/recipepurecopperingot.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:purecopperingot"
@@ -3526,7 +3598,7 @@
     {
         "name": "recipe:insulatedcable",
         "type": "toggle",
-        "img": "images/items/recipe:insulatedcable.png",
+        "img": "images/items/recipeinsulatedcable.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:insulatedcable"
@@ -3534,7 +3606,7 @@
     {
         "name": "recipe:infuseduraniumcell",
         "type": "toggle",
-        "img": "images/items/recipe:infuseduraniumcell.png",
+        "img": "images/items/recipeinfuseduraniumcell.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:infuseduraniumcell"
@@ -3542,17 +3614,9 @@
     {
         "name": "recipe:siliconhigh-speedconnector",
         "type": "toggle",
-        "img": "images/items/recipe:siliconhigh-speedconnector.png",
+        "img": "images/items/recipesiliconhigh-speedconnector.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "recipe:siliconhigh-speedconnector"
-    },
-    {
-        "name": "update",
-        "type": "toggle",
-        "img": "images/items/update.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "update"
     }
 ]
