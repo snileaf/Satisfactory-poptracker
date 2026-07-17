@@ -328,7 +328,7 @@
         "codes": "recipe:powershard(1)"
     },
     {
-        "name": "building:spaceelevator",
+        "name": "Space Elevator",
         "type": "toggle",
         "img": "images/items/buildingspaceelevator.png",
         "initial_active_state": false,
@@ -1344,7 +1344,7 @@
         "codes": "customizer:constructionfences"
     },
     {
-        "name": "building:blueprintdesigner",
+        "name": "Blueprint Designer",
         "type": "toggle",
         "img": "images/items/buildingblueprintdesigner.png",
         "initial_active_state": false,
@@ -1824,7 +1824,7 @@
         "codes": "building:powertower"
     },
     {
-        "name": "building:awesomeshop",
+        "name": "AWESOME Shop",
         "type": "toggle",
         "img": "images/items/buildingawesomeshop.png",
         "initial_active_state": false,
@@ -2356,7 +2356,7 @@
         "codes": "recipe:aiexpansionserver"
     },
     {
-        "name": "building:mam",
+        "name": "MAM",
         "type": "toggle",
         "img": "images/items/buildingmam.png",
         "initial_active_state": false,
@@ -2972,7 +2972,7 @@
         "codes": "recipe:motor"
     },
     {
-        "name": "building:awesomesink",
+        "name": "AWESOME Sink",
         "type": "toggle",
         "img": "images/items/buildingawesomesink.png",
         "initial_active_state": false,
@@ -3140,7 +3140,7 @@
         "codes": "building:conveyorwalls"
     },
     {
-        "name": "building:equipmentworkshop",
+        "name": "Equipment Workshop",
         "type": "toggle",
         "img": "images/items/buildingequipmentworkshop.png",
         "initial_active_state": false,

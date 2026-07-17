@@ -1,7 +1,115 @@
 {
-  "tabbed_maps_horizontal": {
+  "tracker_default": {
     "type": "tabbed",
     "tabs": [
+      {
+        "title": "Recipes",
+        "type": "container",
+        "background": "#00000000",
+        "content": {
+          "type": "dock",
+          "dropshadow": true,
+          "content": [
+            {
+              "type": "dock",
+              "dock": "left",
+              "v_alignment": "stretch",
+              "content": [
+                {
+                  "type": "group",
+                  "header": "Recipes",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "recipes"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Alternate Recipes",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "altrecipes"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "Buildings",
+        "type": "container",
+        "background": "#00000000",
+        "content": {
+          "type": "dock",
+          "dropshadow": true,
+          "content": [
+            {
+              "type": "dock",
+              "dock": "left",
+              "v_alignment": "stretch",
+              "content": [
+                {
+                  "type": "group",
+                  "header": "Special",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "specialbuild"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Production",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "productionbuild"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Power",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "powerbuild"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Logistics",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "logisticsbuild"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Organization",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "organizationbuild"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Transport",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "transportbuild"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
       {
         "title": "AWESOME Shop",
         "content": {
@@ -92,187 +200,91 @@
         }
       },
       {
-        "title": "Tier 1",
+        "title": "Milestones",
         "content": {
-          "type": "map",
-          "maps": [
-            "Tier 1"
-          ]
-        }
-      },
-      {
-        "title": "Tier 2",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 2"
-          ]
-        }
-      },
-      {
-        "title": "Tier 3",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 3"
-          ]
-        }
-      },
-      {
-        "title": "Tier 4",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 4"
-          ]
-        }
-      },
-      {
-        "title": "Tier 5",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 5"
-          ]
-        }
-      },
-      {
-        "title": "Tier 6",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 6"
-          ]
-        }
-      },
-      {
-        "title": "Tier 7",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 7"
-          ]
-        }
-      },
-      {
-        "title": "Tier 8",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 8"
-          ]
-        }
-      },
-      {
-        "title": "Tier 9",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 9"
-          ]
-        }
-      }
-    ]
-  },
-  "tabbed_maps_vertical": {
-    "type": "tabbed",
-    "tabs": [
-      {
-        "title": "AWESOME Shop",
-        "content": {
-          "type": "map",
-          "maps": [
-            "AWESOME Shop"
-          ]
-        }
-      },
-      {
-        "title": "MAM",
-        "content": {
-          "type": "map",
-          "maps": [
-            "MAM"
-          ]
-        }
-      },
-      {
-        "title": "Tier 1",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 1"
-          ]
-        }
-      },
-      {
-        "title": "Tier 2",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 2"
-          ]
-        }
-      },
-      {
-        "title": "Tier 3",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 3"
-          ]
-        }
-      },
-      {
-        "title": "Tier 4",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 4"
-          ]
-        }
-      },
-      {
-        "title": "Tier 5",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 5"
-          ]
-        }
-      },
-      {
-        "title": "Tier 6",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 6"
-          ]
-        }
-      },
-      {
-        "title": "Tier 7",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 7"
-          ]
-        }
-      },
-      {
-        "title": "Tier 8",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 8"
-          ]
-        }
-      },
-      {
-        "title": "Tier 9",
-        "content": {
-          "type": "map",
-          "maps": [
-            "Tier 9"
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Tier 1",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Tier 1"
+                ]
+              }
+            },
+            {
+              "title": "Tier 2",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Tier 2"
+                ]
+              }
+            },
+            {
+              "title": "Tier 3",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Tier 3"
+                ]
+              }
+            },
+            {
+              "title": "Tier 4",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Tier 4"
+                ]
+              }
+            },
+            {
+              "title": "Tier 5",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Tier 5"
+                ]
+              }
+            },
+            {
+              "title": "Tier 6",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Tier 6"
+                ]
+              }
+            },
+            {
+              "title": "Tier 7",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Tier 7"
+                ]
+              }
+            },
+            {
+              "title": "Tier 8",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Tier 8"
+                ]
+              }
+            },
+            {
+              "title": "Tier 9",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Tier 9"
+                ]
+              }
+            }
           ]
         }
       }

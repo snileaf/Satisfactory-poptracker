@@ -110,7 +110,7 @@ function satisfactory_location.new(name)
 	if name == nil then
 		error("satisfactory_location name cannot be nil")
 	end
-	if NAMED_LOCATION[name] then
+	if NAMED_LOCATIONS[name] then
 		print("satisfactory_location " .. name .. " already exists")
 	end
     local self = setmetatable({}, satisfactory_location)
