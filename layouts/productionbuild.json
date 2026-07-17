@@ -9,6 +9,27 @@
     "item_width": 36,
     "rows": [
       [
+        "building:minermk.1",
+        "building:minermk.2",
+        "building:minermk.3",
+        "building:waterextractor",
+        "building:oilextractor",
+        "building:resourcewellpressurizer"
+      ],
+      [
+        "building:smelter",
+        "building:foundry"
+      ],
+      [
+        "building:constructor",
+        "building:assembler",
+        "building:manufacturer",
+        "building:packager",
+        "building:refinery",
+        "building:blender",
+        "building:particleaccelerator",
+        "building:quantumencoder",
+        "building:converter"
       ]
     ]
   }

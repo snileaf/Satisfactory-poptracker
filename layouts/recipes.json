@@ -484,8 +484,7 @@
         "recipe:purecopperingot",
         "recipe:insulatedcable",
         "recipe:infuseduraniumcell",
-        "recipe:siliconhigh-speedconnector",
-        "update"
+        "recipe:siliconhigh-speedconnector"
       ]
     ]
   }
