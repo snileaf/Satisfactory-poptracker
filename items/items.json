@@ -200,7 +200,7 @@
     "codes": "recipe:packagedliquidbiofuel"
   },
   {
-    "name": "building:powerpolemk.3",
+    "name": "Power Pole Mk.3",
     "type": "toggle",
     "img": "images/items/buildingpowerpolemk.3.png",
     "initial_active_state": false,
@@ -256,7 +256,7 @@
     "codes": "customizer:glassroofmaterial"
   },
   {
-    "name": "building:conveyorliftmk.3",
+    "name": "Conveyor Lift Mk.3",
     "type": "toggle",
     "img": "images/items/buildingconveyorliftmk.3.png",
     "initial_active_state": false,
@@ -280,7 +280,7 @@
     "codes": "building:tiltedwalls"
   },
   {
-    "name": "building:programmablesplitter",
+    "name": "Programmable Splitter",
     "type": "toggle",
     "img": "images/items/buildingprogrammablesplitter.png",
     "initial_active_state": false,
@@ -480,7 +480,7 @@
     "codes": "recipe:quartzpurification"
   },
   {
-    "name": "building:conveyormk.3",
+    "name": "Conveyor Mk.3",
     "type": "toggle",
     "img": "images/items/buildingconveyormk.3.png",
     "initial_active_state": false,
@@ -512,7 +512,7 @@
     "codes": "building:walloutletmk.3"
   },
   {
-    "name": "building:alienpoweraugmenter",
+    "name": "Alien Power Augmenter",
     "type": "toggle",
     "img": "images/items/buildingalienpoweraugmenter.png",
     "initial_active_state": false,
@@ -560,7 +560,7 @@
     "codes": "recipe:assemblydirectorsystem"
   },
   {
-    "name": "building:conveyormk.4",
+    "name": "Conveyor Mk.4",
     "type": "toggle",
     "img": "images/items/buildingconveyormk.4.png",
     "initial_active_state": false,
@@ -616,7 +616,7 @@
     "codes": "recipe:heavyoilresidue"
   },
   {
-    "name": "building:conveyorliftmk.6",
+    "name": "Conveyor Lift Mk.6",
     "type": "toggle",
     "img": "images/items/buildingconveyorliftmk.6.png",
     "initial_active_state": false,
@@ -672,7 +672,7 @@
     "codes": "building:conveyorwallmount"
   },
   {
-    "name": "building:stackablepipelinesupport",
+    "name": "Stackable Pipeline Support",
     "type": "toggle",
     "img": "images/items/buildingstackablepipelinesupport.png",
     "initial_active_state": false,
@@ -816,7 +816,7 @@
     "codes": "recipe:electrodealuminumscrap"
   },
   {
-    "name": "building:coalgenerator",
+    "name": "Coal-Powered Generator",
     "type": "toggle",
     "img": "images/items/buildingcoalgenerator.png",
     "initial_active_state": false,
@@ -824,7 +824,7 @@
     "codes": "building:coalgenerator"
   },
   {
-    "name": "building:conveyorliftmk.5",
+    "name": "Conveyor Lift Mk.5",
     "type": "toggle",
     "img": "images/items/buildingconveyorliftmk.5.png",
     "initial_active_state": false,
@@ -856,7 +856,7 @@
     "codes": "recipe:radiocontrolunit"
   },
   {
-    "name": "building:pipesmk.2",
+    "name": "Pipes Mk.2",
     "type": "toggle",
     "img": "images/items/buildingpipesmk.2.png",
     "initial_active_state": false,
@@ -1024,7 +1024,7 @@
     "codes": "building:assembler"
   },
   {
-    "name": "building:powerpolemk.2",
+    "name": "Power Pole Mk.2",
     "type": "toggle",
     "img": "images/items/buildingpowerpolemk.2.png",
     "initial_active_state": false,
@@ -1136,7 +1136,7 @@
     "codes": "recipe:aluminumcasing"
   },
   {
-    "name": "building:nuclearpowerplant",
+    "name": "Nuclear Power Plant",
     "type": "toggle",
     "img": "images/items/buildingnuclearpowerplant.png",
     "initial_active_state": false,
@@ -1264,7 +1264,7 @@
     "codes": "recipe:timecrystal"
   },
   {
-    "name": "building:conveyorliftmk.1",
+    "name": "Conveyor Lift Mk.1",
     "type": "toggle",
     "img": "images/items/buildingconveyorliftmk.1.png",
     "initial_active_state": false,
@@ -1720,7 +1720,7 @@
     "codes": "recipe:biomass(alienprotein)"
   },
   {
-    "name": "building:prioritypowerswitch",
+    "name": "Priority Power Switch",
     "type": "toggle",
     "img": "images/items/buildingprioritypowerswitch.png",
     "initial_active_state": false,
@@ -1776,7 +1776,7 @@
     "codes": "customizer:asphaltfoundationmaterial"
   },
   {
-    "name": "building:conveyormk.2",
+    "name": "Conveyor Mk.2",
     "type": "toggle",
     "img": "images/items/buildingconveyormk.2.png",
     "initial_active_state": false,
@@ -1816,7 +1816,7 @@
     "codes": "transport:truck"
   },
   {
-    "name": "building:powertower",
+    "name": "Power Tower",
     "type": "toggle",
     "img": "images/items/buildingpowertower.png",
     "initial_active_state": false,
@@ -1880,7 +1880,7 @@
     "codes": "recipe:purecateriumingot"
   },
   {
-    "name": "building:geothermalgenerator",
+    "name": "Geothermal Generator",
     "type": "toggle",
     "img": "images/items/buildinggeothermalgenerator.png",
     "initial_active_state": false,
@@ -1928,7 +1928,7 @@
     "codes": "recipe:nitrorocketfuel"
   },
   {
-    "name": "building:conveyormk.1",
+    "name": "Conveyor Mk.1",
     "type": "toggle",
     "img": "images/items/buildingconveyormk.1.png",
     "initial_active_state": true,
@@ -1944,7 +1944,7 @@
     "codes": "recipe:rotor"
   },
   {
-    "name": "building:biomassburner",
+    "name": "Biomass Burner",
     "type": "toggle",
     "img": "images/items/buildingbiomassburner.png",
     "initial_active_state": true,
@@ -2108,7 +2108,7 @@
     "codes": "recipe:ballisticwarpdrive"
   },
   {
-    "name": "building:prioritymerger",
+    "name": "Priority Merger",
     "type": "toggle",
     "img": "images/items/buildingprioritymerger.png",
     "initial_active_state": false,
@@ -2212,7 +2212,7 @@
     "codes": "recipe:singularitycell"
   },
   {
-    "name": "building:fuelgenerator",
+    "name": "Fuel-Powered Generator",
     "type": "toggle",
     "img": "images/items/buildingfuelgenerator.png",
     "initial_active_state": false,
@@ -2236,7 +2236,7 @@
     "codes": "recipe:leachedironingot"
   },
   {
-    "name": "building:powerswitch",
+    "name": "Power Switch",
     "type": "toggle",
     "img": "images/items/buildingpowerswitch.png",
     "initial_active_state": false,
@@ -2300,7 +2300,7 @@
     "codes": "recipe:ficsitetrigon"
   },
   {
-    "name": "building:conveyorsplitter",
+    "name": "Conveyor Splitter",
     "type": "toggle",
     "img": "images/items/buildingconveyorsplitter.png",
     "initial_active_state": false,
@@ -2476,7 +2476,7 @@
     "codes": "recipe:aluminumingot"
   },
   {
-    "name": "building:conveyorliftmk.4",
+    "name": "Conveyor Lift Mk.4",
     "type": "toggle",
     "img": "images/items/buildingconveyorliftmk.4.png",
     "initial_active_state": false,
@@ -2620,7 +2620,7 @@
     "codes": "recipe:ficsiteingot(caterium)"
   },
   {
-    "name": "building:stackableconveyorpole",
+    "name": "Stackable Conveyor Pole",
     "type": "toggle",
     "img": "images/items/buildingstackableconveyorpole.png",
     "initial_active_state": false,
@@ -2660,7 +2660,7 @@
     "codes": "building:beamexpansionpack"
   },
   {
-    "name": "building:conveyormerger",
+    "name": "Conveyor Merger",
     "type": "toggle",
     "img": "images/items/buildingconveyormerger.png",
     "initial_active_state": false,
@@ -2676,7 +2676,7 @@
     "codes": "customizer:solidlinepatterns"
   },
   {
-    "name": "building:conveyorliftmk.2",
+    "name": "Conveyor Lift Mk.2",
     "type": "toggle",
     "img": "images/items/buildingconveyorliftmk.2.png",
     "initial_active_state": false,
@@ -2684,7 +2684,7 @@
     "codes": "building:conveyorliftmk.2"
   },
   {
-    "name": "building:conveyormk.5",
+    "name": "Conveyor Mk.5",
     "type": "toggle",
     "img": "images/items/buildingconveyormk.5.png",
     "initial_active_state": false,
@@ -2780,7 +2780,7 @@
     "codes": "recipe:steelscrew"
   },
   {
-    "name": "building:pipelinepumpmk.2",
+    "name": "Pipeline Pump Mk.2",
     "type": "toggle",
     "img": "images/items/buildingpipelinepumpmk.2.png",
     "initial_active_state": false,
@@ -2900,7 +2900,7 @@
     "codes": "transport:factorycart(golden)"
   },
   {
-    "name": "building:smartsplitter",
+    "name": "Smart Splitter",
     "type": "toggle",
     "img": "images/items/buildingsmartsplitter.png",
     "initial_active_state": false,
@@ -2948,7 +2948,7 @@
     "codes": "recipe:biomass(mycelia)"
   },
   {
-    "name": "building:conveyormk.6",
+    "name": "Conveyor Mk.6",
     "type": "toggle",
     "img": "images/items/buildingconveyormk.6.png",
     "initial_active_state": false,
@@ -3076,7 +3076,7 @@
     "codes": "recipe:vitamininhaler"
   },
   {
-    "name": "building:pipesmk.1",
+    "name": "Pipes Mk.1",
     "type": "toggle",
     "img": "images/items/buildingpipesmk.1.png",
     "initial_active_state": false,
@@ -3180,7 +3180,7 @@
     "codes": "building:industrialrailing"
   },
   {
-    "name": "building:pipelinepumpmk.1",
+    "name": "Pipeline Pump Mk.1",
     "type": "toggle",
     "img": "images/items/buildingpipelinepumpmk.1.png",
     "initial_active_state": false,
@@ -3244,7 +3244,7 @@
     "codes": "recipe:ironplate"
   },
   {
-    "name": "building:powerstorage",
+    "name": "Power Storage",
     "type": "toggle",
     "img": "images/items/buildingpowerstorage.png",
     "initial_active_state": false,
@@ -3340,7 +3340,7 @@
     "codes": "recipe:biochemicalsculptor"
   },
   {
-    "name": "building:valve",
+    "name": "Valve",
     "type": "toggle",
     "img": "images/items/buildingvalve.png",
     "initial_active_state": false,
@@ -3428,7 +3428,7 @@
     "codes": "transport:personalelevator"
   },
   {
-    "name": "building:pipelinejunctioncross",
+    "name": "Pipeline Junctions",
     "type": "toggle",
     "img": "images/items/buildingpipelinejunctioncross.png",
     "initial_active_state": false,

@@ -9,6 +9,34 @@
 		"item_width": 36,
 		"rows": [
 			[
+				"building:conveyormk.2",
+				"building:conveyormk.3",
+				"building:conveyormk.4",
+				"building:conveyormk.5",
+				"building:conveyormk.6",
+				"building:conveyorliftmk.1",
+				"building:conveyorliftmk.2",
+				"building:conveyorliftmk.3",
+				"building:conveyorliftmk.4",
+				"building:conveyorliftmk.5",
+				"building:conveyorliftmk.6",
+				"building:stackableconveyorpole"
+			],
+			[
+				"building:pipesmk.1",
+				"building:pipesmk.2",
+				"building:stackablepipelinesupport",
+				"building:pipelinejunctioncross",
+				"building:pipelinepumpmk.1",
+				"building:pipelinepumpmk.2",
+				"building:valve"
+			],
+			[
+				"building:conveyormerger",
+				"building:prioritymerger",
+				"building:conveyorsplitter",
+				"building:smartsplitter",
+				"building:programmablesplitter"
 			]
 		]
 	}
