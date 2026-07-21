@@ -1,22 +1,16 @@
 {
-    "name": "Satisfactory Archipelago",
-    "game_name": "Satisfactory",
-    "package_version": "0.0.1",
-    "package_uid": "satisfactory_ap",
-    "author": "Snileaf, builder_script",
-    "variants": {
-        "Map Tracker": {
-            "display_name": "Map Tracker",
-            "flags": [
-                "ap"
-            ]
-        },
-        "Items Only": {
-            "display_name": "Items Only",
-            "flags": [
-                "ap"
-            ]
-        }
-    },
-    "min_poptracker_version": "0.31.0"
+  "name": "Satisfactory Archipelago",
+  "game_name": "Satisfactory",
+  "package_version": "0.0.1",
+  "package_uid": "satisfactory_ap",
+  "author": "Snileaf, builder_script",
+  "variants": {
+    "Items Only": {
+      "display_name": "Items Only",
+      "flags": [
+        "ap"
+      ]
+    }
+  },
+  "min_poptracker_version": "0.31.0"
 }

@@ -1,0 +1,43 @@
+{
+	"tier0recipe": {
+		"type": "itemgrid",
+		"item_margin": "2, 2",
+		"h_alignment": "left",
+		"item_h_alignment": "center",
+		"item_v_alignment": "center",
+		"item_height": 36,
+		"item_width": 36,
+		"rows": [
+			[
+				"recipe:basicironingot",
+				"recipe:ironalloyingot",
+				"recipe:leachedironingot",
+				"recipe:pureironingot",
+				"recipe:coatedironplate",
+				"recipe:steelcastplate",
+				"recipe:aluminumrod",
+				"recipe:steelrod",
+				"recipe:copperalloyingot",
+				"recipe:leachedcopperingot",
+				"recipe:purecopperingot",
+				"recipe:temperedcopperingot",
+				"recipe:cateriumwire",
+				"recipe:fusedwire",
+				"recipe:ironwire",
+				"recipe:coatedcable",
+				"recipe:insulatedcable",
+				"recipe:quickwirecable",
+				"recipe:fineconcrete",
+				"recipe:rubberconcrete",
+				"recipe:wetconcrete",
+				"recipe:castscrew",
+				"recipe:steelscrew",
+				"recipe:adheredironplate",
+				"recipe:boltedironplate",
+				"recipe:stitchedironplate",
+				"recipe:biomass(alienprotein)",
+				"recipe:biomass(mycelia)"
+			]
+		]
+	}
+}

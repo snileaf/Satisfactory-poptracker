@@ -1,0 +1,63 @@
+{
+  "mamrecipe": {
+    "type": "itemgrid",
+    "item_margin": "2, 2",
+    "h_alignment": "left",
+    "item_h_alignment": "center",
+    "item_v_alignment": "center",
+    "item_height": 36,
+    "item_width": 36,
+    "rows": [
+      [
+        "recipe:powershard(1)",
+        "recipe:powershard(2)",
+        "recipe:powershard(5)",
+        "recipe:syntheticpowershard",
+        "recipe:hatcherprotein",
+        "recipe:hogprotein",
+        "recipe:spitterprotein",
+        "recipe:stingerprotein",
+        "recipe:aliendnacapsule",
+        "recipe:fabric",
+        "recipe:polyesterfabric",
+        "recipe:cateriumingot",
+        "recipe:leachedcateriumingot",
+        "recipe:purecateriumingot",
+        "recipe:temperedcateriumingot",
+        "recipe:quickwire",
+        "recipe:fusedquickwire",
+        "recipe:ailimiter",
+        "recipe:plasticailimiter",
+        "recipe:high-speedconnector",
+        "recipe:siliconhigh-speedconnector",
+        "recipe:quartzcrystal",
+        "recipe:fusedquartzcrystal",
+        "recipe:purequartzcrystal",
+        "recipe:quartzpurification",
+        "recipe:silica",
+        "recipe:cheapsilica",
+        "recipe:crystaloscillator"
+      ],
+      [
+        "recipe:insulatedcrystaloscillator",
+        "recipe:blackpowder",
+        "recipe:fineblackpowder",
+        "recipe:compactedcoal",
+        "recipe:turbofuel",
+        "recipe:turboblendfuel",
+        "recipe:turboheavyfuel",
+        "recipe:packagedturbofuel",
+        "recipe:smokelesspowder",
+        "recipe:rocketfuel",
+        "recipe:nitrorocketfuel",
+        "recipe:packagedrocketfuel",
+        "recipe:ionizedfuel",
+        "recipe:dark-ionfuel",
+        "recipe:packagedionizedfuel",
+        "recipe:reanimatedsam",
+        "recipe:samfluctuator",
+        "recipe:alienpowermatrix"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tier8recipe": {
+    "type": "itemgrid",
+    "item_margin": "2, 2",
+    "h_alignment": "left",
+    "item_h_alignment": "center",
+    "item_v_alignment": "center",
+    "item_height": 36,
+    "item_width": 36,
+    "rows": [
+      [
+        "recipe:encaseduraniumcell",
+        "recipe:infuseduraniumcell",
+        "recipe:electromagneticcontrolrod",
+        "recipe:electromagneticconnectionrod",
+        "recipe:uraniumfuelrod",
+        "recipe:uraniumfuelunit",
+        "recipe:magneticfieldgenerator",
+        "recipe:emptyfluidtank",
+        "recipe:heatsink",
+        "recipe:heatexchanger",
+        "recipe:coolingsystem",
+        "recipe:coolingdevice",
+        "recipe:fusedmodularframe",
+        "recipe:heat-fusedframe",
+        "recipe:turbomotor",
+        "recipe:turboelectricmotor",
+        "recipe:turbopressuremotor",
+        "recipe:thermalpropulsionrocket",
+        "recipe:packagednitrogengas",
+        "recipe:nitricacid",
+        "recipe:packagednitricacid",
+        "recipe:non-fissileuranium",
+        "recipe:fertileuranium",
+        "recipe:plutoniumpellet",
+        "recipe:encasedplutoniumcell",
+        "recipe:instantplutoniumcell",
+        "recipe:plutoniumfuelrod",
+        "recipe:plutoniumfuelunit"
+      ],
+      [
+        "recipe:copperpowder",
+        "recipe:pressureconversioncube",
+        "recipe:nuclearpasta"
+      ]
+    ]
+  }
+}

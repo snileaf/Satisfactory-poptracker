@@ -3,7 +3,7 @@
     "type": "tabbed",
     "tabs": [
       {
-        "title": "Recipes",
+        "title": "Items",
         "type": "container",
         "background": "#00000000",
         "content": {
@@ -17,38 +17,99 @@
               "content": [
                 {
                   "type": "group",
-                  "header": "Recipes",
+                  "header": "Tier 0",
                   "dock": "top",
                   "content": {
                     "type": "layout",
-                    "key": "recipes"
+                    "key": "tier0recipe"
                   }
                 },
                 {
                   "type": "group",
-                  "header": "Alternate Recipes",
+                  "header": "Tier 2",
                   "dock": "top",
                   "content": {
                     "type": "layout",
-                    "key": "altrecipes"
+                    "key": "tier2recipe"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Tier 3",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "tier3recipe"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Tier 4",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "tier4recipe"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Tier 5",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "tier5recipe"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Tier 6",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "tier6recipe"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Tier 7",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "tier7recipe"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Tier 8",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "tier8recipe"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Tier 9",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "tier9recipe"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "MAM",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "mamrecipe"
                   }
                 }
               ]
-            }
-          ]
-        }
-      },
-      {
-        "title": "Buildings",
-        "type": "container",
-        "background": "#00000000",
-        "content": {
-          "type": "dock",
-          "dropshadow": true,
-          "content": [
+            },
             {
               "type": "dock",
-              "dock": "left",
+              "dock": "right",
               "v_alignment": "stretch",
               "content": [
                 {
@@ -103,6 +164,15 @@
                   "content": {
                     "type": "layout",
                     "key": "transportbuild"
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Equipment",
+                  "dock": "top",
+                  "content": {
+                    "type": "layout",
+                    "key": "equipment"
                   }
                 }
               ]

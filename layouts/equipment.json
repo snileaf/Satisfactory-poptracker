@@ -1,0 +1,54 @@
+{
+  "equipment": {
+    "type": "itemgrid",
+    "item_margin": "2, 2",
+    "h_alignment": "left",
+    "item_h_alignment": "center",
+    "item_v_alignment": "center",
+    "item_height": 36,
+    "item_width": 36,
+    "rows": [
+      [
+        "recipe:xeno-zapper",
+        "recipe:portableminer",
+        "recipe:automatedminer",
+        "recipe:objectscanner",
+        "recipe:chainsaw",
+        "recipe:xeno-basher",
+        "recipe:jetpack",
+        "recipe:hoverpack",
+        "recipe:gasmask",
+        "recipe:gasfilter",
+        "recipe:hazmatsuit",
+        "recipe:iodine-infusedfilter"
+      ],
+      [
+        "recipe:bladerunners",
+        "recipe:parachute",
+        "recipe:nutritionalinhaler",
+        "recipe:proteininhaler",
+        "recipe:therapeuticinhaler",
+        "recipe:vitamininhaler",
+        "recipe:rebargun",
+        "recipe:ironrebar",
+        "recipe:stunrebar",
+        "recipe:shatterrebar",
+        "recipe:explosiverebar",
+        "recipe:zipline"
+      ],
+      [
+        "recipe:nobeliskdetonator",
+        "recipe:nobelisk",
+        "recipe:gasnobelisk",
+        "recipe:pulsenobelisk",
+        "recipe:clusternobelisk",
+        "recipe:nukenobelisk",
+        "recipe:rifle",
+        "recipe:rifleammo",
+        "recipe:homingrifleammo",
+        "recipe:turborifleammo(packaged)",
+        "recipe:turborifleammo"
+      ]
+    ]
+  }
+}

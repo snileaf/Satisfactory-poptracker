@@ -1,0 +1,26 @@
+{
+  "tier2recipe": {
+    "type": "itemgrid",
+    "item_margin": "2, 2",
+    "h_alignment": "left",
+    "item_h_alignment": "center",
+    "item_v_alignment": "center",
+    "item_height": 36,
+    "item_width": 36,
+    "rows": [
+      [
+        "recipe:coppersheet",
+        "recipe:steamedcoppersheet",
+        "recipe:rotor",
+        "recipe:copperrotor",
+        "recipe:steelrotor",
+        "recipe:modularframe",
+        "recipe:boltedframe",
+        "recipe:steeledframe",
+        "recipe:smartplating",
+        "recipe:plasticsmartplating",
+        "recipe:solidbiofuel"
+      ]
+    ]
+  }
+}

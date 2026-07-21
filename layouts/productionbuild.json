@@ -16,9 +16,7 @@
         "building:resourcewellpressurizer"
       ],
       [
-        "building:foundry"
-      ],
-      [
+        "building:foundry",
         "building:manufacturer",
         "building:packager",
         "building:refinery",

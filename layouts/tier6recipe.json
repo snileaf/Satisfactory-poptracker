@@ -1,0 +1,23 @@
+{
+  "tier6recipe": {
+    "type": "itemgrid",
+    "item_margin": "2, 2",
+    "h_alignment": "left",
+    "item_h_alignment": "center",
+    "item_v_alignment": "center",
+    "item_height": 36,
+    "item_width": 36,
+    "rows": [
+      [
+        "recipe:computer",
+        "recipe:cateriumcomputer",
+        "recipe:crystalcomputer",
+        "recipe:heavymodularframe",
+        "recipe:heavyencasedframe",
+        "recipe:heavyflexibleframe",
+        "recipe:modularengine",
+        "recipe:adaptivecontrolunit"
+      ]
+    ]
+  }
+}

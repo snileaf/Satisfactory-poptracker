@@ -9,6 +9,19 @@
     "item_width": 36,
     "rows": [
       [
+        "transport:tractor",
+        "transport:truck",
+        "transport:explorer",
+        "transport:drones",
+        "transport:trains",
+        "transport:fluidtrains"
+      ],
+      [
+        "transport:hypertube",
+        "building:jumppad",
+        "building:u-jellylandingpad",
+        "transport:personalelevator",
+        "building:portal"
       ]
     ]
   }

@@ -1,0 +1,27 @@
+{
+  "tier3recipe": {
+    "type": "itemgrid",
+    "item_margin": "2, 2",
+    "h_alignment": "left",
+    "item_h_alignment": "center",
+    "item_v_alignment": "center",
+    "item_height": 36,
+    "item_width": 36,
+    "rows": [
+      [
+        "recipe:steelingot",
+        "recipe:cokesteelingot",
+        "recipe:compactedsteelingot",
+        "recipe:solidsteelingot",
+        "recipe:steelbeam",
+        "recipe:aluminumbeam",
+        "recipe:moldedbeam",
+        "recipe:steelpipe",
+        "recipe:ironpipe",
+        "recipe:moldedsteelpipe",
+        "recipe:versatileframework",
+        "recipe:flexibleframework"
+      ]
+    ]
+  }
+}
