@@ -64,7 +64,7 @@
     "codes": "building:blender"
   },
   {
-    "name": "expandedtoolbelt",
+    "name": "Expanded Tool Belt",
     "type": "progressive",
     "loop": false,
     "allow_disabled": true,
@@ -72,31 +72,31 @@
     "overlay_align": "right",
     "stages": [
       {
-        "name": "expandedtoolbelt stage1",
+        "name": "Expanded Tool Belt 1",
         "inherit_codes": true,
         "img": "/images/items/expandedtoolbelt1.png",
         "codes": "expandedtoolbelt, expandedtoolbelt_stage1"
       },
       {
-        "name": "expandedtoolbelt stage2",
+        "name": "Expanded Tool Belt 2",
         "inherit_codes": true,
         "img": "/images/items/expandedtoolbelt2.png",
         "codes": "expandedtoolbelt_stage2"
       },
       {
-        "name": "expandedtoolbelt stage3",
+        "name": "Expanded Tool Belt 3",
         "inherit_codes": true,
         "img": "/images/items/expandedtoolbelt3.png",
         "codes": "expandedtoolbelt_stage3"
       },
       {
-        "name": "expandedtoolbelt stage4",
+        "name": "Expanded Tool Belt 4",
         "inherit_codes": true,
         "img": "/images/items/expandedtoolbelt4.png",
         "codes": "expandedtoolbelt_stage4"
       },
       {
-        "name": "expandedtoolbelt stage5",
+        "name": "Expanded Tool Belt 5",
         "inherit_codes": true,
         "img": "/images/items/expandedtoolbelt5.png",
         "codes": "expandedtoolbelt_stage5"
@@ -680,7 +680,7 @@
     "codes": "building:stackablepipelinesupport"
   },
   {
-    "name": "inflatedpocketdimension",
+    "name": "Inflated Pocket Dimension",
     "type": "progressive",
     "loop": false,
     "allow_disabled": true,
@@ -688,31 +688,31 @@
     "overlay_align": "right",
     "stages": [
       {
-        "name": "inflatedpocketdimension stage1",
+        "name": "Inflated Pocket Dimension 1",
         "inherit_codes": true,
         "img": "/images/items/inflatedpocketdimension1.png",
         "codes": "inflatedpocketdimension, inflatedpocketdimension_stage1"
       },
       {
-        "name": "inflatedpocketdimension stage2",
+        "name": "Inflated Pocket Dimension 2",
         "inherit_codes": true,
         "img": "/images/items/inflatedpocketdimension2.png",
         "codes": "inflatedpocketdimension_stage2"
       },
       {
-        "name": "inflatedpocketdimension stage3",
+        "name": "Inflated Pocket Dimension 3",
         "inherit_codes": true,
         "img": "/images/items/inflatedpocketdimension3.png",
         "codes": "inflatedpocketdimension_stage3"
       },
       {
-        "name": "inflatedpocketdimension stage4",
+        "name": "Inflated Pocket Dimension 4",
         "inherit_codes": true,
         "img": "/images/items/inflatedpocketdimension4.png",
         "codes": "inflatedpocketdimension_stage4"
       },
       {
-        "name": "inflatedpocketdimension stage5",
+        "name": "Inflated Pocket Dimension 5",
         "inherit_codes": true,
         "img": "/images/items/inflatedpocketdimension5.png",
         "codes": "inflatedpocketdimension_stage5"
@@ -1968,7 +1968,7 @@
     "codes": "building:moderncatwalks"
   },
   {
-    "name": "smallinflatedpocketdimension",
+    "name": "Small Inflated Pocket Dimension",
     "type": "progressive",
     "loop": false,
     "allow_disabled": true,
@@ -1976,67 +1976,67 @@
     "overlay_align": "right",
     "stages": [
       {
-        "name": "smallinflatedpocketdimension stage1",
+        "name": "Small Inflated Pocket Dimension 1",
         "inherit_codes": true,
         "img": "/images/items/smallinflatedpocketdimension1.png",
         "codes": "smallinflatedpocketdimension, smallinflatedpocketdimension_stage1"
       },
       {
-        "name": "smallinflatedpocketdimension stage2",
+        "name": "Small Inflated Pocket Dimension 2",
         "inherit_codes": true,
         "img": "/images/items/smallinflatedpocketdimension2.png",
         "codes": "smallinflatedpocketdimension_stage2"
       },
       {
-        "name": "smallinflatedpocketdimension stage3",
+        "name": "Small Inflated Pocket Dimension 3",
         "inherit_codes": true,
         "img": "/images/items/smallinflatedpocketdimension3.png",
         "codes": "smallinflatedpocketdimension_stage3"
       },
       {
-        "name": "smallinflatedpocketdimension stage4",
+        "name": "Small Inflated Pocket Dimension 4",
         "inherit_codes": true,
         "img": "/images/items/smallinflatedpocketdimension4.png",
         "codes": "smallinflatedpocketdimension_stage4"
       },
       {
-        "name": "smallinflatedpocketdimension stage5",
+        "name": "Small Inflated Pocket Dimension 5",
         "inherit_codes": true,
         "img": "/images/items/smallinflatedpocketdimension5.png",
         "codes": "smallinflatedpocketdimension_stage5"
       },
       {
-        "name": "smallinflatedpocketdimension stage6",
+        "name": "Small Inflated Pocket Dimension 6",
         "inherit_codes": true,
         "img": "/images/items/smallinflatedpocketdimension6.png",
         "codes": "smallinflatedpocketdimension_stage6"
       },
       {
-        "name": "smallinflatedpocketdimension stage7",
+        "name": "Small Inflated Pocket Dimension 7",
         "inherit_codes": true,
         "img": "/images/items/smallinflatedpocketdimension7.png",
         "codes": "smallinflatedpocketdimension_stage7"
       },
       {
-        "name": "smallinflatedpocketdimension stage8",
+        "name": "Small Inflated Pocket Dimension 8",
         "inherit_codes": true,
         "img": "/images/items/smallinflatedpocketdimension8.png",
         "codes": "smallinflatedpocketdimension_stage8"
       },
       {
-        "name": "smallinflatedpocketdimension stage9",
+        "name": "Small Inflated Pocket Dimension 9",
         "inherit_codes": true,
         "img": "/images/items/smallinflatedpocketdimension9.png",
         "codes": "smallinflatedpocketdimension_stage9"
       },
       {
-        "name": "smallinflatedpocketdimension stage10",
+        "name": "Small Inflated Pocket Dimension 10",
         "inherit_codes": true,
         "img": "/images/items/smallinflatedpocketdimension10.png",
         "codes": "smallinflatedpocketdimension_stage10"
       },
       {
-        "name": "smallinflatedpocketdimension stage11",
+        "name": "Small Inflated Pocket Dimension 11",
         "inherit_codes": true,
         "img": "/images/items/smallinflatedpocketdimension11.png",
         "codes": "smallinflatedpocketdimension_stage11"

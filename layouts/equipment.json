@@ -48,6 +48,12 @@
         "recipe:homingrifleammo",
         "recipe:turborifleammo(packaged)",
         "recipe:turborifleammo"
+      ],
+      [
+        "smallinflatedpocketdimension",
+        "inflatedpocketdimension",
+        "expandedtoolbelt",
+        "dimensionaldepotuploadfrominventory"
       ]
     ]
   }
