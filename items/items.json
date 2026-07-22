@@ -160,7 +160,7 @@
     "codes": "recipe:modularframe"
   },
   {
-    "name": "recipe:packagedoil",
+    "name": "Packaged Oil",
     "type": "toggle",
     "img": "images/items/recipepackagedoil.png",
     "initial_active_state": false,
@@ -304,7 +304,7 @@
     "codes": "recipe:uraniumfuelunit"
   },
   {
-    "name": "recipe:packagednitrogengas",
+    "name": "Packaged Nitrogen Gas",
     "type": "toggle",
     "img": "images/items/recipepackagednitrogengas.png",
     "initial_active_state": false,
@@ -2308,7 +2308,7 @@
     "codes": "building:conveyorsplitter"
   },
   {
-    "name": "recipe:packagedwater",
+    "name": "Packaged Water",
     "type": "toggle",
     "img": "images/items/recipepackagedwater.png",
     "initial_active_state": false,
