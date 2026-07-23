@@ -9,9 +9,10 @@
     ],
     "children": [
       {
-        "name": "Inflated Pocket Dimension",
+        "name": "Inflated Pocket Dimension - Alien Megafauna",
         "access_rules": [
-          "$locationcheck|@Bio-Organic Properties,@Alien Protein Recipe,@Cable Recipe"
+          "$locationcheck|@Bio-Organic Properties,@Alien Protein Recipe,@Cable Recipe",
+          "$locationcheck|@Bio-Organic Properties,@Alien Protein Recipe"
         ],
         "sections": [
           {
@@ -49,9 +50,9 @@
         ]
       },
       {
-        "name": "Expanded Toolbelt",
+        "name": "Expanded Toolbelt - Alien Megafauna",
         "access_rules": [
-          "$locationcheck|@Inflated Pocket Dimension,recipealiendnacapsule,@Steel Beam Recipe"
+          "$locationcheck|@Inflated Pocket Dimension - Alien Megafauna,recipealiendnacapsule,@Steel Beam Recipe"
         ],
         "sections": [
           {
@@ -166,7 +167,8 @@
       {
         "name": "Structural Analysis",
         "access_rules": [
-          "$locationcheck|@Bio-Organic Properties,recipealiendnacapsule,@Iron Rod Recipe"
+          "$locationcheck|@Bio-Organic Properties,recipealiendnacapsule,@Iron Rod Recipe",
+          "$locationcheck|@Bio-Organic Properties,recipealiendnacapsule"
         ],
         "sections": [
           {
@@ -206,7 +208,8 @@
       {
         "name": "The Rebar Gun",
         "access_rules": [
-          "$locationcheck|@Structural Analysis,@Rotor Recipe,@Screw Recipe,@Reinforced Iron Plate Recipe"
+          "$locationcheck|@Structural Analysis,@Rotor Recipe,@Screw Recipe,@Reinforced Iron Plate Recipe",
+          "$locationcheck|@Structural Analysis,@Rotor Recipe"
         ],
         "sections": [
           {

@@ -1,0 +1,335 @@
+[
+  {
+    "name": "Sulfur",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingmam"
+    ],
+    "children": [
+      {
+        "name": "The Nobelisk Detonator",
+        "access_rules": [
+          "$locationcheck|@Black Powder,@Black Powder Recipe,@Steel Pipe Recipe,@Cable Recipe",
+          "$locationcheck|@Black Powder,@Black Powder Recipe,@Steel Pipe Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 162,
+            "y": 420,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Smokeless Powder",
+        "access_rules": [
+          "$locationcheck|@Black Powder,@Black Powder Recipe,@Plastic Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 290,
+            "y": 490,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Sulfur Discovery",
+        "access_rules": [],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 289,
+            "y": 69,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Inflated Pocket Dimension - Sulfur",
+        "access_rules": [
+          "$locationcheck|@Nuclear Deterrent Development,recipesmokelesspowder,buildingrefinery,@Computer Recipe",
+          "$locationcheck|@Cluster Nobelisk,recipesmokelesspowder,buildingrefinery,@Computer Recipe",
+          "$locationcheck|@The Rifle,recipesmokelesspowder,buildingrefinery,@Computer Recipe",
+          "$locationcheck|@Turbo Rifle Ammo,recipesmokelesspowder,buildingrefinery,@Computer Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 290,
+            "y": 1190,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "The Rifle",
+        "access_rules": [
+          "$locationcheck|@Smokeless Powder,recipesmokelesspowder,buildingrefinery,@Motor Recipe,@Rubber Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 418,
+            "y": 700,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Compacted Coal",
+        "access_rules": [
+          "$locationcheck|@Experimental Power Generation"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 418,
+            "y": 420,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Black Powder",
+        "access_rules": [
+          "$locationcheck|@Sulfur Discovery"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 290,
+            "y": 210,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Explosive Rebar",
+        "access_rules": [
+          "$locationcheck|@Smokeless Powder,recipesmokelesspowder,buildingrefinery,recipeironrebar,@Steel Beam Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 290,
+            "y": 630,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Cluster Nobelisk",
+        "access_rules": [
+          "$locationcheck|@Smokeless Powder,recipesmokelesspowder,buildingrefinery,recipenobelisk"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 162,
+            "y": 700,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Experimental Power Generation",
+        "access_rules": [
+          "$locationcheck|@Sulfur Discovery,@Modular Frame Recipe,@Rotor Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 418,
+            "y": 280,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Turbofuel",
+        "access_rules": [
+          "$locationcheck|@Experimental Power Generation,@Compacted Coal Recipe,@Packaged Fuel Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 546,
+            "y": 490,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Expanded Toolbelt - Sulfur",
+        "access_rules": [
+          "$locationcheck|@Black Powder,@Black Powder Recipe,@Encased Industrial Beam Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 34,
+            "y": 490,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Turbo Rifle Ammo",
+        "access_rules": [
+          "$locationcheck|@The Rifle,reciperifleammo,recipepackagedturbofuel,buildingpackager,@Aluminum Casing Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 546,
+            "y": 910,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Nuclear Deterrent Development",
+        "access_rules": [
+          "$locationcheck|@Cluster Nobelisk,recipenobelisk,@Encased Uranium Cell Recipe,@AI Limiter Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 34,
+            "y": 910,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Rocket Fuel",
+        "access_rules": [
+          "$locationcheck|@Turbofuel,recipeemptyfluidtank,recipepackagedturbofuel,buildingpackager"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 546,
+            "y": 630,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Ionized Fuel",
+        "access_rules": [
+          "$locationcheck|@Turbofuel,@Power Shard Recipe,recipepackagedrocketfuel,buildingpackager"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Sulfur",
+            "x": 674,
+            "y": 700,
+            "size": 66
+          }
+        ]
+      }
+    ]
+  }
+]

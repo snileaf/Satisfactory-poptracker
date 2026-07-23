@@ -5,77 +5,188 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "buildingawesomeshop",
-      "buildingawesomesink"
+      "buildingawesomeshop,buildingawesomesink"
     ],
     "children": [
       {
         "name": "Purchase 1",
         "access_rules": [],
-        "visibility_rules": [],
-        "item_count": 1
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AWESOME Shop",
+            "x": 224,
+            "y": 566,
+            "size": 160
+          }
+        ]
       },
       {
         "name": "Purchase 2",
         "access_rules": [],
-        "visibility_rules": [],
-        "item_count": 1
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AWESOME Shop",
+            "x": 406,
+            "y": 566,
+            "size": 160
+          }
+        ]
       },
       {
         "name": "Purchase 3",
         "access_rules": [],
-        "visibility_rules": [],
-        "item_count": 1
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AWESOME Shop",
+            "x": 588,
+            "y": 566,
+            "size": 160
+          }
+        ]
       },
       {
         "name": "Purchase 4",
         "access_rules": [],
-        "visibility_rules": [],
-        "item_count": 1
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AWESOME Shop",
+            "x": 770,
+            "y": 566,
+            "size": 160
+          }
+        ]
       },
       {
         "name": "Purchase 5",
         "access_rules": [],
-        "visibility_rules": [],
-        "item_count": 1
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AWESOME Shop",
+            "x": 952,
+            "y": 566,
+            "size": 160
+          }
+        ]
       },
       {
         "name": "Purchase 6",
         "access_rules": [],
-        "visibility_rules": [],
-        "item_count": 1
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AWESOME Shop",
+            "x": 224,
+            "y": 823,
+            "size": 160
+          }
+        ]
       },
       {
         "name": "Purchase 7",
         "access_rules": [],
-        "visibility_rules": [],
-        "item_count": 1
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AWESOME Shop",
+            "x": 405,
+            "y": 822,
+            "size": 160
+          }
+        ]
       },
       {
         "name": "Purchase 8",
         "access_rules": [],
-        "visibility_rules": [],
-        "item_count": 1
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AWESOME Shop",
+            "x": 588,
+            "y": 823,
+            "size": 160
+          }
+        ]
       },
       {
         "name": "Purchase 9",
         "access_rules": [],
-        "visibility_rules": [],
-        "item_count": 1
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AWESOME Shop",
+            "x": 770,
+            "y": 823,
+            "size": 160
+          }
+        ]
       },
       {
         "name": "Purchase 10",
         "access_rules": [],
-        "visibility_rules": [],
-        "item_count": 1
-      }
-    ],
-    "map_locations": [
-      {
-        "map": "AWESOME Shop",
-        "x": 1866,
-        "y": 78,
-        "size": 6
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "AWESOME Shop",
+            "x": 952,
+            "y": 823,
+            "size": 160
+          }
+        ]
       }
     ]
   }

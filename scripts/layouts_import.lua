@@ -1,7 +1,6 @@
 Tracker:AddLayouts("layouts/settings_popup.json")
 Tracker:AddLayouts("layouts/tabs.json")
 Tracker:AddLayouts("layouts/broadcast.json")
-Tracker:AddLayouts("layouts/altrecipes.json")
 Tracker:AddLayouts("layouts/logisticsbuild.json")
 Tracker:AddLayouts("layouts/organizationbuild.json")
 Tracker:AddLayouts("layouts/powerbuild.json")

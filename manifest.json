@@ -1,12 +1,12 @@
 {
   "name": "Satisfactory Archipelago",
   "game_name": "Satisfactory",
-  "package_version": "0.0.2",
+  "package_version": "0.0.3",
   "package_uid": "satisfactory_ap",
   "author": "Snileaf, builder_script",
   "variants": {
     "Items Only": {
-      "display_name": "Items Only",
+      "display_name": "Maps Tracker",
       "flags": [
         "ap"
       ]

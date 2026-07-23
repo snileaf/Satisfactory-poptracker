@@ -189,7 +189,8 @@
       {
         "name": "Smart Splitter",
         "access_rules": [
-          "$locationcheck|@AI Limiter,@AI Limiter Recipe,@Reinforced Iron Plate Recipe"
+          "$locationcheck|@AI Limiter,@AI Limiter Recipe,@Reinforced Iron Plate Recipe",
+          "$locationcheck|@AI Limiter,@AI Limiter Recipe"
         ],
         "sections": [
           {
@@ -229,7 +230,8 @@
       {
         "name": "Zipline",
         "access_rules": [
-          "$locationcheck|@Quickwire,@Quickwire Recipe,@Cable Recipe"
+          "$locationcheck|@Quickwire,@Quickwire Recipe,@Cable Recipe",
+          "$locationcheck|@Quickwire,@Quickwire Recipe"
         ],
         "sections": [
           {

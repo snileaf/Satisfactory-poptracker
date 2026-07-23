@@ -400,7 +400,7 @@
     "codes": "reciperesidualfuel"
   },
   {
-    "name": "recipeironingot",
+    "name": "Iron Ingot",
     "type": "toggle",
     "img": "images/items/recipeironingot.png",
     "initial_active_state": false,
@@ -1048,9 +1048,9 @@
     "codes": "recipebladerunners"
   },
   {
-    "name": "recipebiomass(wood)",
+    "name": "Biomass (Wood)",
     "type": "toggle",
-    "img": "images/items/recipebiomass(wood).png",
+    "img": "images/items/recipebiomass.png",
     "initial_active_state": false,
     "overlay_align": "right",
     "codes": "recipebiomass(wood)"
@@ -1232,7 +1232,7 @@
     "codes": "reciperifleammo"
   },
   {
-    "name": "recipecable",
+    "name": "Cable",
     "type": "toggle",
     "img": "images/items/recipecable.png",
     "initial_active_state": false,
@@ -1448,7 +1448,7 @@
     "codes": "recipesteelcanister"
   },
   {
-    "name": "recipescrew",
+    "name": "Screws",
     "type": "toggle",
     "img": "images/items/recipescrew.png",
     "initial_active_state": false,
@@ -1512,7 +1512,7 @@
     "codes": "recipedarkmattertrap"
   },
   {
-    "name": "Cast Screw",
+    "name": "Cast Screws",
     "type": "toggle",
     "img": "images/items/recipescrew.png",
     "initial_active_state": false,
@@ -1560,7 +1560,7 @@
     "codes": "recipecloudydiamonds"
   },
   {
-    "name": "recipewire",
+    "name": "Wire",
     "type": "toggle",
     "img": "images/items/recipewire.png",
     "initial_active_state": false,
@@ -1704,9 +1704,9 @@
     "codes": "recipecheapsilica"
   },
   {
-    "name": "recipebiomass(leaves)",
+    "name": "Biomass (Leaves)",
     "type": "toggle",
-    "img": "images/items/recipebiomass(leaves).png",
+    "img": "images/items/recipebiomass.png",
     "initial_active_state": false,
     "overlay_align": "right",
     "codes": "recipebiomass(leaves)"
@@ -1800,7 +1800,7 @@
     "codes": "recipecoatedcable"
   },
   {
-    "name": "recipeconcrete",
+    "name": "Concrete",
     "type": "toggle",
     "img": "images/items/recipeconcrete.png",
     "initial_active_state": false,
@@ -2580,7 +2580,7 @@
     "codes": "recipepolymerresin"
   },
   {
-    "name": "recipereinforcedironplate",
+    "name": "Reinforced Iron Plate",
     "type": "toggle",
     "img": "images/items/recipereinforcedironplate.png",
     "initial_active_state": false,
@@ -2772,7 +2772,7 @@
     "codes": "recipepurequartzcrystal"
   },
   {
-    "name": "Steel Screw",
+    "name": "Steel Screws",
     "type": "toggle",
     "img": "images/items/recipescrew.png",
     "initial_active_state": false,
@@ -3236,7 +3236,7 @@
     "codes": "dimensionaldepotuploadfrominventory"
   },
   {
-    "name": "recipeironplate",
+    "name": "Iron Plate",
     "type": "toggle",
     "img": "images/items/recipeironplate.png",
     "initial_active_state": false,
@@ -3308,7 +3308,7 @@
     "codes": "buildingwalloutletmk.1"
   },
   {
-    "name": "recipecopperingot",
+    "name": "Copper Ingot",
     "type": "toggle",
     "img": "images/items/recipecopperingot.png",
     "initial_active_state": false,
@@ -3476,7 +3476,7 @@
     "codes": "recipeturborifleammo"
   },
   {
-    "name": "recipeironrod",
+    "name": "Iron Rod",
     "type": "toggle",
     "img": "images/items/recipeironrod.png",
     "initial_active_state": false,

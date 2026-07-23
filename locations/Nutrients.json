@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Nutrients",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingmam"
+    ],
+    "children": [
+      {
+        "name": "Bacon Agaric",
+        "access_rules": [],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Nutrients",
+            "x": 290,
+            "y": 490,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Beryl Nut",
+        "access_rules": [],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Nutrients",
+            "x": 34,
+            "y": 490,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Paleberry",
+        "access_rules": [],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Nutrients",
+            "x": 162,
+            "y": 420,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Nutritional Processor",
+        "access_rules": [
+          "$locationcheck|@Bacon Agaric,@Modular Frame Recipe,@Steel Pipe Recipe,@Wire Recipe",
+          "$locationcheck|@Beryl Nut,@Modular Frame Recipe,@Steel Pipe Recipe,@Wire Recipe",
+          "$locationcheck|@Paleberry,@Modular Frame Recipe,@Steel Pipe Recipe,@Wire Recipe",
+          "$locationcheck|@Bacon Agaric,@Modular Frame Recipe,@Steel Pipe Recipe",
+          "$locationcheck|@Beryl Nut,@Modular Frame Recipe,@Steel Pipe Recipe",
+          "$locationcheck|@Paleberry,@Modular Frame Recipe,@Steel Pipe Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Nutrients",
+            "x": 163,
+            "y": 700,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Nutritional Inhaler",
+        "access_rules": [
+          "$locationcheck|@Nutritional Processor"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Nutrients",
+            "x": 163,
+            "y": 840,
+            "size": 66
+          }
+        ]
+      }
+    ]
+  }
+]
