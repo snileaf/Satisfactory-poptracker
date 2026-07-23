@@ -9,17 +9,17 @@
     "item_width": 36,
     "rows": [
       [
-        "recipe:coppersheet",
-        "recipe:steamedcoppersheet",
-        "recipe:rotor",
-        "recipe:copperrotor",
-        "recipe:steelrotor",
-        "recipe:modularframe",
-        "recipe:boltedframe",
-        "recipe:steeledframe",
-        "recipe:smartplating",
-        "recipe:plasticsmartplating",
-        "recipe:solidbiofuel"
+        "recipecoppersheet",
+        "recipesteamedcoppersheet",
+        "reciperotor",
+        "recipecopperrotor",
+        "recipesteelrotor",
+        "recipemodularframe",
+        "recipeboltedframe",
+        "recipesteeledframe",
+        "recipesmartplating",
+        "recipeplasticsmartplating",
+        "recipesolidbiofuel"
       ]
     ]
   }

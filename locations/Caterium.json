@@ -1,0 +1,331 @@
+[
+  {
+    "name": "Caterium",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingmam"
+    ],
+    "children": [
+      {
+        "name": "Caterium Electronics",
+        "access_rules": [
+          "$locationcheck|@Quickwire,@Quickwire Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 290,
+            "y": 455,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Bullet Guidance System",
+        "access_rules": [
+          "$locationcheck|@High-Speed Connector,@High-Speed Connector Recipe,reciperifleammo"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 546,
+            "y": 1015,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "High-Speed Connector",
+        "access_rules": [
+          "$locationcheck|@Caterium Electronics,@Quickwire Recipe,@Plastic Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 418,
+            "y": 665,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Caterium Discovery",
+        "access_rules": [],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 290,
+            "y": 34,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Caterium Ingots",
+        "access_rules": [
+          "$locationcheck|@Caterium Discovery"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 290,
+            "y": 175,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Quickwire",
+        "access_rules": [
+          "$locationcheck|@Caterium Ingots,@Caterium Ingot Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 290,
+            "y": 315,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Power Switch",
+        "access_rules": [
+          "$locationcheck|@AI Limiter,@Steel Beam Recipe,@AI Limiter Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 162,
+            "y": 945,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Power Poles Mk.2",
+        "access_rules": [
+          "$locationcheck|@Caterium Electronics,@Quickwire Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 290,
+            "y": 595,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "AI Limiter",
+        "access_rules": [
+          "$locationcheck|@Caterium Electronics,@Quickwire Recipe,@Copper Sheet Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 162,
+            "y": 665,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Smart Splitter",
+        "access_rules": [
+          "$locationcheck|@AI Limiter,@AI Limiter Recipe,@Reinforced Iron Plate Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 34,
+            "y": 1015,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Programmable Splitter",
+        "access_rules": [
+          "$locationcheck|@AI Limiter,@AI Limiter Recipe,@Heavy Modular Frame Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 162,
+            "y": 1225,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Zipline",
+        "access_rules": [
+          "$locationcheck|@Quickwire,@Quickwire Recipe,@Cable Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 162,
+            "y": 525,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Geothermal Generator",
+        "access_rules": [
+          "$locationcheck|@High-Speed Connector,@High-Speed Connector Recipe,@Quickwire Recipe,@Motor Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 418,
+            "y": 1225,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Priority Power Switch",
+        "access_rules": [
+          "$locationcheck|@High-Speed Connector,@High-Speed Connector Recipe,@Quickwire Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 418,
+            "y": 945,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Stun Rebar",
+        "access_rules": [
+          "$locationcheck|@Quickwire,@Quickwire,recipeironrebar"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 418,
+            "y": 525,
+            "size": 66
+          }
+        ]
+      },
+      {
+        "name": "Power Poles Mk.3",
+        "access_rules": [
+          "$locationcheck|Power Poles Mk.2,@High-Speed Connector Recipe,@Steel Pipe Recipe"
+        ],
+        "sections": [
+          {
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Caterium",
+            "x": 290,
+            "y": 735,
+            "size": 66
+          }
+        ]
+      }
+    ]
+  }
+]

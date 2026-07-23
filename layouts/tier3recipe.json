@@ -9,18 +9,18 @@
     "item_width": 36,
     "rows": [
       [
-        "recipe:steelingot",
-        "recipe:cokesteelingot",
-        "recipe:compactedsteelingot",
-        "recipe:solidsteelingot",
-        "recipe:steelbeam",
-        "recipe:aluminumbeam",
-        "recipe:moldedbeam",
-        "recipe:steelpipe",
-        "recipe:ironpipe",
-        "recipe:moldedsteelpipe",
-        "recipe:versatileframework",
-        "recipe:flexibleframework"
+        "recipesteelingot",
+        "recipecokesteelingot",
+        "recipecompactedsteelingot",
+        "recipesolidsteelingot",
+        "recipesteelbeam",
+        "recipealuminumbeam",
+        "recipemoldedbeam",
+        "recipesteelpipe",
+        "recipeironpipe",
+        "recipemoldedsteelpipe",
+        "recipeversatileframework",
+        "recipeflexibleframework"
       ]
     ]
   }

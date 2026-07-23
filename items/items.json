@@ -5,7 +5,7 @@
     "img": "images/items/recipesteelpipe.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:moldedsteelpipe"
+    "codes": "recipemoldedsteelpipe"
   },
   {
     "name": "Insulated Crystal Oscillator",
@@ -13,7 +13,7 @@
     "img": "images/items/recipecrystaloscillator.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:insulatedcrystaloscillator"
+    "codes": "recipeinsulatedcrystaloscillator"
   },
   {
     "name": "Pure Aluminum Ingot",
@@ -21,7 +21,7 @@
     "img": "images/items/recipealuminumingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:purealuminumingot"
+    "codes": "recipepurealuminumingot"
   },
   {
     "name": "Packaged Turbofuel",
@@ -29,15 +29,15 @@
     "img": "images/items/recipepackagedturbofuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:packagedturbofuel"
+    "codes": "recipepackagedturbofuel"
   },
   {
-    "name": "building:pipelinewallhole",
+    "name": "buildingpipelinewallhole",
     "type": "toggle",
     "img": "images/items/buildingpipelinewallhole.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:pipelinewallhole"
+    "codes": "buildingpipelinewallhole"
   },
   {
     "name": "Dimensional Depot Uploader",
@@ -45,7 +45,7 @@
     "img": "images/items/buildingdimensionaldepotuploader.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:dimensionaldepotuploader"
+    "codes": "buildingdimensionaldepotuploader"
   },
   {
     "name": "Leached Caterium Ingot",
@@ -53,7 +53,7 @@
     "img": "images/items/recipecateriumingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:leachedcateriumingot"
+    "codes": "recipeleachedcateriumingot"
   },
   {
     "name": "Blender",
@@ -61,7 +61,7 @@
     "img": "images/items/buildingblender.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:blender"
+    "codes": "buildingblender"
   },
   {
     "name": "Expanded Tool Belt",
@@ -109,7 +109,7 @@
     "img": "images/items/recipeironingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:pureironingot"
+    "codes": "recipepureironingot"
   },
   {
     "name": "Packaged Sulfuric Acid",
@@ -117,7 +117,7 @@
     "img": "images/items/recipepackagedsulfuricacid.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:packagedsulfuricacid"
+    "codes": "recipepackagedsulfuricacid"
   },
   {
     "name": "Fuel",
@@ -125,7 +125,7 @@
     "img": "images/items/recipefuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:fuel"
+    "codes": "recipefuel"
   },
   {
     "name": "Liquid Biofuel",
@@ -133,7 +133,7 @@
     "img": "images/items/recipeliquidbiofuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:liquidbiofuel"
+    "codes": "recipeliquidbiofuel"
   },
   {
     "name": "Empty Canister",
@@ -141,7 +141,7 @@
     "img": "images/items/recipeemptycanister.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:emptycanister"
+    "codes": "recipeemptycanister"
   },
   {
     "name": "Tractor",
@@ -149,7 +149,7 @@
     "img": "images/items/transporttractor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "transport:tractor"
+    "codes": "transporttractor"
   },
   {
     "name": "Modular Frame",
@@ -157,7 +157,7 @@
     "img": "images/items/recipemodularframe.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:modularframe"
+    "codes": "recipemodularframe"
   },
   {
     "name": "Packaged Oil",
@@ -165,7 +165,7 @@
     "img": "images/items/recipepackagedoil.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:packagedoil"
+    "codes": "recipepackagedoil"
   },
   {
     "name": "Fine Concrete",
@@ -173,7 +173,7 @@
     "img": "images/items/recipeconcrete.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:fineconcrete"
+    "codes": "recipefineconcrete"
   },
   {
     "name": "Spitter Protein",
@@ -181,7 +181,7 @@
     "img": "images/items/recipehatcherprotein.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:spitterprotein"
+    "codes": "recipespitterprotein"
   },
   {
     "name": "customizer:arrowpatterns",
@@ -197,7 +197,7 @@
     "img": "images/items/recipepackagedliquidbiofuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:packagedliquidbiofuel"
+    "codes": "recipepackagedliquidbiofuel"
   },
   {
     "name": "Power Pole Mk.3",
@@ -205,7 +205,7 @@
     "img": "images/items/buildingpowerpolemk.3.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:powerpolemk.3"
+    "codes": "buildingpowerpolemk.3"
   },
   {
     "name": "Compacted Steel Ingot",
@@ -213,7 +213,7 @@
     "img": "images/items/recipesteelingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:compactedsteelingot"
+    "codes": "recipecompactedsteelingot"
   },
   {
     "name": "Automated Speed Wiring",
@@ -221,7 +221,7 @@
     "img": "images/items/recipeautomatedwiring.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:automatedspeedwiring"
+    "codes": "recipeautomatedspeedwiring"
   },
   {
     "name": "Trains",
@@ -229,7 +229,7 @@
     "img": "images/items/transporttrains.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "transport:trains"
+    "codes": "transporttrains"
   },
   {
     "name": "Encased Industrial Pipe",
@@ -237,7 +237,7 @@
     "img": "images/items/recipeencasedindustrialbeam.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:encasedindustrialpipe"
+    "codes": "recipeencasedindustrialpipe"
   },
   {
     "name": "Stator",
@@ -245,7 +245,7 @@
     "img": "images/items/recipestator.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:stator"
+    "codes": "recipestator"
   },
   {
     "name": "customizer:glassroofmaterial",
@@ -261,7 +261,7 @@
     "img": "images/items/buildingconveyorliftmk.3.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyorliftmk.3"
+    "codes": "buildingconveyorliftmk.3"
   },
   {
     "name": "Nobelisk",
@@ -269,15 +269,15 @@
     "img": "images/items/recipenobelisk.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:nobelisk"
+    "codes": "recipenobelisk"
   },
   {
-    "name": "building:tiltedwalls",
+    "name": "buildingtiltedwalls",
     "type": "toggle",
     "img": "images/items/buildingtiltedwalls.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:tiltedwalls"
+    "codes": "buildingtiltedwalls"
   },
   {
     "name": "Programmable Splitter",
@@ -285,7 +285,7 @@
     "img": "images/items/buildingprogrammablesplitter.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:programmablesplitter"
+    "codes": "buildingprogrammablesplitter"
   },
   {
     "name": "Smelter",
@@ -293,7 +293,7 @@
     "img": "images/items/buildingsmelter.png",
     "initial_active_state": true,
     "overlay_align": "right",
-    "codes": "building:smelter"
+    "codes": "buildingsmelter"
   },
   {
     "name": "Uranium Fuel Unit",
@@ -301,7 +301,7 @@
     "img": "images/items/recipeuraniumfuelrod.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:uraniumfuelunit"
+    "codes": "recipeuraniumfuelunit"
   },
   {
     "name": "Packaged Nitrogen Gas",
@@ -309,15 +309,15 @@
     "img": "images/items/recipepackagednitrogengas.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:packagednitrogengas"
+    "codes": "recipepackagednitrogengas"
   },
   {
-    "name": "building:cablebeampack",
+    "name": "buildingcablebeampack",
     "type": "toggle",
     "img": "images/items/buildingcablebeampack.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:cablebeampack"
+    "codes": "buildingcablebeampack"
   },
   {
     "name": "Power Shard (1)",
@@ -325,7 +325,7 @@
     "img": "images/items/recipepowershard(1).png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:powershard(1)"
+    "codes": "recipepowershard(1)"
   },
   {
     "name": "Space Elevator",
@@ -333,7 +333,7 @@
     "img": "images/items/buildingspaceelevator.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:spaceelevator"
+    "codes": "buildingspaceelevator"
   },
   {
     "name": "Petroleum Coke",
@@ -341,7 +341,7 @@
     "img": "images/items/recipepetroleumcoke.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:petroleumcoke"
+    "codes": "recipepetroleumcoke"
   },
   {
     "name": "Silicon Circuit Board",
@@ -349,7 +349,7 @@
     "img": "images/items/recipecircuitboard.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:siliconcircuitboard"
+    "codes": "recipesiliconcircuitboard"
   },
   {
     "name": "Coated Iron Canister",
@@ -357,7 +357,7 @@
     "img": "images/items/recipeemptycanister.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:coatedironcanister"
+    "codes": "recipecoatedironcanister"
   },
   {
     "name": "Alien DNA Capsule",
@@ -365,7 +365,7 @@
     "img": "images/items/recipealiendnacapsule.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:aliendnacapsule"
+    "codes": "recipealiendnacapsule"
   },
   {
     "name": "U-Jelly Landing Pad",
@@ -373,7 +373,7 @@
     "img": "images/items/buildingu-jellylandingpad.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:u-jellylandingpad"
+    "codes": "buildingu-jellylandingpad"
   },
   {
     "name": "Gas Mask",
@@ -381,15 +381,15 @@
     "img": "images/items/recipegasmask.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:gasmask"
+    "codes": "recipegasmask"
   },
   {
-    "name": "building:framefoundation",
+    "name": "buildingframefoundation",
     "type": "toggle",
     "img": "images/items/buildingframefoundation.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:framefoundation"
+    "codes": "buildingframefoundation"
   },
   {
     "name": "Residual Fuel",
@@ -397,15 +397,15 @@
     "img": "images/items/recipefuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:residualfuel"
+    "codes": "reciperesidualfuel"
   },
   {
-    "name": "recipe:ironingot",
+    "name": "recipeironingot",
     "type": "toggle",
     "img": "images/items/recipeironingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ironingot"
+    "codes": "recipeironingot"
   },
   {
     "name": "Fluid Trains",
@@ -413,7 +413,7 @@
     "img": "images/items/transportfluidtrains.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "transport:fluidtrains"
+    "codes": "transportfluidtrains"
   },
   {
     "name": "Steel Rod",
@@ -421,7 +421,7 @@
     "img": "images/items/recipeironrod.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:steelrod"
+    "codes": "recipesteelrod"
   },
   {
     "name": "Homing Rifle Ammo",
@@ -429,7 +429,7 @@
     "img": "images/items/recipehomingrifleammo.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:homingrifleammo"
+    "codes": "recipehomingrifleammo"
   },
   {
     "name": "Superposition Oscillator",
@@ -437,7 +437,7 @@
     "img": "images/items/recipesuperpositionoscillator.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:superpositionoscillator"
+    "codes": "recipesuperpositionoscillator"
   },
   {
     "name": "Turbo Electric Motor",
@@ -445,7 +445,7 @@
     "img": "images/items/recipeturbomotor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:turboelectricmotor"
+    "codes": "recipeturboelectricmotor"
   },
   {
     "name": "Bolted Frame",
@@ -453,7 +453,7 @@
     "img": "images/items/recipemodularframe.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:boltedframe"
+    "codes": "recipeboltedframe"
   },
   {
     "name": "Ficsite Ingot (Iron)",
@@ -461,7 +461,7 @@
     "img": "images/items/recipeficsiteingot(aluminum).png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ficsiteingot(iron)"
+    "codes": "recipeficsiteingot(iron)"
   },
   {
     "name": "Super-Statecomputer",
@@ -469,7 +469,7 @@
     "img": "images/items/recipesupercomputer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:super-statecomputer"
+    "codes": "recipesuper-statecomputer"
   },
   {
     "name": "Quartz Purification",
@@ -477,7 +477,7 @@
     "img": "images/items/recipequartzcrystal.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:quartzpurification"
+    "codes": "recipequartzpurification"
   },
   {
     "name": "Conveyor Mk.3",
@@ -485,7 +485,7 @@
     "img": "images/items/buildingconveyormk.3.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyormk.3"
+    "codes": "buildingconveyormk.3"
   },
   {
     "name": "Heat Exchanger",
@@ -493,7 +493,7 @@
     "img": "images/items/recipeheatsink.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:heatexchanger"
+    "codes": "recipeheatexchanger"
   },
   {
     "name": "Fused Modular Frame",
@@ -501,15 +501,15 @@
     "img": "images/items/recipefusedmodularframe.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:fusedmodularframe"
+    "codes": "recipefusedmodularframe"
   },
   {
-    "name": "building:walloutletmk.3",
+    "name": "buildingwalloutletmk.3",
     "type": "toggle",
     "img": "images/items/buildingwalloutletmk.3.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:walloutletmk.3"
+    "codes": "buildingwalloutletmk.3"
   },
   {
     "name": "Alien Power Augmenter",
@@ -517,15 +517,15 @@
     "img": "images/items/buildingalienpoweraugmenter.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:alienpoweraugmenter"
+    "codes": "buildingalienpoweraugmenter"
   },
   {
-    "name": "building:industrialwalkways",
+    "name": "buildingindustrialwalkways",
     "type": "toggle",
     "img": "images/items/buildingindustrialwalkways.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:industrialwalkways"
+    "codes": "buildingindustrialwalkways"
   },
   {
     "name": "customizer:unpaintedfinish",
@@ -536,12 +536,12 @@
     "codes": "customizer:unpaintedfinish"
   },
   {
-    "name": "building:invertedrampwallbundle",
+    "name": "buildinginvertedrampwallbundle",
     "type": "toggle",
     "img": "images/items/buildinginvertedrampwallbundle.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:invertedrampwallbundle"
+    "codes": "buildinginvertedrampwallbundle"
   },
   {
     "name": "Pink Diamonds",
@@ -549,7 +549,7 @@
     "img": "images/items/recipediamonds.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:pinkdiamonds"
+    "codes": "recipepinkdiamonds"
   },
   {
     "name": "Assembly Director System",
@@ -557,7 +557,7 @@
     "img": "images/items/recipeassemblydirectorsystem.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:assemblydirectorsystem"
+    "codes": "recipeassemblydirectorsystem"
   },
   {
     "name": "Conveyor Mk.4",
@@ -565,15 +565,15 @@
     "img": "images/items/buildingconveyormk.4.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyormk.4"
+    "codes": "buildingconveyormk.4"
   },
   {
-    "name": "building:streetlight",
+    "name": "buildingstreetlight",
     "type": "toggle",
     "img": "images/items/buildingstreetlight.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:streetlight"
+    "codes": "buildingstreetlight"
   },
   {
     "name": "Shatter Rebar",
@@ -581,7 +581,7 @@
     "img": "images/items/recipeshatterrebar.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:shatterrebar"
+    "codes": "recipeshatterrebar"
   },
   {
     "name": "Drones",
@@ -589,7 +589,7 @@
     "img": "images/items/transportdrones.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "transport:drones"
+    "codes": "transportdrones"
   },
   {
     "name": "Empty Fluid Tank",
@@ -597,7 +597,7 @@
     "img": "images/items/recipeemptyfluidtank.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:emptyfluidtank"
+    "codes": "recipeemptyfluidtank"
   },
   {
     "name": "Industrial Fluid Buffer",
@@ -605,7 +605,7 @@
     "img": "images/items/buildingindustrialfluidbuffer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:industrialfluidbuffer"
+    "codes": "buildingindustrialfluidbuffer"
   },
   {
     "name": "Heavy Oil Residue",
@@ -613,7 +613,7 @@
     "img": "images/items/recipeheavyoilresidue.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:heavyoilresidue"
+    "codes": "recipeheavyoilresidue"
   },
   {
     "name": "Conveyor Lift Mk.6",
@@ -621,7 +621,7 @@
     "img": "images/items/buildingconveyorliftmk.6.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyorliftmk.6"
+    "codes": "buildingconveyorliftmk.6"
   },
   {
     "name": "Ficsite Ingot (Aluminum)",
@@ -629,7 +629,7 @@
     "img": "images/items/recipeficsiteingot(aluminum).png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ficsiteingot(aluminum)"
+    "codes": "recipeficsiteingot(aluminum)"
   },
   {
     "name": "Power Shard (5)",
@@ -637,7 +637,7 @@
     "img": "images/items/recipepowershard(1).png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:powershard(5)"
+    "codes": "recipepowershard(5)"
   },
   {
     "name": "Caterium Wire",
@@ -645,7 +645,7 @@
     "img": "images/items/recipewire.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:cateriumwire"
+    "codes": "recipecateriumwire"
   },
   {
     "name": "Plutonium Fuel Rod",
@@ -653,7 +653,7 @@
     "img": "images/items/recipeplutoniumfuelrod.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:plutoniumfuelrod"
+    "codes": "recipeplutoniumfuelrod"
   },
   {
     "name": "Rocket Fuel",
@@ -661,15 +661,15 @@
     "img": "images/items/reciperocketfuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:rocketfuel"
+    "codes": "reciperocketfuel"
   },
   {
-    "name": "building:conveyorwallmount",
+    "name": "buildingconveyorwallmount",
     "type": "toggle",
     "img": "images/items/buildingconveyorwallmount.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyorwallmount"
+    "codes": "buildingconveyorwallmount"
   },
   {
     "name": "Stackable Pipeline Support",
@@ -677,7 +677,7 @@
     "img": "images/items/buildingstackablepipelinesupport.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:stackablepipelinesupport"
+    "codes": "buildingstackablepipelinesupport"
   },
   {
     "name": "Inflated Pocket Dimension",
@@ -725,7 +725,7 @@
     "img": "images/items/recipesteelingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:steelingot"
+    "codes": "recipesteelingot"
   },
   {
     "name": "Alien Power Matrix",
@@ -733,7 +733,7 @@
     "img": "images/items/recipealienpowermatrix.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:alienpowermatrix"
+    "codes": "recipealienpowermatrix"
   },
   {
     "name": "Fertile Uranium",
@@ -741,15 +741,15 @@
     "img": "images/items/recipenon-fissileuranium.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:fertileuranium"
+    "codes": "recipefertileuranium"
   },
   {
-    "name": "transport:hypertubewallhole",
+    "name": "transporthypertubewallhole",
     "type": "toggle",
     "img": "images/items/transporthypertubewallhole.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "transport:hypertubewallhole"
+    "codes": "transporthypertubewallhole"
   },
   {
     "name": "Diluted Fuel",
@@ -757,7 +757,7 @@
     "img": "images/items/recipefuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:dilutedfuel"
+    "codes": "recipedilutedfuel"
   },
   {
     "name": "Turbo Diamonds",
@@ -765,15 +765,15 @@
     "img": "images/items/recipediamonds.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:turbodiamonds"
+    "codes": "recipeturbodiamonds"
   },
   {
-    "name": "building:invertedramppack",
+    "name": "buildinginvertedramppack",
     "type": "toggle",
     "img": "images/items/buildinginvertedramppack.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:invertedramppack"
+    "codes": "buildinginvertedramppack"
   },
   {
     "name": "Smart Plating",
@@ -781,7 +781,7 @@
     "img": "images/items/recipesmartplating.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:smartplating"
+    "codes": "recipesmartplating"
   },
   {
     "name": "SAM Fluctuator",
@@ -789,7 +789,7 @@
     "img": "images/items/recipesamfluctuator.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:samfluctuator"
+    "codes": "recipesamfluctuator"
   },
   {
     "name": "Radio Control System",
@@ -797,7 +797,7 @@
     "img": "images/items/reciperadiocontrolunit.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:radiocontrolsystem"
+    "codes": "reciperadiocontrolsystem"
   },
   {
     "name": "Caterium Circuit Board",
@@ -805,7 +805,7 @@
     "img": "images/items/recipecircuitboard.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:cateriumcircuitboard"
+    "codes": "recipecateriumcircuitboard"
   },
   {
     "name": "Electrode Aluminum Scrap",
@@ -813,7 +813,7 @@
     "img": "images/items/recipealuminumscrap.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:electrodealuminumscrap"
+    "codes": "recipeelectrodealuminumscrap"
   },
   {
     "name": "Coal-Powered Generator",
@@ -821,7 +821,7 @@
     "img": "images/items/buildingcoalgenerator.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:coalgenerator"
+    "codes": "buildingcoalgenerator"
   },
   {
     "name": "Conveyor Lift Mk.5",
@@ -829,15 +829,15 @@
     "img": "images/items/buildingconveyorliftmk.5.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyorliftmk.5"
+    "codes": "buildingconveyorliftmk.5"
   },
   {
-    "name": "recipe:biocoal",
+    "name": "recipebiocoal",
     "type": "toggle",
     "img": "images/items/recipebiocoal.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:biocoal"
+    "codes": "recipebiocoal"
   },
   {
     "name": "Resource Well Pressurizer",
@@ -845,7 +845,7 @@
     "img": "images/items/buildingresourcewellpressurizer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:resourcewellpressurizer"
+    "codes": "buildingresourcewellpressurizer"
   },
   {
     "name": "Radio Control Unit",
@@ -853,7 +853,7 @@
     "img": "images/items/reciperadiocontrolunit.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:radiocontrolunit"
+    "codes": "reciperadiocontrolunit"
   },
   {
     "name": "Pipes Mk.2",
@@ -861,7 +861,7 @@
     "img": "images/items/buildingpipesmk.2.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:pipesmk.2"
+    "codes": "buildingpipesmk.2"
   },
   {
     "name": "Plastic",
@@ -869,15 +869,15 @@
     "img": "images/items/recipeplastic.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:plastic"
+    "codes": "recipeplastic"
   },
   {
-    "name": "building:conveyorwallhole",
+    "name": "buildingconveyorwallhole",
     "type": "toggle",
     "img": "images/items/buildingconveyorwallhole.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyorwallhole"
+    "codes": "buildingconveyorwallhole"
   },
   {
     "name": "Flood Light Tower",
@@ -885,7 +885,7 @@
     "img": "images/items/buildingfloodlighttower.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:floodlighttower"
+    "codes": "buildingfloodlighttower"
   },
   {
     "name": "Hog Protein",
@@ -893,7 +893,7 @@
     "img": "images/items/recipehatcherprotein.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:hogprotein"
+    "codes": "recipehogprotein"
   },
   {
     "name": "Rubber",
@@ -901,7 +901,7 @@
     "img": "images/items/reciperubber.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:rubber"
+    "codes": "reciperubber"
   },
   {
     "name": "Quickwire Stator",
@@ -909,7 +909,7 @@
     "img": "images/items/recipestator.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:quickwirestator"
+    "codes": "recipequickwirestator"
   },
   {
     "name": "Heat Sink",
@@ -917,7 +917,7 @@
     "img": "images/items/recipeheatsink.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:heatsink"
+    "codes": "recipeheatsink"
   },
   {
     "name": "Leached Copper Ingot",
@@ -925,15 +925,15 @@
     "img": "images/items/recipecopperingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:leachedcopperingot"
+    "codes": "recipeleachedcopperingot"
   },
   {
-    "name": "building:roadbarrier",
+    "name": "buildingroadbarrier",
     "type": "toggle",
     "img": "images/items/buildingroadbarrier.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:roadbarrier"
+    "codes": "buildingroadbarrier"
   },
   {
     "name": "Bolted Iron Plate",
@@ -941,7 +941,7 @@
     "img": "images/items/recipereinforcedironplate.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:boltedironplate"
+    "codes": "recipeboltedironplate"
   },
   {
     "name": "Plutonium Fuel Unit",
@@ -949,15 +949,15 @@
     "img": "images/items/recipeplutoniumfuelrod.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:plutoniumfuelunit"
+    "codes": "recipeplutoniumfuelunit"
   },
   {
-    "name": "building:billboardset",
+    "name": "buildingbillboardset",
     "type": "toggle",
     "img": "images/items/buildingbillboardset.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:billboardset"
+    "codes": "buildingbillboardset"
   },
   {
     "name": "Black Powder",
@@ -965,7 +965,7 @@
     "img": "images/items/recipeblackpowder.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:blackpowder"
+    "codes": "recipeblackpowder"
   },
   {
     "name": "OC Supercomputer",
@@ -973,7 +973,7 @@
     "img": "images/items/recipesupercomputer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ocsupercomputer"
+    "codes": "recipeocsupercomputer"
   },
   {
     "name": "customizer:transportationiconpatterns",
@@ -989,7 +989,7 @@
     "img": "images/items/recipeconcrete.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:rubberconcrete"
+    "codes": "reciperubberconcrete"
   },
   {
     "name": "Crystal Oscillator",
@@ -997,7 +997,7 @@
     "img": "images/items/recipecrystaloscillator.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:crystaloscillator"
+    "codes": "recipecrystaloscillator"
   },
   {
     "name": "Nitric Acid",
@@ -1005,7 +1005,7 @@
     "img": "images/items/recipenitricacid.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:nitricacid"
+    "codes": "recipenitricacid"
   },
   {
     "name": "Encased Uranium Cell",
@@ -1013,7 +1013,7 @@
     "img": "images/items/recipeencaseduraniumcell.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:encaseduraniumcell"
+    "codes": "recipeencaseduraniumcell"
   },
   {
     "name": "Assembler",
@@ -1021,7 +1021,7 @@
     "img": "images/items/buildingassembler.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:assembler"
+    "codes": "buildingassembler"
   },
   {
     "name": "Power Pole Mk.2",
@@ -1029,7 +1029,7 @@
     "img": "images/items/buildingpowerpolemk.2.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:powerpolemk.2"
+    "codes": "buildingpowerpolemk.2"
   },
   {
     "name": "Turbo Pressure Motor",
@@ -1037,7 +1037,7 @@
     "img": "images/items/recipeturbomotor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:turbopressuremotor"
+    "codes": "recipeturbopressuremotor"
   },
   {
     "name": "Blade Runners",
@@ -1045,15 +1045,15 @@
     "img": "images/items/recipebladerunners.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:bladerunners"
+    "codes": "recipebladerunners"
   },
   {
-    "name": "recipe:biomass(wood)",
+    "name": "recipebiomass(wood)",
     "type": "toggle",
     "img": "images/items/recipebiomass(wood).png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:biomass(wood)"
+    "codes": "recipebiomass(wood)"
   },
   {
     "name": "Recycled Plastic",
@@ -1061,7 +1061,7 @@
     "img": "images/items/recipeplastic.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:recycledplastic"
+    "codes": "reciperecycledplastic"
   },
   {
     "name": "Dark Matter Residue",
@@ -1069,7 +1069,7 @@
     "img": "images/items/recipedarkmatterresidue.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:darkmatterresidue"
+    "codes": "recipedarkmatterresidue"
   },
   {
     "name": "customizer:coatedconcretefoundationmaterial",
@@ -1085,7 +1085,7 @@
     "img": "images/items/recipeiodine-infusedfilter.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:iodine-infusedfilter"
+    "codes": "recipeiodine-infusedfilter"
   },
   {
     "name": "Jump Pad",
@@ -1093,7 +1093,7 @@
     "img": "images/items/buildingjumppad.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:jumppad"
+    "codes": "buildingjumppad"
   },
   {
     "name": "Nutritional Inhaler",
@@ -1101,23 +1101,23 @@
     "img": "images/items/recipenutritionalinhaler.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:nutritionalinhaler"
+    "codes": "recipenutritionalinhaler"
   },
   {
-    "name": "recipe:goldenfactorycart",
+    "name": "recipegoldenfactorycart",
     "type": "toggle",
     "img": "images/items/recipegoldenfactorycart.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:goldenfactorycart"
+    "codes": "recipegoldenfactorycart"
   },
   {
-    "name": "building:steel-framedwindows",
+    "name": "buildingsteel-framedwindows",
     "type": "toggle",
     "img": "images/items/buildingsteel-framedwindows.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:steel-framedwindows"
+    "codes": "buildingsteel-framedwindows"
   },
   {
     "name": "Encased Plutonium Cell",
@@ -1125,7 +1125,7 @@
     "img": "images/items/recipeencasedplutoniumcell.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:encasedplutoniumcell"
+    "codes": "recipeencasedplutoniumcell"
   },
   {
     "name": "Aluminum Casing",
@@ -1133,7 +1133,7 @@
     "img": "images/items/recipealuminumcasing.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:aluminumcasing"
+    "codes": "recipealuminumcasing"
   },
   {
     "name": "Nuclear Power Plant",
@@ -1141,23 +1141,23 @@
     "img": "images/items/buildingnuclearpowerplant.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:nuclearpowerplant"
+    "codes": "buildingnuclearpowerplant"
   },
   {
-    "name": "building:quarterpipespack",
+    "name": "buildingquarterpipespack",
     "type": "toggle",
     "img": "images/items/buildingquarterpipespack.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:quarterpipespack"
+    "codes": "buildingquarterpipespack"
   },
   {
-    "name": "transport:cyberwagon",
+    "name": "transportcyberwagon",
     "type": "toggle",
     "img": "images/items/transportcyberwagon.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "transport:cyberwagon"
+    "codes": "transportcyberwagon"
   },
   {
     "name": "Lookout Tower",
@@ -1165,7 +1165,7 @@
     "img": "images/items/buildinglookouttower.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:lookouttower"
+    "codes": "buildinglookouttower"
   },
   {
     "name": "Quartz Crystal",
@@ -1173,7 +1173,7 @@
     "img": "images/items/recipequartzcrystal.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:quartzcrystal"
+    "codes": "recipequartzcrystal"
   },
   {
     "name": "customizer:steel-framedwindows",
@@ -1189,7 +1189,7 @@
     "img": "images/items/buildingwallmountedfloodlight.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:wallmountedfloodlight"
+    "codes": "buildingwallmountedfloodlight"
   },
   {
     "name": "Heavy Encased Frame",
@@ -1197,7 +1197,7 @@
     "img": "images/items/recipeheavymodularframe.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:heavyencasedframe"
+    "codes": "recipeheavyencasedframe"
   },
   {
     "name": "Water Extractor",
@@ -1205,7 +1205,7 @@
     "img": "images/items/buildingwaterextractor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:waterextractor"
+    "codes": "buildingwaterextractor"
   },
   {
     "name": "Steel Cast Plate",
@@ -1213,7 +1213,7 @@
     "img": "images/items/recipeironplate.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:steelcastplate"
+    "codes": "recipesteelcastplate"
   },
   {
     "name": "Diamonds",
@@ -1221,7 +1221,7 @@
     "img": "images/items/recipediamonds.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:diamonds"
+    "codes": "recipediamonds"
   },
   {
     "name": "Rifle Ammo",
@@ -1229,15 +1229,15 @@
     "img": "images/items/reciperifleammo.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:rifleammo"
+    "codes": "reciperifleammo"
   },
   {
-    "name": "recipe:cable",
+    "name": "recipecable",
     "type": "toggle",
     "img": "images/items/recipecable.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:cable"
+    "codes": "recipecable"
   },
   {
     "name": "Nuclear Pasta",
@@ -1245,7 +1245,7 @@
     "img": "images/items/recipenuclearpasta.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:nuclearpasta"
+    "codes": "recipenuclearpasta"
   },
   {
     "name": "Supercomputer",
@@ -1253,7 +1253,7 @@
     "img": "images/items/recipesupercomputer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:supercomputer"
+    "codes": "recipesupercomputer"
   },
   {
     "name": "Time Crystal",
@@ -1261,7 +1261,7 @@
     "img": "images/items/recipetimecrystal.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:timecrystal"
+    "codes": "recipetimecrystal"
   },
   {
     "name": "Conveyor Lift Mk.1",
@@ -1269,15 +1269,15 @@
     "img": "images/items/buildingconveyorliftmk.1.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyorliftmk.1"
+    "codes": "buildingconveyorliftmk.1"
   },
   {
-    "name": "building:lightscontrolpanel",
+    "name": "buildinglightscontrolpanel",
     "type": "toggle",
     "img": "images/items/buildinglightscontrolpanel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:lightscontrolpanel"
+    "codes": "buildinglightscontrolpanel"
   },
   {
     "name": "Miner Mk.3",
@@ -1285,7 +1285,7 @@
     "img": "images/items/buildingminermk.3.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:minermk.3"
+    "codes": "buildingminermk.3"
   },
   {
     "name": "Turbo Motor",
@@ -1293,7 +1293,7 @@
     "img": "images/items/recipeturbomotor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:turbomotor"
+    "codes": "recipeturbomotor"
   },
   {
     "name": "Copper Alloy Ingot",
@@ -1301,7 +1301,7 @@
     "img": "images/items/recipecopperingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:copperalloyingot"
+    "codes": "recipecopperalloyingot"
   },
   {
     "name": "Instant Plutonium Cell",
@@ -1309,15 +1309,15 @@
     "img": "images/items/recipeencasedplutoniumcell.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:instantplutoniumcell"
+    "codes": "recipeinstantplutoniumcell"
   },
   {
-    "name": "building:wallsorange",
+    "name": "buildingwallsorange",
     "type": "toggle",
     "img": "images/items/buildingwallsorange.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:wallsorange"
+    "codes": "buildingwallsorange"
   },
   {
     "name": "Flexible Framework",
@@ -1325,7 +1325,7 @@
     "img": "images/items/recipeversatileframework.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:flexibleframework"
+    "codes": "recipeflexibleframework"
   },
   {
     "name": "Stitched Iron Plate",
@@ -1333,7 +1333,7 @@
     "img": "images/items/recipereinforcedironplate.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:stitchedironplate"
+    "codes": "recipestitchedironplate"
   },
   {
     "name": "customizer:constructionfences",
@@ -1349,15 +1349,15 @@
     "img": "images/items/buildingblueprintdesigner.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:blueprintdesigner"
+    "codes": "buildingblueprintdesigner"
   },
   {
-    "name": "building:pipelinefloorhole",
+    "name": "buildingpipelinefloorhole",
     "type": "toggle",
     "img": "images/items/buildingpipelinefloorhole.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:pipelinefloorhole"
+    "codes": "buildingpipelinefloorhole"
   },
   {
     "name": "Oil Extractor",
@@ -1365,7 +1365,7 @@
     "img": "images/items/buildingoilextractor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:oilextractor"
+    "codes": "buildingoilextractor"
   },
   {
     "name": "Polyester Fabric",
@@ -1373,7 +1373,7 @@
     "img": "images/items/recipefabric.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:polyesterfabric"
+    "codes": "recipepolyesterfabric"
   },
   {
     "name": "Iron Pipe",
@@ -1381,7 +1381,7 @@
     "img": "images/items/recipesteelpipe.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ironpipe"
+    "codes": "recipeironpipe"
   },
   {
     "name": "Packaged Heavy Oil Residue",
@@ -1389,7 +1389,7 @@
     "img": "images/items/recipepackagedheavyoilresidue.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:packagedheavyoilresidue"
+    "codes": "recipepackagedheavyoilresidue"
   },
   {
     "name": "Smokeless Powder",
@@ -1397,15 +1397,15 @@
     "img": "images/items/recipesmokelesspowder.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:smokelesspowder"
+    "codes": "recipesmokelesspowder"
   },
   {
-    "name": "building:framepillar",
+    "name": "buildingframepillar",
     "type": "toggle",
     "img": "images/items/buildingframepillar.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:framepillar"
+    "codes": "buildingframepillar"
   },
   {
     "name": "Xeno-Basher",
@@ -1413,15 +1413,15 @@
     "img": "images/items/recipexeno-basher.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:xeno-basher"
+    "codes": "recipexeno-basher"
   },
   {
-    "name": "recipe:charcoal",
+    "name": "recipecharcoal",
     "type": "toggle",
     "img": "images/items/recipecharcoal.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:charcoal"
+    "codes": "recipecharcoal"
   },
   {
     "name": "Power Shard (2)",
@@ -1429,15 +1429,15 @@
     "img": "images/items/recipepowershard(1).png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:powershard(2)"
+    "codes": "recipepowershard(2)"
   },
   {
-    "name": "building:windowedwalls",
+    "name": "buildingwindowedwalls",
     "type": "toggle",
     "img": "images/items/buildingwindowedwalls.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:windowedwalls"
+    "codes": "buildingwindowedwalls"
   },
   {
     "name": "Steel Canister",
@@ -1445,15 +1445,15 @@
     "img": "images/items/recipeemptycanister.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:steelcanister"
+    "codes": "recipesteelcanister"
   },
   {
-    "name": "recipe:screw",
+    "name": "recipescrew",
     "type": "toggle",
     "img": "images/items/recipescrew.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:screw"
+    "codes": "recipescrew"
   },
   {
     "name": "Coke Steel Ingot",
@@ -1461,7 +1461,7 @@
     "img": "images/items/recipesteelingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:cokesteelingot"
+    "codes": "recipecokesteelingot"
   },
   {
     "name": "Tempered Caterium Ingot",
@@ -1469,7 +1469,7 @@
     "img": "images/items/recipecateriumingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:temperedcateriumingot"
+    "codes": "recipetemperedcateriumingot"
   },
   {
     "name": "Uranium Fuel Rod",
@@ -1477,7 +1477,7 @@
     "img": "images/items/recipeuraniumfuelrod.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:uraniumfuelrod"
+    "codes": "recipeuraniumfuelrod"
   },
   {
     "name": "Tempered Copper Ingot",
@@ -1485,7 +1485,7 @@
     "img": "images/items/recipecopperingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:temperedcopperingot"
+    "codes": "recipetemperedcopperingot"
   },
   {
     "name": "Rifle",
@@ -1493,7 +1493,7 @@
     "img": "images/items/reciperifle.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:rifle"
+    "codes": "reciperifle"
   },
   {
     "name": "Quantum Encoder",
@@ -1501,7 +1501,7 @@
     "img": "images/items/buildingquantumencoder.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:quantumencoder"
+    "codes": "buildingquantumencoder"
   },
   {
     "name": "Dark Matter Trap",
@@ -1509,7 +1509,7 @@
     "img": "images/items/recipedarkmattercrystal.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:darkmattertrap"
+    "codes": "recipedarkmattertrap"
   },
   {
     "name": "Cast Screw",
@@ -1517,7 +1517,7 @@
     "img": "images/items/recipescrew.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:castscrew"
+    "codes": "recipecastscrew"
   },
   {
     "name": "doggowithpowerslug",
@@ -1533,15 +1533,15 @@
     "img": "images/items/recipesulfuricacid.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:sulfuricacid"
+    "codes": "recipesulfuricacid"
   },
   {
-    "name": "transport:hypertubefloorhole",
+    "name": "transporthypertubefloorhole",
     "type": "toggle",
     "img": "images/items/transporthypertubefloorhole.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "transport:hypertubefloorhole"
+    "codes": "transporthypertubefloorhole"
   },
   {
     "name": "Alclad Aluminum Sheet",
@@ -1549,7 +1549,7 @@
     "img": "images/items/recipealcladaluminumsheet.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:alcladaluminumsheet"
+    "codes": "recipealcladaluminumsheet"
   },
   {
     "name": "Cloudy Diamonds",
@@ -1557,15 +1557,15 @@
     "img": "images/items/recipediamonds.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:cloudydiamonds"
+    "codes": "recipecloudydiamonds"
   },
   {
-    "name": "recipe:wire",
+    "name": "recipewire",
     "type": "toggle",
     "img": "images/items/recipewire.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:wire"
+    "codes": "recipewire"
   },
   {
     "name": "Quickwire Cable",
@@ -1573,7 +1573,7 @@
     "img": "images/items/recipecable.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:quickwirecable"
+    "codes": "recipequickwirecable"
   },
   {
     "name": "Cooling Device",
@@ -1581,31 +1581,31 @@
     "img": "images/items/recipecoolingsystem.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:coolingdevice"
+    "codes": "recipecoolingdevice"
   },
   {
-    "name": "building:structuralbeampack",
+    "name": "buildingstructuralbeampack",
     "type": "toggle",
     "img": "images/items/buildingstructuralbeampack.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:structuralbeampack"
+    "codes": "buildingstructuralbeampack"
   },
   {
-    "name": "building:gates",
+    "name": "buildinggates",
     "type": "toggle",
     "img": "images/items/buildinggates.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:gates"
+    "codes": "buildinggates"
   },
   {
-    "name": "transport:hypertubewallsupport",
+    "name": "transporthypertubewallsupport",
     "type": "toggle",
     "img": "images/items/transporthypertubewallsupport.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "transport:hypertubewallsupport"
+    "codes": "transporthypertubewallsupport"
   },
   {
     "name": "Storage Container",
@@ -1613,15 +1613,15 @@
     "img": "images/items/buildingstoragecontainer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:storagecontainer"
+    "codes": "buildingstoragecontainer"
   },
   {
-    "name": "transport:factorycart",
+    "name": "transportfactorycart",
     "type": "toggle",
     "img": "images/items/transportfactorycart.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "transport:factorycart"
+    "codes": "transportfactorycart"
   },
   {
     "name": "Pressure Conversion Cube",
@@ -1629,7 +1629,7 @@
     "img": "images/items/recipepressureconversioncube.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:pressureconversioncube"
+    "codes": "recipepressureconversioncube"
   },
   {
     "name": "Fused Quartz Crystal",
@@ -1637,7 +1637,7 @@
     "img": "images/items/recipequartzcrystal.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:fusedquartzcrystal"
+    "codes": "recipefusedquartzcrystal"
   },
   {
     "name": "Computer",
@@ -1645,7 +1645,7 @@
     "img": "images/items/recipecomputer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:computer"
+    "codes": "recipecomputer"
   },
   {
     "name": "Cluster Nobelisk",
@@ -1653,7 +1653,7 @@
     "img": "images/items/recipeclusternobelisk.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:clusternobelisk"
+    "codes": "recipeclusternobelisk"
   },
   {
     "name": "Iron Wire",
@@ -1661,7 +1661,7 @@
     "img": "images/items/recipewire.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ironwire"
+    "codes": "recipeironwire"
   },
   {
     "name": "Explosive Rebar",
@@ -1669,7 +1669,7 @@
     "img": "images/items/recipeexplosiverebar.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:explosiverebar"
+    "codes": "recipeexplosiverebar"
   },
   {
     "name": "Zipline",
@@ -1677,7 +1677,7 @@
     "img": "images/items/recipezipline.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:zipline"
+    "codes": "recipezipline"
   },
   {
     "name": "Molded Beam",
@@ -1685,7 +1685,7 @@
     "img": "images/items/recipesteelbeam.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:moldedbeam"
+    "codes": "recipemoldedbeam"
   },
   {
     "name": "Turbo Heavy Fuel",
@@ -1693,7 +1693,7 @@
     "img": "images/items/recipeturbofuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:turboheavyfuel"
+    "codes": "recipeturboheavyfuel"
   },
   {
     "name": "Cheap Silica",
@@ -1701,15 +1701,15 @@
     "img": "images/items/recipesilica.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:cheapsilica"
+    "codes": "recipecheapsilica"
   },
   {
-    "name": "recipe:biomass(leaves)",
+    "name": "recipebiomass(leaves)",
     "type": "toggle",
     "img": "images/items/recipebiomass(leaves).png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:biomass(leaves)"
+    "codes": "recipebiomass(leaves)"
   },
   {
     "name": "Biomass (Alien Protein)",
@@ -1717,7 +1717,7 @@
     "img": "images/items/recipebiomass.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:biomass(alienprotein)"
+    "codes": "recipebiomass(alienprotein)"
   },
   {
     "name": "Priority Power Switch",
@@ -1725,7 +1725,7 @@
     "img": "images/items/buildingprioritypowerswitch.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:prioritypowerswitch"
+    "codes": "buildingprioritypowerswitch"
   },
   {
     "name": "Turbofuel",
@@ -1733,7 +1733,7 @@
     "img": "images/items/recipeturbofuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:turbofuel"
+    "codes": "recipeturbofuel"
   },
   {
     "name": "Silica",
@@ -1741,23 +1741,23 @@
     "img": "images/items/recipesilica.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:silica"
+    "codes": "recipesilica"
   },
   {
-    "name": "building:foundation",
+    "name": "buildingfoundation",
     "type": "toggle",
     "img": "images/items/buildingfoundation.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:foundation"
+    "codes": "buildingfoundation"
   },
   {
-    "name": "building:displaysignbundle",
+    "name": "buildingdisplaysignbundle",
     "type": "toggle",
     "img": "images/items/buildingdisplaysignbundle.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:displaysignbundle"
+    "codes": "buildingdisplaysignbundle"
   },
   {
     "name": "Ceiling Light",
@@ -1765,7 +1765,7 @@
     "img": "images/items/buildingceilinglight.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:ceilinglight"
+    "codes": "buildingceilinglight"
   },
   {
     "name": "customizer:asphaltfoundationmaterial",
@@ -1781,7 +1781,7 @@
     "img": "images/items/buildingconveyormk.2.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyormk.2"
+    "codes": "buildingconveyormk.2"
   },
   {
     "name": "Object Scanner",
@@ -1789,7 +1789,7 @@
     "img": "images/items/recipeobjectscanner.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:objectscanner"
+    "codes": "recipeobjectscanner"
   },
   {
     "name": "Coated Cable",
@@ -1797,15 +1797,15 @@
     "img": "images/items/recipecable.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:coatedcable"
+    "codes": "recipecoatedcable"
   },
   {
-    "name": "recipe:concrete",
+    "name": "recipeconcrete",
     "type": "toggle",
     "img": "images/items/recipeconcrete.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:concrete"
+    "codes": "recipeconcrete"
   },
   {
     "name": "Truck",
@@ -1813,7 +1813,7 @@
     "img": "images/items/transporttruck.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "transport:truck"
+    "codes": "transporttruck"
   },
   {
     "name": "Power Tower",
@@ -1821,7 +1821,7 @@
     "img": "images/items/buildingpowertower.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:powertower"
+    "codes": "buildingpowertower"
   },
   {
     "name": "AWESOME Shop",
@@ -1829,7 +1829,7 @@
     "img": "images/items/buildingawesomeshop.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:awesomeshop"
+    "codes": "buildingawesomeshop"
   },
   {
     "name": "Ficsonium Fuel Rod",
@@ -1837,7 +1837,7 @@
     "img": "images/items/recipeficsoniumfuelrod.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ficsoniumfuelrod"
+    "codes": "recipeficsoniumfuelrod"
   },
   {
     "name": "Steel Rotor",
@@ -1845,7 +1845,7 @@
     "img": "images/items/reciperotor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:steelrotor"
+    "codes": "recipesteelrotor"
   },
   {
     "name": "Hazmat Suit",
@@ -1853,7 +1853,7 @@
     "img": "images/items/recipehazmatsuit.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:hazmatsuit"
+    "codes": "recipehazmatsuit"
   },
   {
     "name": "Thermal Propulsion Rocket",
@@ -1861,15 +1861,15 @@
     "img": "images/items/recipethermalpropulsionrocket.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:thermalpropulsionrocket"
+    "codes": "recipethermalpropulsionrocket"
   },
   {
-    "name": "building:doorwalls",
+    "name": "buildingdoorwalls",
     "type": "toggle",
     "img": "images/items/buildingdoorwalls.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:doorwalls"
+    "codes": "buildingdoorwalls"
   },
   {
     "name": "Pure Caterium Ingot",
@@ -1877,7 +1877,7 @@
     "img": "images/items/recipecateriumingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:purecateriumingot"
+    "codes": "recipepurecateriumingot"
   },
   {
     "name": "Geothermal Generator",
@@ -1885,7 +1885,7 @@
     "img": "images/items/buildinggeothermalgenerator.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:geothermalgenerator"
+    "codes": "buildinggeothermalgenerator"
   },
   {
     "name": "Electric Motor",
@@ -1893,15 +1893,15 @@
     "img": "images/items/recipemotor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:electricmotor"
+    "codes": "recipeelectricmotor"
   },
   {
-    "name": "building:wallpipelinesupport",
+    "name": "buildingwallpipelinesupport",
     "type": "toggle",
     "img": "images/items/buildingwallpipelinesupport.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:wallpipelinesupport"
+    "codes": "buildingwallpipelinesupport"
   },
   {
     "name": "customizer:copperpaintfinish",
@@ -1917,7 +1917,7 @@
     "img": "images/items/recipenutritionalinhaler.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:therapeuticinhaler"
+    "codes": "recipetherapeuticinhaler"
   },
   {
     "name": "Nitro Rocket Fuel",
@@ -1925,7 +1925,7 @@
     "img": "images/items/reciperocketfuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:nitrorocketfuel"
+    "codes": "recipenitrorocketfuel"
   },
   {
     "name": "Conveyor Mk.1",
@@ -1933,7 +1933,7 @@
     "img": "images/items/buildingconveyormk.1.png",
     "initial_active_state": true,
     "overlay_align": "right",
-    "codes": "building:conveyormk.1"
+    "codes": "buildingconveyormk.1"
   },
   {
     "name": "Rotor",
@@ -1941,7 +1941,7 @@
     "img": "images/items/reciperotor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:rotor"
+    "codes": "reciperotor"
   },
   {
     "name": "Biomass Burner",
@@ -1949,7 +1949,7 @@
     "img": "images/items/buildingbiomassburner.png",
     "initial_active_state": true,
     "overlay_align": "right",
-    "codes": "building:biomassburner"
+    "codes": "buildingbiomassburner"
   },
   {
     "name": "Hypertube",
@@ -1957,15 +1957,15 @@
     "img": "images/items/transporthypertube.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "transport:hypertube"
+    "codes": "transporthypertube"
   },
   {
-    "name": "building:moderncatwalks",
+    "name": "buildingmoderncatwalks",
     "type": "toggle",
     "img": "images/items/buildingmoderncatwalks.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:moderncatwalks"
+    "codes": "buildingmoderncatwalks"
   },
   {
     "name": "Small Inflated Pocket Dimension",
@@ -2049,7 +2049,7 @@
     "img": "images/items/recipeconcrete.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:wetconcrete"
+    "codes": "recipewetconcrete"
   },
   {
     "name": "Packaged Ionized Fuel",
@@ -2057,7 +2057,7 @@
     "img": "images/items/recipepackagedionizedfuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:packagedionizedfuel"
+    "codes": "recipepackagedionizedfuel"
   },
   {
     "name": "Heavy Flexible Frame",
@@ -2065,7 +2065,7 @@
     "img": "images/items/recipeheavymodularframe.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:heavyflexibleframe"
+    "codes": "recipeheavyflexibleframe"
   },
   {
     "name": "Plastic Smart Plating",
@@ -2073,15 +2073,15 @@
     "img": "images/items/recipesmartplating.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:plasticsmartplating"
+    "codes": "recipeplasticsmartplating"
   },
   {
-    "name": "building:ventilationbundle",
+    "name": "buildingventilationbundle",
     "type": "toggle",
     "img": "images/items/buildingventilationbundle.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:ventilationbundle"
+    "codes": "buildingventilationbundle"
   },
   {
     "name": "Ionized Fuel",
@@ -2089,15 +2089,15 @@
     "img": "images/items/recipeionizedfuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ionizedfuel"
+    "codes": "recipeionizedfuel"
   },
   {
-    "name": "building:labelsignbundle",
+    "name": "buildinglabelsignbundle",
     "type": "toggle",
     "img": "images/items/buildinglabelsignbundle.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:labelsignbundle"
+    "codes": "buildinglabelsignbundle"
   },
   {
     "name": "Ballistic Warpdrive",
@@ -2105,7 +2105,7 @@
     "img": "images/items/recipeballisticwarpdrive.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ballisticwarpdrive"
+    "codes": "recipeballisticwarpdrive"
   },
   {
     "name": "Priority Merger",
@@ -2113,7 +2113,7 @@
     "img": "images/items/buildingprioritymerger.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:prioritymerger"
+    "codes": "buildingprioritymerger"
   },
   {
     "name": "Fluid Buffer",
@@ -2121,7 +2121,7 @@
     "img": "images/items/buildingfluidbuffer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:fluidbuffer"
+    "codes": "buildingfluidbuffer"
   },
   {
     "name": "Dark Matter Crystallization",
@@ -2129,7 +2129,7 @@
     "img": "images/items/recipedarkmattercrystal.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:darkmattercrystallization"
+    "codes": "recipedarkmattercrystallization"
   },
   {
     "name": "Caterium Computer",
@@ -2137,7 +2137,7 @@
     "img": "images/items/recipecomputer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:cateriumcomputer"
+    "codes": "recipecateriumcomputer"
   },
   {
     "name": "Aluminum Scrap",
@@ -2145,23 +2145,23 @@
     "img": "images/items/recipealuminumscrap.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:aluminumscrap"
+    "codes": "recipealuminumscrap"
   },
   {
-    "name": "building:conveyorceilingmount",
+    "name": "buildingconveyorceilingmount",
     "type": "toggle",
     "img": "images/items/buildingconveyorceilingmount.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyorceilingmount"
+    "codes": "buildingconveyorceilingmount"
   },
   {
-    "name": "building:rampwallbundle",
+    "name": "buildingrampwallbundle",
     "type": "toggle",
     "img": "images/items/buildingrampwallbundle.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:rampwallbundle"
+    "codes": "buildingrampwallbundle"
   },
   {
     "name": "Steamed Copper Sheet",
@@ -2169,7 +2169,7 @@
     "img": "images/items/recipecoppersheet.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:steamedcoppersheet"
+    "codes": "recipesteamedcoppersheet"
   },
   {
     "name": "Basic Iron Ingot",
@@ -2177,7 +2177,7 @@
     "img": "images/items/recipeironingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:basicironingot"
+    "codes": "recipebasicironingot"
   },
   {
     "name": "Magnetic Field Generator",
@@ -2185,7 +2185,7 @@
     "img": "images/items/recipemagneticfieldgenerator.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:magneticfieldgenerator"
+    "codes": "recipemagneticfieldgenerator"
   },
   {
     "name": "Packaged Fuel",
@@ -2193,7 +2193,7 @@
     "img": "images/items/recipepackagedfuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:packagedfuel"
+    "codes": "recipepackagedfuel"
   },
   {
     "name": "Turbo Blend Fuel",
@@ -2201,7 +2201,7 @@
     "img": "images/items/recipeturbofuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:turboblendfuel"
+    "codes": "recipeturboblendfuel"
   },
   {
     "name": "Singularity Cell",
@@ -2209,7 +2209,7 @@
     "img": "images/items/recipesingularitycell.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:singularitycell"
+    "codes": "recipesingularitycell"
   },
   {
     "name": "Fuel-Powered Generator",
@@ -2217,7 +2217,7 @@
     "img": "images/items/buildingfuelgenerator.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:fuelgenerator"
+    "codes": "buildingfuelgenerator"
   },
   {
     "name": "Versatile Framework",
@@ -2225,7 +2225,7 @@
     "img": "images/items/recipeversatileframework.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:versatileframework"
+    "codes": "recipeversatileframework"
   },
   {
     "name": "Leached Iron Ingot",
@@ -2233,7 +2233,7 @@
     "img": "images/items/recipeironingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:leachedironingot"
+    "codes": "recipeleachedironingot"
   },
   {
     "name": "Power Switch",
@@ -2241,7 +2241,7 @@
     "img": "images/items/buildingpowerswitch.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:powerswitch"
+    "codes": "buildingpowerswitch"
   },
   {
     "name": "Fused Quickwire",
@@ -2249,7 +2249,7 @@
     "img": "images/items/recipequickwire.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:fusedquickwire"
+    "codes": "recipefusedquickwire"
   },
   {
     "name": "Plastic AI Limiter",
@@ -2257,7 +2257,7 @@
     "img": "images/items/recipeailimiter.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:plasticailimiter"
+    "codes": "recipeplasticailimiter"
   },
   {
     "name": "Automated Miner",
@@ -2265,31 +2265,31 @@
     "img": "images/items/recipeportableminer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:automatedminer"
+    "codes": "recipeautomatedminer"
   },
   {
-    "name": "building:halffoundation",
+    "name": "buildinghalffoundation",
     "type": "toggle",
     "img": "images/items/buildinghalffoundation.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:halffoundation"
+    "codes": "buildinghalffoundation"
   },
   {
-    "name": "building:invertedcornerramppack",
+    "name": "buildinginvertedcornerramppack",
     "type": "toggle",
     "img": "images/items/buildinginvertedcornerramppack.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:invertedcornerramppack"
+    "codes": "buildinginvertedcornerramppack"
   },
   {
-    "name": "building:basicshelfunit",
+    "name": "buildingbasicshelfunit",
     "type": "toggle",
     "img": "images/items/buildingbasicshelfunit.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:basicshelfunit"
+    "codes": "buildingbasicshelfunit"
   },
   {
     "name": "Ficsite Trigon",
@@ -2297,7 +2297,7 @@
     "img": "images/items/recipeficsitetrigon.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ficsitetrigon"
+    "codes": "recipeficsitetrigon"
   },
   {
     "name": "Conveyor Splitter",
@@ -2305,7 +2305,7 @@
     "img": "images/items/buildingconveyorsplitter.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyorsplitter"
+    "codes": "buildingconveyorsplitter"
   },
   {
     "name": "Packaged Water",
@@ -2313,7 +2313,7 @@
     "img": "images/items/recipepackagedwater.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:packagedwater"
+    "codes": "recipepackagedwater"
   },
   {
     "name": "Jetpack",
@@ -2321,7 +2321,7 @@
     "img": "images/items/recipejetpack.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:jetpack"
+    "codes": "recipejetpack"
   },
   {
     "name": "Xeno-Zapper",
@@ -2329,15 +2329,15 @@
     "img": "images/items/recipexeno-zapper.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:xeno-zapper"
+    "codes": "recipexeno-zapper"
   },
   {
-    "name": "building:cleanpipelinemk.2",
+    "name": "buildingcleanpipelinemk.2",
     "type": "toggle",
     "img": "images/items/buildingcleanpipelinemk.2.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:cleanpipelinemk.2"
+    "codes": "buildingcleanpipelinemk.2"
   },
   {
     "name": "Stun Rebar",
@@ -2345,7 +2345,7 @@
     "img": "images/items/recipestunrebar.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:stunrebar"
+    "codes": "recipestunrebar"
   },
   {
     "name": "AI Expansion Server",
@@ -2353,7 +2353,7 @@
     "img": "images/items/recipeaiexpansionserver.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:aiexpansionserver"
+    "codes": "recipeaiexpansionserver"
   },
   {
     "name": "MAM",
@@ -2361,7 +2361,7 @@
     "img": "images/items/buildingmam.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:mam"
+    "codes": "buildingmam"
   },
   {
     "name": "Hatcher Protein",
@@ -2369,7 +2369,7 @@
     "img": "images/items/recipehatcherprotein.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:hatcherprotein"
+    "codes": "recipehatcherprotein"
   },
   {
     "name": "Packaged Alumina Solution",
@@ -2377,7 +2377,7 @@
     "img": "images/items/recipepackagedaluminasolution.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:packagedaluminasolution"
+    "codes": "recipepackagedaluminasolution"
   },
   {
     "name": "Fused Wire",
@@ -2385,7 +2385,7 @@
     "img": "images/items/recipewire.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:fusedwire"
+    "codes": "recipefusedwire"
   },
   {
     "name": "Adhered Iron Plate",
@@ -2393,7 +2393,7 @@
     "img": "images/items/recipereinforcedironplate.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:adheredironplate"
+    "codes": "recipeadheredironplate"
   },
   {
     "name": "customizer:factoryzonepatterns",
@@ -2409,7 +2409,7 @@
     "img": "images/items/recipefabric.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:fabric"
+    "codes": "recipefabric"
   },
   {
     "name": "Automated Wiring",
@@ -2417,7 +2417,7 @@
     "img": "images/items/recipeautomatedwiring.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:automatedwiring"
+    "codes": "recipeautomatedwiring"
   },
   {
     "name": "Radio Connection Unit",
@@ -2425,7 +2425,7 @@
     "img": "images/items/reciperadiocontrolunit.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:radioconnectionunit"
+    "codes": "reciperadioconnectionunit"
   },
   {
     "name": "Sloppy Alumina",
@@ -2433,7 +2433,7 @@
     "img": "images/items/recipealuminasolution.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:sloppyalumina"
+    "codes": "recipesloppyalumina"
   },
   {
     "name": "Refinery",
@@ -2441,7 +2441,7 @@
     "img": "images/items/buildingrefinery.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:refinery"
+    "codes": "buildingrefinery"
   },
   {
     "name": "Copper Powder",
@@ -2449,7 +2449,7 @@
     "img": "images/items/recipecopperpowder.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:copperpowder"
+    "codes": "recipecopperpowder"
   },
   {
     "name": "Heavy Modular Frame",
@@ -2457,15 +2457,15 @@
     "img": "images/items/recipeheavymodularframe.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:heavymodularframe"
+    "codes": "recipeheavymodularframe"
   },
   {
-    "name": "building:metalpillar",
+    "name": "buildingmetalpillar",
     "type": "toggle",
     "img": "images/items/buildingmetalpillar.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:metalpillar"
+    "codes": "buildingmetalpillar"
   },
   {
     "name": "Aluminum Ingot",
@@ -2473,7 +2473,7 @@
     "img": "images/items/recipealuminumingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:aluminumingot"
+    "codes": "recipealuminumingot"
   },
   {
     "name": "Conveyor Lift Mk.4",
@@ -2481,7 +2481,7 @@
     "img": "images/items/buildingconveyorliftmk.4.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyorliftmk.4"
+    "codes": "buildingconveyorliftmk.4"
   },
   {
     "name": "Stinger Protein",
@@ -2489,7 +2489,7 @@
     "img": "images/items/recipehatcherprotein.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:stingerprotein"
+    "codes": "recipestingerprotein"
   },
   {
     "name": "AI Limiter",
@@ -2497,7 +2497,7 @@
     "img": "images/items/recipeailimiter.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ailimiter"
+    "codes": "recipeailimiter"
   },
   {
     "name": "Miner Mk.1",
@@ -2505,7 +2505,7 @@
     "img": "images/items/buildingminermk.1.png",
     "initial_active_state": true,
     "overlay_align": "right",
-    "codes": "building:minermk.1"
+    "codes": "buildingminermk.1"
   },
   {
     "name": "Industrial Storage Container",
@@ -2513,7 +2513,7 @@
     "img": "images/items/buildingindustrialstoragecontainer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:industrialstoragecontainer"
+    "codes": "buildingindustrialstoragecontainer"
   },
   {
     "name": "Ficsonium",
@@ -2521,7 +2521,7 @@
     "img": "images/items/recipeficsonium.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ficsonium"
+    "codes": "recipeficsonium"
   },
   {
     "name": "Solid Biofuel",
@@ -2529,7 +2529,7 @@
     "img": "images/items/recipesolidbiofuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:solidbiofuel"
+    "codes": "recipesolidbiofuel"
   },
   {
     "name": "customizer:tarroofmaterial",
@@ -2553,7 +2553,7 @@
     "img": "images/items/recipesteelpipe.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:steelpipe"
+    "codes": "recipesteelpipe"
   },
   {
     "name": "Constructor",
@@ -2561,15 +2561,15 @@
     "img": "images/items/buildingconstructor.png",
     "initial_active_state": true,
     "overlay_align": "right",
-    "codes": "building:constructor"
+    "codes": "buildingconstructor"
   },
   {
-    "name": "building:stairs",
+    "name": "buildingstairs",
     "type": "toggle",
     "img": "images/items/buildingstairs.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:stairs"
+    "codes": "buildingstairs"
   },
   {
     "name": "Polymer Resin",
@@ -2577,15 +2577,15 @@
     "img": "images/items/recipepolymerresin.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:polymerresin"
+    "codes": "recipepolymerresin"
   },
   {
-    "name": "recipe:reinforcedironplate",
+    "name": "recipereinforcedironplate",
     "type": "toggle",
     "img": "images/items/recipereinforcedironplate.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:reinforcedironplate"
+    "codes": "recipereinforcedironplate"
   },
   {
     "name": "Plutonium Pellet",
@@ -2593,15 +2593,15 @@
     "img": "images/items/recipeplutoniumpellet.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:plutoniumpellet"
+    "codes": "recipeplutoniumpellet"
   },
   {
-    "name": "building:conveyorthroughputmonitor",
+    "name": "buildingconveyorthroughputmonitor",
     "type": "toggle",
     "img": "images/items/buildingconveyorthroughputmonitor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyorthroughputmonitor"
+    "codes": "buildingconveyorthroughputmonitor"
   },
   {
     "name": "Aluminum Beam",
@@ -2609,7 +2609,7 @@
     "img": "images/items/recipesteelbeam.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:aluminumbeam"
+    "codes": "recipealuminumbeam"
   },
   {
     "name": "Ficsite Ingot (Caterium)",
@@ -2617,7 +2617,7 @@
     "img": "images/items/recipeficsiteingot(aluminum).png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ficsiteingot(caterium)"
+    "codes": "recipeficsiteingot(caterium)"
   },
   {
     "name": "Stackable Conveyor Pole",
@@ -2625,7 +2625,7 @@
     "img": "images/items/buildingstackableconveyorpole.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:stackableconveyorpole"
+    "codes": "buildingstackableconveyorpole"
   },
   {
     "name": "Miner Mk.2",
@@ -2633,7 +2633,7 @@
     "img": "images/items/buildingminermk.2.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:minermk.2"
+    "codes": "buildingminermk.2"
   },
   {
     "name": "Coated Iron Plate",
@@ -2641,7 +2641,7 @@
     "img": "images/items/recipeironplate.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:coatedironplate"
+    "codes": "recipecoatedironplate"
   },
   {
     "name": "Compacted Coal",
@@ -2649,15 +2649,15 @@
     "img": "images/items/recipecompactedcoal.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:compactedcoal"
+    "codes": "recipecompactedcoal"
   },
   {
-    "name": "building:beamexpansionpack",
+    "name": "buildingbeamexpansionpack",
     "type": "toggle",
     "img": "images/items/buildingbeamexpansionpack.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:beamexpansionpack"
+    "codes": "buildingbeamexpansionpack"
   },
   {
     "name": "Conveyor Merger",
@@ -2665,7 +2665,7 @@
     "img": "images/items/buildingconveyormerger.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyormerger"
+    "codes": "buildingconveyormerger"
   },
   {
     "name": "customizer:solidlinepatterns",
@@ -2681,7 +2681,7 @@
     "img": "images/items/buildingconveyorliftmk.2.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyorliftmk.2"
+    "codes": "buildingconveyorliftmk.2"
   },
   {
     "name": "Conveyor Mk.5",
@@ -2689,7 +2689,7 @@
     "img": "images/items/buildingconveyormk.5.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyormk.5"
+    "codes": "buildingconveyormk.5"
   },
   {
     "name": "customizer:chromepaintfinish",
@@ -2705,7 +2705,7 @@
     "img": "images/items/recipesteelbeam.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:steelbeam"
+    "codes": "recipesteelbeam"
   },
   {
     "name": "Portal",
@@ -2713,7 +2713,7 @@
     "img": "images/items/buildingportal.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:portal"
+    "codes": "buildingportal"
   },
   {
     "name": "Electromagnetic Control Rod",
@@ -2721,7 +2721,7 @@
     "img": "images/items/recipeelectromagneticcontrolrod.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:electromagneticcontrolrod"
+    "codes": "recipeelectromagneticcontrolrod"
   },
   {
     "name": "Portable Miner",
@@ -2729,7 +2729,7 @@
     "img": "images/items/recipeportableminer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:portableminer"
+    "codes": "recipeportableminer"
   },
   {
     "name": "Protein Inhaler",
@@ -2737,15 +2737,15 @@
     "img": "images/items/recipenutritionalinhaler.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:proteininhaler"
+    "codes": "recipeproteininhaler"
   },
   {
-    "name": "building:doubleramppack",
+    "name": "buildingdoubleramppack",
     "type": "toggle",
     "img": "images/items/buildingdoubleramppack.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:doubleramppack"
+    "codes": "buildingdoubleramppack"
   },
   {
     "name": "customizer:gripmetalfoundationmaterial",
@@ -2756,12 +2756,12 @@
     "codes": "customizer:gripmetalfoundationmaterial"
   },
   {
-    "name": "building:ladder",
+    "name": "buildingladder",
     "type": "toggle",
     "img": "images/items/buildingladder.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:ladder"
+    "codes": "buildingladder"
   },
   {
     "name": "Pure Quartz Crystal",
@@ -2769,7 +2769,7 @@
     "img": "images/items/recipequartzcrystal.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:purequartzcrystal"
+    "codes": "recipepurequartzcrystal"
   },
   {
     "name": "Steel Screw",
@@ -2777,7 +2777,7 @@
     "img": "images/items/recipescrew.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:steelscrew"
+    "codes": "recipesteelscrew"
   },
   {
     "name": "Pipeline Pump Mk.2",
@@ -2785,7 +2785,7 @@
     "img": "images/items/buildingpipelinepumpmk.2.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:pipelinepumpmk.2"
+    "codes": "buildingpipelinepumpmk.2"
   },
   {
     "name": "Recycled Rubber",
@@ -2793,7 +2793,7 @@
     "img": "images/items/reciperubber.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:recycledrubber"
+    "codes": "reciperecycledrubber"
   },
   {
     "name": "Aluminum Rod",
@@ -2801,7 +2801,7 @@
     "img": "images/items/recipeironrod.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:aluminumrod"
+    "codes": "recipealuminumrod"
   },
   {
     "name": "Parachute",
@@ -2809,15 +2809,15 @@
     "img": "images/items/recipeparachute.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:parachute"
+    "codes": "recipeparachute"
   },
   {
-    "name": "building:modernrailing",
+    "name": "buildingmodernrailing",
     "type": "toggle",
     "img": "images/items/buildingmodernrailing.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:modernrailing"
+    "codes": "buildingmodernrailing"
   },
   {
     "name": "Chainsaw",
@@ -2825,7 +2825,7 @@
     "img": "images/items/recipechainsaw.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:chainsaw"
+    "codes": "recipechainsaw"
   },
   {
     "name": "Classic Battery",
@@ -2833,15 +2833,15 @@
     "img": "images/items/recipebattery.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:classicbattery"
+    "codes": "recipeclassicbattery"
   },
   {
-    "name": "building:walloutletmk.2",
+    "name": "buildingwalloutletmk.2",
     "type": "toggle",
     "img": "images/items/buildingwalloutletmk.2.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:walloutletmk.2"
+    "codes": "buildingwalloutletmk.2"
   },
   {
     "name": "Neural-Quantum Processor",
@@ -2849,7 +2849,7 @@
     "img": "images/items/recipeneural-quantumprocessor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:neural-quantumprocessor"
+    "codes": "recipeneural-quantumprocessor"
   },
   {
     "name": "Crystal Computer",
@@ -2857,7 +2857,7 @@
     "img": "images/items/recipecomputer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:crystalcomputer"
+    "codes": "recipecrystalcomputer"
   },
   {
     "name": "customizer:factoryiconpatterns",
@@ -2873,7 +2873,7 @@
     "img": "images/items/buildingpersonalstoragebox.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:personalstoragebox"
+    "codes": "buildingpersonalstoragebox"
   },
   {
     "name": "Rebar Gun",
@@ -2881,7 +2881,7 @@
     "img": "images/items/reciperebargun.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:rebargun"
+    "codes": "reciperebargun"
   },
   {
     "name": "Radar Tower",
@@ -2889,15 +2889,15 @@
     "img": "images/items/buildingradartower.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:radartower"
+    "codes": "buildingradartower"
   },
   {
-    "name": "transport:factorycart(golden)",
+    "name": "transportfactorycart(golden)",
     "type": "toggle",
     "img": "images/items/transportfactorycart(golden).png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "transport:factorycart(golden)"
+    "codes": "transportfactorycart(golden)"
   },
   {
     "name": "Smart Splitter",
@@ -2905,15 +2905,15 @@
     "img": "images/items/buildingsmartsplitter.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:smartsplitter"
+    "codes": "buildingsmartsplitter"
   },
   {
-    "name": "recipe:factorycart",
+    "name": "recipefactorycart",
     "type": "toggle",
     "img": "images/items/recipefactorycart.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:factorycart"
+    "codes": "recipefactorycart"
   },
   {
     "name": "Converter",
@@ -2921,7 +2921,7 @@
     "img": "images/items/buildingconverter.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:converter"
+    "codes": "buildingconverter"
   },
   {
     "name": "customizer:dottedlinepatterns",
@@ -2932,12 +2932,12 @@
     "codes": "customizer:dottedlinepatterns"
   },
   {
-    "name": "building:cornerramppack",
+    "name": "buildingcornerramppack",
     "type": "toggle",
     "img": "images/items/buildingcornerramppack.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:cornerramppack"
+    "codes": "buildingcornerramppack"
   },
   {
     "name": "Biomass (Mycelia)",
@@ -2945,7 +2945,7 @@
     "img": "images/items/recipebiomass.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:biomass(mycelia)"
+    "codes": "recipebiomass(mycelia)"
   },
   {
     "name": "Conveyor Mk.6",
@@ -2953,7 +2953,7 @@
     "img": "images/items/buildingconveyormk.6.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyormk.6"
+    "codes": "buildingconveyormk.6"
   },
   {
     "name": "Alumina Solution",
@@ -2961,7 +2961,7 @@
     "img": "images/items/recipealuminasolution.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:aluminasolution"
+    "codes": "recipealuminasolution"
   },
   {
     "name": "Motor",
@@ -2969,7 +2969,7 @@
     "img": "images/items/recipemotor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:motor"
+    "codes": "recipemotor"
   },
   {
     "name": "AWESOME Sink",
@@ -2977,7 +2977,7 @@
     "img": "images/items/buildingawesomesink.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:awesomesink"
+    "codes": "buildingawesomesink"
   },
   {
     "name": "customizer:concretewallmaterial",
@@ -2993,7 +2993,7 @@
     "img": "images/items/recipepulsenobelisk.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:pulsenobelisk"
+    "codes": "recipepulsenobelisk"
   },
   {
     "name": "Encased Industrial Beam",
@@ -3001,7 +3001,7 @@
     "img": "images/items/recipeencasedindustrialbeam.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:encasedindustrialbeam"
+    "codes": "recipeencasedindustrialbeam"
   },
   {
     "name": "Dark Matter Crystal",
@@ -3009,7 +3009,7 @@
     "img": "images/items/recipedarkmattercrystal.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:darkmattercrystal"
+    "codes": "recipedarkmattercrystal"
   },
   {
     "name": "Explorer",
@@ -3017,15 +3017,15 @@
     "img": "images/items/transportexplorer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "transport:explorer"
+    "codes": "transportexplorer"
   },
   {
-    "name": "building:concretepillar",
+    "name": "buildingconcretepillar",
     "type": "toggle",
     "img": "images/items/buildingconcretepillar.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:concretepillar"
+    "codes": "buildingconcretepillar"
   },
   {
     "name": "Quickwire",
@@ -3033,7 +3033,7 @@
     "img": "images/items/recipequickwire.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:quickwire"
+    "codes": "recipequickwire"
   },
   {
     "name": "Iron Rebar",
@@ -3041,7 +3041,7 @@
     "img": "images/items/recipeironrebar.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ironrebar"
+    "codes": "recipeironrebar"
   },
   {
     "name": "Packager",
@@ -3049,7 +3049,7 @@
     "img": "images/items/buildingpackager.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:packager"
+    "codes": "buildingpackager"
   },
   {
     "name": "Heat-Fused Frame",
@@ -3057,7 +3057,7 @@
     "img": "images/items/recipefusedmodularframe.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:heat-fusedframe"
+    "codes": "recipeheat-fusedframe"
   },
   {
     "name": "Packaged Nitric Acid",
@@ -3065,7 +3065,7 @@
     "img": "images/items/recipepackagednitricacid.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:packagednitricacid"
+    "codes": "recipepackagednitricacid"
   },
   {
     "name": "Vitamin Inhaler",
@@ -3073,7 +3073,7 @@
     "img": "images/items/recipenutritionalinhaler.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:vitamininhaler"
+    "codes": "recipevitamininhaler"
   },
   {
     "name": "Pipes Mk.1",
@@ -3081,7 +3081,7 @@
     "img": "images/items/buildingpipesmk.1.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:pipesmk.1"
+    "codes": "buildingpipesmk.1"
   },
   {
     "name": "Turbo Rifle Ammo (Packaged)",
@@ -3089,15 +3089,15 @@
     "img": "images/items/recipeturborifleammo.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:turborifleammo(packaged)"
+    "codes": "recipeturborifleammo(packaged)"
   },
   {
-    "name": "building:cleanpipelinemk.1",
+    "name": "buildingcleanpipelinemk.1",
     "type": "toggle",
     "img": "images/items/buildingcleanpipelinemk.1.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:cleanpipelinemk.1"
+    "codes": "buildingcleanpipelinemk.1"
   },
   {
     "name": "Manufacturer",
@@ -3105,7 +3105,7 @@
     "img": "images/items/buildingmanufacturer.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:manufacturer"
+    "codes": "buildingmanufacturer"
   },
   {
     "name": "customizer:steelwallmaterial",
@@ -3121,23 +3121,23 @@
     "img": "images/items/recipecateriumingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:cateriumingot"
+    "codes": "recipecateriumingot"
   },
   {
-    "name": "building:roofs",
+    "name": "buildingroofs",
     "type": "toggle",
     "img": "images/items/buildingroofs.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:roofs"
+    "codes": "buildingroofs"
   },
   {
-    "name": "building:conveyorwalls",
+    "name": "buildingconveyorwalls",
     "type": "toggle",
     "img": "images/items/buildingconveyorwalls.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyorwalls"
+    "codes": "buildingconveyorwalls"
   },
   {
     "name": "Equipment Workshop",
@@ -3145,7 +3145,7 @@
     "img": "images/items/buildingequipmentworkshop.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:equipmentworkshop"
+    "codes": "buildingequipmentworkshop"
   },
   {
     "name": "Non-Fissile Uranium",
@@ -3153,7 +3153,7 @@
     "img": "images/items/recipenon-fissileuranium.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:non-fissileuranium"
+    "codes": "recipenon-fissileuranium"
   },
   {
     "name": "customizer:cateriumpaintfinish",
@@ -3169,15 +3169,15 @@
     "img": "images/items/recipereanimatedsam.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:reanimatedsam"
+    "codes": "recipereanimatedsam"
   },
   {
-    "name": "building:industrialrailing",
+    "name": "buildingindustrialrailing",
     "type": "toggle",
     "img": "images/items/buildingindustrialrailing.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:industrialrailing"
+    "codes": "buildingindustrialrailing"
   },
   {
     "name": "Pipeline Pump Mk.1",
@@ -3185,7 +3185,7 @@
     "img": "images/items/buildingpipelinepumpmk.1.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:pipelinepumpmk.1"
+    "codes": "buildingpipelinepumpmk.1"
   },
   {
     "name": "Packaged Rocket Fuel",
@@ -3193,7 +3193,7 @@
     "img": "images/items/recipepackagedrocketfuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:packagedrocketfuel"
+    "codes": "recipepackagedrocketfuel"
   },
   {
     "name": "Copper Rotor",
@@ -3201,7 +3201,7 @@
     "img": "images/items/reciperotor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:copperrotor"
+    "codes": "recipecopperrotor"
   },
   {
     "name": "customizer:concretefoundationmaterial",
@@ -3217,7 +3217,7 @@
     "img": "images/items/recipenobeliskdetonator.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:nobeliskdetonator"
+    "codes": "recipenobeliskdetonator"
   },
   {
     "name": "Adaptive Control Unit",
@@ -3225,7 +3225,7 @@
     "img": "images/items/recipeadaptivecontrolunit.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:adaptivecontrolunit"
+    "codes": "recipeadaptivecontrolunit"
   },
   {
     "name": "Dimensional Depot Upload from Inventory",
@@ -3236,12 +3236,12 @@
     "codes": "dimensionaldepotuploadfrominventory"
   },
   {
-    "name": "recipe:ironplate",
+    "name": "recipeironplate",
     "type": "toggle",
     "img": "images/items/recipeironplate.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ironplate"
+    "codes": "recipeironplate"
   },
   {
     "name": "Power Storage",
@@ -3249,7 +3249,7 @@
     "img": "images/items/buildingpowerstorage.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:powerstorage"
+    "codes": "buildingpowerstorage"
   },
   {
     "name": "Hoverpack",
@@ -3257,7 +3257,7 @@
     "img": "images/items/recipehoverpack.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:hoverpack"
+    "codes": "recipehoverpack"
   },
   {
     "name": "Dark-Ion Fuel",
@@ -3265,7 +3265,7 @@
     "img": "images/items/recipeionizedfuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:dark-ionfuel"
+    "codes": "recipedark-ionfuel"
   },
   {
     "name": "Solid Steel Ingot",
@@ -3273,7 +3273,7 @@
     "img": "images/items/recipesteelingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:solidsteelingot"
+    "codes": "recipesolidsteelingot"
   },
   {
     "name": "Residual Plastic",
@@ -3281,7 +3281,7 @@
     "img": "images/items/recipeplastic.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:residualplastic"
+    "codes": "reciperesidualplastic"
   },
   {
     "name": "Rigor Motor",
@@ -3289,7 +3289,7 @@
     "img": "images/items/recipemotor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:rigormotor"
+    "codes": "reciperigormotor"
   },
   {
     "name": "Residual Rubber",
@@ -3297,23 +3297,23 @@
     "img": "images/items/reciperubber.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:residualrubber"
+    "codes": "reciperesidualrubber"
   },
   {
-    "name": "building:walloutletmk.1",
+    "name": "buildingwalloutletmk.1",
     "type": "toggle",
     "img": "images/items/buildingwalloutletmk.1.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:walloutletmk.1"
+    "codes": "buildingwalloutletmk.1"
   },
   {
-    "name": "recipe:copperingot",
+    "name": "recipecopperingot",
     "type": "toggle",
     "img": "images/items/recipecopperingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:copperingot"
+    "codes": "recipecopperingot"
   },
   {
     "name": "Gas Nobelisk",
@@ -3321,7 +3321,7 @@
     "img": "images/items/recipegasnobelisk.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:gasnobelisk"
+    "codes": "recipegasnobelisk"
   },
   {
     "name": "Particle Accelerator",
@@ -3329,7 +3329,7 @@
     "img": "images/items/buildingparticleaccelerator.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:particleaccelerator"
+    "codes": "buildingparticleaccelerator"
   },
   {
     "name": "Biochemical Sculptor",
@@ -3337,7 +3337,7 @@
     "img": "images/items/recipebiochemicalsculptor.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:biochemicalsculptor"
+    "codes": "recipebiochemicalsculptor"
   },
   {
     "name": "Valve",
@@ -3345,7 +3345,7 @@
     "img": "images/items/buildingvalve.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:valve"
+    "codes": "buildingvalve"
   },
   {
     "name": "Electrode Circuit Board",
@@ -3353,15 +3353,15 @@
     "img": "images/items/recipecircuitboard.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:electrodecircuitboard"
+    "codes": "recipeelectrodecircuitboard"
   },
   {
-    "name": "building:quarterpipeextensionspack",
+    "name": "buildingquarterpipeextensionspack",
     "type": "toggle",
     "img": "images/items/buildingquarterpipeextensionspack.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:quarterpipeextensionspack"
+    "codes": "buildingquarterpipeextensionspack"
   },
   {
     "name": "Electromagnetic Connection Rod",
@@ -3369,7 +3369,7 @@
     "img": "images/items/recipeelectromagneticcontrolrod.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:electromagneticconnectionrod"
+    "codes": "recipeelectromagneticconnectionrod"
   },
   {
     "name": "Circuit Board",
@@ -3377,7 +3377,7 @@
     "img": "images/items/recipecircuitboard.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:circuitboard"
+    "codes": "recipecircuitboard"
   },
   {
     "name": "Synthetic Power Shard",
@@ -3385,7 +3385,7 @@
     "img": "images/items/recipepowershard(1).png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:syntheticpowershard"
+    "codes": "recipesyntheticpowershard"
   },
   {
     "name": "Modular Engine",
@@ -3393,7 +3393,7 @@
     "img": "images/items/recipemodularengine.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:modularengine"
+    "codes": "recipemodularengine"
   },
   {
     "name": "Diluted Packaged Fuel",
@@ -3401,7 +3401,7 @@
     "img": "images/items/recipepackagedfuel.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:dilutedpackagedfuel"
+    "codes": "recipedilutedpackagedfuel"
   },
   {
     "name": "Fine Black Powder",
@@ -3409,7 +3409,7 @@
     "img": "images/items/recipeblackpowder.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:fineblackpowder"
+    "codes": "recipefineblackpowder"
   },
   {
     "name": "customizer:carbonsteelfinish",
@@ -3425,7 +3425,7 @@
     "img": "images/items/transportpersonalelevator.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "transport:personalelevator"
+    "codes": "transportpersonalelevator"
   },
   {
     "name": "Pipeline Junctions",
@@ -3433,7 +3433,7 @@
     "img": "images/items/buildingpipelinejunctioncross.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:pipelinejunctioncross"
+    "codes": "buildingpipelinejunctioncross"
   },
   {
     "name": "Cooling System",
@@ -3441,7 +3441,7 @@
     "img": "images/items/recipecoolingsystem.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:coolingsystem"
+    "codes": "recipecoolingsystem"
   },
   {
     "name": "Iron Alloy Ingot",
@@ -3449,7 +3449,7 @@
     "img": "images/items/recipeironingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ironalloyingot"
+    "codes": "recipeironalloyingot"
   },
   {
     "name": "customizer:pathwaypatterns",
@@ -3460,12 +3460,12 @@
     "codes": "customizer:pathwaypatterns"
   },
   {
-    "name": "building:roofcorners",
+    "name": "buildingroofcorners",
     "type": "toggle",
     "img": "images/items/buildingroofcorners.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:roofcorners"
+    "codes": "buildingroofcorners"
   },
   {
     "name": "Turbo Rifle Ammo",
@@ -3473,15 +3473,15 @@
     "img": "images/items/recipeturborifleammo.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:turborifleammo"
+    "codes": "recipeturborifleammo"
   },
   {
-    "name": "recipe:ironrod",
+    "name": "recipeironrod",
     "type": "toggle",
     "img": "images/items/recipeironrod.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:ironrod"
+    "codes": "recipeironrod"
   },
   {
     "name": "High-Speed Connector",
@@ -3489,15 +3489,15 @@
     "img": "images/items/recipehigh-speedconnector.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:high-speedconnector"
+    "codes": "recipehigh-speedconnector"
   },
   {
-    "name": "building:conveyorliftfloorhole",
+    "name": "buildingconveyorliftfloorhole",
     "type": "toggle",
     "img": "images/items/buildingconveyorliftfloorhole.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:conveyorliftfloorhole"
+    "codes": "buildingconveyorliftfloorhole"
   },
   {
     "name": "Copper Sheet",
@@ -3505,7 +3505,7 @@
     "img": "images/items/recipecoppersheet.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:coppersheet"
+    "codes": "recipecoppersheet"
   },
   {
     "name": "Steeled Frame",
@@ -3513,7 +3513,7 @@
     "img": "images/items/recipemodularframe.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:steeledframe"
+    "codes": "recipesteeledframe"
   },
   {
     "name": "Battery",
@@ -3521,7 +3521,7 @@
     "img": "images/items/recipebattery.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:battery"
+    "codes": "recipebattery"
   },
   {
     "name": "Alclad Casing",
@@ -3529,7 +3529,7 @@
     "img": "images/items/recipealuminumcasing.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:alcladcasing"
+    "codes": "recipealcladcasing"
   },
   {
     "name": "customizer:metalroofmaterial",
@@ -3545,7 +3545,7 @@
     "img": "images/items/recipealuminumscrap.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:instantscrap"
+    "codes": "recipeinstantscrap"
   },
   {
     "name": "Nuke Nobelisk",
@@ -3553,7 +3553,7 @@
     "img": "images/items/recipenukenobelisk.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:nukenobelisk"
+    "codes": "recipenukenobelisk"
   },
   {
     "name": "Petroleum Diamonds",
@@ -3561,7 +3561,7 @@
     "img": "images/items/recipediamonds.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:petroleumdiamonds"
+    "codes": "recipepetroleumdiamonds"
   },
   {
     "name": "Gas Filter",
@@ -3569,7 +3569,7 @@
     "img": "images/items/recipegasfilter.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:gasfilter"
+    "codes": "recipegasfilter"
   },
   {
     "name": "Foundry",
@@ -3577,7 +3577,7 @@
     "img": "images/items/buildingfoundry.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "building:foundry"
+    "codes": "buildingfoundry"
   },
   {
     "name": "Oil-Based Diamonds",
@@ -3585,7 +3585,7 @@
     "img": "images/items/recipediamonds.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:oil-baseddiamonds"
+    "codes": "recipeoil-baseddiamonds"
   },
   {
     "name": "Pure Copper Ingot",
@@ -3593,7 +3593,7 @@
     "img": "images/items/recipecopperingot.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:purecopperingot"
+    "codes": "recipepurecopperingot"
   },
   {
     "name": "Insulated Cable",
@@ -3601,7 +3601,7 @@
     "img": "images/items/recipecable.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:insulatedcable"
+    "codes": "recipeinsulatedcable"
   },
   {
     "name": "Infused Uranium Cell",
@@ -3609,7 +3609,7 @@
     "img": "images/items/recipeencaseduraniumcell.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:infuseduraniumcell"
+    "codes": "recipeinfuseduraniumcell"
   },
   {
     "name": "Silicon High-Speed Connector",
@@ -3617,6 +3617,6 @@
     "img": "images/items/recipehigh-speedconnector.png",
     "initial_active_state": false,
     "overlay_align": "right",
-    "codes": "recipe:siliconhigh-speedconnector"
+    "codes": "recipesiliconhigh-speedconnector"
   }
 ]

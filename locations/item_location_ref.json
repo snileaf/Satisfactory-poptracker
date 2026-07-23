@@ -1,0 +1,199 @@
+[
+  {
+    "name": "Alien Protein Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipehatcherprotein",
+      "recipehogprotein",
+      "recipespitterprotein",
+      "recipestingerprotein"
+    ]
+  },
+  {
+    "name": "Rotor Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "reciperotor",
+      "recipecopperrotor",
+      "recipesteelrotor"
+    ]
+  },
+  {
+    "name": "Iron Rod Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeironrod",
+      "recipealuminumrod",
+      "recipesteelrod"
+    ]
+  },
+  {
+    "name": "Screw Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipescrew",
+      "recipecastscrew",
+      "recipesteelscrew"
+    ]
+  },
+  {
+    "name": "Reinforced Iron Plate Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipereinforcedironplate",
+      "recipeadheredironplate",
+      "recipeboltedironplate",
+      "recipestitchedironplate"
+    ]
+  },
+  {
+    "name": "Cable Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipecable",
+      "recipecoatedcable",
+      "recipeinsulatedcable",
+      "recipequickwirecable"
+    ]
+  },
+  {
+    "name": "Steel Beam Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipesteelbeam",
+      "recipealuminumbeam",
+      "recipemoldedbeam"
+    ]
+  },
+  {
+    "name": "Crystal Oscillator Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipecrystaloscillator",
+      "recipeinsulatedcrystaloscillator"
+    ]
+  },
+  {
+    "name": "High-Speed Connector Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipehigh-speedconnector",
+      "recipesiliconhigh-speedconnector"
+    ]
+  },
+  {
+    "name": "Caterium Ingot Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipecateriumingot",
+      "recipeleachedcateriumingot",
+      "recipepurecateriumingot",
+      "recipetemperedcateriumingot"
+    ]
+  },
+  {
+    "name": "Quickwire Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipequickwire",
+      "recipefusedquickwire"
+    ]
+  },
+  {
+    "name": "Copper Sheet Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipesteamedcoppersheet",
+      "recipecoppersheet"
+    ]
+  },
+  {
+    "name": "Steel Pipe Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeironpipe",
+      "recipesteelpipe",
+      "recipemoldedsteelpipe"
+    ]
+  },
+  {
+    "name": "AI Limiter Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeplasticailimiter",
+      "recipeailimiter"
+    ]
+  },
+  {
+    "name": "Plastic Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeplastic",
+      "reciperecycledplastic",
+      "recipeplasticsmartplating"
+    ]
+  },
+  {
+    "name": "Computer Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipecomputer",
+      "recipecateriumcomputer",
+      "recipecrystalcomputer"
+    ]
+  },
+  {
+    "name": "Heavy Modular Frame Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeheavyencasedframe",
+      "recipeheavyflexibleframe",
+      "recipeheavymodularframe"
+    ]
+  },
+  {
+    "name": "Motor Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeelectricmotor",
+      "recipemotor",
+      "reciperigormotor"
+    ]
+  }
+]

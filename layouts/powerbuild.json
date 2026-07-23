@@ -9,19 +9,19 @@
 		"item_width": 36,
 		"rows": [
 			[
-				"building:coalgenerator",
-				"building:fuelgenerator",
-				"building:geothermalgenerator",
-				"building:nuclearpowerplant",
-				"building:alienpoweraugmenter"
+				"buildingcoalgenerator",
+				"buildingfuelgenerator",
+				"buildinggeothermalgenerator",
+				"buildingnuclearpowerplant",
+				"buildingalienpoweraugmenter"
 			],
 			[
-				"building:powerpolemk.2",
-				"building:powerpolemk.3",
-				"building:powertower",
-				"building:powerswitch",
-				"building:prioritypowerswitch",
-				"building:powerstorage"
+				"buildingpowerpolemk.2",
+				"buildingpowerpolemk.3",
+				"buildingpowertower",
+				"buildingpowerswitch",
+				"buildingprioritypowerswitch",
+				"buildingpowerstorage"
 			]
 		]
 	}

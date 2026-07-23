@@ -9,14 +9,14 @@
     "item_width": 36,
     "rows": [
       [
-        "recipe:computer",
-        "recipe:cateriumcomputer",
-        "recipe:crystalcomputer",
-        "recipe:heavymodularframe",
-        "recipe:heavyencasedframe",
-        "recipe:heavyflexibleframe",
-        "recipe:modularengine",
-        "recipe:adaptivecontrolunit"
+        "recipecomputer",
+        "recipecateriumcomputer",
+        "recipecrystalcomputer",
+        "recipeheavymodularframe",
+        "recipeheavyencasedframe",
+        "recipeheavyflexibleframe",
+        "recipemodularengine",
+        "recipeadaptivecontrolunit"
       ]
     ]
   }

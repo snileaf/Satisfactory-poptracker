@@ -68,793 +68,793 @@
                 ]
             },
             {
-                "name": "MAM",
+                "name": "Alien Megafauna",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    " "
+                    "buildingmam"
                 ],
                 "sections": [
                     {
-                        "name": "Alien Organisms - Inflated Pocket Dimension",
-                        "ref": "MAM/Alien Organisms/Inflated Pocket Dimension"
+                        "name": "Alien Megafauna - Inflated Pocket Dimension",
+                        "ref": "Alien Megafauna/Inflated Pocket Dimension"
                     },
                     {
-                        "name": "Alien Organisms - Hostile Organism Detection",
-                        "ref": "MAM/Alien Organisms/Hostile Organism Detection"
+                        "name": "Alien Megafauna - Hostile Organism Detection",
+                        "ref": "Alien Megafauna/Hostile Organism Detection"
                     },
                     {
-                        "name": "Alien Organisms - Expanded Toolbelt",
-                        "ref": "MAM/Alien Organisms/Expanded Toolbelt"
+                        "name": "Alien Megafauna - Expanded Toolbelt",
+                        "ref": "Alien Megafauna/Expanded Toolbelt"
                     },
                     {
-                        "name": "Alien Organisms - Bio-Organic Properties",
-                        "ref": "MAM/Alien Organisms/Bio-Organic Properties"
+                        "name": "Alien Megafauna - Bio-Organic Properties",
+                        "ref": "Alien Megafauna/Bio-Organic Properties"
                     },
                     {
-                        "name": "Alien Organisms - Stinger Research",
-                        "ref": "MAM/Alien Organisms/Stinger Research"
+                        "name": "Alien Megafauna - Stinger Research",
+                        "ref": "Alien Megafauna/Stinger Research"
                     },
                     {
-                        "name": "Alien Organisms - Hatcher Research",
-                        "ref": "MAM/Alien Organisms/Hatcher Research"
+                        "name": "Alien Megafauna - Hatcher Research",
+                        "ref": "Alien Megafauna/Hatcher Research"
                     },
                     {
-                        "name": "Alien Organisms - Hog Research",
-                        "ref": "MAM/Alien Organisms/Hog Research"
+                        "name": "Alien Megafauna - Hog Research",
+                        "ref": "Alien Megafauna/Hog Research"
                     },
                     {
-                        "name": "Alien Organisms - Spitter Research",
-                        "ref": "MAM/Alien Organisms/Spitter Research"
+                        "name": "Alien Megafauna - Spitter Research",
+                        "ref": "Alien Megafauna/Spitter Research"
                     },
                     {
-                        "name": "Alien Organisms - Structural Analysis",
-                        "ref": "MAM/Alien Organisms/Structural Analysis"
+                        "name": "Alien Megafauna - Structural Analysis",
+                        "ref": "Alien Megafauna/Structural Analysis"
                     },
                     {
-                        "name": "Alien Organisms - Protein Inhaler",
-                        "ref": "MAM/Alien Organisms/Protein Inhaler"
+                        "name": "Alien Megafauna - Protein Inhaler",
+                        "ref": "Alien Megafauna/Protein Inhaler"
                     },
                     {
-                        "name": "Alien Organisms - The Rebar Gun",
-                        "ref": "MAM/Alien Organisms/The Rebar Gun"
+                        "name": "Alien Megafauna - The Rebar Gun",
+                        "ref": "Alien Megafauna/The Rebar Gun"
                     },
                     {
                         "name": "Caterium - Caterium Electronics",
-                        "ref": "MAM/Caterium/Caterium Electronics"
+                        "ref": "Caterium/Caterium Electronics"
                     },
                     {
                         "name": "Caterium - Bullet Guidance System",
-                        "ref": "MAM/Caterium/Bullet Guidance System"
+                        "ref": "Caterium/Bullet Guidance System"
                     },
                     {
                         "name": "Caterium - High-Speed Connector",
-                        "ref": "MAM/Caterium/High-Speed Connector"
+                        "ref": "Caterium/High-Speed Connector"
                     },
                     {
                         "name": "Caterium - Caterium",
-                        "ref": "MAM/Caterium/Caterium"
+                        "ref": "Caterium/Caterium"
                     },
                     {
                         "name": "Caterium - Caterium Ingots",
-                        "ref": "MAM/Caterium/Caterium Ingots"
+                        "ref": "Caterium/Caterium Ingots"
                     },
                     {
                         "name": "Caterium - Quickwire",
-                        "ref": "MAM/Caterium/Quickwire"
+                        "ref": "Caterium/Quickwire"
                     },
                     {
                         "name": "Caterium - Power Switch",
-                        "ref": "MAM/Caterium/Power Switch"
+                        "ref": "Caterium/Power Switch"
                     },
                     {
                         "name": "Caterium - Power Poles Mk.2",
-                        "ref": "MAM/Caterium/Power Poles Mk.2"
+                        "ref": "Caterium/Power Poles Mk.2"
                     },
                     {
                         "name": "Caterium - AI Limiter",
-                        "ref": "MAM/Caterium/AI Limiter"
+                        "ref": "Caterium/AI Limiter"
                     },
                     {
                         "name": "Caterium - Smart Splitter",
-                        "ref": "MAM/Caterium/Smart Splitter"
+                        "ref": "Caterium/Smart Splitter"
                     },
                     {
                         "name": "Caterium - Programmable Splitter",
-                        "ref": "MAM/Caterium/Programmable Splitter"
+                        "ref": "Caterium/Programmable Splitter"
                     },
                     {
                         "name": "Caterium - Zipline",
-                        "ref": "MAM/Caterium/Zipline"
+                        "ref": "Caterium/Zipline"
                     },
                     {
                         "name": "Caterium - Geothermal Generator",
-                        "ref": "MAM/Caterium/Geothermal Generator"
+                        "ref": "Caterium/Geothermal Generator"
                     },
                     {
                         "name": "Caterium - Priority Power Switch",
-                        "ref": "MAM/Caterium/Priority Power Switch"
+                        "ref": "Caterium/Priority Power Switch"
                     },
                     {
                         "name": "Caterium - Stun Rebar",
-                        "ref": "MAM/Caterium/Stun Rebar"
+                        "ref": "Caterium/Stun Rebar"
                     },
                     {
                         "name": "Caterium - Power Poles Mk.3",
-                        "ref": "MAM/Caterium/Power Poles Mk.3"
+                        "ref": "Caterium/Power Poles Mk.3"
                     },
                     {
                         "name": "Mycelia - Gas Mask",
-                        "ref": "MAM/Mycelia/Gas Mask"
+                        "ref": "Mycelia/Gas Mask"
                     },
                     {
                         "name": "Mycelia - Therapeutic Inhaler",
-                        "ref": "MAM/Mycelia/Therapeutic Inhaler"
+                        "ref": "Mycelia/Therapeutic Inhaler"
                     },
                     {
                         "name": "Mycelia - Expanded Toolbelt",
-                        "ref": "MAM/Mycelia/Expanded Toolbelt"
+                        "ref": "Mycelia/Expanded Toolbelt"
                     },
                     {
                         "name": "Mycelia - Mycelia",
-                        "ref": "MAM/Mycelia/Mycelia"
+                        "ref": "Mycelia/Mycelia"
                     },
                     {
                         "name": "Mycelia - Fabric",
-                        "ref": "MAM/Mycelia/Fabric"
+                        "ref": "Mycelia/Fabric"
                     },
                     {
                         "name": "Mycelia - Medical Properties",
-                        "ref": "MAM/Mycelia/Medical Properties"
+                        "ref": "Mycelia/Medical Properties"
                     },
                     {
                         "name": "Mycelia - Toxic Cellular Modification",
-                        "ref": "MAM/Mycelia/Toxic Cellular Modification"
+                        "ref": "Mycelia/Toxic Cellular Modification"
                     },
                     {
                         "name": "Mycelia - Vitamin Inhaler",
-                        "ref": "MAM/Mycelia/Vitamin Inhaler"
+                        "ref": "Mycelia/Vitamin Inhaler"
                     },
                     {
                         "name": "Mycelia - Parachute",
-                        "ref": "MAM/Mycelia/Parachute"
+                        "ref": "Mycelia/Parachute"
                     },
                     {
                         "name": "Mycelia - Synthethic Polyester Fabric",
-                        "ref": "MAM/Mycelia/Synthethic Polyester Fabric"
+                        "ref": "Mycelia/Synthethic Polyester Fabric"
                     },
                     {
                         "name": "Nutrients - Bacon Agaric",
-                        "ref": "MAM/Nutrients/Bacon Agaric"
+                        "ref": "Nutrients/Bacon Agaric"
                     },
                     {
                         "name": "Nutrients - Beryl Nut",
-                        "ref": "MAM/Nutrients/Beryl Nut"
+                        "ref": "Nutrients/Beryl Nut"
                     },
                     {
                         "name": "Nutrients - Paleberry",
-                        "ref": "MAM/Nutrients/Paleberry"
+                        "ref": "Nutrients/Paleberry"
                     },
                     {
                         "name": "Nutrients - Nutritional Processor",
-                        "ref": "MAM/Nutrients/Nutritional Processor"
+                        "ref": "Nutrients/Nutritional Processor"
                     },
                     {
                         "name": "Nutrients - Nutritional Inhaler",
-                        "ref": "MAM/Nutrients/Nutritional Inhaler"
+                        "ref": "Nutrients/Nutritional Inhaler"
                     },
                     {
                         "name": "Power Slugs - Slug Scanning",
-                        "ref": "MAM/Power Slugs/Slug Scanning"
+                        "ref": "Power Slugs/Slug Scanning"
                     },
                     {
                         "name": "Power Slugs - Blue Power Slugs",
-                        "ref": "MAM/Power Slugs/Blue Power Slugs"
+                        "ref": "Power Slugs/Blue Power Slugs"
                     },
                     {
                         "name": "Power Slugs - Yellow Power Shards",
-                        "ref": "MAM/Power Slugs/Yellow Power Shards"
+                        "ref": "Power Slugs/Yellow Power Shards"
                     },
                     {
                         "name": "Power Slugs - Purple Power Shards",
-                        "ref": "MAM/Power Slugs/Purple Power Shards"
+                        "ref": "Power Slugs/Purple Power Shards"
                     },
                     {
                         "name": "Power Slugs - Overclock Production",
-                        "ref": "MAM/Power Slugs/Overclock Production"
+                        "ref": "Power Slugs/Overclock Production"
                     },
                     {
                         "name": "Power Slugs - Synthetic Power Shards",
-                        "ref": "MAM/Power Slugs/Synthetic Power Shards"
+                        "ref": "Power Slugs/Synthetic Power Shards"
                     },
                     {
                         "name": "Quartz - Crystal Oscillator",
-                        "ref": "MAM/Quartz/Crystal Oscillator"
+                        "ref": "Quartz/Crystal Oscillator"
                     },
                     {
                         "name": "Quartz - Quartz Crystals",
-                        "ref": "MAM/Quartz/Quartz Crystals"
+                        "ref": "Quartz/Quartz Crystals"
                     },
                     {
                         "name": "Quartz - Quartz",
-                        "ref": "MAM/Quartz/Quartz"
+                        "ref": "Quartz/Quartz"
                     },
                     {
                         "name": "Quartz - Shatter Rebar",
-                        "ref": "MAM/Quartz/Shatter Rebar"
+                        "ref": "Quartz/Shatter Rebar"
                     },
                     {
                         "name": "Quartz - Silica",
-                        "ref": "MAM/Quartz/Silica"
+                        "ref": "Quartz/Silica"
                     },
                     {
                         "name": "Quartz - Explosive Resonance Application",
-                        "ref": "MAM/Quartz/Explosive Resonance Application"
+                        "ref": "Quartz/Explosive Resonance Application"
                     },
                     {
                         "name": "Quartz - Blade Runners",
-                        "ref": "MAM/Quartz/Blade Runners"
+                        "ref": "Quartz/Blade Runners"
                     },
                     {
                         "name": "Quartz - The Explorer",
-                        "ref": "MAM/Quartz/The Explorer"
+                        "ref": "Quartz/The Explorer"
                     },
                     {
                         "name": "Quartz - Radio Signal Scanning",
-                        "ref": "MAM/Quartz/Radio Signal Scanning"
+                        "ref": "Quartz/Radio Signal Scanning"
                     },
                     {
                         "name": "Quartz - Inflated Pocket Dimension",
-                        "ref": "MAM/Quartz/Inflated Pocket Dimension"
+                        "ref": "Quartz/Inflated Pocket Dimension"
                     },
                     {
                         "name": "Quartz - Radar Technology",
-                        "ref": "MAM/Quartz/Radar Technology"
+                        "ref": "Quartz/Radar Technology"
                     },
                     {
                         "name": "Quartz - Material Resonance Screening",
-                        "ref": "MAM/Quartz/Material Resonance Screening"
+                        "ref": "Quartz/Material Resonance Screening"
                     },
                     {
                         "name": "Sulfur - The Nobelisk Detonator",
-                        "ref": "MAM/Sulfur/The Nobelisk Detonator"
+                        "ref": "Sulfur/The Nobelisk Detonator"
                     },
                     {
                         "name": "Sulfur - Smokeless Powder",
-                        "ref": "MAM/Sulfur/Smokeless Powder"
+                        "ref": "Sulfur/Smokeless Powder"
                     },
                     {
                         "name": "Sulfur - Sulfur",
-                        "ref": "MAM/Sulfur/Sulfur"
+                        "ref": "Sulfur/Sulfur"
                     },
                     {
                         "name": "Sulfur - Inflated Pocket Dimension",
-                        "ref": "MAM/Sulfur/Inflated Pocket Dimension"
+                        "ref": "Sulfur/Inflated Pocket Dimension"
                     },
                     {
                         "name": "Sulfur - The Rifle",
-                        "ref": "MAM/Sulfur/The Rifle"
+                        "ref": "Sulfur/The Rifle"
                     },
                     {
                         "name": "Sulfur - Compacted Coal",
-                        "ref": "MAM/Sulfur/Compacted Coal"
+                        "ref": "Sulfur/Compacted Coal"
                     },
                     {
                         "name": "Sulfur - Black Powder",
-                        "ref": "MAM/Sulfur/Black Powder"
+                        "ref": "Sulfur/Black Powder"
                     },
                     {
                         "name": "Sulfur - Explosive Rebar",
-                        "ref": "MAM/Sulfur/Explosive Rebar"
+                        "ref": "Sulfur/Explosive Rebar"
                     },
                     {
                         "name": "Sulfur - Cluster Nobelisk",
-                        "ref": "MAM/Sulfur/Cluster Nobelisk"
+                        "ref": "Sulfur/Cluster Nobelisk"
                     },
                     {
                         "name": "Sulfur - Experimental Power Generation",
-                        "ref": "MAM/Sulfur/Experimental Power Generation"
+                        "ref": "Sulfur/Experimental Power Generation"
                     },
                     {
                         "name": "Sulfur - Turbo Fuel",
-                        "ref": "MAM/Sulfur/Turbo Fuel"
+                        "ref": "Sulfur/Turbo Fuel"
                     },
                     {
                         "name": "Sulfur - Expanded Toolbelt",
-                        "ref": "MAM/Sulfur/Expanded Toolbelt"
+                        "ref": "Sulfur/Expanded Toolbelt"
                     },
                     {
                         "name": "Sulfur - Turbo Rifle Ammo",
-                        "ref": "MAM/Sulfur/Turbo Rifle Ammo"
+                        "ref": "Sulfur/Turbo Rifle Ammo"
                     },
                     {
                         "name": "Sulfur - Nuclear Deterrent Development",
-                        "ref": "MAM/Sulfur/Nuclear Deterrent Development"
+                        "ref": "Sulfur/Nuclear Deterrent Development"
                     },
                     {
                         "name": "Sulfur - Rocket Fuel",
-                        "ref": "MAM/Sulfur/Rocket Fuel"
+                        "ref": "Sulfur/Rocket Fuel"
                     },
                     {
                         "name": "Sulfur - Ionized Fuel",
-                        "ref": "MAM/Sulfur/Ionized Fuel"
+                        "ref": "Sulfur/Ionized Fuel"
                     },
                     {
                         "name": "30 - min",
-                        "ref": "MAM/Alien Technology/Upload Upgrade/30/min"
+                        "ref": "Alien Technology/Upload Upgrade/30/min"
                     },
                     {
                         "name": "60 - min",
-                        "ref": "MAM/Alien Technology/Upload Upgrade/60/min"
+                        "ref": "Alien Technology/Upload Upgrade/60/min"
                     },
                     {
                         "name": "120 - min",
-                        "ref": "MAM/Alien Technology/Upload Upgrade/120/min"
+                        "ref": "Alien Technology/Upload Upgrade/120/min"
                     },
                     {
                         "name": "240 - min",
-                        "ref": "MAM/Alien Technology/Upload Upgrade/240/min"
+                        "ref": "Alien Technology/Upload Upgrade/240/min"
                     },
                     {
                         "name": "Alien Technology - SAM Analysis",
-                        "ref": "MAM/Alien Technology/SAM Analysis"
+                        "ref": "Alien Technology/SAM Analysis"
                     },
                     {
                         "name": "Alien Technology - SAM Reanimation",
-                        "ref": "MAM/Alien Technology/SAM Reanimation"
+                        "ref": "Alien Technology/SAM Reanimation"
                     },
                     {
                         "name": "Alien Technology - SAM Fluctuator",
-                        "ref": "MAM/Alien Technology/SAM Fluctuator"
+                        "ref": "Alien Technology/SAM Fluctuator"
                     },
                     {
                         "name": "Alien Technology - Mercer Sphere Analysis",
-                        "ref": "MAM/Alien Technology/Mercer Sphere Analysis"
+                        "ref": "Alien Technology/Mercer Sphere Analysis"
                     },
                     {
                         "name": "Alien Technology - Dimensional Depot",
-                        "ref": "MAM/Alien Technology/Dimensional Depot"
+                        "ref": "Alien Technology/Dimensional Depot"
                     },
                     {
                         "name": "Alien Technology - Manual Depot Uploader",
-                        "ref": "MAM/Alien Technology/Manual Depot Uploader"
+                        "ref": "Alien Technology/Manual Depot Uploader"
                     },
                     {
                         "name": "Alien Technology - Depot Expansion (200%)",
-                        "ref": "MAM/Alien Technology/Depot Expansion (200%)"
+                        "ref": "Alien Technology/Depot Expansion (200%)"
                     },
                     {
                         "name": "Alien Technology - Depot Expansion (300%)",
-                        "ref": "MAM/Alien Technology/Depot Expansion (300%)"
+                        "ref": "Alien Technology/Depot Expansion (300%)"
                     },
                     {
                         "name": "Alien Technology - Depot Expansion (400%)",
-                        "ref": "MAM/Alien Technology/Depot Expansion (400%)"
+                        "ref": "Alien Technology/Depot Expansion (400%)"
                     },
                     {
                         "name": "Alien Technology - Depot Expansion (500%)",
-                        "ref": "MAM/Alien Technology/Depot Expansion (500%)"
+                        "ref": "Alien Technology/Depot Expansion (500%)"
                     },
                     {
                         "name": "Alien Technology - Somersloop Analysis",
-                        "ref": "MAM/Alien Technology/Somersloop Analysis"
+                        "ref": "Alien Technology/Somersloop Analysis"
                     },
                     {
                         "name": "Alien Technology - Alien Energy Harvesting",
-                        "ref": "MAM/Alien Technology/Alien Energy Harvesting"
+                        "ref": "Alien Technology/Alien Energy Harvesting"
                     },
                     {
                         "name": "Alien Technology - Production Amplifier",
-                        "ref": "MAM/Alien Technology/Production Amplifier"
+                        "ref": "Alien Technology/Production Amplifier"
                     },
                     {
                         "name": "Alien Technology - Power Augmenter",
-                        "ref": "MAM/Alien Technology/Power Augmenter"
+                        "ref": "Alien Technology/Power Augmenter"
                     },
                     {
                         "name": "Alien Technology - Alien Power Matrix",
-                        "ref": "MAM/Alien Technology/Alien Power Matrix"
+                        "ref": "Alien Technology/Alien Power Matrix"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 1",
-                        "ref": "MAM/Hard Drive/Hard drive random check 1"
+                        "ref": "Hard Drive/Hard drive random check 1"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 2",
-                        "ref": "MAM/Hard Drive/Hard drive random check 2"
+                        "ref": "Hard Drive/Hard drive random check 2"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 3",
-                        "ref": "MAM/Hard Drive/Hard drive random check 3"
+                        "ref": "Hard Drive/Hard drive random check 3"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 4",
-                        "ref": "MAM/Hard Drive/Hard drive random check 4"
+                        "ref": "Hard Drive/Hard drive random check 4"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 5",
-                        "ref": "MAM/Hard Drive/Hard drive random check 5"
+                        "ref": "Hard Drive/Hard drive random check 5"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 6",
-                        "ref": "MAM/Hard Drive/Hard drive random check 6"
+                        "ref": "Hard Drive/Hard drive random check 6"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 7",
-                        "ref": "MAM/Hard Drive/Hard drive random check 7"
+                        "ref": "Hard Drive/Hard drive random check 7"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 8",
-                        "ref": "MAM/Hard Drive/Hard drive random check 8"
+                        "ref": "Hard Drive/Hard drive random check 8"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 9",
-                        "ref": "MAM/Hard Drive/Hard drive random check 9"
+                        "ref": "Hard Drive/Hard drive random check 9"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 10",
-                        "ref": "MAM/Hard Drive/Hard drive random check 10"
+                        "ref": "Hard Drive/Hard drive random check 10"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 11",
-                        "ref": "MAM/Hard Drive/Hard drive random check 11"
+                        "ref": "Hard Drive/Hard drive random check 11"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 12",
-                        "ref": "MAM/Hard Drive/Hard drive random check 12"
+                        "ref": "Hard Drive/Hard drive random check 12"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 13",
-                        "ref": "MAM/Hard Drive/Hard drive random check 13"
+                        "ref": "Hard Drive/Hard drive random check 13"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 14",
-                        "ref": "MAM/Hard Drive/Hard drive random check 14"
+                        "ref": "Hard Drive/Hard drive random check 14"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 15",
-                        "ref": "MAM/Hard Drive/Hard drive random check 15"
+                        "ref": "Hard Drive/Hard drive random check 15"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 16",
-                        "ref": "MAM/Hard Drive/Hard drive random check 16"
+                        "ref": "Hard Drive/Hard drive random check 16"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 17",
-                        "ref": "MAM/Hard Drive/Hard drive random check 17"
+                        "ref": "Hard Drive/Hard drive random check 17"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 18",
-                        "ref": "MAM/Hard Drive/Hard drive random check 18"
+                        "ref": "Hard Drive/Hard drive random check 18"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 19",
-                        "ref": "MAM/Hard Drive/Hard drive random check 19"
+                        "ref": "Hard Drive/Hard drive random check 19"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 20",
-                        "ref": "MAM/Hard Drive/Hard drive random check 20"
+                        "ref": "Hard Drive/Hard drive random check 20"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 21",
-                        "ref": "MAM/Hard Drive/Hard drive random check 21"
+                        "ref": "Hard Drive/Hard drive random check 21"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 22",
-                        "ref": "MAM/Hard Drive/Hard drive random check 22"
+                        "ref": "Hard Drive/Hard drive random check 22"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 23",
-                        "ref": "MAM/Hard Drive/Hard drive random check 23"
+                        "ref": "Hard Drive/Hard drive random check 23"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 24",
-                        "ref": "MAM/Hard Drive/Hard drive random check 24"
+                        "ref": "Hard Drive/Hard drive random check 24"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 25",
-                        "ref": "MAM/Hard Drive/Hard drive random check 25"
+                        "ref": "Hard Drive/Hard drive random check 25"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 26",
-                        "ref": "MAM/Hard Drive/Hard drive random check 26"
+                        "ref": "Hard Drive/Hard drive random check 26"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 27",
-                        "ref": "MAM/Hard Drive/Hard drive random check 27"
+                        "ref": "Hard Drive/Hard drive random check 27"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 28",
-                        "ref": "MAM/Hard Drive/Hard drive random check 28"
+                        "ref": "Hard Drive/Hard drive random check 28"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 29",
-                        "ref": "MAM/Hard Drive/Hard drive random check 29"
+                        "ref": "Hard Drive/Hard drive random check 29"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 30",
-                        "ref": "MAM/Hard Drive/Hard drive random check 30"
+                        "ref": "Hard Drive/Hard drive random check 30"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 31",
-                        "ref": "MAM/Hard Drive/Hard drive random check 31"
+                        "ref": "Hard Drive/Hard drive random check 31"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 32",
-                        "ref": "MAM/Hard Drive/Hard drive random check 32"
+                        "ref": "Hard Drive/Hard drive random check 32"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 33",
-                        "ref": "MAM/Hard Drive/Hard drive random check 33"
+                        "ref": "Hard Drive/Hard drive random check 33"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 34",
-                        "ref": "MAM/Hard Drive/Hard drive random check 34"
+                        "ref": "Hard Drive/Hard drive random check 34"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 35",
-                        "ref": "MAM/Hard Drive/Hard drive random check 35"
+                        "ref": "Hard Drive/Hard drive random check 35"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 36",
-                        "ref": "MAM/Hard Drive/Hard drive random check 36"
+                        "ref": "Hard Drive/Hard drive random check 36"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 37",
-                        "ref": "MAM/Hard Drive/Hard drive random check 37"
+                        "ref": "Hard Drive/Hard drive random check 37"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 38",
-                        "ref": "MAM/Hard Drive/Hard drive random check 38"
+                        "ref": "Hard Drive/Hard drive random check 38"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 39",
-                        "ref": "MAM/Hard Drive/Hard drive random check 39"
+                        "ref": "Hard Drive/Hard drive random check 39"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 40",
-                        "ref": "MAM/Hard Drive/Hard drive random check 40"
+                        "ref": "Hard Drive/Hard drive random check 40"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 41",
-                        "ref": "MAM/Hard Drive/Hard drive random check 41"
+                        "ref": "Hard Drive/Hard drive random check 41"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 42",
-                        "ref": "MAM/Hard Drive/Hard drive random check 42"
+                        "ref": "Hard Drive/Hard drive random check 42"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 43",
-                        "ref": "MAM/Hard Drive/Hard drive random check 43"
+                        "ref": "Hard Drive/Hard drive random check 43"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 44",
-                        "ref": "MAM/Hard Drive/Hard drive random check 44"
+                        "ref": "Hard Drive/Hard drive random check 44"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 45",
-                        "ref": "MAM/Hard Drive/Hard drive random check 45"
+                        "ref": "Hard Drive/Hard drive random check 45"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 46",
-                        "ref": "MAM/Hard Drive/Hard drive random check 46"
+                        "ref": "Hard Drive/Hard drive random check 46"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 47",
-                        "ref": "MAM/Hard Drive/Hard drive random check 47"
+                        "ref": "Hard Drive/Hard drive random check 47"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 48",
-                        "ref": "MAM/Hard Drive/Hard drive random check 48"
+                        "ref": "Hard Drive/Hard drive random check 48"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 49",
-                        "ref": "MAM/Hard Drive/Hard drive random check 49"
+                        "ref": "Hard Drive/Hard drive random check 49"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 50",
-                        "ref": "MAM/Hard Drive/Hard drive random check 50"
+                        "ref": "Hard Drive/Hard drive random check 50"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 51",
-                        "ref": "MAM/Hard Drive/Hard drive random check 51"
+                        "ref": "Hard Drive/Hard drive random check 51"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 52",
-                        "ref": "MAM/Hard Drive/Hard drive random check 52"
+                        "ref": "Hard Drive/Hard drive random check 52"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 53",
-                        "ref": "MAM/Hard Drive/Hard drive random check 53"
+                        "ref": "Hard Drive/Hard drive random check 53"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 54",
-                        "ref": "MAM/Hard Drive/Hard drive random check 54"
+                        "ref": "Hard Drive/Hard drive random check 54"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 55",
-                        "ref": "MAM/Hard Drive/Hard drive random check 55"
+                        "ref": "Hard Drive/Hard drive random check 55"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 56",
-                        "ref": "MAM/Hard Drive/Hard drive random check 56"
+                        "ref": "Hard Drive/Hard drive random check 56"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 57",
-                        "ref": "MAM/Hard Drive/Hard drive random check 57"
+                        "ref": "Hard Drive/Hard drive random check 57"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 58",
-                        "ref": "MAM/Hard Drive/Hard drive random check 58"
+                        "ref": "Hard Drive/Hard drive random check 58"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 59",
-                        "ref": "MAM/Hard Drive/Hard drive random check 59"
+                        "ref": "Hard Drive/Hard drive random check 59"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 60",
-                        "ref": "MAM/Hard Drive/Hard drive random check 60"
+                        "ref": "Hard Drive/Hard drive random check 60"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 61",
-                        "ref": "MAM/Hard Drive/Hard drive random check 61"
+                        "ref": "Hard Drive/Hard drive random check 61"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 62",
-                        "ref": "MAM/Hard Drive/Hard drive random check 62"
+                        "ref": "Hard Drive/Hard drive random check 62"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 63",
-                        "ref": "MAM/Hard Drive/Hard drive random check 63"
+                        "ref": "Hard Drive/Hard drive random check 63"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 64",
-                        "ref": "MAM/Hard Drive/Hard drive random check 64"
+                        "ref": "Hard Drive/Hard drive random check 64"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 65",
-                        "ref": "MAM/Hard Drive/Hard drive random check 65"
+                        "ref": "Hard Drive/Hard drive random check 65"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 66",
-                        "ref": "MAM/Hard Drive/Hard drive random check 66"
+                        "ref": "Hard Drive/Hard drive random check 66"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 67",
-                        "ref": "MAM/Hard Drive/Hard drive random check 67"
+                        "ref": "Hard Drive/Hard drive random check 67"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 68",
-                        "ref": "MAM/Hard Drive/Hard drive random check 68"
+                        "ref": "Hard Drive/Hard drive random check 68"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 69",
-                        "ref": "MAM/Hard Drive/Hard drive random check 69"
+                        "ref": "Hard Drive/Hard drive random check 69"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 70",
-                        "ref": "MAM/Hard Drive/Hard drive random check 70"
+                        "ref": "Hard Drive/Hard drive random check 70"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 71",
-                        "ref": "MAM/Hard Drive/Hard drive random check 71"
+                        "ref": "Hard Drive/Hard drive random check 71"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 72",
-                        "ref": "MAM/Hard Drive/Hard drive random check 72"
+                        "ref": "Hard Drive/Hard drive random check 72"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 73",
-                        "ref": "MAM/Hard Drive/Hard drive random check 73"
+                        "ref": "Hard Drive/Hard drive random check 73"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 74",
-                        "ref": "MAM/Hard Drive/Hard drive random check 74"
+                        "ref": "Hard Drive/Hard drive random check 74"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 75",
-                        "ref": "MAM/Hard Drive/Hard drive random check 75"
+                        "ref": "Hard Drive/Hard drive random check 75"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 76",
-                        "ref": "MAM/Hard Drive/Hard drive random check 76"
+                        "ref": "Hard Drive/Hard drive random check 76"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 77",
-                        "ref": "MAM/Hard Drive/Hard drive random check 77"
+                        "ref": "Hard Drive/Hard drive random check 77"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 78",
-                        "ref": "MAM/Hard Drive/Hard drive random check 78"
+                        "ref": "Hard Drive/Hard drive random check 78"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 79",
-                        "ref": "MAM/Hard Drive/Hard drive random check 79"
+                        "ref": "Hard Drive/Hard drive random check 79"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 80",
-                        "ref": "MAM/Hard Drive/Hard drive random check 80"
+                        "ref": "Hard Drive/Hard drive random check 80"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 81",
-                        "ref": "MAM/Hard Drive/Hard drive random check 81"
+                        "ref": "Hard Drive/Hard drive random check 81"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 82",
-                        "ref": "MAM/Hard Drive/Hard drive random check 82"
+                        "ref": "Hard Drive/Hard drive random check 82"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 83",
-                        "ref": "MAM/Hard Drive/Hard drive random check 83"
+                        "ref": "Hard Drive/Hard drive random check 83"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 84",
-                        "ref": "MAM/Hard Drive/Hard drive random check 84"
+                        "ref": "Hard Drive/Hard drive random check 84"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 85",
-                        "ref": "MAM/Hard Drive/Hard drive random check 85"
+                        "ref": "Hard Drive/Hard drive random check 85"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 86",
-                        "ref": "MAM/Hard Drive/Hard drive random check 86"
+                        "ref": "Hard Drive/Hard drive random check 86"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 87",
-                        "ref": "MAM/Hard Drive/Hard drive random check 87"
+                        "ref": "Hard Drive/Hard drive random check 87"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 88",
-                        "ref": "MAM/Hard Drive/Hard drive random check 88"
+                        "ref": "Hard Drive/Hard drive random check 88"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 89",
-                        "ref": "MAM/Hard Drive/Hard drive random check 89"
+                        "ref": "Hard Drive/Hard drive random check 89"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 90",
-                        "ref": "MAM/Hard Drive/Hard drive random check 90"
+                        "ref": "Hard Drive/Hard drive random check 90"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 91",
-                        "ref": "MAM/Hard Drive/Hard drive random check 91"
+                        "ref": "Hard Drive/Hard drive random check 91"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 92",
-                        "ref": "MAM/Hard Drive/Hard drive random check 92"
+                        "ref": "Hard Drive/Hard drive random check 92"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 93",
-                        "ref": "MAM/Hard Drive/Hard drive random check 93"
+                        "ref": "Hard Drive/Hard drive random check 93"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 94",
-                        "ref": "MAM/Hard Drive/Hard drive random check 94"
+                        "ref": "Hard Drive/Hard drive random check 94"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 95",
-                        "ref": "MAM/Hard Drive/Hard drive random check 95"
+                        "ref": "Hard Drive/Hard drive random check 95"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 96",
-                        "ref": "MAM/Hard Drive/Hard drive random check 96"
+                        "ref": "Hard Drive/Hard drive random check 96"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 97",
-                        "ref": "MAM/Hard Drive/Hard drive random check 97"
+                        "ref": "Hard Drive/Hard drive random check 97"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 98",
-                        "ref": "MAM/Hard Drive/Hard drive random check 98"
+                        "ref": "Hard Drive/Hard drive random check 98"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 99",
-                        "ref": "MAM/Hard Drive/Hard drive random check 99"
+                        "ref": "Hard Drive/Hard drive random check 99"
                     },
                     {
                         "name": "Hard Drive - Hard drive random check 100",
-                        "ref": "MAM/Hard Drive/Hard drive random check 100"
+                        "ref": "Hard Drive/Hard drive random check 100"
                     }
                 ],
                 "map_locations": [

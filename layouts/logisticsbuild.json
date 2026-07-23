@@ -9,34 +9,34 @@
 		"item_width": 36,
 		"rows": [
 			[
-				"building:conveyormk.2",
-				"building:conveyormk.3",
-				"building:conveyormk.4",
-				"building:conveyormk.5",
-				"building:conveyormk.6",
-				"building:conveyorliftmk.1",
-				"building:conveyorliftmk.2",
-				"building:conveyorliftmk.3",
-				"building:conveyorliftmk.4",
-				"building:conveyorliftmk.5",
-				"building:conveyorliftmk.6",
-				"building:stackableconveyorpole"
+				"buildingconveyormk.2",
+				"buildingconveyormk.3",
+				"buildingconveyormk.4",
+				"buildingconveyormk.5",
+				"buildingconveyormk.6",
+				"buildingconveyorliftmk.1",
+				"buildingconveyorliftmk.2",
+				"buildingconveyorliftmk.3",
+				"buildingconveyorliftmk.4",
+				"buildingconveyorliftmk.5",
+				"buildingconveyorliftmk.6",
+				"buildingstackableconveyorpole"
 			],
 			[
-				"building:pipesmk.1",
-				"building:pipesmk.2",
-				"building:stackablepipelinesupport",
-				"building:pipelinejunctioncross",
-				"building:pipelinepumpmk.1",
-				"building:pipelinepumpmk.2",
-				"building:valve"
+				"buildingpipesmk.1",
+				"buildingpipesmk.2",
+				"buildingstackablepipelinesupport",
+				"buildingpipelinejunctioncross",
+				"buildingpipelinepumpmk.1",
+				"buildingpipelinepumpmk.2",
+				"buildingvalve"
 			],
 			[
-				"building:conveyormerger",
-				"building:prioritymerger",
-				"building:conveyorsplitter",
-				"building:smartsplitter",
-				"building:programmablesplitter"
+				"buildingconveyormerger",
+				"buildingprioritymerger",
+				"buildingconveyorsplitter",
+				"buildingsmartsplitter",
+				"buildingprogrammablesplitter"
 			]
 		]
 	}

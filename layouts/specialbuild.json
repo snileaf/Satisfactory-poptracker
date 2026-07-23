@@ -9,12 +9,12 @@
     "item_width": 36,
     "rows": [
       [
-        "building:mam",
-        "building:spaceelevator",
-        "building:awesomesink",
-        "building:awesomeshop",
-        "building:blueprintdesigner",
-        "building:equipmentworkshop"
+        "buildingmam",
+        "buildingspaceelevator",
+        "buildingawesomesink",
+        "buildingawesomeshop",
+        "buildingblueprintdesigner",
+        "buildingequipmentworkshop"
       ]
     ]
   }

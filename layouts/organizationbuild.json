@@ -9,17 +9,17 @@
 		"item_width": 36,
 		"rows": [
 			[
-				"building:wallmountedfloodlight",
-				"building:floodlighttower",
-				"building:ceilinglight",
-				"building:personalstoragebox",
-				"building:storagecontainer",
-				"building:industrialstoragecontainer",
-				"building:dimensionaldepotuploader",
-				"building:fluidbuffer",
-				"building:industrialfluidbuffer",
-				"building:lookouttower",
-				"building:radartower"
+				"buildingwallmountedfloodlight",
+				"buildingfloodlighttower",
+				"buildingceilinglight",
+				"buildingpersonalstoragebox",
+				"buildingstoragecontainer",
+				"buildingindustrialstoragecontainer",
+				"buildingdimensionaldepotuploader",
+				"buildingfluidbuffer",
+				"buildingindustrialfluidbuffer",
+				"buildinglookouttower",
+				"buildingradartower"
 			]
 		]
 	}

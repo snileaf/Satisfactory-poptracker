@@ -9,15 +9,15 @@
     "item_width": 36,
     "rows": [
       [
-        "recipe:encasedindustrialbeam",
-        "recipe:encasedindustrialpipe",
-        "recipe:stator",
-        "recipe:quickwirestator",
-        "recipe:motor",
-        "recipe:electricmotor",
-        "recipe:rigormotor",
-        "recipe:automatedwiring",
-        "recipe:automatedspeedwiring"
+        "recipeencasedindustrialbeam",
+        "recipeencasedindustrialpipe",
+        "recipestator",
+        "recipequickwirestator",
+        "recipemotor",
+        "recipeelectricmotor",
+        "reciperigormotor",
+        "recipeautomatedwiring",
+        "recipeautomatedspeedwiring"
       ]
     ]
   }
