@@ -1,7 +1,7 @@
 {
   "name": "Satisfactory PopTracker",
   "game_name": "Satisfactory",
-  "package_version": "0.0.3",
+  "package_version": "0.0.4",
   "package_uid": "satisfactory_ap",
   "author": "Snileaf, builder_script",
   "variants": {
