@@ -1,20 +1,31 @@
 {
     "versions": [
         {
-            "package_version": "1.0.0",
-            "download_url": "http://example.com/pack_1.0.0.zip",
-            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "package_version": "0.0.3",
+            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.3/Satisfactory-PopTracker.v0.0.3.zip",
+            "sha256": "sha256:130f99f50d66ff345c16814d8985e1d5cdbc181b29b7d16e7416a1902e6ee46f",
             "changelog": [
-                "Changed version to 1.0.0",
-                "Nothing else"
+                "Populated AWESOME Store map with locations and added logic to them.",
+                "Populated all of the MAM Tech Tree maps with their respective location and added logic to all of them.",
+                "Re-added the starting recipes to the main item tracker.",
+                "Significantly reduced the file size by downscaling item and building images to 64x64 using .NET 8 / System.Drawing.Common.",
+                "Did general maintenance and improved a lot of code, getting stuff ready for future updates."
             ]
         },
         {
-            "package_version": "0.9.9",
-            "download_url": "http://example.com/pack_0.9.9.zip",
-            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "package_version": "0.0.2",
+            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.2/Satisfactory-PopTracker.v0.0.2.zip",
+            "sha256": "sha256:517870f9e5ef9746fa238f5613636ed5c712aac55228aba7ccf6901443a03d7e",
             "changelog": [
-                "initial version"
+                "Fixed default names for Packaged Oil, Water, and Nitrogen Gas."
+            ]
+        },
+        {
+            "package_version": "0.0.1",
+            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.1/Satisfactory-PopTracker.v0.0.1.zip",
+            "sha256": "sha256:b30d825a253e3ff7951684568e58bbb1cd8320f852a040bf450f46a81c222e36",
+            "changelog": [
+                "Initial release of Satisfactory PopTracker."
             ]
         }
     ]
