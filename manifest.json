@@ -1,5 +1,5 @@
 {
-  "name": "Satisfactory Archipelago",
+  "name": "Satisfactory PopTracker",
   "game_name": "Satisfactory",
   "package_version": "0.0.3",
   "package_uid": "satisfactory_ap",
@@ -12,5 +12,6 @@
       ]
     }
   },
+  "versions_url": "https://raw.githubusercontent.com/snileaf/Satisfactory-poptracker/versions/versions.json",
   "min_poptracker_version": "0.31.0"
 }
