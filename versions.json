@@ -1,14 +1,6 @@
 {
     "versions": [
         {
-            "package_version": "0.0.5",
-            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.5/Satisfactory-PopTracker.v0.0.5.zip",
-            "sha256": "6b33db6c3cb553fa6639b91b4a3dcb8352f98cb129773109609c23e3089ce511",
-            "changelog": [
-                "Added Milestone map with locations and added logic to them."
-            ]
-        },
-        {
             "package_version": "0.0.4",
             "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.4/Satisfactory-PopTracker.v.0.0.4.zip",
             "sha256": "6abda86eb48a6b59fc3e6233dd3c96c0ae1c7bd93fac3028f889859aeb360f9d",
