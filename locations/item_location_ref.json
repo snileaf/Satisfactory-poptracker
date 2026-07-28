@@ -382,5 +382,110 @@
       "recipeelectrodecircuitboard",
       "recipecircuitboard"
     ]
+  },
+  {
+    "name": "Concrete Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipefineconcrete",
+      "buildingrefinery,recipewetconcrete",
+      "reciperubberconcrete",
+      "recipeconcrete"
+    ]
+  },
+  {
+    "name": "Aluminum Casing Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipealcladcasing",
+      "recipealuminumcasing"
+    ]
+  },
+  {
+    "name": "Radio Control Unit Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingmanufacturer,reciperadiocontrolsystem",
+      "buildingmanufacturer,reciperadiocontrolunit",
+      "buildingmanufacturer,reciperadioconnectionunit"
+    ]
+  },
+  {
+    "name": "Supercomputer Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingmanufacturer,recipesupercomputer",
+      "recipeocsupercomputer",
+      "buildingmanufacturer,recipesuper-statecomputer"
+    ]
+  },
+  {
+    "name": "Fused Modular Frame Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingblender,recipefusedmodularframe",
+      "buildingblender,recipeheat-fusedframe"
+    ]
+  },
+  {
+    "name": "Cooling System Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingblender,recipecoolingsystem",
+      "buildingblender,recipecoolingdevice"
+    ]
+  },
+  {
+    "name": "Turbo Motor Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingmanufacturer,recipeturboelectricmotor",
+      "buildingmanufacturer,recipeturbopressuremotor",
+      "buildingmanufacturer,recipeturbomotor"
+    ]
+  },
+  {
+    "name": "Smart Plating Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipesmartplating",
+      "buildingmanufacturer,recipeplasticsmartplating"
+    ]
+  },
+  {
+    "name": "Versatile Framework Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeversatileframework",
+      "buildingmanufacturer,recipeflexibleframework"
+    ]
+  },
+  {
+    "name": "Automated Wiring Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeautomatedwiring",
+      "buildingmanufacturer,recipeautomatedspeedwiring"
+    ]
   }
 ]

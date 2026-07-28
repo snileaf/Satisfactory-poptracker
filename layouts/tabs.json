@@ -272,89 +272,9 @@
       {
         "title": "Milestones",
         "content": {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "Tier 1",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Tier 1"
-                ]
-              }
-            },
-            {
-              "title": "Tier 2",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Tier 2"
-                ]
-              }
-            },
-            {
-              "title": "Tier 3",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Tier 3"
-                ]
-              }
-            },
-            {
-              "title": "Tier 4",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Tier 4"
-                ]
-              }
-            },
-            {
-              "title": "Tier 5",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Tier 5"
-                ]
-              }
-            },
-            {
-              "title": "Tier 6",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Tier 6"
-                ]
-              }
-            },
-            {
-              "title": "Tier 7",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Tier 7"
-                ]
-              }
-            },
-            {
-              "title": "Tier 8",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Tier 8"
-                ]
-              }
-            },
-            {
-              "title": "Tier 9",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "Tier 9"
-                ]
-              }
-            }
+          "type": "map",
+          "maps": [
+            "Milestones"
           ]
         }
       }

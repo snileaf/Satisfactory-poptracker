@@ -2,7 +2,7 @@
 
 # PopTracker pack for the Satisfactory Archipelago Mod
 
-Items, MAM Tech Trees, and AWESOME Shop Maps currently supported. Biome Maps and Milestone Maps coming soon!
+Items, MAM Tech Trees, AWESOME Shop Maps, and Milestone Maps currently supported. Biome Maps coming soon!
 
 ## Installation
 
@@ -17,7 +17,7 @@ Images used for this tracker came from the following sources:
 - The wiki for [Satisfactory](https://satisfactory.wiki.gg/).
 
 # TODO
-- Figure out maps for Milestones, populate, then configure logic for said locations.
+- ~~Figure out maps for Milestones, populate, then configure logic for said locations.~~
 - ~~Finish editing the AWESOME Shop Map, then populate with locations, then lock behind shop and sink buiding unlock.~~
 - ~~Populate MAM Maps with locations, then configure logic for said locations.~~
 - Cut and edit Biome Maps according to the 1.2 map, then add manual locations for each harddrive location. (PLEASE DM ME IF YOU WANT TO HELP, IT SUCKS!)
