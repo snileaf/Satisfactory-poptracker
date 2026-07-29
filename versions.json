@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "0.0.6",
+            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.6/Satisfactory-PopTracker.v0.0.6.zip",
+            "sha256": "dbca4bce2f480c971a37ee475b076b5d00da2a4632c369595b247552124d6495",
+            "changelog": [
+                "Edited Milestone map logic to have previous Elevator Phase requirements as logic rules for future phases."
+            ]
+        },
+        {
             "package_version": "0.0.5",
             "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.5/Satisfactory-PopTracker.v0.0.5.zip",
             "sha256": "8e67a12746fbf658910da9ac5fb70d971ab489713aad47abb227055750a1ab0a",
