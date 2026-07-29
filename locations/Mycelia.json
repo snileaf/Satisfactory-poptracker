@@ -11,7 +11,8 @@
       {
         "name": "Gas Mask",
         "access_rules": [
-          "$locationcheck|@Fabric,@Fabric Recipe,@Steel Pipe Recipe"
+          "$locationcheck|@Fabric,@Fabric Recipe,@Steel Pipe Recipe",
+          "{$locationcheck|@Fabric}"
         ],
         "sections": [
           {
@@ -31,7 +32,8 @@
       {
         "name": "Therapeutic Inhaler",
         "access_rules": [
-          "$locationcheck|@Medical Properties,@Alien Protein Recipe"
+          "$locationcheck|@Medical Properties,@Alien Protein Recipe",
+          "{$locationcheck|@Medical Properties}"
         ],
         "sections": [
           {
@@ -51,7 +53,8 @@
       {
         "name": "Expanded Toolbelt - Mycelia",
         "access_rules": [
-          "$locationcheck|@Fabric,@Fabric Recipe,@Rotor Recipe"
+          "$locationcheck|@Fabric,@Fabric Recipe,@Rotor Recipe",
+          "{$locationcheck|@Fabric}"
         ],
         "sections": [
           {
@@ -89,7 +92,8 @@
       {
         "name": "Fabric",
         "access_rules": [
-          "$locationcheck|@Mycelia Discovery"
+          "$locationcheck|@Mycelia Discovery",
+          "{$locationcheck|@Mycelia Discovery}"
         ],
         "sections": [
           {
@@ -109,7 +113,8 @@
       {
         "name": "Medical Properties",
         "access_rules": [
-          "$locationcheck|@Mycelia Discovery,@Stator Recipe"
+          "$locationcheck|@Mycelia Discovery,@Stator Recipe",
+          "{$locationcheck|@Mycelia Discovery}"
         ],
         "sections": [
           {
@@ -129,7 +134,8 @@
       {
         "name": "Toxic Cellular Modification",
         "access_rules": [
-          "$locationcheck|@Mycelia Discovery,recipenobelisk"
+          "$locationcheck|@Mycelia Discovery,recipenobelisk",
+          "{$locationcheck|@Mycelia Discovery}"
         ],
         "sections": [
           {
@@ -149,7 +155,8 @@
       {
         "name": "Vitamin Inhaler",
         "access_rules": [
-          "$locationcheck|@Medical Properties"
+          "$locationcheck|@Medical Properties",
+          "{$locationcheck|@Medical Properties}"
         ],
         "sections": [
           {
@@ -170,7 +177,8 @@
         "name": "Parachute",
         "access_rules": [
           "$locationcheck|@Fabric,@Fabric Recipe,@Cable Recipe",
-          "$locationcheck|@Fabric,@Fabric Recipe"
+          "$locationcheck|@Fabric,@Fabric Recipe",
+          "{$locationcheck|@Fabric}"
         ],
         "sections": [
           {
@@ -190,7 +198,8 @@
       {
         "name": "Synthetic Polyester Fabric",
         "access_rules": [
-          "$locationcheck|@Fabric,@Fabric Recipe,@Polymer Resin Recipe"
+          "$locationcheck|@Fabric,@Fabric Recipe,@Polymer Resin Recipe",
+          "{$locationcheck|@Fabric}"
         ],
         "sections": [
           {

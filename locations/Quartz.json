@@ -12,7 +12,8 @@
         "name": "Crystal Oscillator",
         "access_rules": [
           "$locationcheck|@Quartz Crystals,@Quartz Crystal Recipe,@Reinforced Iron Plate Recipe",
-          "$locationcheck|@Quartz Crystals,@Quartz Crystal Recipe"
+          "$locationcheck|@Quartz Crystals,@Quartz Crystal Recipe",
+          "{$locationcheck|@Quartz Crystals}"
         ],
         "sections": [
           {
@@ -32,7 +33,8 @@
       {
         "name": "Quartz Crystals",
         "access_rules": [
-          "$locationcheck|@Quartz Discovery"
+          "$locationcheck|@Quartz Discovery",
+          "{$locationcheck|@Quartz Discovery}"
         ],
         "sections": [
           {
@@ -70,7 +72,8 @@
       {
         "name": "Shatter Rebar",
         "access_rules": [
-          "$locationcheck|@Quartz Crystals,@Quartz Crystal Recipe,recipeironrebar"
+          "$locationcheck|@Quartz Crystals,@Quartz Crystal Recipe,recipeironrebar",
+          "{$locationcheck|@Quartz Discovery}"
         ],
         "sections": [
           {
@@ -90,7 +93,8 @@
       {
         "name": "Silica",
         "access_rules": [
-          "$locationcheck|@Quartz Discovery"
+          "$locationcheck|@Quartz Discovery",
+          "{$locationcheck|@Quartz Discovery}"
         ],
         "sections": [
           {
@@ -110,7 +114,8 @@
       {
         "name": "Explosive Resonance Application",
         "access_rules": [
-          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe,recipenobelisk"
+          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe,recipenobelisk",
+          "{$locationcheck|@Crystal Oscillator}"
         ],
         "sections": [
           {
@@ -130,7 +135,8 @@
       {
         "name": "Blade Runners",
         "access_rules": [
-          "$locationcheck|@Silica,@Silica Recipe,@Modular Frame Recipe"
+          "$locationcheck|@Silica,@Silica Recipe,@Modular Frame Recipe",
+          "{$locationcheck|@Quartz Discovery}"
         ],
         "sections": [
           {
@@ -150,7 +156,8 @@
       {
         "name": "The Explorer",
         "access_rules": [
-          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe,@Modular Frame Recipe"
+          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe,@Modular Frame Recipe",
+          "{$locationcheck|@Quartz Crystals}"
         ],
         "sections": [
           {
@@ -170,7 +177,8 @@
       {
         "name": "Radio Signal Scanning",
         "access_rules": [
-          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe,@Motor Recipe,recipeobjectscanner"
+          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe,@Motor Recipe,recipeobjectscanner",
+          "{$locationcheck|@Crystal Oscillator}"
         ],
         "sections": [
           {
@@ -190,7 +198,8 @@
       {
         "name": "Inflated Pocket Dimension - Quartz",
         "access_rules": [
-          "$locationcheck|@Silica,@Silica Recipe"
+          "$locationcheck|@Silica,@Silica Recipe",
+          "{$locationcheck|@Quartz Discovery}"
         ],
         "sections": [
           {
@@ -210,7 +219,8 @@
       {
         "name": "Radar Technology",
         "access_rules": [
-          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe,@Heavy Modular Frame Recipe,@Computer Recipe"
+          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe,@Heavy Modular Frame Recipe,@Computer Recipe",
+          "{$locationcheck|@Crystal Oscillator}"
         ],
         "sections": [
           {
@@ -231,7 +241,8 @@
         "name": "Material Resonance Screening",
         "access_rules": [
           "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe,@Reinforced Iron Plate Recipe",
-          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe"
+          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe",
+          "{$locationcheck|@Quartz Crystals}"
         ],
         "sections": [
           {

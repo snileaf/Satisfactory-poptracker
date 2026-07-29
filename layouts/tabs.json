@@ -195,11 +195,11 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Alien Megafauna",
+              "title": "Alien Organisms",
               "content": {
                 "type": "map",
                 "maps": [
-                  "Alien Megafauna"
+                  "Alien Organisms"
                 ]
               }
             },

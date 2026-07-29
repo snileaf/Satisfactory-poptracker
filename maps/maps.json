@@ -6,10 +6,10 @@
     "img": "images/maps/AWESOME Shop.png"
   },
   {
-    "name": "Alien Megafauna",
+    "name": "Alien Organisms",
     "location_size": 6,
     "location_border_thickness": 1,
-    "img": "images/maps/Alien Megafauna.png"
+    "img": "images/maps/Alien Organisms.png"
   },
   {
     "name": "Alien Technology",

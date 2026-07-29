@@ -68,7 +68,7 @@
                 ]
             },
             {
-                "name": "Alien Megafauna",
+                "name": "Alien Organisms",
                 "chest_unopened_img": "/images/items/close.png",
                 "chest_opened_img": "/images/items/open.png",
                 "overlay_background": "#000000",
@@ -77,48 +77,48 @@
                 ],
                 "sections": [
                     {
-                        "name": "Alien Megafauna - Inflated Pocket Dimension",
-                        "ref": "Alien Megafauna/Inflated Pocket Dimension"
+                        "name": "Alien Organisms - Inflated Pocket Dimension",
+                        "ref": "Alien Organisms/Inflated Pocket Dimension"
                     },
                     {
-                        "name": "Alien Megafauna - Hostile Organism Detection",
-                        "ref": "Alien Megafauna/Hostile Organism Detection"
+                        "name": "Alien Organisms - Hostile Organism Detection",
+                        "ref": "Alien Organisms/Hostile Organism Detection"
                     },
                     {
-                        "name": "Alien Megafauna - Expanded Toolbelt",
-                        "ref": "Alien Megafauna/Expanded Toolbelt"
+                        "name": "Alien Organisms - Expanded Toolbelt",
+                        "ref": "Alien Organisms/Expanded Toolbelt"
                     },
                     {
-                        "name": "Alien Megafauna - Bio-Organic Properties",
-                        "ref": "Alien Megafauna/Bio-Organic Properties"
+                        "name": "Alien Organisms - Bio-Organic Properties",
+                        "ref": "Alien Organisms/Bio-Organic Properties"
                     },
                     {
-                        "name": "Alien Megafauna - Stinger Research",
-                        "ref": "Alien Megafauna/Stinger Research"
+                        "name": "Alien Organisms - Stinger Research",
+                        "ref": "Alien Organisms/Stinger Research"
                     },
                     {
-                        "name": "Alien Megafauna - Hatcher Research",
-                        "ref": "Alien Megafauna/Hatcher Research"
+                        "name": "Alien Organisms - Hatcher Research",
+                        "ref": "Alien Organisms/Hatcher Research"
                     },
                     {
-                        "name": "Alien Megafauna - Hog Research",
-                        "ref": "Alien Megafauna/Hog Research"
+                        "name": "Alien Organisms - Hog Research",
+                        "ref": "Alien Organisms/Hog Research"
                     },
                     {
-                        "name": "Alien Megafauna - Spitter Research",
-                        "ref": "Alien Megafauna/Spitter Research"
+                        "name": "Alien Organisms - Spitter Research",
+                        "ref": "Alien Organisms/Spitter Research"
                     },
                     {
-                        "name": "Alien Megafauna - Structural Analysis",
-                        "ref": "Alien Megafauna/Structural Analysis"
+                        "name": "Alien Organisms - Structural Analysis",
+                        "ref": "Alien Organisms/Structural Analysis"
                     },
                     {
-                        "name": "Alien Megafauna - Protein Inhaler",
-                        "ref": "Alien Megafauna/Protein Inhaler"
+                        "name": "Alien Organisms - Protein Inhaler",
+                        "ref": "Alien Organisms/Protein Inhaler"
                     },
                     {
-                        "name": "Alien Megafauna - The Rebar Gun",
-                        "ref": "Alien Megafauna/The Rebar Gun"
+                        "name": "Alien Organisms - The Rebar Gun",
+                        "ref": "Alien Organisms/The Rebar Gun"
                     },
                     {
                         "name": "Caterium - Caterium Electronics",

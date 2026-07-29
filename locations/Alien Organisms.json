@@ -1,6 +1,6 @@
 [
   {
-    "name": "Alien Megafauna",
+    "name": "Alien Organisms",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
@@ -9,10 +9,14 @@
     ],
     "children": [
       {
-        "name": "Inflated Pocket Dimension - Alien Megafauna",
+        "name": "Inflated Pocket Dimension - Alien Organisms",
         "access_rules": [
           "$locationcheck|@Bio-Organic Properties,@Alien Protein Recipe,@Cable Recipe",
-          "$locationcheck|@Bio-Organic Properties,@Alien Protein Recipe"
+          "$locationcheck|@Bio-Organic Properties,@Alien Protein Recipe",
+          "{$locationcheck|@Stinger Research}",
+          "{$locationcheck|@Hatcher Research}",
+          "{$locationcheck|@Hog Research}",
+          "{$locationcheck|@Spitter Research}"
         ],
         "sections": [
           {
@@ -22,7 +26,7 @@
         ],
         "map_locations": [
           {
-            "map": "Alien Megafauna",
+            "map": "Alien Organisms",
             "x": 419,
             "y": 875,
             "size": 66
@@ -32,7 +36,11 @@
       {
         "name": "Hostile Organism Detection",
         "access_rules": [
-          "$locationcheck|@Bio-Organic Properties,@Crystal Oscillator Recipe,@High-Speed Connector Recipe"
+          "$locationcheck|@Bio-Organic Properties,@Crystal Oscillator Recipe,@High-Speed Connector Recipe",
+          "{$locationcheck|@Stinger Research}",
+          "{$locationcheck|@Hatcher Research}",
+          "{$locationcheck|@Hog Research}",
+          "{$locationcheck|@Spitter Research}"
         ],
         "sections": [
           {
@@ -42,7 +50,7 @@
         ],
         "map_locations": [
           {
-            "map": "Alien Megafauna",
+            "map": "Alien Organisms",
             "x": 547,
             "y": 945,
             "size": 66
@@ -50,9 +58,13 @@
         ]
       },
       {
-        "name": "Expanded Toolbelt - Alien Megafauna",
+        "name": "Expanded Toolbelt - Alien Organisms",
         "access_rules": [
-          "$locationcheck|@Inflated Pocket Dimension - Alien Megafauna,recipealiendnacapsule,@Steel Beam Recipe"
+          "$locationcheck|@Inflated Pocket Dimension - Alien Organisms,recipealiendnacapsule,@Steel Beam Recipe",
+          "{$locationcheck|@Stinger Research}",
+          "{$locationcheck|@Hatcher Research}",
+          "{$locationcheck|@Hog Research}",
+          "{$locationcheck|@Spitter Research}"
         ],
         "sections": [
           {
@@ -62,7 +74,7 @@
         ],
         "map_locations": [
           {
-            "map": "Alien Megafauna",
+            "map": "Alien Organisms",
             "x": 419,
             "y": 1015,
             "size": 66
@@ -75,7 +87,11 @@
           "$locationcheck|@Stinger Research,@Alien Protein Recipe",
           "$locationcheck|@Hatcher Research,@Alien Protein Recipe",
           "$locationcheck|@Hog Research,@Alien Protein Recipe",
-          "$locationcheck|@Spitter Research,@Alien Protein Recipe"
+          "$locationcheck|@Spitter Research,@Alien Protein Recipe",
+          "{$locationcheck|@Stinger Research}",
+          "{$locationcheck|@Hatcher Research}",
+          "{$locationcheck|@Hog Research}",
+          "{$locationcheck|@Spitter Research}"
         ],
         "sections": [
           {
@@ -85,7 +101,7 @@
         ],
         "map_locations": [
           {
-            "map": "Alien Megafauna",
+            "map": "Alien Organisms",
             "x": 291,
             "y": 665,
             "size": 66
@@ -103,7 +119,7 @@
         ],
         "map_locations": [
           {
-            "map": "Alien Megafauna",
+            "map": "Alien Organisms",
             "x": 419,
             "y": 314,
             "size": 66
@@ -121,7 +137,7 @@
         ],
         "map_locations": [
           {
-            "map": "Alien Megafauna",
+            "map": "Alien Organisms",
             "x": 163,
             "y": 314,
             "size": 66
@@ -139,7 +155,7 @@
         ],
         "map_locations": [
           {
-            "map": "Alien Megafauna",
+            "map": "Alien Organisms",
             "x": 34,
             "y": 244,
             "size": 66
@@ -157,7 +173,7 @@
         ],
         "map_locations": [
           {
-            "map": "Alien Megafauna",
+            "map": "Alien Organisms",
             "x": 547,
             "y": 244,
             "size": 66
@@ -168,7 +184,11 @@
         "name": "Structural Analysis",
         "access_rules": [
           "$locationcheck|@Bio-Organic Properties,recipealiendnacapsule,@Iron Rod Recipe",
-          "$locationcheck|@Bio-Organic Properties,recipealiendnacapsule"
+          "$locationcheck|@Bio-Organic Properties,recipealiendnacapsule",
+          "{$locationcheck|@Stinger Research}",
+          "{$locationcheck|@Hatcher Research}",
+          "{$locationcheck|@Hog Research}",
+          "{$locationcheck|@Spitter Research}"
         ],
         "sections": [
           {
@@ -178,7 +198,7 @@
         ],
         "map_locations": [
           {
-            "map": "Alien Megafauna",
+            "map": "Alien Organisms",
             "x": 163,
             "y": 875,
             "size": 66
@@ -188,7 +208,11 @@
       {
         "name": "Protein Inhaler",
         "access_rules": [
-          "$locationcheck|@Bio-Organic Properties,@Alien Protein Recipe,@Rotor Recipe"
+          "$locationcheck|@Bio-Organic Properties,@Alien Protein Recipe,@Rotor Recipe",
+          "{$locationcheck|@Stinger Research}",
+          "{$locationcheck|@Hatcher Research}",
+          "{$locationcheck|@Hog Research}",
+          "{$locationcheck|@Spitter Research}"
         ],
         "sections": [
           {
@@ -198,7 +222,7 @@
         ],
         "map_locations": [
           {
-            "map": "Alien Megafauna",
+            "map": "Alien Organisms",
             "x": 35,
             "y": 945,
             "size": 66
@@ -209,7 +233,11 @@
         "name": "The Rebar Gun",
         "access_rules": [
           "$locationcheck|@Structural Analysis,@Rotor Recipe,@Screw Recipe,@Reinforced Iron Plate Recipe",
-          "$locationcheck|@Structural Analysis,@Rotor Recipe"
+          "$locationcheck|@Structural Analysis,@Rotor Recipe",
+          "{$locationcheck|@Stinger Research}",
+          "{$locationcheck|@Hatcher Research}",
+          "{$locationcheck|@Hog Research}",
+          "{$locationcheck|@Spitter Research}"
         ],
         "sections": [
           {
@@ -219,7 +247,7 @@
         ],
         "map_locations": [
           {
-            "map": "Alien Megafauna",
+            "map": "Alien Organisms",
             "x": 163,
             "y": 1015,
             "size": 66

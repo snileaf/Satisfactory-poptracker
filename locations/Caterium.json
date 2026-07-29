@@ -11,7 +11,8 @@
       {
         "name": "Caterium Electronics",
         "access_rules": [
-          "$locationcheck|@Quickwire,@Quickwire Recipe"
+          "$locationcheck|@Quickwire,@Quickwire Recipe",
+          "{$locationcheck|@Caterium Discovery}"
         ],
         "sections": [
           {
@@ -31,7 +32,8 @@
       {
         "name": "Bullet Guidance System",
         "access_rules": [
-          "$locationcheck|@High-Speed Connector,@High-Speed Connector Recipe,reciperifleammo"
+          "$locationcheck|@High-Speed Connector,@High-Speed Connector Recipe,reciperifleammo",
+          "{$locationcheck|@Caterium Electronics}"
         ],
         "sections": [
           {
@@ -51,7 +53,8 @@
       {
         "name": "High-Speed Connector",
         "access_rules": [
-          "$locationcheck|@Caterium Electronics,@Quickwire Recipe,@Plastic Recipe"
+          "$locationcheck|@Caterium Electronics,@Quickwire Recipe,@Plastic Recipe",
+          "{$locationcheck|@Caterium Electronics}"
         ],
         "sections": [
           {
@@ -89,7 +92,8 @@
       {
         "name": "Caterium Ingots",
         "access_rules": [
-          "$locationcheck|@Caterium Discovery"
+          "$locationcheck|@Caterium Discovery",
+          "{$locationcheck|@Caterium Discovery}"
         ],
         "sections": [
           {
@@ -109,7 +113,8 @@
       {
         "name": "Quickwire",
         "access_rules": [
-          "$locationcheck|@Caterium Ingots,@Caterium Ingot Recipe"
+          "$locationcheck|@Caterium Ingots,@Caterium Ingot Recipe",
+          "{$locationcheck|@Caterium Discovery}"
         ],
         "sections": [
           {
@@ -129,7 +134,8 @@
       {
         "name": "Power Switch",
         "access_rules": [
-          "$locationcheck|@AI Limiter,@Steel Beam Recipe,@AI Limiter Recipe"
+          "$locationcheck|@AI Limiter,@Steel Beam Recipe,@AI Limiter Recipe",
+          "{$locationcheck|@Caterium Electronics}"
         ],
         "sections": [
           {
@@ -149,7 +155,8 @@
       {
         "name": "Power Poles Mk.2",
         "access_rules": [
-          "$locationcheck|@Caterium Electronics,@Quickwire Recipe"
+          "$locationcheck|@Caterium Electronics,@Quickwire Recipe",
+          "{$locationcheck|@Caterium Electronics}"
         ],
         "sections": [
           {
@@ -169,7 +176,8 @@
       {
         "name": "AI Limiter",
         "access_rules": [
-          "$locationcheck|@Caterium Electronics,@Quickwire Recipe,@Copper Sheet Recipe"
+          "$locationcheck|@Caterium Electronics,@Quickwire Recipe,@Copper Sheet Recipe",
+          "{$locationcheck|@Caterium Electronics}"
         ],
         "sections": [
           {
@@ -190,7 +198,8 @@
         "name": "Smart Splitter",
         "access_rules": [
           "$locationcheck|@AI Limiter,@AI Limiter Recipe,@Reinforced Iron Plate Recipe",
-          "$locationcheck|@AI Limiter,@AI Limiter Recipe"
+          "$locationcheck|@AI Limiter,@AI Limiter Recipe",
+          "{$locationcheck|@Caterium Electronics}"
         ],
         "sections": [
           {
@@ -210,7 +219,8 @@
       {
         "name": "Programmable Splitter",
         "access_rules": [
-          "$locationcheck|@AI Limiter,@AI Limiter Recipe,@Heavy Modular Frame Recipe"
+          "$locationcheck|@AI Limiter,@AI Limiter Recipe,@Heavy Modular Frame Recipe",
+          "{$locationcheck|@AI Limiter}"
         ],
         "sections": [
           {
@@ -231,7 +241,8 @@
         "name": "Zipline",
         "access_rules": [
           "$locationcheck|@Quickwire,@Quickwire Recipe,@Cable Recipe",
-          "$locationcheck|@Quickwire,@Quickwire Recipe"
+          "$locationcheck|@Quickwire,@Quickwire Recipe",
+          "{$locationcheck|@Caterium Discovery}"
         ],
         "sections": [
           {
@@ -251,7 +262,8 @@
       {
         "name": "Geothermal Generator",
         "access_rules": [
-          "$locationcheck|@High-Speed Connector,@High-Speed Connector Recipe,@Quickwire Recipe,@Motor Recipe"
+          "$locationcheck|@High-Speed Connector,@High-Speed Connector Recipe,@Quickwire Recipe,@Motor Recipe",
+          "{$locationcheck|@High-Speed Connector}"
         ],
         "sections": [
           {
@@ -271,7 +283,8 @@
       {
         "name": "Priority Power Switch",
         "access_rules": [
-          "$locationcheck|@High-Speed Connector,@High-Speed Connector Recipe,@Quickwire Recipe"
+          "$locationcheck|@High-Speed Connector,@High-Speed Connector Recipe,@Quickwire Recipe",
+          "{$locationcheck|@Caterium Electronics}"
         ],
         "sections": [
           {
@@ -291,7 +304,8 @@
       {
         "name": "Stun Rebar",
         "access_rules": [
-          "$locationcheck|@Quickwire,@Quickwire,recipeironrebar"
+          "$locationcheck|@Quickwire,@Quickwire,recipeironrebar",
+          "{$locationcheck|@Caterium Discovery}"
         ],
         "sections": [
           {
@@ -311,7 +325,8 @@
       {
         "name": "Power Poles Mk.3",
         "access_rules": [
-          "$locationcheck|Power Poles Mk.2,@High-Speed Connector Recipe,@Steel Pipe Recipe"
+          "$locationcheck|Power Poles Mk.2,@High-Speed Connector Recipe,@Steel Pipe Recipe",
+          "{$locationcheck|@Power Poles Mk.2}"
         ],
         "sections": [
           {

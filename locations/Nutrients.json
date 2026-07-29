@@ -70,7 +70,10 @@
           "$locationcheck|@Paleberry,@Modular Frame Recipe,@Steel Pipe Recipe,@Wire Recipe",
           "$locationcheck|@Bacon Agaric,@Modular Frame Recipe,@Steel Pipe Recipe",
           "$locationcheck|@Beryl Nut,@Modular Frame Recipe,@Steel Pipe Recipe",
-          "$locationcheck|@Paleberry,@Modular Frame Recipe,@Steel Pipe Recipe"
+          "$locationcheck|@Paleberry,@Modular Frame Recipe,@Steel Pipe Recipe",
+          "{$locationcheck|@Bacon Agaric}",
+          "{$locationcheck|@Beryl Nut}",
+          "{$locationcheck|@Paleberry}"
         ],
         "sections": [
           {
@@ -90,7 +93,8 @@
       {
         "name": "Nutritional Inhaler",
         "access_rules": [
-          "$locationcheck|@Nutritional Processor"
+          "$locationcheck|@Nutritional Processor",
+          "{$locationcheck|@Nutritional Processor}"
         ],
         "sections": [
           {
