@@ -1,6 +1,16 @@
 {
     "versions": [
         {
+            "package_version": "0.0.7",
+            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.7/Satisfactory-PopTracker.v0.0.7.zip",
+            "sha256": "072e6307cc3da5f4765e13262ed2f615ead3a162ed952b5c6479519495e54fea",
+            "changelog": [
+                "Edited Milestone map logic to account for Global Vault, showing as yellow in map for obtainable with glitches.",
+                "Edited MAM Tech Tree logic to show nodes that are revealed when researching a higher node to be highlighted blue for viewable but not obtainable.",
+                "Edited AWESOME Shop logic to show nodes as blue if only the AWESOME Shop building bp as been obtained."
+            ]
+        },
+        {
             "package_version": "0.0.6",
             "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.6/Satisfactory-PopTracker.v0.0.6.zip",
             "sha256": "dbca4bce2f480c971a37ee475b076b5d00da2a4632c369595b247552124d6495",
