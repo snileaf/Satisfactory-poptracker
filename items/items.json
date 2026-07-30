@@ -3618,5 +3618,13 @@
     "initial_active_state": false,
     "overlay_align": "right",
     "codes": "recipesiliconhigh-speedconnector"
+  },
+  {
+    "name": "Satisfactory AP Multi-Slot Room",
+    "type": "toggle",
+    "img": "images/items/recipeadaptivecontrolunit.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "ap_satisfactory_room_multi_slot"
   }
 ]

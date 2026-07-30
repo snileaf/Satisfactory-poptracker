@@ -34,6 +34,72 @@ Troll_Lookup = {
     ["earthor"] = true,
 }
 
+local SATISFACTORY_AP_GAME = "satisfactory_ap"
+local SATISFACTORY_AP_ROOM_MULTI_TOGGLE_CODE = "ap_satisfactory_room_multi_slot"
+
+---set the AP room multi-slot toggle based on whether multiple Satisfactory AP slots are present
+---@param is_active boolean
+local function SetSatisfactoryRoomMultiSlotToggle(is_active)
+    ---@type JsonItem
+    local toggle = Tracker:FindObjectForCode(SATISFACTORY_AP_ROOM_MULTI_TOGGLE_CODE)
+    if toggle and toggle.Type == "toggle" then
+        toggle.Active = is_active
+    end
+end
+
+---count players in the room that are playing satisfactory_ap and update the tracker toggle
+---@param ap_client table
+---@param room_info? table
+local function UpdateSatisfactoryRoomMultiSlotToggle(ap_client, room_info)
+    local players = nil
+    if ap_client and ap_client.get_players then
+        players = ap_client:get_players()
+    elseif ap_client and ap_client.GetPlayers then
+        players = ap_client:GetPlayers()
+    elseif room_info and room_info.players then
+        players = room_info.players
+    end
+
+    local get_player_game = nil
+    if ap_client and ap_client.get_player_game then
+        get_player_game = function(slot)
+            return ap_client:get_player_game(slot)
+        end
+    elseif ap_client and ap_client.GetPlayerGame then
+        get_player_game = function(slot)
+            return ap_client:GetPlayerGame(slot)
+        end
+    end
+
+    if not players or not get_player_game then
+        SetSatisfactoryRoomMultiSlotToggle(false)
+        return
+    end
+
+    local satisfactory_slot_count = 0
+    for index, player in pairs(players) do
+        local slot = nil
+        if type(player) == "table" then
+            slot = player.slot
+        end
+        if slot == nil and type(index) == "number" then
+            slot = index
+        end
+
+        if slot ~= nil and get_player_game(slot) == SATISFACTORY_AP_GAME then
+            satisfactory_slot_count = satisfactory_slot_count + 1
+        end
+    end
+
+    SetSatisfactoryRoomMultiSlotToggle(satisfactory_slot_count > 1)
+end
+
+---called from RoomInfo callback so the toggle is initialized from room composition on connection
+---@param room_info? table
+function OnRoomInfo(room_info)
+    UpdateSatisfactoryRoomMultiSlotToggle(Archipelago, room_info)
+end
+
 ---function to build a pretty-printable representation of a provided table
 ---@param o table
 ---@param depth? integer
@@ -147,6 +213,7 @@ end
 local function PreOnClear()
     PLAYER_ID = Archipelago.PlayerNumber or -1
 	TEAM_NUMBER = Archipelago.TeamNumber or 0
+    UpdateSatisfactoryRoomMultiSlotToggle(Archipelago)
     if PLAYER_ID > -1 then
         for key, _ in pairs(Troll_Lookup) do
             if string.find(string.lower(Archipelago:GetPlayerAlias(PLAYER_ID)), key, 1, true) ~= nil then
