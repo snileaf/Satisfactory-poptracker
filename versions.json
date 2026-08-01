@@ -1,6 +1,18 @@
 {
     "versions": [
         {
+            "package_version": "0.0.8",
+            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.8/Satisfactory-PopTracker.v0.0.8.zip",
+            "sha256": "b6beef5bf097595914ee6c162596f73c4b42acfef59223ab4e7b391e9732af1a",
+            "changelog": [
+                "Milestone and MAM Map phase/hub/node required recipes now have logic to check if you can make the stuff required to make those recipes.",
+                "Added detection for duplicate Satisfactory slots.",
+                "Added tracking for starting items! (mostly)",
+                "Added logging to the cmd line for multiple autotracking features.",
+                "Added some code for the hard drive map manual tracker."
+            ]
+        },
+        {
             "package_version": "0.0.7",
             "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.7/Satisfactory-PopTracker.v0.0.7.zip",
             "sha256": "072e6307cc3da5f4765e13262ed2f615ead3a162ed952b5c6479519495e54fea",
