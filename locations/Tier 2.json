@@ -14,7 +14,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          " ",
           "@Cable Recipe,@Iron Plate Recipe,@Iron Rod Recipe,@Screw Recipe"
         ],
         "sections": [
@@ -82,7 +81,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          " ",
           "@Cable Recipe,@Screw Recipe,@Concrete Recipe"
         ],
         "sections": [
@@ -150,7 +148,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          "@Rotor Recipe",
           "@Cable Recipe,@Iron Plate Recipe,@Rotor Recipe"
         ],
         "sections": [
@@ -218,7 +215,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          " ",
           "@Concrete Recipe,@Iron Plate Recipe,@Iron Rod Recipe,@Wire Recipe"
         ],
         "sections": [
@@ -286,7 +282,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          " ",
           "@Concrete Recipe,@Iron Plate Recipe,@Iron Rod Recipe,@Reinforced Iron Plate Recipe"
         ],
         "sections": [

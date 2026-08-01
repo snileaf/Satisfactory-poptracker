@@ -123,6 +123,42 @@ local function ItemReset(item_type, item_obj, item_code)
     end
 end
 
+local function ApplyStartingRecipies(slot_data)
+    local starting_recipies = nil
+    if slot_data and slot_data.Data and slot_data.Data.Options then
+        starting_recipies = slot_data.Data.Options.StartingRecipies
+    end
+
+    if type(starting_recipies) ~= "table" then
+        print("ApplyStartingRecipies: no slot_data.Data.Options.StartingRecipies data found")
+        return
+    end
+
+    for _, item_id in pairs(starting_recipies) do
+        item_id = tonumber(item_id)
+        if item_id then
+            local item_array = ITEM_MAPPING[item_id]
+            if item_array then
+                print(string.format("ApplyStartingRecipies: item_id=%d matched %d item(s)", item_id, #item_array))
+                for _, item_pair in pairs(item_array) do
+                    local item_code = item_pair[1]
+                    local item_obj = Tracker:FindObjectForCode(item_code)
+                    if item_obj then
+                        item_obj.Active = true
+                        print(string.format("ApplyStartingRecipies: enabled %s", item_code))
+                    else
+                        print(string.format("ApplyStartingRecipies: could not find object for code %s", item_code))
+                    end
+                end
+            else
+                print(string.format("ApplyStartingRecipies: no ITEM_MAPPING entry for item_id=%d", item_id))
+            end
+        else
+            print(string.format("ApplyStartingRecipies: invalid item id %s", tostring(item_id)))
+        end
+    end
+end
+
 ---resets a given location back to default or whats saved for the gives seed in the pseuso-cache LuaItems
 ---@param location string String of the Location or LocatioSection to reset
 ---@param location_obj JsonItem|LocationSection Tracker:FindObjectForCode(location) return object
@@ -140,6 +176,50 @@ local function LocationReset(location, location_obj, custom_storage_item)
         ---@cast location_obj JsonItem
         location_obj.Active = false
     end
+end
+
+local function CheckSatisfactorySlots()
+    local satisfactory_count = 0
+    local duplicate_item = Tracker:FindObjectForCode("duplicatesatisfactorydetected")
+
+    if duplicate_item then
+        duplicate_item.Active = false
+        print("duplicate_item was found and set to false.")
+    else
+        print("duplicate_item is nil! The tracker could not find the object.")
+    end
+
+    for slot = 1, math.huge do
+        local player_game = Archipelago:GetPlayerGame(slot)
+        
+        print(string.format("CheckSatisfactorySlots: slot=%d game=%s", slot, tostring(player_game)))
+        
+        if not player_game or player_game == "" then
+            print(string.format("CheckSatisfactorySlots: stopping at slot %d because GetPlayerGame returned empty", slot))
+            if duplicate_item and duplicate_item.Active then
+                print("on")
+            else
+                print("off")
+            end
+            break
+        end
+
+        if player_game == "Satisfactory" then
+            satisfactory_count = satisfactory_count + 1
+            print(string.format("CheckSatisfactorySlots: found Satisfactory at slot %d (count=%d)", slot, satisfactory_count))
+            
+            if satisfactory_count > 1 then
+                print("CheckSatisfactorySlots: duplicate Satisfactory detected, toggling custom item and aborting")
+                if duplicate_item then
+                    duplicate_item.Active = true
+                end
+                
+                return true
+            end
+        end
+    end
+
+    return false
 end
 
 
@@ -206,6 +286,9 @@ end
 ---function that gets called when the pack connects to an AP server
 ---@param slot_data? table Slotdata send from AP server for the specific user/slot
 function OnClear(slot_data)
+    print(DumpTable(slot_data))
+    CheckSatisfactorySlots()
+
     MANUAL_CHECKED = false
     local custom_storage_item = Tracker:FindObjectForCode("manual_location_storage").ItemState
     if custom_storage_item == nil then
@@ -245,6 +328,7 @@ function OnClear(slot_data)
             end
         end
     end
+    ApplyStartingRecipies(slot_data)
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data

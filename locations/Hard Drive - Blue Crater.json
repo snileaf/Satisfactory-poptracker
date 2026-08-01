@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Hard Drive - Blue Crater",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingmam"
+    ],
+    "children": [
+      {
+        "name": "156570 191768 -9312",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Requires 4x Rubber",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Blue Crater",
+            "x": 419,
+            "y": 875,
+            "size": 66
+          }
+        ]
+      }
+    ]
+  }
+]

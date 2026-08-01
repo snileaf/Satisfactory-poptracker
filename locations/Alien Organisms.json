@@ -12,7 +12,6 @@
         "name": "Inflated Pocket Dimension - Alien Organisms",
         "access_rules": [
           "$locationcheck|@Bio-Organic Properties,@Alien Protein Recipe,@Cable Recipe",
-          "$locationcheck|@Bio-Organic Properties,@Alien Protein Recipe",
           "{$locationcheck|@Stinger Research}",
           "{$locationcheck|@Hatcher Research}",
           "{$locationcheck|@Hog Research}",
@@ -60,7 +59,7 @@
       {
         "name": "Expanded Toolbelt - Alien Organisms",
         "access_rules": [
-          "$locationcheck|@Inflated Pocket Dimension - Alien Organisms,recipealiendnacapsule,@Steel Beam Recipe",
+          "$locationcheck|@Inflated Pocket Dimension - Alien Organisms,@Alien DNA Capsule Recipe,@Steel Beam Recipe",
           "{$locationcheck|@Stinger Research}",
           "{$locationcheck|@Hatcher Research}",
           "{$locationcheck|@Hog Research}",
@@ -183,8 +182,7 @@
       {
         "name": "Structural Analysis",
         "access_rules": [
-          "$locationcheck|@Bio-Organic Properties,recipealiendnacapsule,@Iron Rod Recipe",
-          "$locationcheck|@Bio-Organic Properties,recipealiendnacapsule",
+          "$locationcheck|@Bio-Organic Properties,@Alien DNA Capsule Recipe,@Iron Rod Recipe",
           "{$locationcheck|@Stinger Research}",
           "{$locationcheck|@Hatcher Research}",
           "{$locationcheck|@Hog Research}",
@@ -233,7 +231,6 @@
         "name": "The Rebar Gun",
         "access_rules": [
           "$locationcheck|@Structural Analysis,@Rotor Recipe,@Screw Recipe,@Reinforced Iron Plate Recipe",
-          "$locationcheck|@Structural Analysis,@Rotor Recipe",
           "{$locationcheck|@Stinger Research}",
           "{$locationcheck|@Hatcher Research}",
           "{$locationcheck|@Hog Research}",

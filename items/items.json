@@ -291,7 +291,7 @@
     "name": "Smelter",
     "type": "toggle",
     "img": "images/items/buildingsmelter.png",
-    "initial_active_state": true,
+    "initial_active_state": false,
     "overlay_align": "right",
     "codes": "buildingsmelter"
   },
@@ -1931,7 +1931,7 @@
     "name": "Conveyor Mk.1",
     "type": "toggle",
     "img": "images/items/buildingconveyormk.1.png",
-    "initial_active_state": true,
+    "initial_active_state": false,
     "overlay_align": "right",
     "codes": "buildingconveyormk.1"
   },
@@ -1947,7 +1947,7 @@
     "name": "Biomass Burner",
     "type": "toggle",
     "img": "images/items/buildingbiomassburner.png",
-    "initial_active_state": true,
+    "initial_active_state": false,
     "overlay_align": "right",
     "codes": "buildingbiomassburner"
   },
@@ -2503,7 +2503,7 @@
     "name": "Miner Mk.1",
     "type": "toggle",
     "img": "images/items/buildingminermk.1.png",
-    "initial_active_state": true,
+    "initial_active_state": false,
     "overlay_align": "right",
     "codes": "buildingminermk.1"
   },
@@ -2559,7 +2559,7 @@
     "name": "Constructor",
     "type": "toggle",
     "img": "images/items/buildingconstructor.png",
-    "initial_active_state": true,
+    "initial_active_state": false,
     "overlay_align": "right",
     "codes": "buildingconstructor"
   },
@@ -3618,5 +3618,13 @@
     "initial_active_state": false,
     "overlay_align": "right",
     "codes": "recipesiliconhigh-speedconnector"
+  },
+  {
+    "name": "Duplicate Satisfactory Detected",
+    "type": "toggle",
+    "img": "images/items/recipeironingot.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "duplicatesatisfactorydetected"
   }
 ]

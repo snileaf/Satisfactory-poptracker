@@ -9,6 +9,7 @@
 		"item_width": 36,
 		"rows": [
 			[
+				"buildingbiomassburner",
 				"buildingcoalgenerator",
 				"buildingfuelgenerator",
 				"buildinggeothermalgenerator",

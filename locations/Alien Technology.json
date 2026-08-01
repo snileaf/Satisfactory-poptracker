@@ -11,7 +11,7 @@
       {
         "name": "Upload Upgrade 30 per min",
         "access_rules": [
-          "$locationcheck|@Dimensional Depot,recipesamfluctuator,buildingmanufacturer",
+          "$locationcheck|@Dimensional Depot,@SAM Fluctuator Recipe",
           "{$locationcheck|@Dimensional Depot}"
         ],
         "sections": [
@@ -32,7 +32,7 @@
       {
         "name": "Upload Upgrade 60 per min",
         "access_rules": [
-          "$locationcheck|@Upload Upgrade 30 per min,recipesamfluctuator,buildingmanufacturer",
+          "$locationcheck|@Upload Upgrade 30 per min,@SAM Fluctuator Recipe",
           "{$locationcheck|@Dimensional Depot}"
         ],
         "sections": [
@@ -53,7 +53,7 @@
       {
         "name": "Upload Upgrade 120 per min",
         "access_rules": [
-          "$locationcheck|@Upload Upgrade 60 per min,recipesamfluctuator,buildingmanufacturer",
+          "$locationcheck|@Upload Upgrade 60 per min,@SAM Fluctuator Recipe",
           "{$locationcheck|@Dimensional Depot}"
         ],
         "sections": [
@@ -74,7 +74,7 @@
       {
         "name": "Upload Upgrade 240 per min",
         "access_rules": [
-          "$locationcheck|@Upload Upgrade 120 per min,recipesamfluctuator,buildingmanufacturer",
+          "$locationcheck|@Upload Upgrade 120 per min,@SAM Fluctuator Recipe",
           "{$locationcheck|@Dimensional Depot}"
         ],
         "sections": [
@@ -134,8 +134,7 @@
       {
         "name": "SAM Fluctuator",
         "access_rules": [
-          "$locationcheck|@SAM Reanimation,recipereanimatedsam,@Steel Pipe Recipe,@Wire Recipe",
-          "$locationcheck|@SAM Reanimation,recipereanimatedsam,@Steel Pipe Recipe",
+          "$locationcheck|@SAM Reanimation,@Steel Pipe Recipe,@Wire Recipe,recipereanimatedsam",
           "{$locationcheck|@SAM Analysis}"
         ],
         "sections": [
@@ -174,8 +173,8 @@
       {
         "name": "Dimensional Depot",
         "access_rules": [
-          "$locationcheck|@SAM Fluctuator,recipesamfluctuator,buildingmanufacturer",
-          "$locationcheck|@Mercer Sphere Analysis,recipesamfluctuator,buildingmanufacturer",
+          "$locationcheck|@SAM Fluctuator,@SAM Fluctuator Recipe",
+          "$locationcheck|@Mercer Sphere Analysis,@SAM Fluctuator Recipe",
           "{$locationcheck|@SAM Fluctuator}",
           "{$locationcheck|@Mercer Sphere Analysis}"
         ],
@@ -197,7 +196,7 @@
       {
         "name": "Manual Depot Uploader",
         "access_rules": [
-          "$locationcheck|@Dimensional Depot,@Computer Recipe,recipesamfluctuator,buildingmanufacturer",
+          "$locationcheck|@Dimensional Depot,@Computer Recipe,@SAM Fluctuator Recipe",
           "{$locationcheck|@Dimensional Depot}"
         ],
         "sections": [
@@ -218,7 +217,7 @@
       {
         "name": "Depot Expansion (200%)",
         "access_rules": [
-          "$locationcheck|@Dimensional Depot,recipesamfluctuator,buildingmanufacturer",
+          "$locationcheck|@Dimensional Depot,@SAM Fluctuator Recipe",
           "{$locationcheck|@Dimensional Depot}"
         ],
         "sections": [
@@ -239,7 +238,7 @@
       {
         "name": "Depot Expansion (300%)",
         "access_rules": [
-          "$locationcheck|@Depot Expansion (200%),recipesamfluctuator,buildingmanufacturer",
+          "$locationcheck|@Depot Expansion (200%),@SAM Fluctuator Recipe",
           "{$locationcheck|@Dimensional Depot}"
         ],
         "sections": [
@@ -260,7 +259,7 @@
       {
         "name": "Depot Expansion (400%)",
         "access_rules": [
-          "$locationcheck|@Depot Expansion (300%),recipesamfluctuator,buildingmanufacturer",
+          "$locationcheck|@Depot Expansion (300%),@SAM Fluctuator Recipe",
           "{$locationcheck|@Dimensional Depot}"
         ],
         "sections": [
@@ -281,7 +280,7 @@
       {
         "name": "Depot Expansion (500%)",
         "access_rules": [
-          "$locationcheck|@Depot Expansion (400%),recipesamfluctuator,buildingmanufacturer",
+          "$locationcheck|@Depot Expansion (400%),@SAM Fluctuator Recipe",
           "{$locationcheck|@Dimensional Depot}"
         ],
         "sections": [
@@ -320,8 +319,8 @@
       {
         "name": "Alien Energy Harvesting",
         "access_rules": [
-          "$locationcheck|@Somersloop Analysis,recipesamfluctuator,buildingmanufacturer",
-          "$locationcheck|@SAM Fluctuator,recipesamfluctuator,buildingmanufacturer",
+          "$locationcheck|@Somersloop Analysis,@SAM Fluctuator Recipe",
+          "$locationcheck|@SAM Fluctuator,@SAM Fluctuator Recipe",
           "{$locationcheck|@SAM Fluctuator}",
           "{$locationcheck|@Somersloop Analysis}"
         ],
@@ -343,8 +342,8 @@
       {
         "name": "Production Amplifier",
         "access_rules": [
-          "$locationcheck|@Alien Energy Harvesting,recipesamfluctuator,buildingmanufacturer,@Circuit Board Recipe",
-          "$locationcheck|@SAM Fluctuator,recipesamfluctuator,buildingmanufacturer,@Circuit Board Recipe",
+          "$locationcheck|@Alien Energy Harvesting,@SAM Fluctuator Recipe,@Circuit Board Recipe",
+          "$locationcheck|@SAM Fluctuator,@SAM Fluctuator Recipe,@Circuit Board Recipe",
           "{$locationcheck|@SAM Fluctuator}",
           "{$locationcheck|@Somersloop Analysis}"
         ],
@@ -366,8 +365,8 @@
       {
         "name": "Power Augmenter",
         "access_rules": [
-          "$locationcheck|@Alien Energy Harvesting,recipesamfluctuator,buildingmanufacturer,@Computer Recipe",
-          "$locationcheck|@Somersloop Analysis,recipesamfluctuator,buildingmanufacturer,@Computer Recipe",
+          "$locationcheck|@Alien Energy Harvesting,@SAM Fluctuator Recipe,@Computer Recipe",
+          "$locationcheck|@Somersloop Analysis,@SAM Fluctuator Recipe,@Computer Recipe",
           "{$locationcheck|@SAM Fluctuator}",
           "{$locationcheck|@Somersloop Analysis}"
         ],
@@ -389,7 +388,7 @@
       {
         "name": "Alien Power Matrix",
         "access_rules": [
-          "$locationcheck|@Power Augmenter,recipesingularitycell,@Power Shard Recipe,recipesamfluctuator,buildingmanufacturer",
+          "$locationcheck|@Power Augmenter,@Singularity Cell Recipe,@Power Shard Recipe,@SAM Fluctuator Recipe",
           "{$locationcheck|@Power Augmenter}"
         ],
         "sections": [

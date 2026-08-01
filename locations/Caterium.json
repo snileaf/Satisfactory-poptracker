@@ -32,7 +32,7 @@
       {
         "name": "Bullet Guidance System",
         "access_rules": [
-          "$locationcheck|@High-Speed Connector,@High-Speed Connector Recipe,reciperifleammo",
+          "$locationcheck|@High-Speed Connector,@High-Speed Connector Recipe,@Rifle Ammo Recipe",
           "{$locationcheck|@Caterium Electronics}"
         ],
         "sections": [
@@ -198,7 +198,6 @@
         "name": "Smart Splitter",
         "access_rules": [
           "$locationcheck|@AI Limiter,@AI Limiter Recipe,@Reinforced Iron Plate Recipe",
-          "$locationcheck|@AI Limiter,@AI Limiter Recipe",
           "{$locationcheck|@Caterium Electronics}"
         ],
         "sections": [
@@ -241,7 +240,6 @@
         "name": "Zipline",
         "access_rules": [
           "$locationcheck|@Quickwire,@Quickwire Recipe,@Cable Recipe",
-          "$locationcheck|@Quickwire,@Quickwire Recipe",
           "{$locationcheck|@Caterium Discovery}"
         ],
         "sections": [
@@ -304,7 +302,7 @@
       {
         "name": "Stun Rebar",
         "access_rules": [
-          "$locationcheck|@Quickwire,@Quickwire,recipeironrebar",
+          "$locationcheck|@Quickwire,@Quickwire,@Iron Rebar Recipe",
           "{$locationcheck|@Caterium Discovery}"
         ],
         "sections": [

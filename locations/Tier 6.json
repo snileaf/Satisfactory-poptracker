@@ -6,7 +6,7 @@
     "overlay_background": "#000000",
     "access_rules": [
       "@Versatile Framework Recipe,@Automated Wiring Recipe,@Tier 4",
-      "[]"
+      "[@Versatile Framework Recipe,@Automated Wiring Recipe,@Tier 4],duplicatesatisfactorydetected"
     ],
     "children": [
       {
@@ -15,7 +15,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          "@Modular Frame Recipe,@Motor Recipe,@Plastic Recipe",
           "@Cable Recipe,@Modular Frame Recipe,@Motor Recipe,@Plastic Recipe"
         ],
         "sections": [
@@ -284,7 +283,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          "@Computer Recipe,@Heavy Modular Frame Recipe,@Rubber Recipe",
           "@Computer Recipe,@Concrete Recipe,@Heavy Modular Frame Recipe,@Rubber Recipe"
         ],
         "sections": [

@@ -12,14 +12,23 @@
     ]
   },
   {
+    "name": "Alien DNA Capsule Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipealiendnacapsule,@Alien Protein Recipe"
+    ]
+  },
+  {
     "name": "Rotor Recipe",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "reciperotor",
-      "recipecopperrotor",
-      "recipesteelrotor"
+      "@Iron Rod Recipe,@Screw Recipe,reciperotor",
+      "@Copper Sheet Recipe,@Screw Recipe,recipecopperrotor",
+      "@Steel Pipe Recipe,@Wire Recipe,recipesteelrotor"
     ]
   },
   {
@@ -28,9 +37,9 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipeironrod",
-      "recipealuminumrod",
-      "recipesteelrod"
+      "recipeironrod,@Iron Ingot Recipe",
+      "recipealuminumrod,@Aluminum Ingot Recipe",
+      "recipesteelrod,@Steel Ingot Recipe"
     ]
   },
   {
@@ -39,9 +48,9 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipescrew",
-      "recipecastscrew",
-      "recipesteelscrew"
+      "recipescrew,@Iron Rod Recipe",
+      "recipecastscrew,@Iron Ingot Recipe",
+      "recipesteelscrew,@Steel Beam Recipe"
     ]
   },
   {
@@ -50,10 +59,10 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipereinforcedironplate",
-      "recipeadheredironplate",
-      "recipeboltedironplate",
-      "recipestitchedironplate"
+      "recipereinforcedironplate,@Iron Plate Recipe,@Screw Recipe",
+      "recipeadheredironplate,@Iron Plate Recipe,@Rubber Recipe",
+      "recipeboltedironplate,@Iron Plate Recipe,@Screw Recipe",
+      "recipestitchedironplate,@Iron Plate Recipe,@Wire Recipe"
     ]
   },
   {
@@ -62,10 +71,10 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipecable",
-      "buildingrefinery,recipecoatedcable",
-      "recipeinsulatedcable",
-      "recipequickwirecable"
+      "recipecable,@Wire Recipe",
+      "recipecoatedcable,@Wire Recipe,@Heavy Oil Residue Recipe,@Refinery Recipe",
+      "recipeinsulatedcable,@Wire Recipe,@Rubber Recipe",
+      "recipequickwirecable,@Quickwire Recipe,@Rubber Recipe"
     ]
   },
   {
@@ -74,9 +83,9 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipesteelbeam",
-      "recipealuminumbeam",
-      "buildingfoundry,recipemoldedbeam"
+      "recipesteelbeam,@Steel Ingot Recipe",
+      "recipealuminumbeam,@Aluminum Ingot Recipe",
+      "recipemoldedbeam,@Steel Ingot Recipe,@Concrete Recipe,@Foundry Recipe"
     ]
   },
   {
@@ -85,8 +94,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipecrystaloscillator",
-      "buildingmanufacturer,recipeinsulatedcrystaloscillator"
+      "recipecrystaloscillator,@Quartz Crystal Recipe,@Cable Recipe,@Reinforced Iron Plate Recipe",
+      "recipeinsulatedcrystaloscillator,@Quartz Crystal Recipe,@Rubber Recipe,@AI Limiter Recipe,@Manufacturer Recipe"
     ]
   },
   {
@@ -95,8 +104,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipehigh-speedconnector",
-      "buildingmanufacturer,recipesiliconhigh-speedconnector"
+      "recipehigh-speedconnector,@Quickwire Recipe,@Cable Recipe,@Circuit Board Recipe",
+      "recipesiliconhigh-speedconnector,@Quickwire Recipe,@Silica Recipe,@Circuit Board Recipe,@Manufacturer Recipe"
     ]
   },
   {
@@ -106,9 +115,9 @@
     "overlay_background": "#000000",
     "access_rules": [
       "recipecateriumingot",
-      "buildingrefinery,recipeleachedcateriumingot",
-      "buildingrefinery,recipepurecateriumingot",
-      "buildingfoundry,recipetemperedcateriumingot"
+      "recipeleachedcateriumingot,@Sulfuric Acid Recipe,@Refinery Recipe",
+      "recipepurecateriumingot,@Water Recipe,@Refinery Recipe",
+      "recipetemperedcateriumingot,@Petroleum Coke Recipe,@Foundry Recipe"
     ]
   },
   {
@@ -117,8 +126,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipequickwire",
-      "recipefusedquickwire"
+      "recipequickwire,@Caterium Ingot Recipe",
+      "recipefusedquickwire,@Caterium Ingot Recipe,@Copper Ingot Recipe"
     ]
   },
   {
@@ -127,8 +136,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "buildingrefinery,recipesteamedcoppersheet",
-      "recipecoppersheet"
+      "recipecoppersheet,@Copper Ingot Recipe",
+      "recipesteamedcoppersheet,@Copper Ingot Recipe,@Water Recipe,@Refinery Recipe"
     ]
   },
   {
@@ -137,9 +146,9 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipeironpipe",
-      "recipesteelpipe",
-      "buildingfoundry,recipemoldedsteelpipe"
+      "recipeironpipe,@Iron Ingot Recipe",
+      "recipesteelpipe,@Steel Ingot Recipe",
+      "recipemoldedsteelpipe,@Steel Ingot Recipe,@Concrete Recipe,@Foundry Recipe"
     ]
   },
   {
@@ -148,8 +157,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipeplasticailimiter",
-      "recipeailimiter"
+      "recipeplasticailimiter,@Quickwire Recipe,@Plastic Recipe",
+      "recipeailimiter,@Copper Sheet Recipe,@Quickwire Recipe"
     ]
   },
   {
@@ -158,9 +167,9 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "buildingrefinery,recipeplastic",
-      "buildingrefinery,reciperecycledplastic",
-      "buildingrefinery,reciperesidualplastic"
+      "recipeplastic,@Oil Recipe,@Refinery Recipe",
+      "reciperecycledplastic,@Rubber Recipe,@Fuel Recipe,@Refinery Recipe",
+      "reciperesidualplastic,@Polymer Resin Recipe,@Water Recipe,@Refinery Recipe"
     ]
   },
   {
@@ -169,9 +178,9 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "buildingmanufacturer,recipecomputer",
-      "buildingmanufacturer,recipecateriumcomputer",
-      "buildingmanufacturer,recipecrystalcomputer"
+      "recipecomputer,@Circuit Board Recipe,@Cable Recipe,@Plastic Recipe",
+      "recipecateriumcomputer,@Circuit Board Recipe,@Quickwire Recipe,@Rubber Recipe,@Manufacturer Recipe",
+      "recipecrystalcomputer,@Circuit Board Recipe,@Crystal Oscillator Recipe"
     ]
   },
   {
@@ -180,9 +189,9 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "buildingmanufacturer,recipeheavyencasedframe",
-      "buildingmanufacturer,recipeheavyflexibleframe",
-      "buildingmanufacturer,recipeheavymodularframe"
+      "recipeheavymodularframe,@Modular Frame Recipe,@Steel Pipe Recipe,@Encased Industrial Beam Recipe,@Screw Recipe",
+      "recipeheavyencasedframe,@Modular Frame Recipe,@Encased Industrial Beam Recipe,@Steel Pipe Recipe,@Concrete Recipe,@Manufacturer Recipe",
+      "recipeheavyflexibleframe,@Modular Frame Recipe,@Encased Industrial Beam Recipe,@Rubber Recipe,@Screw Recipe,@Manufacturer Recipe"
     ]
   },
   {
@@ -191,9 +200,9 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipeelectricmotor",
-      "recipemotor",
-      "buildingmanufacturer,reciperigormotor"
+      "recipemotor,@Rotor Recipe,@Stator Recipe",
+      "recipeelectricmotor,@Electromagnetic Control Rod,@Rotor Recipe",
+      "reciperigormotor,@Rotor Recipe,@Stator Recipe,@Crystal Oscillator Recipe,@Manufacturer Recipe"
     ]
   },
   {
@@ -202,7 +211,7 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "buildingrefinery,recipepolyesterfabric",
+      "recipepolyesterfabric,@Polymer Resin Recipe,@Water Recipe,@Refinery Recipe",
       "recipefabric"
     ]
   },
@@ -212,8 +221,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipestator",
-      "recipequickwirestator"
+      "recipestator,@Steel Pipe Recipe,@Wire Recipe",
+      "recipequickwirestator,@Steel Pipe Recipe,@Quickwire Recipe"
     ]
   },
   {
@@ -222,9 +231,9 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipefuel,buildingrefinery",
-      "recipeheavyoilresidue,buildingrefinery",
-      "recipepolymerresin,buildingrefinery"
+      "@Refinery Recipe,@Oil Recipe,recipefuel",
+      "@Refinery Recipe,@Oil Recipe,recipeheavyoilresidue",
+      "@Refinery Recipe,@Oil Recipe,recipepolymerresin"
     ]
   },
   {
@@ -233,9 +242,9 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipemodularframe",
-      "recipeboltedframe",
-      "recipesteeledframe"
+      "recipemodularframe,@Reinforced Iron Plate Recipe,@Iron Rod Recipe",
+      "recipeboltedframe,@Reinforced Iron Plate Recipe,@Screw Recipe",
+      "recipesteeledframe,@Reinforced Iron Plate Recipe,@Steel Pipe Recipe"
     ]
   },
   {
@@ -244,10 +253,10 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipecateriumwire",
-      "recipewire",
-      "recipefusedwire",
-      "recipeironwire"
+      "recipecateriumwire,@Caterium Ingot Recipe",
+      "recipewire,@Copper Ingot Recipe",
+      "recipefusedwire,@Copper Ingot Recipe,@Caterium Ingot Recipe",
+      "recipeironwire,@Iron Ingot Recipe"
     ]
   },
   {
@@ -259,7 +268,7 @@
       "recipepowershard(1)",
       "recipepowershard(5)",
       "recipepowershard(2)",
-      "buildingquantumencoder,recipesyntheticpowershard"
+      "recipesyntheticpowershard,@Time Crystal Recipe,@Dark Matter Crystal Recipe,@Quartz Crystal Recipe,@Excited Photonic Matter Recipe,@Quantum Encoder Recipe"
     ]
   },
   {
@@ -268,9 +277,9 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipeironplate",
-      "recipecoatedironplate",
-      "buildingfoundry,recipesteelcastplate"
+      "recipeironplate,@Iron Ingot Recipe",
+      "recipecoatedironplate,@Iron Ingot Recipe,@Plastic Recipe",
+      "recipesteelcastplate,@Iron Ingot Recipe,@Steel Ingot Recipe,@Foundry Recipe"
     ]
   },
   {
@@ -279,10 +288,19 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "buildingfoundry,recipefusedquartzcrystal",
-      "buildingrefinery,recipepurequartzcrystal",
-      "buildingrefinery,recipequartzpurification",
+      "recipefusedquartzcrystal,@Foundry Recipe",
+      "recipepurequartzcrystal,@Water Recipe,@Refinery Recipe",
+      "recipequartzpurification,@Nitric Acid Recipe,@Refinery Recipe",
       "recipequartzcrystal"
+    ]
+  },
+  {
+    "name": "Dissolved Silica Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipequartzpurification,@Nitric Acid Recipe,@Refinery Recipe"
     ]
   },
   {
@@ -291,10 +309,10 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipealuminasolution,buildingrefinery",
+      "recipealuminasolution,@Water Recipe,@Refinery Recipe",
       "recipecheapsilica",
       "recipesilica",
-      "recipequartzpurification,buildingrefinery,buildingblender"
+      "@Dissolved Silica Recipe,@Water Recipe,@Blender Recipe"
     ]
   },
   {
@@ -308,14 +326,68 @@
     ]
   },
   {
+    "name": "Nobelisk Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipenobelisk,@Black Powder Recipe,@Steel Pipe Recipe"
+    ]
+  },
+  {
+    "name": "Smokeless Powder Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipesmokelesspowder,@Black Powder Recipe,@Heavy Oil Residue Recipe,@Refinery Recipe"
+    ]
+  },
+  {
+    "name": "Rifle Ammo Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "reciperifleammo,@Smokeless Powder Recipe,@Copper Sheet Recipe"
+    ]
+  },
+  {
+    "name": "Iron Rebar Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeironrebar,@Iron Rod Recipe"
+    ]
+  },
+  {
+    "name": "Object Scanner Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeobjectscanner,@Reinforced Iron Plate Recipe,@Wire Recipe,@Screw Recipe"
+    ]
+  },
+  {
+    "name": "Gas Filter Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipegasfilter,@Fabric Recipe,@Iron Plate Recipe"
+    ]
+  },
+  {
     "name": "Rubber Recipe",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "buildingrefinery,reciperubber",
-      "buildingrefinery,reciperecycledrubber",
-      "buildingrefinery,reciperesidualrubber"
+      "reciperubber,@Oil Recipe,@Refinery Recipe",
+      "reciperesidualrubber,@Polymer Resin Recipe,@Water Recipe,@Refinery Recipe",
+      "reciperecycledrubber,@Plastic Recipe,@Fuel Recipe,@Refinery Recipe"
     ]
   },
   {
@@ -325,10 +397,20 @@
     "overlay_background": "#000000",
     "access_rules": [
       "recipecompactedcoal",
-      "buildingrefinery,recipeionizedfuel",
-      "buildingblender,reciperocketfuel",
-      "buildingconverter,recipedark-ionfuel",
-      "buildingblender,recipenitrorocketfuel"
+      "recipeionizedfuel,@Rocket Fuel Recipe,@Power Shard Recipe,@Refinery Recipe",
+      "@Blender Recipe,@Turbofuel Recipe,@Nitric Acid Recipe,reciperocketfuel",
+      "recipedark-ionfuel,@Packaged Rocket Fuel Recipe,@Dark Matter Crystal Recipe,@Converter Recipe",
+      "@Blender Recipe,@Fuel Recipe,@Resource Well Pressurizer Recipe,recipenitrorocketfuel"
+    ]
+  },
+  {
+    "name": "Ionized Fuel Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeionizedfuel,@Rocket Fuel Recipe,@Power Shard Recipe,@Refinery Recipe",
+      "recipedark-ionfuel,@Packaged Rocket Fuel Recipe,@Dark Matter Crystal Recipe,@Converter Recipe"
     ]
   },
   {
@@ -337,8 +419,26 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "buildingpackager,recipepackagedfuel",
-      "buildingrefinery,recipedilutedpackagedfuel"
+      "@Packager Recipe,recipepackagedfuel,@Fuel Recipe,@Empty Canister Recipe",
+      "@Refinery Recipe,recipedilutedpackagedfuel,@Heavy Oil Residue Recipe,@Packaged Water Recipe"
+    ]
+  },
+  {
+    "name": "Packaged Rocket Fuel Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipepackagedrocketfuel,@Packager Recipe,@Rocket Fuel Recipe,@Empty Fluid Tank Recipe"
+    ]
+  },
+  {
+    "name": "Packaged Water Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipepackagedwater,@Packager Recipe,@Water Recipe,@Empty Canister Recipe"
     ]
   },
   {
@@ -347,8 +447,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipeencasedindustrialbeam",
-      "recipeencasedindustrialpipe"
+      "recipeencasedindustrialbeam,@Steel Beam Recipe,@Concrete Recipe",
+      "recipeencasedindustrialpipe,@Steel Pipe Recipe,@Concrete Recipe"
     ]
   },
   {
@@ -357,18 +457,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipealuminumcasing",
-      "recipealcladcasing"
-    ]
-  },
-  {
-    "name": "Encased Uranium Cell Recipe",
-    "chest_unopened_img": "/images/items/close.png",
-    "chest_opened_img": "/images/items/open.png",
-    "overlay_background": "#000000",
-    "access_rules": [
-      "buildingblender,recipeencaseduraniumcell",
-      "buildingmanufacturer,recipeinfuseduraniumcell"
+      "recipealuminumcasing,@Aluminum Ingot Recipe",
+      "recipealcladcasing,@Aluminum Ingot Recipe,@Copper Ingot Recipe"
     ]
   },
   {
@@ -377,10 +467,10 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipesiliconcircuitboard",
-      "recipecateriumcircuitboard",
-      "recipeelectrodecircuitboard",
-      "recipecircuitboard"
+      "recipesiliconcircuitboard,@Copper Sheet Recipe,@Silica Recipe",
+      "recipecateriumcircuitboard,@Plastic Recipe,@Quickwire Recipe",
+      "recipeelectrodecircuitboard,@Rubber Recipe,@Petroleum Coke Recipe",
+      "recipecircuitboard,@Copper Sheet Recipe,@Plastic Recipe"
     ]
   },
   {
@@ -389,20 +479,10 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipefineconcrete",
-      "buildingrefinery,recipewetconcrete",
-      "reciperubberconcrete",
+      "recipefineconcrete,@Silica Recipe",
+      "recipewetconcrete,@Water Recipe,@Refinery Recipe",
+      "reciperubberconcrete,@Rubber Recipe",
       "recipeconcrete"
-    ]
-  },
-  {
-    "name": "Aluminum Casing Recipe",
-    "chest_unopened_img": "/images/items/close.png",
-    "chest_opened_img": "/images/items/open.png",
-    "overlay_background": "#000000",
-    "access_rules": [
-      "recipealcladcasing",
-      "recipealuminumcasing"
     ]
   },
   {
@@ -411,9 +491,9 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "buildingmanufacturer,reciperadiocontrolsystem",
-      "buildingmanufacturer,reciperadiocontrolunit",
-      "buildingmanufacturer,reciperadioconnectionunit"
+      "reciperadiocontrolsystem,@Crystal Oscillator Recipe,@Circuit Board Recipe,@Aluminum Casing Recipe,@Rubber Recipe,@Manufacturer Recipe",
+      "reciperadiocontrolunit,@Aluminum Casing Recipe,@Crystal Oscillator Recipe,@Computer Recipe",
+      "reciperadioconnectionunit,@Heat Sink Recipe,@High-Speed Connector Recipe,@Quartz Crystal Recipe,@Manufacturer Recipe"
     ]
   },
   {
@@ -422,9 +502,19 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "buildingmanufacturer,recipesupercomputer",
-      "recipeocsupercomputer",
-      "buildingmanufacturer,recipesuper-statecomputer"
+      "recipesupercomputer,@Computer Recipe,@AI Limiter,@High-Speed Connector Recipe,@Plastic Recipe",
+      "recipeocsupercomputer,@Radio Control Unit Recipe,@Cooling System Recipe",
+      "recipesuper-statecomputer,@Computer Recipe,@Electromagnetic Control Rod Recipe,@Battery Recipe,@Wire Recipe,@Manufacturer Recipe"
+    ]
+  },
+  {
+    "name": "Battery Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipebattery,@Sulfuric Acid Recipe,@Alumina Solution Recipe,@Aluminum Casing Recipe,@Blender Recipe",
+      "recipeclassicbattery,@Alclad Aluminum Sheet Recipe,@Plastic Recipe,@Wire Recipe,@Manufacturer Recipe"
     ]
   },
   {
@@ -433,8 +523,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "buildingblender,recipefusedmodularframe",
-      "buildingblender,recipeheat-fusedframe"
+      "recipefusedmodularframe,@Heavy Modular Frame Recipe,@Aluminum Casing Recipe,@Resource Well Pressurizer Recipe,@Blender Recipe",
+      "recipeheat-fusedframe,@Heavy Modular Frame Recipe,@Aluminum Ingot Recipe,@Nitric Acid Recipe,@Blender Recipe"
     ]
   },
   {
@@ -443,8 +533,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "buildingblender,recipecoolingsystem",
-      "buildingblender,recipecoolingdevice"
+      "recipecoolingsystem,@Heat Sink Recipe,@Rubber Recipe,@Water Recipe,@Resource Well Pressurizer Recipe,@Blender Recipe",
+      "recipecoolingdevice,@Heat Sink Recipe,@Motor Recipe,@Resource Well Pressurizer Recipe,@Blender Recipe"
     ]
   },
   {
@@ -453,9 +543,18 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "buildingmanufacturer,recipeturboelectricmotor",
-      "buildingmanufacturer,recipeturbopressuremotor",
-      "buildingmanufacturer,recipeturbomotor"
+      "recipeturboelectricmotor,@Motor Recipe,@Radio Control Unit Recipe,@Electromagnetic Control Rod Recipe,@Rotor Recipe,@Manufacturer Recipe",
+      "recipeturbopressuremotor,@Motor Recipe,@Pressure Conversion Cube Recipe,@Packaged Nitrogen Gas Recipe,@Stator Recipe,@Manufacturer Recipe",
+      "recipeturbomotor,@Cooling System Recipe,@Radio Control Unit Recipe,@Motor Recipe,@Rubber Recipe"
+    ]
+  },
+  {
+    "name": "Packaged Nitrogen Gas Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipepackagednitrogengas,@Resource Well Pressurizer Recipe,@Empty Fluid Tank Recipe,@Packager Recipe"
     ]
   },
   {
@@ -464,8 +563,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipesmartplating",
-      "buildingmanufacturer,recipeplasticsmartplating"
+      "recipesmartplating,@Reinforced Iron Plate Recipe,@Rotor Recipe",
+      "recipeplasticsmartplating,@Reinforced Iron Plate Recipe,@Rotor Recipe,@Plastic Recipe,@Manufacturer Recipe"
     ]
   },
   {
@@ -474,8 +573,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipeversatileframework",
-      "buildingmanufacturer,recipeflexibleframework"
+      "recipeversatileframework,@Modular Frame Recipe,@Steel Beam Recipe",
+      "recipeflexibleframework,@Modular Frame Recipe,@Steel Beam Recipe,@Rubber Recipe,@Manufacturer Recipe"
     ]
   },
   {
@@ -484,8 +583,642 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipeautomatedwiring",
-      "buildingmanufacturer,recipeautomatedspeedwiring"
+      "recipeautomatedwiring,@Stator Recipe,@Cable Recipe",
+      "recipeautomatedspeedwiring,@Stator Recipe,@Wire Recipe,@High-Speed Connector Recipe,@Manufacturer Recipe"
+    ]
+  },
+  {
+    "name": "Empty Canister Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Plastic Recipe,recipeemptycanister",
+      "@Iron Plate Recipe,@Copper Sheet Recipe,recipecoatedironcanister",
+      "@Steel Ingot Recipe,recipesteelcanister"
+    ]
+  },
+  {
+    "name": "Empty Fluid Tank Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeemptyfluidtank,@Aluminum Ingot Recipe"
+    ]
+  },
+  {
+    "name": "SAM Fluctuator Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipesamfluctuator,@Manufacturer Recipe,@Steel Pipe Recipe,@Wire Recipe,recipereanimatedsam"
+    ]
+  },
+  {
+    "name": "Aluminum Ingot Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipealuminumingot,@Aluminum Scrap Recipe,@Silica Recipe",
+      "recipepurealuminumingot,@Aluminum Scrap Recipe"
+    ]
+  },
+  {
+    "name": "Iron Ingot Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeironingot",
+      "recipebasicironingot,@Foundry Recipe",
+      "recipeironalloyingot,@Foundry Recipe",
+      "recipeleachedironingot,@Sulfuric Acid Recipe,@Refinery Recipe",
+      "recipepureironingot,@Water Recipe,@Refinery Recipe"
+    ]
+  },
+  {
+    "name": "Copper Ingot Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipecopperingot",
+      "recipecopperalloyingot,@Foundry Recipe",
+      "recipeleachedcopperingot,@Sulfuric Acid Recipe,@Refinery Recipe",
+      "recipepurecopperingot,@Water Recipe,@Refinery Recipe",
+      "recipetemperedcopperingot,@Petroleum Coke Recipe,@Foundry Recipe"
+    ]
+  },
+  {
+    "name": "Steel Ingot Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipesteelingot",
+      "recipecokesteelingot,@Petroleum Coke Recipe,@Foundry Recipe",
+      "recipecompactedsteelingot,@Compacted Coal Recipe",
+      "recipesolidsteelingot,@Iron Ingot Recipe"
+    ]
+  },
+  {
+    "name": "Ficsite Ingot Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeficsiteingot(caterium),@Caterium Ingot Recipe,@Converter Recipe",
+      "recipeficsiteingot(iron),@Iron Ingot Recipe,@Converter Recipe",
+      "recipeficsiteingot(aluminum),@Aluminum Ingot Recipe,@Converter Recipe"
+    ]
+  },
+  {
+    "name": "Ficsite Trigon Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeficsitetrigon,@Ficsite Ingot Recipe"
+    ]
+  },
+  {
+    "name": "Excited Photonic Matter Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Converter Recipe"
+    ]
+  },
+  {
+    "name": "Dark Matter Crystal Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipedarkmattercrystal,@Diamond Recipe,@Dark Matter Residue Recipe,@Particle Accelerator Recipe",
+      "recipedarkmattercrystallization,@Dark Matter Residue Recipe,@Particle Accelerator Recipe",
+      "recipedarkmattertrap,@Time Crystal Recipe,@Dark Matter Residue Recipe,@Particle Accelerator Recipe"
+    ]
+  },
+  {
+    "name": "Dark Matter Residue Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipedarkmatterresidue,recipereanimatedsam,@Converter Recipe",
+      "@AI Expansion Server Recipe",
+      "@Alien Power Matrix Recipe",
+      "@Ficsonium Fuel Rod Recipe",
+      "@Superposition Oscillator Recipe",
+      "@Neural-Quantum Processor Recipe",
+      "recipesyntheticpowershard,@Time Crystal Recipe,@Dark Matter Crystal Recipe,@Quartz Crystal Recipe,@Excited Photonic Matter Recipe,@Quantum Encoder Recipe"
+    ]
+  },
+  {
+    "name": "Superposition Oscillator Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipesuperpositionoscillator,@Dark Matter Crystal Recipe,@Crystal Oscillator Recipe,@Alclad Aluminum Sheet Recipe,@Excited Photonic Matter Recipe,@Quantum Encoder Recipe"
+    ]
+  },
+  {
+    "name": "AI Expansion Server Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeaiexpansionserver,@Magnetic Field Generator Recipe,@Neural-Quantum Processor Recipe,@Superposition Oscillator Recipe,@Excited Photonic Matter Recipe,@Quantum Encoder Recipe"
+    ]
+  },
+  {
+    "name": "Alien Power Matrix Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipealienpowermatrix,@SAM Fluctuator Recipe,@Power Shard Recipe,@Superposition Oscillator Recipe,@Excited Photonic Matter Recipe,@Quantum Encoder Recipe"
+    ]
+  },
+  {
+    "name": "Ficsonium Fuel Rod Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeficsoniumfuelrod,@Ficsonium Recipe,@Electromagnetic Control Rod Recipe,@Ficsite Trigon Recipe,@Excited Photonic Matter Recipe,@Quantum Encoder Recipe"
+    ]
+  },
+  {
+    "name": "Ficsonium Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeficsonium,@Plutonium Waste Recipe,@Singularity Cell Recipe,@Dark Matter Residue Recipe,@Particle Accelerator Recipe"
+    ]
+  },
+  {
+    "name": "Singularity Cell Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipesingularitycell,@Nuclear Pasta Recipe,@Dark Matter Crystal Recipe,@Iron Plate Recipe,@Concrete Recipe,@Manufacturer Recipe"
+    ]
+  },
+  {
+    "name": "Adaptive Control Unit Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeadaptivecontrolunit,@Automated Wiring Recipe,@Circuit Board Recipe,@Heavy Modular Frame Recipe,@Computer Recipe,@Manufacturer Recipe"
+    ]
+  },
+  {
+    "name": "Modular Engine Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipemodularengine,@Motor Recipe,@Rubber Recipe,@Smart Plating Recipe,@Manufacturer Recipe"
+    ]
+  },
+  {
+    "name": "Assembly Director System Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeassemblydirectorsystem,@Adaptive Control Unit Recipe,@Supercomputer Recipe"
+    ]
+  },
+  {
+    "name": "Thermal Propulsion Rocket Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipethermalpropulsionrocket,@Modular Engine Recipe,@Turbo Motor Recipe,@Cooling System Recipe,@Fused Modular Frame Recipe,@Manufacturer Recipe"
+    ]
+  },
+  {
+    "name": "Nuclear Pasta Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipenuclearpasta,@Copper Powder Recipe,@Pressure Conversion Cube Recipe,@Particle Accelerator Recipe"
+    ]
+  },
+  {
+    "name": "Copper Powder Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipecopperpowder,@Copper Ingot Recipe"
+    ]
+  },
+  {
+    "name": "Plutonium Waste Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Plutonium Fuel Rod Recipe,@Water Recipe,@Nuclear Power Plant Recipe"
+    ]
+  },
+  {
+    "name": "Plutonium Fuel Rod Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeplutoniumfuelrod,@Encased Plutonium Cell Recipe,@Steel Beam Recipe,@Electromagnetic Control Rod Recipe,@Heat Sink Recipe,@Manufacturer Recipe",
+      "recipeplutoniumfuelunit,@Encased Plutonium Cell Recipe,@Pressure Conversion Cube Recipe"
+    ]
+  },
+  {
+    "name": "Encased Plutonium Cell Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeencasedplutoniumcell,@Plutonium Pellet Recipe,@Concrete Recipe",
+      "recipeinstantplutoniumcell,@Non-Fissile Uranium Recipe,@Aluminum Casing Recipe,@Particle Accelerator Recipe"
+    ]
+  },
+  {
+    "name": "Plutonium Pellet Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeplutoniumpellet,@Non-Fissile Uranium Recipe,@Uranium Waste Recipe,@Particle Accelerator Recipe"
+    ]
+  },
+  {
+    "name": "Non-Fissile Uranium Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipenon-fissileuranium,@Uranium Waste Recipe,@Silica Recipe,@Nitric Acid Recipe,@Sulfuric Acid Recipe,@Blender Recipe",
+      "recipefertileuranium,@Uranium Waste Recipe,@Nitric Acid Recipe,@Sulfuric Acid Recipe,@Blender Recipe"
+    ]
+  },
+  {
+    "name": "Uranium Waste Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Uranium Fuel Rod Recipe,@Water Recipe,@Nuclear Power Plant Recipe"
+    ]
+  },
+  {
+    "name": "Uranium Fuel Rod Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeuraniumfuelrod,@Encased Uranium Cell Recipe,@Encased Industrial Beam Recipe,@Electromagnetic Control Rod Recipe,@Manufacturer Recipe",
+      "recipeuraniumfuelunit,@Encased Uranium Cell Recipe,@Electromagnetic Control Rod Recipe,@Crystal Oscillator Recipe,@Rotor Recipe,@Manufacturer Recipe"
+    ]
+  },
+  {
+    "name": "Encased Uranium Cell Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeencaseduraniumcell,@Concrete Recipe,@Sulfuric Acid Recipe,@Blender Recipe",
+      "recipeinfuseduraniumcell,@Silica Recipe,@Quickwire Recipe,@Manufacturer Recipe"
+    ]
+  },
+  {
+    "name": "Heat Sink Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeheatsink,@Alclad Aluminum Sheet Recipe,@Copper Sheet Recipe",
+      "recipeheatexchanger,@Aluminum Casing Recipe,@Rubber Recipe"
+    ]
+  },
+  {
+    "name": "Pressure Conversion Cube Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipepressureconversioncube,@Fused Modular Frame Recipe,@Radio Control Unit Recipe"
+    ]
+  },
+  {
+    "name": "Neural-Quantum Processor Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeneural-quantumprocessor,@Time Crystal Recipe,@Supercomputer Recipe,@Ficsite Trigon Recipe,@Excited Photonic Matter Recipe,@Quantum Encoder Recipe"
+    ]
+  },
+  {
+    "name": "Magnetic Field Generator Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipemagneticfieldgenerator,@Versatile Framework Recipe,@Electromagnetic Control Rod Recipe"
+    ]
+  },
+  {
+    "name": "Electromagnetic Control Rod Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipeelectromagneticcontrolrod,@Stator Recipe,@AI Limiter Recipe",
+      "recipeelectromagneticconnectionrod,@Stator Recipe,@High-Speed Connector Recipe"
+    ]
+  },
+  {
+    "name": "Aluminum Scrap Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Refinery Recipe,recipealuminumscrap,@Alumina Solution Recipe",
+      "@Refinery Recipe,recipeelectrodealuminumscrap,@Alumina Solution Recipe,@Petroleum Coke Recipe",
+      "@Blender Recipe,recipeinstantscrap,@Sulfuric Acid Recipe,@Water Recipe"
+    ]
+  },
+  {
+    "name": "Alumina Solution Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipealuminasolution,@Water Recipe,@Refinery Recipe",
+      "recipesloppyalumina,@Water Recipe,@Refinery Recipe"
+    ]
+  },
+  {
+    "name": "Water Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Water Extractor Recipe",
+      "@Resource Well Pressurizer Recipe"
+    ]
+  },
+  {
+    "name": "Packaged Turbofuel Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Packager Recipe,@Turbofuel Recipe,@Empty Canister Recipe,recipepackagedturbofuel"
+    ]
+  },
+  {
+    "name": "Pipeline Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Copper Sheet Recipe,buildingpipesmk.1",
+      "@Copper Sheet Recipe,@Plastic Recipe,buildingpipesmk.2"
+    ]
+  },
+  {
+    "name": "Alclad Aluminum Sheet Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Aluminum Ingot Recipe"
+    ]
+  },
+  {
+    "name": "Sulfuric Acid Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Water Recipe"
+    ]
+  },
+  {
+    "name": "Nitric Acid Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Resource Well Pressurizer Recipe,@Water Recipe,@Iron Plate Recipe"
+    ]
+  },
+  {
+    "name": "Petroleum Coke Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Refinery Recipe,@Heavy Oil Residue Recipe"
+    ]
+  },
+  {
+    "name": "Heavy Oil Residue Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Refinery Recipe,@Oil Recipe,recipeplastic",
+      "@Refinery Recipe,@Oil Recipe,reciperubber",
+      "@Refinery Recipe,@Oil Recipe,recipeheavyoilresidue",
+      "@Refinery Recipe,@Oil Recipe,recipepolymerresin"
+    ]
+  },
+  {
+    "name": "Fuel Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Refinery Recipe,@Oil Recipe,recipefuel",
+      "@Refinery Recipe,@Residual Oil Recipe,reciperesidualfuel",
+      "@Blender Recipe,@Heavy Oil Residue Recipe,@Water Recipe,recipedilutedfuel"
+    ]
+  },
+  {
+    "name": "Turbofuel Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Refinery Recipe,@Fuel Recipe,@Compacted Coal Recipe,recipeturbofuel",
+      "@Blender Recipe,@Fuel Recipe,@Heavy Oil Residue Recipe,@Petroleum Coke Recipe,recipeturboblendfuel",
+      "@Refinery Recipe,@Heavy Oil Residue Recipe,@Compacted Coal Recipe,recipeturboheavyfuel"
+    ]
+  },
+  {
+    "name": "Rocket Fuel Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Blender Recipe,@Turbofuel Recipe,@Nitric Acid Recipe,reciperocketfuel",
+      "@Blender Recipe,@Fuel Recipe,@Resource Well Pressurizer Recipe,recipenitrorocketfuel"
+    ]
+  },
+  {
+    "name": "Oil Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Oil Extractor Recipe"
+    ]
+  },
+  {
+    "name": "Time Crystal Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipetimecrystal,@Converter Recipe,@Diamond Recipe"
+    ]
+  },
+  {
+    "name": "Diamond Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipediamonds,@Particle Accelerator Recipe",
+      "recipecloudydiamonds,@Particle Accelerator Recipe",
+      "recipeoil-baseddiamonds,@Oil Recipe,@Particle Accelerator Recipe",
+      "recipepetroleumdiamonds,@Petroleum Coke Recipe,@Particle Accelerator Recipe",
+      "recipepinkdiamonds,@Quartz Crystal Recipe,@Converter Recipe",
+      "recipeturbodiamonds,@Packaged Turbofuel Recipe,@Particle Accelerator Recipe"
+    ]
+  },
+  {
+    "name": "Refinery Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Motor Recipe,@Encased Industrial Beam Recipe,@Steel Pipe Recipe,@Copper Sheet Recipe,@Pipeline Recipe,buildingrefinery"
+    ]
+  },
+  {
+    "name": "Foundry Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Modular Frame Recipe,@Rotor Recipe,@Concrete Recipe,buildingfoundry"
+    ]
+  },
+  {
+    "name": "Manufacturer Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Motor Recipe,@Modular Frame Recipe,@Plastic Recipe,@Cable Recipe,buildingmanufacturer"
+    ]
+  },
+  {
+    "name": "Blender Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "@Computer Recipe,@Heavy Modular Frame Recipe,@Motor Recipe,@Aluminum Casing Recipe,buildingblender"
+    ]
+  },
+  {
+    "name": "Resource Well Pressurizer Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingresourcewellpressurizer,@Radio Control Unit Recipe,@Heavy Modular Frame Recipe,@Motor Recipe,@Alclad Aluminum Sheet Recipe,@Rubber Recipe,@Pipeline Recipe"
+    ]
+  },
+  {
+    "name": "Water Extractor Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingwaterextractor,@Copper Sheet Recipe,@Reinforced Iron Plate Recipe,@Rotor Recipe,@Pipeline Recipe"
+    ]
+  },
+  {
+    "name": "Particle Accelerator Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingparticleaccelerator,@Turbo Motor Recipe,@Supercomputer Recipe,@Fused Modular Frame Recipe,@Cooling System Recipe,@Quickwire Recipe"
+    ]
+  },
+  {
+    "name": "Converter Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingconverter,@Fused Modular Frame Recipe,@Cooling System Recipe,@Radio Control Unit Recipe,@SAM Fluctuator Recipe"
+    ]
+  },
+  {
+    "name": "Packager Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingpackager,@Steel Beam Recipe,@Rubber Recipe,@Plastic Recipe"
+    ]
+  },
+  {
+    "name": "Quantum Encoder Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingquantumencoder,@Turbo Motor Recipe,@Supercomputer Recipe,@Cooling System Recipe,@Time Crystal Recipe,@Ficsite Trigon Recipe"
+    ]
+  },
+  {
+    "name": "Nuclear Power Plant Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingnuclearpowerplant,@Supercomputer Recipe,@Heavy Modular Frame Recipe,@Alclad Aluminum Sheet Recipe,@Cable Recipe,@Concrete Recipe"
+    ]
+  },
+  {
+    "name": "Oil Extractor Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingoilextractor,@Motor Recipe,@Encased Industrial Beam Recipe,@Cable Recipe"
     ]
   }
 ]

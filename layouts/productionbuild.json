@@ -9,6 +9,7 @@
     "item_width": 36,
     "rows": [
       [
+        "buildingminermk.1",
         "buildingminermk.2",
         "buildingminermk.3",
         "buildingwaterextractor",
@@ -16,7 +17,10 @@
         "buildingresourcewellpressurizer"
       ],
       [
+        "buildingsmelter",
         "buildingfoundry",
+        "buildingconstructor",
+        "buildingassembler",
         "buildingmanufacturer",
         "buildingpackager",
         "buildingrefinery",

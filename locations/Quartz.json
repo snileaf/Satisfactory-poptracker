@@ -12,7 +12,6 @@
         "name": "Crystal Oscillator",
         "access_rules": [
           "$locationcheck|@Quartz Crystals,@Quartz Crystal Recipe,@Reinforced Iron Plate Recipe",
-          "$locationcheck|@Quartz Crystals,@Quartz Crystal Recipe",
           "{$locationcheck|@Quartz Crystals}"
         ],
         "sections": [
@@ -72,7 +71,7 @@
       {
         "name": "Shatter Rebar",
         "access_rules": [
-          "$locationcheck|@Quartz Crystals,@Quartz Crystal Recipe,recipeironrebar",
+          "$locationcheck|@Quartz Crystals,@Quartz Crystal Recipe,@Iron Rebar Recipe",
           "{$locationcheck|@Quartz Discovery}"
         ],
         "sections": [
@@ -114,7 +113,7 @@
       {
         "name": "Explosive Resonance Application",
         "access_rules": [
-          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe,recipenobelisk",
+          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe,@Nobelisk Recipe",
           "{$locationcheck|@Crystal Oscillator}"
         ],
         "sections": [
@@ -177,7 +176,7 @@
       {
         "name": "Radio Signal Scanning",
         "access_rules": [
-          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe,@Motor Recipe,recipeobjectscanner",
+          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe,@Motor Recipe,@Object Scanner Recipe",
           "{$locationcheck|@Crystal Oscillator}"
         ],
         "sections": [
@@ -241,7 +240,6 @@
         "name": "Material Resonance Screening",
         "access_rules": [
           "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe,@Reinforced Iron Plate Recipe",
-          "$locationcheck|@Crystal Oscillator,@Crystal Oscillator Recipe",
           "{$locationcheck|@Quartz Crystals}"
         ],
         "sections": [

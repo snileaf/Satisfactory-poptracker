@@ -14,7 +14,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          " ",
           "@Concrete Recipe,@Iron Rod Recipe,@Iron Plate Recipe"
         ],
         "sections": [
@@ -82,7 +81,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          " ",
           "@Iron Plate Recipe,@Iron Rod Recipe,@Wire Recipe"
         ],
         "sections": [
@@ -150,7 +148,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          " ",
           "@Iron Plate Recipe,@Screw Recipe,@Wire Recipe"
         ],
         "sections": [
@@ -218,7 +215,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          " ",
           "@Concrete Recipe,@Screw Recipe,@Wire Recipe"
         ],
         "sections": [

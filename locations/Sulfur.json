@@ -12,7 +12,6 @@
         "name": "The Nobelisk Detonator",
         "access_rules": [
           "$locationcheck|@Black Powder,@Black Powder Recipe,@Steel Pipe Recipe,@Cable Recipe",
-          "$locationcheck|@Black Powder,@Black Powder Recipe,@Steel Pipe Recipe",
           "{$locationcheck|@Sulfur Discovery}"
         ],
         "sections": [
@@ -72,8 +71,8 @@
       {
         "name": "Inflated Pocket Dimension - Sulfur",
         "access_rules": [
-          "$locationcheck|@Cluster Nobelisk,recipesmokelesspowder,buildingrefinery,@Computer Recipe",
-          "$locationcheck|@The Rifle,recipesmokelesspowder,buildingrefinery,@Computer Recipe",
+          "$locationcheck|@Cluster Nobelisk,@Smokeless Powder Recipe,@Computer Recipe",
+          "$locationcheck|@The Rifle,@Smokeless Powder Recipe,@Computer Recipe",
           "{$locationcheck|@Smokeless Powder}"
         ],
         "sections": [
@@ -94,7 +93,7 @@
       {
         "name": "The Rifle",
         "access_rules": [
-          "$locationcheck|@Smokeless Powder,recipesmokelesspowder,buildingrefinery,@Motor Recipe,@Rubber Recipe",
+          "$locationcheck|@Smokeless Powder,@Smokeless Powder Recipe,@Motor Recipe,@Rubber Recipe",
           "{$locationcheck|@Black Powder}"
         ],
         "sections": [
@@ -157,7 +156,7 @@
       {
         "name": "Explosive Rebar",
         "access_rules": [
-          "$locationcheck|@Smokeless Powder,recipesmokelesspowder,buildingrefinery,recipeironrebar,@Steel Beam Recipe",
+          "$locationcheck|@Smokeless Powder,@Smokeless Powder Recipe,@Iron Rebar Recipe,@Steel Beam Recipe",
           "{$locationcheck|@Black Powder}"
         ],
         "sections": [
@@ -178,7 +177,7 @@
       {
         "name": "Cluster Nobelisk",
         "access_rules": [
-          "$locationcheck|@Smokeless Powder,recipesmokelesspowder,buildingrefinery,recipenobelisk",
+          "$locationcheck|@Smokeless Powder,@Smokeless Powder Recipe,@Nobelisk Recipe",
           "{$locationcheck|@Black Powder}"
         ],
         "sections": [
@@ -262,7 +261,7 @@
       {
         "name": "Turbo Rifle Ammo",
         "access_rules": [
-          "$locationcheck|@The Rifle,reciperifleammo,recipepackagedturbofuel,buildingpackager,@Aluminum Casing Recipe",
+          "$locationcheck|@The Rifle,@Rifle Ammo Recipe,@Packaged Turbofuel Recipe,@Aluminum Casing Recipe",
           "{$locationcheck|@Smokeless Powder}"
         ],
         "sections": [
@@ -283,7 +282,7 @@
       {
         "name": "Nuclear Deterrent Development",
         "access_rules": [
-          "$locationcheck|@Cluster Nobelisk,recipenobelisk,@Encased Uranium Cell Recipe,@AI Limiter Recipe",
+          "$locationcheck|@Cluster Nobelisk,@Nobelisk Recipe,@Encased Uranium Cell Recipe,@AI Limiter Recipe",
           "{$locationcheck|@Smokeless Powder}"
         ],
         "sections": [
@@ -304,7 +303,7 @@
       {
         "name": "Rocket Fuel",
         "access_rules": [
-          "$locationcheck|@Turbofuel,recipeemptyfluidtank,recipepackagedturbofuel,buildingpackager",
+          "$locationcheck|@Turbofuel,@Empty Fluid Tank Recipe,@Packaged Turbofuel Recipe",
           "{$locationcheck|@Turbofuel}"
         ],
         "sections": [
@@ -325,7 +324,7 @@
       {
         "name": "Ionized Fuel",
         "access_rules": [
-          "$locationcheck|@Turbofuel,@Power Shard Recipe,recipepackagedrocketfuel,buildingpackager",
+          "$locationcheck|@Turbofuel,@Power Shard Recipe,@Packaged Rocket Fuel Recipe",
           "{$locationcheck|@Turbofuel}"
         ],
         "sections": [

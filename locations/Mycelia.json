@@ -134,7 +134,7 @@
       {
         "name": "Toxic Cellular Modification",
         "access_rules": [
-          "$locationcheck|@Mycelia Discovery,recipenobelisk",
+          "$locationcheck|@Mycelia Discovery,@Nobelisk Recipe",
           "{$locationcheck|@Mycelia Discovery}"
         ],
         "sections": [
@@ -177,7 +177,6 @@
         "name": "Parachute",
         "access_rules": [
           "$locationcheck|@Fabric,@Fabric Recipe,@Cable Recipe",
-          "$locationcheck|@Fabric,@Fabric Recipe",
           "{$locationcheck|@Fabric}"
         ],
         "sections": [

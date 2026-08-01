@@ -12,7 +12,6 @@
         "name": "Slug Scanning",
         "access_rules": [
           "$locationcheck|@Blue Power Slugs,@Iron Rod Recipe,@Wire Recipe,@Screw Recipe",
-          "$locationcheck|@Blue Power Slugs",
           "{$locationcheck|@Blue Power Slugs}"
         ],
         "sections": [
@@ -52,7 +51,6 @@
         "name": "Yellow Power Shards",
         "access_rules": [
           "$locationcheck|@Blue Power Slugs,@Rotor Recipe,@Cable Recipe",
-          "$locationcheck|@Blue Power Slugs,@Rotor Recipe",
           "{$locationcheck|@Blue Power Slugs}"
         ],
         "sections": [
@@ -95,7 +93,6 @@
         "name": "Overclock Production",
         "access_rules": [
           "$locationcheck|@Blue Power Slugs,@Power Shard Recipe,@Iron Plate Recipe",
-          "$locationcheck|@Blue Power Slugs,@Power Shard Recipe",
           "{$locationcheck|@Blue Power Slugs}"
         ],
         "sections": [
@@ -116,7 +113,7 @@
       {
         "name": "Synthetic Power Shards",
         "access_rules": [
-          "$locationcheck|@Purple Power Shards,@Power Shard Recipe,buildingconverter,recipetimecrystal,@Quartz Crystal Recipe",
+          "$locationcheck|@Purple Power Shards,@Power Shard Recipe,@Time Crystal Recipe,@Quartz Crystal Recipe",
           "{$locationcheck|@Purple Power Shards}"
         ],
         "sections": [

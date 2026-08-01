@@ -6,7 +6,7 @@
     "overlay_background": "#000000",
     "access_rules": [
       "@Smart Plating Recipe",
-      "[]"
+      "[@Smart Plating Recipe],duplicatesatisfactorydetected"
     ],
     "children": [
       {
@@ -15,7 +15,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          "@Modular Frame Recipe,@Steel Beam Recipe",
           "@Cable Recipe,@Concrete Recipe,@Modular Frame Recipe,@Steel Beam Recipe"
         ],
         "sections": [
@@ -83,7 +82,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          "@Steel Beam Recipe,@Steel Pipe Recipe",
           "@Reinforced Iron Plate Recipe,@Steel Beam Recipe,@Steel Pipe Recipe"
         ],
         "sections": [
@@ -151,7 +149,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          "@Modular Frame Recipe,@Rotor Recipe,@Steel Pipe Recipe",
           "@Concrete Recipe,@Modular Frame Recipe,@Rotor Recipe,@Steel Pipe Recipe"
         ],
         "sections": [
@@ -219,7 +216,6 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-          "@Encased Industrial Beam Recipe,@Modular Frame Recipe,@Steel Beam Recipe",
           "@Encased Industrial Beam Recipe,@Modular Frame Recipe,@Steel Beam Recipe,@Wire Recipe"
         ],
         "sections": [
