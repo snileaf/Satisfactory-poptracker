@@ -2,7 +2,7 @@
     "versions": [
         {
             "package_version": "0.0.9",
-            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.8/Satisfactory-PopTracker.v0.0.9.zip",
+            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.9/Satisfactory-PopTracker.v0.0.9.zip",
             "sha256": "5400a8acd08394cf51f4e49f108bdc6fabfe4e6dd96fc892c97f3952a6bd2372",
             "changelog": [
                 "Fixed circular logic caused by rando'd starting recipes and the foundry.",
