@@ -1,16 +1,6 @@
 {
     "versions": [
         {
-            "package_version": "0.0.9",
-            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.9/Satisfactory-PopTracker.v0.0.9.zip",
-            "sha256": "5400a8acd08394cf51f4e49f108bdc6fabfe4e6dd96fc892c97f3952a6bd2372",
-            "changelog": [
-                "Fixed circular logic caused by rando'd starting recipes and the foundry.",
-                "Made the default cable recipe always be true as you always have it by default.",
-                "Changed the foundry's requirements to reflect the new ones implemented by the Archipelago mod."
-            ]
-        },
-        {
             "package_version": "0.0.8",
             "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.8/Satisfactory-PopTracker.v0.0.8.zip",
             "sha256": "b6beef5bf097595914ee6c162596f73c4b42acfef59223ab4e7b391e9732af1a",
