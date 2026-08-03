@@ -30,7 +30,6 @@ ITEM_MAPPING = {
 	[1338224] = {{"recipefusedwire", "toggle"}},
 	[1338225] = {{"recipeironwire", "toggle"}},
 	[1338226] = {{"recipecateriumwire", "toggle"}},
-	[1338227] = {{"recipecable", "toggle"}},
 	[1338228] = {{"recipecoatedcable", "toggle"}},
 	[1338229] = {{"recipeinsulatedcable", "toggle"}},
 	[1338230] = {{"recipequickwirecable", "toggle"}},

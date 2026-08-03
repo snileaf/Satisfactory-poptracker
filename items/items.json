@@ -1235,7 +1235,7 @@
     "name": "Cable",
     "type": "toggle",
     "img": "images/items/recipecable.png",
-    "initial_active_state": false,
+    "initial_active_state": true,
     "overlay_align": "right",
     "codes": "recipecable"
   },
