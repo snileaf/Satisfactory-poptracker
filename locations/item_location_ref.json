@@ -279,7 +279,7 @@
     "access_rules": [
       "recipeironplate,@Iron Ingot Recipe",
       "recipecoatedironplate,@Iron Ingot Recipe,@Plastic Recipe",
-      "recipesteelcastplate,@Iron Ingot Recipe,@Steel Ingot Recipe,@Foundry Recipe"
+      "recipesteelcastplate,@Iron Ingot Recipe,@Steel Ingot Recipe"
     ]
   },
   {
@@ -502,7 +502,7 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "recipesupercomputer,@Computer Recipe,@AI Limiter,@High-Speed Connector Recipe,@Plastic Recipe",
+      "recipesupercomputer,@Computer Recipe,@AI Limiter Recipe,@High-Speed Connector Recipe,@Plastic Recipe",
       "recipeocsupercomputer,@Radio Control Unit Recipe,@Cooling System Recipe",
       "recipesuper-statecomputer,@Computer Recipe,@Electromagnetic Control Rod Recipe,@Battery Recipe,@Wire Recipe,@Manufacturer Recipe"
     ]
@@ -633,8 +633,8 @@
     "overlay_background": "#000000",
     "access_rules": [
       "recipeironingot",
-      "recipebasicironingot,@Foundry Recipe",
-      "recipeironalloyingot,@Foundry Recipe",
+      "recipebasicironingot",
+      "recipeironalloyingot",
       "recipeleachedironingot,@Sulfuric Acid Recipe,@Refinery Recipe",
       "recipepureironingot,@Water Recipe,@Refinery Recipe"
     ]
@@ -646,7 +646,7 @@
     "overlay_background": "#000000",
     "access_rules": [
       "recipecopperingot",
-      "recipecopperalloyingot,@Foundry Recipe",
+      "recipecopperalloyingot",
       "recipeleachedcopperingot,@Sulfuric Acid Recipe,@Refinery Recipe",
       "recipepurecopperingot,@Water Recipe,@Refinery Recipe",
       "recipetemperedcopperingot,@Petroleum Coke Recipe,@Foundry Recipe"
