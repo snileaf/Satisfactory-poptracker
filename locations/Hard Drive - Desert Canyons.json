@@ -1,91 +1,91 @@
 [
   {
-    "name": "Hard Drive - Blue Crater",
+    "name": "Hard Drive - Desert Canyons",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [],
     "children": [
       {
-        "name": "156570 191768 -9312",
+        "name": "-56988 -144928 2202",
+        "access_rules": [
+          "@Rotor Recipe,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 1x Rotor - Cliff Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Desert Canyons",
+            "x": 172,
+            "y": 279,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "127216 -116867 -1397",
         "access_rules": [
           "@Rubber Recipe"
         ],
         "sections": [
           {
-            "name": "Requires 4x Rubber",
+            "name": "Requires 10x Rubber",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Blue Crater",
-            "x": 416,
-            "y": 218,
+            "map": "Desert Canyons",
+            "x": 1396,
+            "y": 466,
             "size": 15
           }
         ]
       },
       {
-        "name": "118350 221905 -7063",
-        "access_rules": [
-          "@Circuit Board Recipe,@Gas Hazard Protection,[@Enemy Hazard Protection]"
-        ],
-        "sections": [
-          {
-            "name": "Requires 15x Circuit Board - Alpha Stinger",
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Blue Crater",
-            "x": 161,
-            "y": 419,
-            "size": 15
-          }
-        ]
-      },
-      {
-        "name": "176423 243274 -9780",
-        "access_rules": [
-          "@Rubber Recipe"
-        ],
-        "sections": [
-          {
-            "name": "Requires 20x Rubber",
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Blue Crater",
-            "x": 547,
-            "y": 560,
-            "size": 15
-          }
-        ]
-      },
-      {
-        "name": "187056, 223657, -3215",
+        "name": "157250 -40206 13695",
         "access_rules": [
           "@Heavy Modular Frame Recipe,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 1x Heavy Modular Frame - Cliff Hog",
+            "name": "Requires 10x Heavy Modular Frame - Cliff Hog",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Blue Crater",
-            "x": 620,
-            "y": 431,
+            "map": "Desert Canyons",
+            "x": 1598,
+            "y": 974,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "209272 -66917 14011",
+        "access_rules": [
+          "@Plastic Recipe"
+        ],
+        "sections": [
+          {
+            "name": "Requires 20x Plastic",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Desert Canyons",
+            "x": 1941,
+            "y": 797,
             "size": 15
           }
         ]

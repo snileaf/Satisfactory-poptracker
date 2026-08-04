@@ -1,91 +1,91 @@
 [
   {
-    "name": "Hard Drive - Blue Crater",
+    "name": "Hard Drive - Abyss Cliffs",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [],
     "children": [
       {
-        "name": "156570 191768 -9312",
+        "name": "200510, 131912, 6341",
         "access_rules": [
-          "@Rubber Recipe"
+          "@Motor Recipe,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 4x Rubber",
+            "name": "Requires 30x Motor - Cliff Hog",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Blue Crater",
-            "x": 416,
-            "y": 218,
+            "map": "Abyss Cliffs",
+            "x": 125,
+            "y": 158,
             "size": 15
           }
         ]
       },
       {
-        "name": "118350 221905 -7063",
+        "name": "241532 131343 17157",
         "access_rules": [
-          "@Circuit Board Recipe,@Gas Hazard Protection,[@Enemy Hazard Protection]"
+          "[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 15x Circuit Board - Alpha Stinger",
+            "name": "Open - Cliff Hog",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Blue Crater",
-            "x": 161,
-            "y": 419,
+            "map": "Abyss Cliffs",
+            "x": 399,
+            "y": 155,
             "size": 15
           }
         ]
       },
       {
-        "name": "176423 243274 -9780",
+        "name": "190459 176105 11479",
         "access_rules": [
-          "@Rubber Recipe"
+          "@Plastic Recipe"
         ],
         "sections": [
           {
-            "name": "Requires 20x Rubber",
+            "name": "Requires 20x Plastic",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Blue Crater",
-            "x": 547,
-            "y": 560,
+            "map": "Abyss Cliffs",
+            "x": 58,
+            "y": 455,
             "size": 15
           }
         ]
       },
       {
-        "name": "187056, 223657, -3215",
+        "name": "221070 185915 11560",
         "access_rules": [
-          "@Heavy Modular Frame Recipe,[@Enemy Hazard Protection]"
+          "@Gas Hazard Protection"
         ],
         "sections": [
           {
-            "name": "Requires 1x Heavy Modular Frame - Cliff Hog",
+            "name": "Open",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Blue Crater",
-            "x": 620,
-            "y": 431,
+            "map": "Abyss Cliffs",
+            "x": 263,
+            "y": 522,
             "size": 15
           }
         ]

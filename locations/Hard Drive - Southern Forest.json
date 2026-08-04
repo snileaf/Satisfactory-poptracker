@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Hard Drive - Southern Forest",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "47767 195703 2891",
+        "access_rules": [
+          "@Encased Industrial Beam Recipe,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 15x Encased Industrial Beam - Alpha Stinger",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Southern Forest",
+            "x": 203,
+            "y": 181,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "46952 221859 5917",
+        "access_rules": [
+          "[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 100 MW - Cliff Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Southern Forest",
+            "x": 199,
+            "y": 356,
+            "size": 15
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,360 @@
+[
+	{
+		"name": "Hard Drive - Spire Coast",
+		"chest_unopened_img": "/images/items/close.png",
+		"chest_opened_img": "/images/items/open.png",
+		"overlay_background": "#000000",
+		"access_rules": [],
+		"children": [
+			{
+				"name": "-50656 -259272 -1668",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Open",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 268,
+						"y": 770,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "-55111 -204858 7845",
+				"access_rules": [
+					"@Rubber Recipe,@Gas Hazard Protection,@Radiation Hazard Protection"
+				],
+				"sections": [
+					{
+						"name": "Requires 35x Rubber",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 236,
+						"y": 1131,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "-136 -237257 -1761",
+				"access_rules": [
+					"@Encased Industrial Beam Recipe"
+				],
+				"sections": [
+					{
+						"name": "Requires 15x Encased Industrial Beam",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 602,
+						"y": 916,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "5302 -187091 -1608",
+				"access_rules": [
+					"@Computer Recipe"
+				],
+				"sections": [
+					{
+						"name": "Requires 10x Computer",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 638,
+						"y": 1250,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "44579 -244344 -875",
+				"access_rules": [
+					"@Gas Hazard Protection"
+				],
+				"sections": [
+					{
+						"name": "Open",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 899,
+						"y": 862,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "52687 -163605 15414",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Open",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 953,
+						"y": 1406,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "84256 -171123 -291",
+				"access_rules": [
+					"@Quickwire Recipe"
+				],
+				"sections": [
+					{
+						"name": "Requires 38x Quickwire",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 1163,
+						"y": 1355,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "98306 -149782 2552",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Requires 40 MW",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 1258,
+						"y": 1496,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "109775 -162730 15570",
+				"access_rules": [
+					"@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+				],
+				"sections": [
+					{
+						"name": "Requires 70 MW - Rad Hog",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 1333,
+						"y": 1413,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "119339 -165711 -171",
+				"access_rules": [
+					"@Gas Hazard Protection"
+				],
+				"sections": [
+					{
+						"name": "Open",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 1399,
+						"y": 1392,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "159088 -145116 23165",
+				"access_rules": [
+					"@Fused Modular Frame Recipe"
+				],
+				"sections": [
+					{
+						"name": "Requires 12x Fused Modular Frame",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 1665,
+						"y": 1531,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "190865 -127670 16020",
+				"access_rules": [
+					"@Alclad Aluminum Sheet Recipe,@Gas Hazard Protection,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+				],
+				"sections": [
+					{
+						"name": "Requires 57x Alclad Aluminum Sheet - Rad Hog",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 1874,
+						"y": 1645,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "219146 -199880 6504",
+				"access_rules": [
+					"@Screw Recipe"
+				],
+				"sections": [
+					{
+						"name": "Requires 25x Screw",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 2062,
+						"y": 1165,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "190785 -236810 23130",
+				"access_rules": [
+					"@High-Speed Connector Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+				],
+				"sections": [
+					{
+						"name": "Requires 35x High-Speed Connector - Rad Hog",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 1874,
+						"y": 923,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "176245 -243985 7165",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Open",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 1777,
+						"y": 872,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "174948 -276436 21151",
+				"access_rules": [
+					"@Electromagnetic Control Rod Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+				],
+				"sections": [
+					{
+						"name": "Requires 43x Electromagnetic Control Rod - Rad Hog",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 1767,
+						"y": 658,
+						"size": 15
+					}
+				]
+			},
+			{
+				"name": "236508 -312236 9971",
+				"access_rules": [
+					"@Gas Hazard Protection"
+				],
+				"sections": [
+					{
+						"name": "Open",
+						"visibility_rules": [],
+						"item_count": 1
+					}
+				],
+				"map_locations": [
+					{
+						"map": "Spire Coast",
+						"x": 2177,
+						"y": 416,
+						"size": 15
+					}
+				]
+			}
+		]
+	}
+]

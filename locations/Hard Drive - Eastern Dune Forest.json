@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Hard Drive - Eastern Dune Forest",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "46048 141933 13065",
+        "access_rules": [
+          "@Gas Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 40 MW - Alpha Stinger",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Dune Forest",
+            "x": 172,
+            "y": 596,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "64697 156039 14067",
+        "access_rules": [
+          "@Modular Frame Recipe"
+        ],
+        "sections": [
+          {
+            "name": "Requires 6x Modular Frame",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Dune Forest",
+            "x": 296,
+            "y": 691,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "90314 129584 9113",
+        "access_rules": [
+          "@Cooling System Recipe,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 30x Cooling System - Cliff Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Dune Forest",
+            "x": 467,
+            "y": 518,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "94940 105483 9860",
+        "access_rules": [
+          "@Heavy Modular Frame Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 1x Heavy Modular Frame - Rad Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Dune Forest",
+            "x": 498,
+            "y": 353,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "150634 146699 7728",
+        "access_rules": [
+          "@Quickwire Recipe"
+        ],
+        "sections": [
+          {
+            "name": "Requires 25x Quickwire",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Dune Forest",
+            "x": 870,
+            "y": 629,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "182825 93880 17755",
+        "access_rules": [
+          "@Aluminum Casing Recipe,@Gas Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 10x Aluminum Casing - Alpha Stinger",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Dune Forest",
+            "x": 1084,
+            "y": 275,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "163999 61333 21481",
+        "access_rules": [
+          "@Crystal Oscillator Recipe,@Gas Hazard Protection,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 15x Crystal Oscillator - Alpha Stinger",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Eastern Dune Forest",
+            "x": 959,
+            "y": 59,
+            "size": 15
+          }
+        ]
+      }
+    ]
+  }
+]

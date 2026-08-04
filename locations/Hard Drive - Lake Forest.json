@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Hard Drive - Lake Forest",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "8680 -41778 13053",
+        "access_rules": [
+          "@Rubber Recipe"
+        ],
+        "sections": [
+          {
+            "name": "Requires 15x Rubber",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lake Forest",
+            "x": 220,
+            "y": 235,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "55248 -51316 14363",
+        "access_rules": [
+          "@Modular Frame Recipe"
+        ],
+        "sections": [
+          {
+            "name": "Requires 20x Modular Frame",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lake Forest",
+            "x": 530,
+            "y": 173,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "66652 -13642 13421",
+        "access_rules": [
+          "@Encased Industrial Beam Recipe"
+        ],
+        "sections": [
+          {
+            "name": "Requires 3x Encased Industrial Beam",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Lake Forest",
+            "x": 605,
+            "y": 423,
+            "size": 15
+          }
+        ]
+      }
+    ]
+  }
+]

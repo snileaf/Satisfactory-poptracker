@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Hard Drive - Swamp",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "216097 -268 -1593",
+        "access_rules": [
+          "@Superposition Oscillator Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 1x Superposition Oscillator - Rad Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Swamp",
+            "x": 263,
+            "y": 242,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "293299 52 523",
+        "access_rules": [
+          "@Crystal Oscillator Recipe"
+        ],
+        "sections": [
+          {
+            "name": "Requires 8x Crystal Oscillator",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Swamp",
+            "x": 777,
+            "y": 242,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "232138 27191 -1629",
+        "access_rules": [
+          "@Quartz Crystal Recipe,@Gas Hazard Protection,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 25x Quartz Crystal - Rad Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Swamp",
+            "x": 369,
+            "y": 423,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "272715 28088 -1586",
+        "access_rules": [
+          "@Silica Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 60x Silica - Rad Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Swamp",
+            "x": 642,
+            "y": 428,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "249920 59534 2430",
+        "access_rules": [
+          "@Turbo Motor Recipe,@Gas Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 25x Turbo Motor - Gas Stinger",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Swamp",
+            "x": 485,
+            "y": 642,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "232255 79926 -1276",
+        "access_rules": [
+          "@Turbo Motor Recipe,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 2x Turbo Motor - Gas Stinger",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Swamp",
+            "x": 371,
+            "y": 774,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "291822 74782 -1575",
+        "access_rules": [
+          "@Heavy Modular Frame Recipe"
+        ],
+        "sections": [
+          {
+            "name": "Requires 10x Heavy Modular Frame",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Swamp",
+            "x": 766,
+            "y": 739,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "226418 98110 7339",
+        "access_rules": [
+          "@Computer Recipe,@Gas Hazard Protection,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 1x Computer - Rad Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Swamp",
+            "x": 330,
+            "y": 898,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "261798 124617 -2597",
+        "access_rules": [
+          "@Cooling System Recipe,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 25x Cooling System - Cliff Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Swamp",
+            "x": 567,
+            "y": 1076,
+            "size": 15
+          }
+        ]
+      }
+    ]
+  }
+]

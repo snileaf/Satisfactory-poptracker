@@ -277,6 +277,131 @@
             "Milestones"
           ]
         }
+      },
+      {
+        "title": "Maps",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Blue Crater",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Blue Crater"
+                ]
+              }
+            },
+            {
+              "title": "Red Bamboo Fields",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Red Bamboo Fields"
+                ]
+              }
+            },
+            {
+              "title": "Lake Forest",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Lake Forest"
+                ]
+              }
+            },
+            {
+              "title": "Red Jungle",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Red Jungle"
+                ]
+              }
+            },
+            {
+              "title": "Spire Coast",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Spire Coast"
+                ]
+              }
+            },
+            {
+              "title": "Swamp",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Swamp"
+                ]
+              }
+            },
+            {
+              "title": "Southern Forest",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Southern Forest"
+                ]
+              }
+            },
+            {
+              "title": "Titan Forest",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Titan Forest"
+                ]
+              }
+            },
+            {
+              "title": "Jungle Spires",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Jungle Spires"
+                ]
+              }
+            },
+            {
+              "title": "Abyss Cliffs",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Abyss Cliffs"
+                ]
+              }
+            },
+            {
+              "title": "Eastern Dune Forest",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Eastern Dune Forest"
+                ]
+              }
+            },
+            {
+              "title": "Maze Canyons",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Maze Canyons"
+                ]
+              }
+            },
+            {
+              "title": "Desert Canyons",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Desert Canyons"
+                ]
+              }
+            }
+          ]
+        }
       }
     ]
   }

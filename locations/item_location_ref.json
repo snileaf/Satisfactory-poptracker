@@ -1220,5 +1220,35 @@
     "access_rules": [
       "buildingoilextractor,@Motor Recipe,@Encased Industrial Beam Recipe,@Cable Recipe"
     ]
+  },
+  {
+    "name": "Gas Hazard Protection",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipegasmask,@Gas Filter Recipe,@Copper Sheet Recipe,@Steel Pipe Recipe",
+      "recipenobeliskdetonator,@Object Scanner Recipe,@Steel Beam Recipe,@Cable Recipe,@Nobelisk Recipe",
+      "reciperebargun,@Reinforced Iron Plate Recipe,@Iron Rod Recipe,@Screw Recipe,@Iron Rebar Recipe,@Smokeless Powder Recipe,@Steel Pipe Recipe,recipeexplosiverebar"
+    ]
+  },
+  {
+    "name": "Radiation Hazard Protection",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "recipehazmatsuit,recipeiodine-infusedfilter,@Rubber Recipe,@Plastic Recipe,@Alclad Aluminum Sheet Recipe,@Fabric Recipe,@Gas Filter Recipe,@Quickwire Recipe,@Aluminum Casing Recipe"
+    ]
+  },
+  {
+    "name": "Enemy Hazard Protection",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "reciperifle,@Motor Recipe,@Rubber Recipe,@Steel Pipe Recipe,@Screw Recipe,@Rifle Ammo Recipe",
+      "reciperebargun,@Reinforced Iron Plate Recipe,@Iron Rod Recipe,@Screw Recipe,@Iron Rebar Recipe"
+    ]
   }
 ]

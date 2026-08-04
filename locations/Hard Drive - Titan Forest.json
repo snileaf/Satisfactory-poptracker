@@ -1,0 +1,221 @@
+[
+  {
+    "name": "Hard Drive - Titan Forest",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "94267 47237 9435",
+        "access_rules": [
+          "@Electromagnetic Control Rod Recipe,@Gas Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 25x Electromagnetic Control Rod - Gas Stinger",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Titan Forest",
+            "x": 312,
+            "y": 725,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "115978 21424 15519",
+        "access_rules": [
+          "@Gas Hazard Protection,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Open - Alpha Stinger",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Titan Forest",
+            "x": 456,
+            "y": 555,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "121061 45324 17373",
+        "access_rules": [
+          "@Heat Sink Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 7x Heat Sink - Rad Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Titan Forest",
+            "x": 491,
+            "y": 713,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "144457 36294 17301",
+        "access_rules": [
+          "@Heat Sink Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 17x Heat Sink - Rad Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Titan Forest",
+            "x": 645,
+            "y": 652,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "143672 92573 24990",
+        "access_rules": [
+          "@Crystal Oscillator Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 2x Crystal Oscillator - Rad Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Titan Forest",
+            "x": 639,
+            "y": 1028,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "191366 37694 5677",
+        "access_rules": [
+          "@Computer Recipe"
+        ],
+        "sections": [
+          {
+            "name": "Requires 4x Computer",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Titan Forest",
+            "x": 957,
+            "y": 666,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "188304 17059 12949",
+        "access_rules": [
+          "@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Open - Rad Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Titan Forest",
+            "x": 936,
+            "y": 526,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "170058 -10580 18824",
+        "access_rules": [
+          "@Turbo Motor Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 5x Turbo Motor",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Titan Forest",
+            "x": 818,
+            "y": 343,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "198418 -41186 13786",
+        "access_rules": [
+          "[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Open - Cliff Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Titan Forest",
+            "x": 1005,
+            "y": 140,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "232516 -20519 8980",
+        "access_rules": [
+          "@Heat Sink Recipe,@Gas Hazard Protection,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 25x Heat Sink - Alpha Stinger",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Titan Forest",
+            "x": 1231,
+            "y": 278,
+            "size": 15
+          }
+        ]
+      }
+    ]
+  }
+]

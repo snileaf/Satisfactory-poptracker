@@ -58,5 +58,83 @@
     "location_size": 6,
     "location_border_thickness": 1,
     "img": "images/maps/Milestones.png"
+  },
+  {
+    "name": "Blue Crater",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Blue Crater.png"
+  },
+  {
+    "name": "Red Bamboo Fields",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Red Bamboo Fields.png"
+  },
+  {
+    "name": "Lake Forest",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Lake Forest.png"
+  },
+  {
+    "name": "Red Jungle",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Red Jungle.png"
+  },
+  {
+    "name": "Spire Coast",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Spire Coast.png"
+  },
+  {
+    "name": "Swamp",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Swamp.png"
+  },
+  {
+    "name": "Southern Forest",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Southern Forest.png"
+  },
+  {
+    "name": "Titan Forest",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Titan Forest.png"
+  },
+  {
+    "name": "Jungle Spires",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Jungle Spires.png"
+  },
+  {
+    "name": "Abyss Cliffs",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Abyss Cliffs.png"
+  },
+  {
+    "name": "Eastern Dune Forest",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Eastern Dune Forest.png"
+  },
+  {
+    "name": "Maze Canyons",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Maze Canyons.png"
+  },
+  {
+    "name": "Desert Canyons",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Desert Canyons.png"
   }
 ]

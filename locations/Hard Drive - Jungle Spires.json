@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Hard Drive - Jungle Spires",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "-190866 66921 23751",
+        "access_rules": [
+          "@Silica Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 10x Silica - Rad Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Jungle Spires",
+            "x": 197,
+            "y": 64,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "-142173 97937 18517",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Open",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Jungle Spires",
+            "x": 523,
+            "y": 273,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "-164591 155611 12383",
+        "access_rules": [
+          "@Crystal Oscillator Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 5x Crystal Oscillator - Cliff Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Jungle Spires",
+            "x": 373,
+            "y": 655,
+            "size": 15
+          }
+        ]
+      }
+    ]
+  }
+]
