@@ -50,9 +50,7 @@
       },
       {
         "name": "125497, -34949, 8221 MC #3",
-        "access_rules": [
-          "@Rubber Recipe"
-        ],
+        "access_rules": [],
         "sections": [
           {
             "name": "Requires 50 MW",
