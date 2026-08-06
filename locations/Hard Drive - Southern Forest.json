@@ -7,7 +7,7 @@
     "access_rules": [],
     "children": [
       {
-        "name": "47767 195703 2891",
+        "name": "47767 195703 2891 SF #1",
         "access_rules": [
           "@Encased Industrial Beam Recipe,[@Enemy Hazard Protection]"
         ],
@@ -28,7 +28,7 @@
         ]
       },
       {
-        "name": "46952 221859 5917",
+        "name": "46952 221859 5917 SF #2",
         "access_rules": [
           "[@Enemy Hazard Protection]"
         ],
@@ -44,6 +44,25 @@
             "map": "Southern Forest",
             "x": 199,
             "y": 356,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "88324 188914 1420 SF #3",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Requires 30 MW",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Southern Forest",
+            "x": 474,
+            "y": 136,
             "size": 15
           }
         ]

@@ -7,13 +7,13 @@
     "access_rules": [],
     "children": [
       {
-        "name": "216097 -268 -1593",
+        "name": "216097 -268 -1593 SW #1",
         "access_rules": [
           "@Superposition Oscillator Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 1x Superposition Oscillator - Rad Hog",
+            "name": "Requires 1x Superposition Oscillator - Rad/Rad Hog",
             "visibility_rules": [],
             "item_count": 1
           }
@@ -28,7 +28,7 @@
         ]
       },
       {
-        "name": "293299 52 523",
+        "name": "293299 52 523 SW #2",
         "access_rules": [
           "@Crystal Oscillator Recipe"
         ],
@@ -49,13 +49,13 @@
         ]
       },
       {
-        "name": "232138 27191 -1629",
+        "name": "232138 27191 -1629 SW #3",
         "access_rules": [
           "@Quartz Crystal Recipe,@Gas Hazard Protection,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 25x Quartz Crystal - Rad Hog",
+            "name": "Requires 25x Quartz Crystal - Gas/Rad/Rad Hog",
             "visibility_rules": [],
             "item_count": 1
           }
@@ -70,13 +70,13 @@
         ]
       },
       {
-        "name": "272715 28088 -1586",
+        "name": "272715 28088 -1586 SW #4",
         "access_rules": [
           "@Silica Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 60x Silica - Rad Hog",
+            "name": "Requires 60x Silica - Rad/Rad Hog",
             "visibility_rules": [],
             "item_count": 1
           }
@@ -91,13 +91,13 @@
         ]
       },
       {
-        "name": "249920 59534 2430",
+        "name": "249920 59534 2430 SW #5",
         "access_rules": [
           "@Turbo Motor Recipe,@Gas Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 25x Turbo Motor - Gas Stinger",
+            "name": "Requires 25x Turbo Motor - Gas/Gas Stinger",
             "visibility_rules": [],
             "item_count": 1
           }
@@ -112,7 +112,7 @@
         ]
       },
       {
-        "name": "232255 79926 -1276",
+        "name": "232255 79926 -1276 SW #6",
         "access_rules": [
           "@Turbo Motor Recipe,[@Enemy Hazard Protection]"
         ],
@@ -133,7 +133,7 @@
         ]
       },
       {
-        "name": "291822 74782 -1575",
+        "name": "291822 74782 -1575 SW #7",
         "access_rules": [
           "@Heavy Modular Frame Recipe"
         ],
@@ -154,13 +154,13 @@
         ]
       },
       {
-        "name": "226418 98110 7339",
+        "name": "226418 98110 7339 SW #8",
         "access_rules": [
           "@Computer Recipe,@Gas Hazard Protection,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 1x Computer - Rad Hog",
+            "name": "Requires 1x Computer - Gas/Rad/Rad Hog",
             "visibility_rules": [],
             "item_count": 1
           }
@@ -175,7 +175,7 @@
         ]
       },
       {
-        "name": "261798 124617 -2597",
+        "name": "261798 124617 -2597 SW #9",
         "access_rules": [
           "@Cooling System Recipe,[@Enemy Hazard Protection]"
         ],

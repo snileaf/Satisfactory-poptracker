@@ -7,7 +7,7 @@
     "access_rules": [],
     "children": [
       {
-        "name": "200510, 131912, 6341",
+        "name": "200510, 131912, 6341 AC #1",
         "access_rules": [
           "@Motor Recipe,[@Enemy Hazard Protection]"
         ],
@@ -28,7 +28,7 @@
         ]
       },
       {
-        "name": "241532 131343 17157",
+        "name": "241532 131343 17157 AC #2",
         "access_rules": [
           "[@Enemy Hazard Protection]"
         ],
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "name": "190459 176105 11479",
+        "name": "190459 176105 11479 AC #3",
         "access_rules": [
           "@Plastic Recipe"
         ],
@@ -70,13 +70,13 @@
         ]
       },
       {
-        "name": "221070 185915 11560",
+        "name": "221070 185915 11560 AC #4",
         "access_rules": [
           "@Gas Hazard Protection"
         ],
         "sections": [
           {
-            "name": "Open",
+            "name": "Open - Gas",
             "visibility_rules": [],
             "item_count": 1
           }

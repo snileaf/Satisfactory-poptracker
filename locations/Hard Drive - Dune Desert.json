@@ -1,154 +1,152 @@
 [
   {
-    "name": "Hard Drive - Eastern Dune Forest",
+    "name": "Hard Drive - Dune Desert",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [],
     "children": [
       {
-        "name": "46048 141933 13065 EDF #1",
+        "name": "366637 -303549 -7289 DD #1",
         "access_rules": [
-          "@Gas Hazard Protection,[@Enemy Hazard Protection]"
+          "[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 40 MW - Gas/Alpha Stinger",
+            "name": "Open - Cliff Hog",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Eastern Dune Forest",
-            "x": 172,
-            "y": 596,
+            "map": "Dune Desert",
+            "x": 1107,
+            "y": 60,
             "size": 15
           }
         ]
       },
       {
-        "name": "64697 156039 14067 EDF #2",
+        "name": "303169 -246169 5488 DD #2",
         "access_rules": [
-          "@Modular Frame Recipe"
+          "@Steel Beam Recipe"
         ],
         "sections": [
           {
-            "name": "Requires 6x Modular Frame",
+            "name": "Requires 20x Steel Beam",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Eastern Dune Forest",
-            "x": 296,
-            "y": 691,
+            "map": "Dune Desert",
+            "x": 680,
+            "y": 443,
             "size": 15
           }
         ]
       },
       {
-        "name": "90314 129584 9113 EDF #3",
-        "access_rules": [
-          "@Cooling System Recipe,[@Enemy Hazard Protection]"
-        ],
+        "name": "360285 -217559 3901 DD #3",
+        "access_rules": [],
         "sections": [
           {
-            "name": "Requires 30x Cooling System - Cliff Hog",
+            "name": "Requires 70 MW",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Eastern Dune Forest",
-            "x": 467,
-            "y": 518,
+            "map": "Dune Desert",
+            "x": 1063,
+            "y": 632,
             "size": 15
           }
         ]
       },
       {
-        "name": "94940 105483 9860 EDF #4",
+        "name": "295167 -173140 8083 DD #4",
         "access_rules": [
-          "@Heavy Modular Frame Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+          "@Iron Rod Recipe"
         ],
         "sections": [
           {
-            "name": "Requires 1x Heavy Modular Frame - Rad/Rad Hog",
+            "name": "Requires 5x Iron Rod",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Eastern Dune Forest",
-            "x": 498,
-            "y": 353,
+            "map": "Dune Desert",
+            "x": 629,
+            "y": 930,
             "size": 15
           }
         ]
       },
       {
-        "name": "150634 146699 7728 EDF #5",
+        "name": "360115 -106614 11815 DD #5",
         "access_rules": [
-          "@Quickwire Recipe"
+          "@Computer Recipe"
         ],
         "sections": [
           {
-            "name": "Requires 25x Quickwire",
+            "name": "Requires 5x Computer",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Eastern Dune Forest",
-            "x": 870,
-            "y": 629,
+            "map": "Dune Desert",
+            "x": 1063,
+            "y": 1371,
             "size": 15
           }
         ]
       },
       {
-        "name": "182825 93880 17755 EDF #6",
+        "name": "275070 -52585 5980 DD #6",
         "access_rules": [
-          "@Aluminum Casing Recipe,@Gas Hazard Protection,[@Enemy Hazard Protection]"
+          "@Gas Hazard Protection"
         ],
         "sections": [
           {
-            "name": "Requires 10x Aluminum Casing - Gas/Alpha Stinger",
+            "name": "Open - Gas",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Eastern Dune Forest",
-            "x": 1084,
-            "y": 275,
+            "map": "Dune Desert",
+            "x": 494,
+            "y": 1732,
             "size": 15
           }
         ]
       },
       {
-        "name": "163999 61333 21481 EDF #7",
+        "name": "349295 -38832 -1485 DD #7",
         "access_rules": [
-          "@Crystal Oscillator Recipe,@Gas Hazard Protection,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+          "@Reinforced Iron Plate Recipe"
         ],
         "sections": [
           {
-            "name": "Requires 15x Crystal Oscillator - Gas/Rad/Alpha Stinger",
+            "name": "Requires 5x Reinforced Iron Plate",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Eastern Dune Forest",
-            "x": 959,
-            "y": 59,
+            "map": "Dune Desert",
+            "x": 994,
+            "y": 1827,
             "size": 15
           }
         ]

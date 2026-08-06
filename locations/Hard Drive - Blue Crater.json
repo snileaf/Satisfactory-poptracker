@@ -7,7 +7,7 @@
     "access_rules": [],
     "children": [
       {
-        "name": "156570 191768 -9312",
+        "name": "156570 191768 -9312 BC #1",
         "access_rules": [
           "@Rubber Recipe"
         ],
@@ -28,13 +28,13 @@
         ]
       },
       {
-        "name": "118350 221905 -7063",
+        "name": "118350 221905 -7063 BC #2",
         "access_rules": [
           "@Circuit Board Recipe,@Gas Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 15x Circuit Board - Alpha Stinger",
+            "name": "Requires 15x Circuit Board - Gas/Alpha Stinger",
             "visibility_rules": [],
             "item_count": 1
           }
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "name": "176423 243274 -9780",
+        "name": "176423 243274 -9780 BC #3",
         "access_rules": [
           "@Rubber Recipe"
         ],
@@ -70,7 +70,7 @@
         ]
       },
       {
-        "name": "187056, 223657, -3215",
+        "name": "187056, 223657, -3215 BC #4",
         "access_rules": [
           "@Heavy Modular Frame Recipe,[@Enemy Hazard Protection]"
         ],

@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Hard Drive - Grass Fields",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "-152279 229520 1052 GF #1",
+        "access_rules": [
+          "@Modular Frame Recipe"
+        ],
+        "sections": [
+          {
+            "name": "Requires 1x Modular Frame",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Grass Fields",
+            "x": 570,
+            "y": 692,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "-78884 292640 -4767 GF #2",
+        "access_rules": [
+          "@Copper Sheet Recipe"
+        ],
+        "sections": [
+          {
+            "name": "Requires 15x Copper Sheet",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Grass Fields",
+            "x": 1059,
+            "y": 1113,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "-9988 227626 -1017 GF #3",
+        "access_rules": [
+          "@Screw Recipe"
+        ],
+        "sections": [
+          {
+            "name": "Requires 12x Screw",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Grass Fields",
+            "x": 1519,
+            "y": 680,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "30384 266976 -987 GF #4",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Open",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Grass Fields",
+            "x": 1788,
+            "y": 944,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "21373 132336 2511 GF #5",
+        "access_rules": [
+          "@Motor Recipe,@Gas Hazard Protection"
+        ],
+        "sections": [
+          {
+            "name": "Requires 2x Motor - Gas",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Grass Fields",
+            "x": 1729,
+            "y": 45,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "28696 193441 17460 GF #6",
+        "access_rules": [
+          "@Steel Beam Recipe,[@Enemy Hazard Protection]"
+        ],
+        "sections": [
+          {
+            "name": "Requires 130x Steel Beam - Cliff Hog",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Grass Fields",
+            "x": 1780,
+            "y": 452,
+            "size": 15
+          }
+        ]
+      }
+    ]
+  }
+]

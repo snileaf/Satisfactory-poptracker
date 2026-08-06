@@ -7,13 +7,13 @@
     "access_rules": [],
     "children": [
       {
-        "name": "-190866 66921 23751",
+        "name": "-190866 66921 23751 JS #1",
         "access_rules": [
           "@Silica Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 10x Silica - Rad Hog",
+            "name": "Requires 10x Silica - Rad/Rad Hog",
             "visibility_rules": [],
             "item_count": 1
           }
@@ -28,7 +28,7 @@
         ]
       },
       {
-        "name": "-142173 97937 18517",
+        "name": "-142173 97937 18517 JS #2",
         "access_rules": [],
         "sections": [
           {
@@ -47,13 +47,13 @@
         ]
       },
       {
-        "name": "-164591 155611 12383",
+        "name": "-164591 155611 12383 JS #3",
         "access_rules": [
           "@Crystal Oscillator Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 5x Crystal Oscillator - Cliff Hog",
+            "name": "Requires 5x Crystal Oscillator - Rad/Cliff Hog",
             "visibility_rules": [],
             "item_count": 1
           }

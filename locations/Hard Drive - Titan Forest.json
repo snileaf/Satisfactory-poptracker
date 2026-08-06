@@ -7,13 +7,13 @@
     "access_rules": [],
     "children": [
       {
-        "name": "94267 47237 9435",
+        "name": "94267 47237 9435 TF #1",
         "access_rules": [
           "@Electromagnetic Control Rod Recipe,@Gas Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 25x Electromagnetic Control Rod - Gas Stinger",
+            "name": "Requires 25x Electromagnetic Control Rod - Gas/Gas Stinger",
             "visibility_rules": [],
             "item_count": 1
           }
@@ -28,13 +28,13 @@
         ]
       },
       {
-        "name": "115978 21424 15519",
+        "name": "115978 21424 15519 TF #2",
         "access_rules": [
           "@Gas Hazard Protection,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Open - Alpha Stinger",
+            "name": "Open - Gas/Rad/Alpha Stinger",
             "visibility_rules": [],
             "item_count": 1
           }
@@ -49,13 +49,13 @@
         ]
       },
       {
-        "name": "121061 45324 17373",
+        "name": "121061 45324 17373 TF #3",
         "access_rules": [
           "@Heat Sink Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 7x Heat Sink - Rad Hog",
+            "name": "Requires 7x Heat Sink - Rad/Rad Hog",
             "visibility_rules": [],
             "item_count": 1
           }
@@ -70,13 +70,13 @@
         ]
       },
       {
-        "name": "144457 36294 17301",
+        "name": "144457 36294 17301 TF #4",
         "access_rules": [
           "@Heat Sink Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 17x Heat Sink - Rad Hog",
+            "name": "Requires 17x Heat Sink - Rad/Rad Hog",
             "visibility_rules": [],
             "item_count": 1
           }
@@ -91,13 +91,13 @@
         ]
       },
       {
-        "name": "143672 92573 24990",
+        "name": "143672 92573 24990 TF #5",
         "access_rules": [
           "@Crystal Oscillator Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 2x Crystal Oscillator - Rad Hog",
+            "name": "Requires 2x Crystal Oscillator - Rad/Rad Hog",
             "visibility_rules": [],
             "item_count": 1
           }
@@ -112,7 +112,7 @@
         ]
       },
       {
-        "name": "191366 37694 5677",
+        "name": "191366 37694 5677 TF #6",
         "access_rules": [
           "@Computer Recipe"
         ],
@@ -133,13 +133,13 @@
         ]
       },
       {
-        "name": "188304 17059 12949",
+        "name": "188304 17059 12949 TF #7",
         "access_rules": [
           "@Radiation Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Open - Rad Hog",
+            "name": "Open - Rad/Rad Hog",
             "visibility_rules": [],
             "item_count": 1
           }
@@ -154,13 +154,13 @@
         ]
       },
       {
-        "name": "170058 -10580 18824",
+        "name": "170058 -10580 18824 TF #8",
         "access_rules": [
           "@Turbo Motor Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 5x Turbo Motor",
+            "name": "Requires 5x Turbo Motor - Rad/Rad Hog",
             "visibility_rules": [],
             "item_count": 1
           }
@@ -175,7 +175,7 @@
         ]
       },
       {
-        "name": "198418 -41186 13786",
+        "name": "198418 -41186 13786 TF #9",
         "access_rules": [
           "[@Enemy Hazard Protection]"
         ],
@@ -196,13 +196,13 @@
         ]
       },
       {
-        "name": "232516 -20519 8980",
+        "name": "232516 -20519 8980 TF #10",
         "access_rules": [
           "@Heat Sink Recipe,@Gas Hazard Protection,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
         ],
         "sections": [
           {
-            "name": "Requires 25x Heat Sink - Alpha Stinger",
+            "name": "Requires 25x Heat Sink - Gas/Rad/Alpha Stinger",
             "visibility_rules": [],
             "item_count": 1
           }

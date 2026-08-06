@@ -7,13 +7,13 @@
 		"access_rules": [],
 		"children": [
 			{
-				"name": "-95228 6971 25143",
+				"name": "-95228 6971 25143 RBF #1",
 				"access_rules": [
 					"@Heavy Modular Frame Recipe,@Radiation Hazard Protection"
 				],
 				"sections": [
 					{
-						"name": "Requires 5x Heavy Modular Frame",
+						"name": "Requires 5x Heavy Modular Frame - Rad",
 						"visibility_rules": [],
 						"item_count": 1
 					}
@@ -28,13 +28,13 @@
 				]
 			},
 			{
-				"name": "-33340 5176 23519",
+				"name": "-33340 5176 23519 RBF #2",
 				"access_rules": [
           "@Cooling System Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
 				],
 				"sections": [
 					{
-						"name": "Requires 10x Cooling System - Rad Hog",
+						"name": "Requires 10x Cooling System - Rad/Rad Hog",
 						"visibility_rules": [],
 						"item_count": 1
 					}
@@ -49,13 +49,13 @@
 				]
 			},
 			{
-				"name": "35096 16492 22705",
+				"name": "35096 16492 22705 RBF #3",
 				"access_rules": [
           "@Supercomputer Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
 				],
 				"sections": [
 					{
-						"name": "Requires 7x Supercomputer - Rad Hog",
+						"name": "Requires 7x Supercomputer - Rad/Rad Hog",
 						"visibility_rules": [],
 						"item_count": 1
 					}
@@ -70,7 +70,7 @@
 				]
 			},
 			{
-				"name": "-3512 62315 22109",
+				"name": "-3512 62315 22109 RBF #4",
 				"access_rules": [
           "@Turbo Motor Recipe,[@Enemy Hazard Protection]"
 				],
@@ -91,13 +91,13 @@
 				]
 			},
 			{
-				"name": "-35360 116594 21828",
+				"name": "-35360 116594 21828 RBF #5",
 				"access_rules": [
           "@Turbo Motor Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
 				],
 				"sections": [
 					{
-						"name": "Requires 10x Turbo Motor - Rad Hog",
+						"name": "Requires 10x Turbo Motor - Rad/Rad Hog",
 						"visibility_rules": [],
 						"item_count": 1
 					}
@@ -112,13 +112,13 @@
 				]
 			},
 			{
-				"name": "12250 114177 26722",
+				"name": "12250 114177 26722 RBF #6",
 				"access_rules": [
           "@Electromagnetic Control Rod Recipe,@Gas Hazard Protection,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
 				],
 				"sections": [
 					{
-						"name": "Requires 1x Electromagnetic Control Rod - Rad Hog",
+						"name": "Requires 1x Electromagnetic Control Rod - Gas/Rad/Rad Hog",
 						"visibility_rules": [],
 						"item_count": 1
 					}

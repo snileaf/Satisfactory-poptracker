@@ -1,171 +1,175 @@
 [
   {
-    "name": "Hard Drive - Red Jungle",
+    "name": "Hard Drive - Rocky Desert",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [],
     "children": [
       {
-        "name": "-238334 17322 19741 RJ #1",
+        "name": "-174495 -197135 -1538 RD #1",
         "access_rules": [
-          "@Quartz Crystal Recipe"
+          "@Copper Sheet Recipe"
         ],
         "sections": [
           {
-            "name": "Requires 5x Quartz Crystal",
+            "name": "Requires 10x Copper Sheet",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Red Jungle",
-            "x": 24,
-            "y": 177,
+            "map": "Rocky Desert",
+            "x": 901,
+            "y": 58,
             "size": 15
           }
         ]
       },
       {
-        "name": "-157078 -6313 25129 RJ #2",
+        "name": "-123677 -167107 29711 RD #2",
         "access_rules": [
-          "@Electromagnetic Control Rod Recipe,@Radiation Hazard Protection"
+          "@Rotor Recipe"
         ],
         "sections": [
           {
-            "name": "Requires 15x Electromagnetic Control Rod - Rad",
+            "name": "Requires 4x Rotor",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Red Jungle",
-            "x": 564,
-            "y": 20,
+            "map": "Rocky Desert",
+            "x": 1239,
+            "y": 256,
             "size": 15
           }
         ]
       },
       {
-        "name": "-142000 23970 32660 RJ #3",
-        "access_rules": [],
-        "sections": [
-          {
-            "name": "Open",
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Red Jungle",
-            "x": 667,
-            "y": 220,
-            "size": 15
-          }
-        ]
-      },
-      {
-        "name": "-152677 33865 19283 RJ #4",
-        "access_rules": [],
-        "sections": [
-          {
-            "name": "Requires 256 MW",
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Red Jungle",
-            "x": 595,
-            "y": 287,
-            "size": 15
-          }
-        ]
-      },
-      {
-        "name": "-94709 40338 19832 RJ #5",
+        "name": "-247304 -142348 4524 RD #3",
         "access_rules": [
-          "@Heat Sink Recipe,@Gas Hazard Protection,[@Enemy Hazard Protection]"
+          "@Rotor Recipe"
         ],
         "sections": [
           {
-            "name": "Requires 12x Heat Sink - Gas/Gas Stinger",
+            "name": "Requires 4x Rotor",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Red Jungle",
-            "x": 979,
-            "y": 328,
+            "map": "Rocky Desert",
+            "x": 417,
+            "y": 421,
             "size": 15
           }
         ]
       },
       {
-        "name": "-118481 74930 16995 RJ #6",
+        "name": "-146044 -137047 2358 RD #4",
         "access_rules": [
-          "@Gas Hazard Protection,[@Enemy Hazard Protection]"
+          "@Modular Frame Recipe"
         ],
         "sections": [
           {
-            "name": "Requires 300 MW - Gas/Gas Stinger",
+            "name": "Requires 5x Modular Frame",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Red Jungle",
-            "x": 822,
-            "y": 560,
+            "map": "Rocky Desert",
+            "x": 1092,
+            "y": 457,
             "size": 15
           }
         ]
       },
       {
-        "name": "-40194 62957 26262 RJ #7",
+        "name": "-232498 -51432 -386 RD #5",
         "access_rules": [
-          "@Aluminum Casing Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+          "@Rotor Recipe"
         ],
         "sections": [
           {
-            "name": "Requires 5x Aluminum Casing - Rad/Rad Hog",
+            "name": "Requires 21x Rotor",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Red Jungle",
-            "x": 1345,
-            "y": 482,
+            "map": "Rocky Desert",
+            "x": 517,
+            "y": 1027,
             "size": 15
           }
         ]
       },
       {
-        "name": "-78236 90857 20306 RJ #8",
+        "name": "-195756 -59210 -84 RD #6",
         "access_rules": [
-          "@Radio Control Unit Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
+          "@Screw Recipe"
         ],
         "sections": [
           {
-            "name": "Requires 6x Radio Control Unit - Rad/Alpha Stinger",
+            "name": "Requires 10x Screw",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Red Jungle",
-            "x": 1088,
-            "y": 667,
+            "map": "Rocky Desert",
+            "x": 761,
+            "y": 976,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "-157080 -67028 11766 RD #7",
+        "access_rules": [
+          "@Rotor Recipe,@Gas Hazard Recipe"
+        ],
+        "sections": [
+          {
+            "name": "Requires 4x Rotor - Gas",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Rocky Desert",
+            "x": 1019,
+            "y": 923,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "-200203 -17767 12193 RD #8",
+        "access_rules": [
+          "recipesolidbiofuel,@Gas Hazard Recipe"
+        ],
+        "sections": [
+          {
+            "name": "Requires 10x Solid Biofuel - Gas",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Rocky Desert",
+            "x": 732,
+            "y": 1252,
             "size": 15
           }
         ]

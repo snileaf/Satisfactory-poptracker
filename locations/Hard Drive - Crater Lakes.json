@@ -1,70 +1,68 @@
 [
   {
-    "name": "Hard Drive - Maze Canyons",
+    "name": "Hard Drive - Crater Lakes",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [],
     "children": [
       {
-        "name": "80980 -44100 8303 MC #1",
-        "access_rules": [
-          "@Rotor Recipe"
-        ],
+        "name": "-89284 -50630 16019 CL #1",
+        "access_rules": [],
         "sections": [
           {
-            "name": "Requires 3x Rotor",
+            "name": "Requires 120 MW",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Maze Canyons",
-            "x": 428,
-            "y": 267,
+            "map": "Crater Lakes",
+            "x": 224,
+            "y": 254,
             "size": 15
           }
         ]
       },
       {
-        "name": "111479 -54515 17081 MC #2",
+        "name": "-56144 -72864 27668 CL #2",
         "access_rules": [
-          "@Copper Sheet Recipe"
+          "@Quartz Crystal Recipe"
         ],
         "sections": [
           {
-            "name": "Requires 10x Copper Sheet",
+            "name": "Requires 2x Quartz Crystal",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Maze Canyons",
-            "x": 630,
-            "y": 198,
+            "map": "Crater Lakes",
+            "x": 446,
+            "y": 105,
             "size": 15
           }
         ]
       },
       {
-        "name": "125497, -34949, 8221 MC #3",
+        "name": "-29069 -22640 17384 CL #3",
         "access_rules": [
-          "@Rubber Recipe"
+          "@Plastic Recipe"
         ],
         "sections": [
           {
-            "name": "Requires 50 MW",
+            "name": "Requires 20x Plastic",
             "visibility_rules": [],
             "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "Maze Canyons",
-            "x": 722,
-            "y": 324,
+            "map": "Crater Lakes",
+            "x": 628,
+            "y": 441,
             "size": 15
           }
         ]

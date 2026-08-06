@@ -136,5 +136,53 @@
     "location_size": 6,
     "location_border_thickness": 1,
     "img": "images/maps/Desert Canyons.png"
+  },
+  {
+    "name": "Crater Lakes",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Crater Lakes.png"
+  },
+  {
+    "name": "Dune Desert",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Dune Desert.png"
+  },
+  {
+    "name": "Grass Fields",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Grass Fields.png"
+  },
+  {
+    "name": "Rocky Desert",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Rocky Desert.png"
+  },
+  {
+    "name": "Snake Tree Forest",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Snake Tree Forest.png"
+  },
+  {
+    "name": "Western Beaches",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Western Beaches.png"
+  },
+  {
+    "name": "Western Dune Forest",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Western Dune Forest.png"
+  },
+  {
+    "name": "Northern Forest",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "images/maps/Northern Forest.png"
   }
 ]

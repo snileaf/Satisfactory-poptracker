@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Hard Drive - Western Beaches",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "-259577 105049 -1548 WB #1",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Open",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Western Beaches",
+            "x": 218,
+            "y": 760,
+            "size": 15
+          }
+        ]
+      },
+      {
+        "name": "-189258 116331 -1764 WB #2",
+        "access_rules": [],
+        "sections": [
+          {
+            "name": "Open",
+            "visibility_rules": [],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Western Beaches",
+            "x": 685,
+            "y": 833,
+            "size": 15
+          }
+        ]
+      }
+    ]
+  }
+]

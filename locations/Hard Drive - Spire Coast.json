@@ -7,7 +7,7 @@
 		"access_rules": [],
 		"children": [
 			{
-				"name": "-50656 -259272 -1668",
+				"name": "-50656 -259272 -1668 SC #1",
 				"access_rules": [],
 				"sections": [
 					{
@@ -26,13 +26,13 @@
 				]
 			},
 			{
-				"name": "-55111 -204858 7845",
+				"name": "-55111 -204858 7845 SC #2",
 				"access_rules": [
 					"@Rubber Recipe,@Gas Hazard Protection,@Radiation Hazard Protection"
 				],
 				"sections": [
 					{
-						"name": "Requires 35x Rubber",
+						"name": "Requires 35x Rubber - Gas/Rad",
 						"visibility_rules": [],
 						"item_count": 1
 					}
@@ -47,7 +47,7 @@
 				]
 			},
 			{
-				"name": "-136 -237257 -1761",
+				"name": "-136 -237257 -1761 SC #3",
 				"access_rules": [
 					"@Encased Industrial Beam Recipe"
 				],
@@ -68,7 +68,7 @@
 				]
 			},
 			{
-				"name": "5302 -187091 -1608",
+				"name": "5302 -187091 -1608 SC #4",
 				"access_rules": [
 					"@Computer Recipe"
 				],
@@ -89,13 +89,13 @@
 				]
 			},
 			{
-				"name": "44579 -244344 -875",
+				"name": "44579 -244344 -875 SC #5",
 				"access_rules": [
 					"@Gas Hazard Protection"
 				],
 				"sections": [
 					{
-						"name": "Open",
+						"name": "Open - Gas",
 						"visibility_rules": [],
 						"item_count": 1
 					}
@@ -110,7 +110,7 @@
 				]
 			},
 			{
-				"name": "52687 -163605 15414",
+				"name": "52687 -163605 15414 SC #6",
 				"access_rules": [],
 				"sections": [
 					{
@@ -129,7 +129,7 @@
 				]
 			},
 			{
-				"name": "84256 -171123 -291",
+				"name": "84256 -171123 -291 SC #7",
 				"access_rules": [
 					"@Quickwire Recipe"
 				],
@@ -150,7 +150,7 @@
 				]
 			},
 			{
-				"name": "98306 -149782 2552",
+				"name": "98306 -149782 2552 SC #8",
 				"access_rules": [],
 				"sections": [
 					{
@@ -169,13 +169,13 @@
 				]
 			},
 			{
-				"name": "109775 -162730 15570",
+				"name": "109775 -162730 15570 SC #9",
 				"access_rules": [
 					"@Radiation Hazard Protection,[@Enemy Hazard Protection]"
 				],
 				"sections": [
 					{
-						"name": "Requires 70 MW - Rad Hog",
+						"name": "Requires 70 MW - Rad/Rad Hog",
 						"visibility_rules": [],
 						"item_count": 1
 					}
@@ -190,13 +190,13 @@
 				]
 			},
 			{
-				"name": "119339 -165711 -171",
+				"name": "119339 -165711 -171 SC #10",
 				"access_rules": [
 					"@Gas Hazard Protection"
 				],
 				"sections": [
 					{
-						"name": "Open",
+						"name": "Open - Gas",
 						"visibility_rules": [],
 						"item_count": 1
 					}
@@ -211,7 +211,7 @@
 				]
 			},
 			{
-				"name": "159088 -145116 23165",
+				"name": "159088 -145116 23165 SC #11",
 				"access_rules": [
 					"@Fused Modular Frame Recipe"
 				],
@@ -232,13 +232,13 @@
 				]
 			},
 			{
-				"name": "190865 -127670 16020",
+				"name": "190865 -127670 16020 SC #12",
 				"access_rules": [
 					"@Alclad Aluminum Sheet Recipe,@Gas Hazard Protection,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
 				],
 				"sections": [
 					{
-						"name": "Requires 57x Alclad Aluminum Sheet - Rad Hog",
+						"name": "Requires 57x Alclad Aluminum Sheet - Gas/Rad/Rad Hog",
 						"visibility_rules": [],
 						"item_count": 1
 					}
@@ -253,7 +253,7 @@
 				]
 			},
 			{
-				"name": "219146 -199880 6504",
+				"name": "219146 -199880 6504 SC #13",
 				"access_rules": [
 					"@Screw Recipe"
 				],
@@ -274,13 +274,13 @@
 				]
 			},
 			{
-				"name": "190785 -236810 23130",
+				"name": "190785 -236810 23130 SC #14",
 				"access_rules": [
 					"@High-Speed Connector Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
 				],
 				"sections": [
 					{
-						"name": "Requires 35x High-Speed Connector - Rad Hog",
+						"name": "Requires 35x High-Speed Connector - Rad/Rad Hog",
 						"visibility_rules": [],
 						"item_count": 1
 					}
@@ -295,7 +295,7 @@
 				]
 			},
 			{
-				"name": "176245 -243985 7165",
+				"name": "176245 -243985 7165 SC #15",
 				"access_rules": [],
 				"sections": [
 					{
@@ -314,13 +314,13 @@
 				]
 			},
 			{
-				"name": "174948 -276436 21151",
+				"name": "174948 -276436 21151 SC #16",
 				"access_rules": [
 					"@Electromagnetic Control Rod Recipe,@Radiation Hazard Protection,[@Enemy Hazard Protection]"
 				],
 				"sections": [
 					{
-						"name": "Requires 43x Electromagnetic Control Rod - Rad Hog",
+						"name": "Requires 43x Electromagnetic Control Rod - Rad/Rad Hog",
 						"visibility_rules": [],
 						"item_count": 1
 					}
@@ -335,13 +335,13 @@
 				]
 			},
 			{
-				"name": "236508 -312236 9971",
+				"name": "236508 -312236 9971 SC #17",
 				"access_rules": [
 					"@Gas Hazard Protection"
 				],
 				"sections": [
 					{
-						"name": "Open",
+						"name": "Open - Gas",
 						"visibility_rules": [],
 						"item_count": 1
 					}

@@ -7,7 +7,7 @@
     "access_rules": [],
     "children": [
       {
-        "name": "8680 -41778 13053",
+        "name": "8680 -41778 13053 LF #1",
         "access_rules": [
           "@Rubber Recipe"
         ],
@@ -28,7 +28,7 @@
         ]
       },
       {
-        "name": "55248 -51316 14363",
+        "name": "55248 -51316 14363 LF #2",
         "access_rules": [
           "@Modular Frame Recipe"
         ],
@@ -49,7 +49,7 @@
         ]
       },
       {
-        "name": "66652 -13642 13421",
+        "name": "66652 -13642 13421 LF #3",
         "access_rules": [
           "@Encased Industrial Beam Recipe"
         ],
