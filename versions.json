@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "0.1.0",
+            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.1.0/Satisfactory-PopTracker.v0.1.0.zip",
+            "sha256": "298bf223c8f2bb4e9dff449f94b661eb9e709a83cc042f4771bf08048501be02",
+            "changelog": [
+                "Addd all 21 hard drive biome maps."
+            ]
+        },
+        {
             "package_version": "0.0.9",
             "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.0.9/Satisfactory-PopTracker.v0.0.9.zip",
             "sha256": "5400a8acd08394cf51f4e49f108bdc6fabfe4e6dd96fc892c97f3952a6bd2372",
