@@ -25,3 +25,5 @@ Images and Info used for this tracker came from the following sources:
 - ~~Cut and edit Biome Maps according to the 1.2 map, then add manual locations for each harddrive location. (PLEASE DM ME IF YOU WANT TO HELP, IT SUCKS!)~~
 - Maybe do Mercer Spheres and Somersloops too, no promises though.
 - ~~Lower image resolution for item images to reduce pack size and pixelation.~~
+
+Best place to contact me is via the [Archipelago Discord](https://discord.gg/archipelago), just @snileaf in general or in the [Satisfactory channel](https://discord.com/channels/731205301247803413/1454822629423841442).
