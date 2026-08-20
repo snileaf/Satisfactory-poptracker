@@ -3626,5 +3626,13 @@
     "initial_active_state": false,
     "overlay_align": "right",
     "codes": "duplicatesatisfactorydetected"
+  },
+  {
+    "name": "update",
+    "type": "toggle",
+    "img": "images/items/update.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "update"
   }
 ]
