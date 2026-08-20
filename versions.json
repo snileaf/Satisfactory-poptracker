@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "0.1.1",
+            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.1.1/Satisfactory-PopTracker.v0.1.1.zip",
+            "sha256": "13e7e32c9ae7c12fd318f435d73c51f2c62b957c1b33b5e90de74e518330702c",
+            "changelog": [
+                "Fixed a bunch of backend stuff and bugs, along with adding a license for myself."
+            ]
+        },
+        {
             "package_version": "0.1.0",
             "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.1.0/Satisfactory-PopTracker.v0.1.0.zip",
             "sha256": "298bf223c8f2bb4e9dff449f94b661eb9e709a83cc042f4771bf08048501be02",
