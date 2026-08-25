@@ -2,7 +2,7 @@
 
 # PopTracker pack for the Satisfactory Archipelago Mod
 
-Items, MAM Tech Trees, AWESOME Shop Maps, and Milestone Maps currently supported. Biome Maps coming soon!
+Recipes, Blueprints/Buildings, MAM Tech Tree Maps, AWESOME Shop Map, Milestone Maps, and all 21 Biome Hard Drive Maps (Manual) are supported.
 
 ## Installation
 
