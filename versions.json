@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "0.1.2",
+            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.1.2/Satisfactory-PopTracker.v0.1.2.zip",
+            "sha256": "bb387052a7fe3e25fa0a482a1480b2e406d3d44ecacb9b4e0e368dc83d99ceb5",
+            "changelog": [
+                "Fixed an access rule error for the milestone map location JSONs for tiers 3-9."
+            ]
+        },
+        {
             "package_version": "0.1.1",
             "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.1.1/Satisfactory-PopTracker.v0.1.1.zip",
             "sha256": "13e7e32c9ae7c12fd318f435d73c51f2c62b957c1b33b5e90de74e518330702c",
