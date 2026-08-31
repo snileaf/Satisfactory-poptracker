@@ -5,8 +5,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "@Versatile Framework Recipe,@Automated Wiring Recipe,@Tier 4",
-      "[@Versatile Framework Recipe,@Automated Wiring Recipe,@Tier 4],duplicatesatisfactorydetected"
+      "@Versatile Framework Recipe,@Automated Wiring Recipe,@Tier 4,@Space Elevator Recipe",
+      "[@Versatile Framework Recipe,@Automated Wiring Recipe,@Tier 4],duplicatesatisfactorydetected,@Space Elevator Recipe"
     ],
     "children": [
       {

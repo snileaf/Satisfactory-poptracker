@@ -5,8 +5,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "@Smart Plating Recipe",
-      "[@Smart Plating Recipe],duplicatesatisfactorydetected"
+      "@Smart Plating Recipe,@Space Elevator Recipe",
+      "[@Smart Plating Recipe],duplicatesatisfactorydetected,@Space Elevator Recipe"
     ],
     "children": [
       {

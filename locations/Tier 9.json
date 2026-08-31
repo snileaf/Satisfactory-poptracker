@@ -5,8 +5,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "@Assembly Director System Recipe,@Magnetic Field Generator Recipe,@Thermal Propulsion Rocket Recipe,@Nuclear Pasta Recipe,@Tier 8",
-      "[@Assembly Director System Recipe,@Magnetic Field Generator Recipe,@Thermal Propulsion Rocket Recipe,@Nuclear Pasta Recipe,@Tier 8],duplicatesatisfactorydetected"
+      "@Assembly Director System Recipe,@Magnetic Field Generator Recipe,@Thermal Propulsion Rocket Recipe,@Nuclear Pasta Recipe,@Tier 8,@Space Elevator Recipe",
+      "[@Assembly Director System Recipe,@Magnetic Field Generator Recipe,@Thermal Propulsion Rocket Recipe,@Nuclear Pasta Recipe,@Tier 8],duplicatesatisfactorydetected,@Space Elevator Recipe"
     ],
     "children": [
       {

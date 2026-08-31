@@ -1213,6 +1213,15 @@
     ]
   },
   {
+    "name": "Space Elevator Recipe",
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000",
+    "access_rules": [
+      "buildingspaceelevator,@Concrete Recipe,@Iron Plate Recipe,@Iron Rod Recipe,@Wire Recipe"
+    ]
+  },
+  {
     "name": "Oil Extractor Recipe",
     "chest_unopened_img": "/images/items/close.png",
     "chest_opened_img": "/images/items/open.png",

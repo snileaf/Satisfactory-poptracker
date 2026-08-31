@@ -5,8 +5,8 @@
     "chest_opened_img": "/images/items/open.png",
     "overlay_background": "#000000",
     "access_rules": [
-      "@Adaptive Control Unit Recipe,@Modular Engine Recipe,@Versatile Framework Recipe,@Tier 6",
-      "[@Adaptive Control Unit Recipe,@Modular Engine Recipe,@Versatile Framework Recipe,@Tier 6],duplicatesatisfactorydetected"
+      "@Adaptive Control Unit Recipe,@Modular Engine Recipe,@Versatile Framework Recipe,@Tier 6,@Space Elevator Recipe",
+      "[@Adaptive Control Unit Recipe,@Modular Engine Recipe,@Versatile Framework Recipe,@Tier 6],duplicatesatisfactorydetected,@Space Elevator Recipe"
     ],
     "children": [
       {
