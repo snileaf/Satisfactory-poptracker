@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "0.1.3",
+            "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.1.3/Satisfactory-PopTracker.v0.1.3.zip",
+            "sha256": "051089788c2617c46022bc9d8954bd400a71f3652dccf81349b3d840ffd7743a",
+            "changelog": [
+                "Fixed an access rule error for Alclad Aluminum Sheets, and access rules for tier 9 hubs."
+            ]
+        },
+        {
             "package_version": "0.1.2",
             "download_url": "https://github.com/snileaf/Satisfactory-poptracker/releases/download/v0.1.2/Satisfactory-PopTracker.v0.1.2.zip",
             "sha256": "bb387052a7fe3e25fa0a482a1480b2e406d3d44ecacb9b4e0e368dc83d99ceb5",
